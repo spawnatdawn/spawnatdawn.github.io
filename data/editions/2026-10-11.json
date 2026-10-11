@@ -1,0 +1,649 @@
+{
+  "date": "2026-10-11",
+  "headline": {
+    "es": "Las consolas tocan fondo en EE. UU. y el filtrador de GTA 6 sube la apuesta",
+    "en": "US console sales hit bottom while the GTA 6 leaker raises the stakes"
+  },
+  "intro": {
+    "es": "Circana describe el mercado estadounidense de consolas como el más frágil desde los 80, un filtrador de GTA 6 amenaza con publicar una build y un hackeo a un bot salpica a 28 millones de cuentas de Discord. Lo importante del día, con sus fuentes.",
+    "en": "Circana calls the US console market the most fragile since the 1980s, a GTA 6 leaker threatens to publish a build, and a breach at a bot maker touches 28 million Discord accounts. The day's essentials, with sources."
+  },
+  "stories": [
+    {
+      "id": "circana-consolas-ee-uu-minimos-historicos-precios",
+      "category": "industria",
+      "title": {
+        "es": "Circana: el mercado de consolas en EE. UU. está en su peor momento «desde principios de los 80»",
+        "en": "Circana: the US console market is at its most precarious point \"since the early 80s\""
+      },
+      "dek": {
+        "es": "Las ventas de Xbox marcan un mínimo histórico y las de PlayStation, el más bajo desde 2013, con precios medios récord.",
+        "en": "Xbox sales hit an all-time low and PlayStation's the lowest since 2013, with record average prices."
+      },
+      "body": {
+        "es": [
+          "Según los datos de Circana hasta agosto, las unidades de hardware de Xbox caen un 33 % en lo que va de 2026, un mínimo histórico para la marca, y las de PlayStation un 25 %, lo más bajo desde 2013. El precio medio ronda los 529 dólares en Xbox y los 597 en PlayStation, ambos máximos históricos en el país, y el analista Mat Piscatella resume que «la sensibilidad al precio se está volviendo un problema real».",
+          "VGC apunta como causa principal la escasez de componentes provocada por la demanda de los centros de datos de IA. Push Square añade que PS5 fue la única consola cuyas ventas en dólares crecieron en agosto, aunque eso se debe en parte al empuje de PS5 Pro en el precio medio, y que Sony busca ingresos más allá del hardware.",
+          "Piscatella cree que el lanzamiento de GTA 6 en noviembre podría atenuar parte de las caídas, aunque su efecto dependerá de que haya consolas disponibles."
+        ],
+        "en": [
+          "By Circana's data through August, Xbox hardware units are down 33% so far in 2026, an all-time low for the brand, and PlayStation is down 25%, the lowest since 2013. Average prices sit around $529 for Xbox and $597 for PlayStation, both US highs, and analyst Mat Piscatella sums it up: \"price sensitivity is becoming a real problem\".",
+          "VGC points to component shortages driven by demand from AI data centres as the main cause. Push Square adds that PS5 was the only console whose dollar sales grew in August, partly thanks to PS5 Pro lifting the average price, and that Sony is looking for revenue beyond hardware.",
+          "Piscatella thinks GTA 6's November launch could ease some of the declines, though its effect will depend on consoles being available."
+        ]
+      },
+      "why": {
+        "es": "Con consolas más caras y escasas, la ventana de GTA 6 es una prueba para toda la industria.",
+        "en": "With pricier, scarcer consoles, GTA 6's launch window is a test for the whole industry."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/bajon-historico-merecido-ventas-videoconsolas-han-tocado-fondo"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-filtrador-amenaza-publicar-build-memecoin",
+      "category": "juegos",
+      "title": {
+        "es": "El filtrador de GTA 6 amenaza con publicar una build completa si su memecoin llega a 30 millones",
+        "en": "The GTA 6 leaker threatens to publish a full build if his meme coin hits $30 million"
+      },
+      "dek": {
+        "es": "Cyberleek condiciona la filtración al valor de su criptomoneda; no hay forma de saber si es un farol.",
+        "en": "Cyberleek ties the leak to the value of his cryptocurrency; there is no way to know whether it is a bluff."
+      },
+      "body": {
+        "es": [
+          "El filtrador conocido como Cyberleek o «cybeleek» ha publicado en su web un aviso en el que amenaza con difundir una build jugable de GTA 6 «de principio a fin» si su memecoin alcanza los 30 millones de dólares de capitalización. Según Insider Gaming y Kotaku, ofrece evitarlo si Take-Two pide disculpas y lanza una edición física del juego.",
+          "Kotaku recuerda que en agosto la cuenta retiró unos 250.000 dólares de esa moneda, que se desplomó poco después, y que la nueva amenaza podría ser otra maniobra similar. No hay confirmación de que la build exista tal como se describe, y Insider Gaming señala que muchos sospechan que el material anterior procedía de una versión antigua.",
+          "Esta edición no describe ni enlaza ningún material filtrado. GTA 6 sale el 19 de noviembre en PS5 y Xbox Series."
+        ],
+        "en": [
+          "The leaker known as Cyberleek or \"cybeleek\" has posted a notice on his site threatening to release a playable GTA 6 build \"from beginning to end\" if his meme coin reaches a $30 million market cap. Per Insider Gaming and Kotaku, he offers to stand down if Take-Two apologises and releases a physical edition of the game.",
+          "Kotaku notes that in August the account withdrew roughly $250,000 from that coin, which crashed soon after, and that the new threat could be a repeat. There is no confirmation the build exists as described, and Insider Gaming says many suspect the earlier footage came from an old version.",
+          "This edition neither describes nor links any leaked material. GTA 6 launches on November 19 on PS5 and Xbox Series."
+        ]
+      },
+      "why": {
+        "es": "Es una amenaza condicionada a una operación cripto: conviene tratarla con escepticismo hasta que haya hechos.",
+        "en": "The threat hinges on a crypto scheme, so scepticism is warranted until there are facts."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-playable-leak/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme"
+        }
+      ]
+    },
+    {
+      "id": "double-counter-discord-hackeo-28-millones-cuentas",
+      "category": "industria",
+      "title": {
+        "es": "Un hackeo al bot Double Counter expone datos de unos 28 millones de cuentas de Discord",
+        "en": "A breach at the Double Counter bot exposes data on about 28 million Discord accounts"
+      },
+      "dek": {
+        "es": "Discord asegura que sus sistemas no fueron vulnerados y bloquea el bot en servidores nuevos.",
+        "en": "Discord says its own systems were not breached and is blocking the bot from new servers."
+      },
+      "body": {
+        "es": [
+          "Double Counter, un bot de verificación para Discord, confirmó un ciberataque el 4 de octubre: el intruso permaneció casi seis horas en su infraestructura. Según 3DJuegos, se copiaron IDs y nombres de usuario de unas 28 millones de cuentas y direcciones IP con geolocalización aproximada de unas 27 millones, además de varios cientos de miles de correos electrónicos.",
+          "Las cifras se solapan entre conjuntos de datos, así que no equivalen a 28 millones de personas distintas. Double Counter afirma que no se vieron afectadas las contraseñas de Discord ni los métodos de pago, y Discord dice que sus sistemas no fueron comprometidos y que impide instalar el bot en servidores nuevos mientras investiga.",
+          "El atacante también usó el token del bot para publicar enlaces en unos 50 servidores grandes. Double Counter recomienda a los administradores borrar los mensajes del bot enviados esa tarde."
+        ],
+        "en": [
+          "Double Counter, a verification bot for Discord, confirmed a cyberattack on October 4: the intruder stayed in its infrastructure for nearly six hours. Per 3DJuegos, Discord user IDs and usernames for around 28 million accounts were copied, along with IP addresses and approximate location for about 27 million and several hundred thousand email addresses.",
+          "The figures overlap across datasets, so they do not mean 28 million distinct people. Double Counter says Discord passwords and payment methods were not affected, and Discord says its systems were not compromised and that it is blocking the bot from new servers during the investigation.",
+          "The attacker also used the bot token to post links in about 50 large servers. Double Counter advises admins to delete the bot's messages sent that afternoon."
+        ]
+      },
+      "why": {
+        "es": "Los datos no son contraseñas, pero IPs y correos asociados a IDs facilitan el phishing dirigido.",
+        "en": "No passwords were involved, but IPs and emails tied to IDs make targeted phishing easier."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/discord-ahora-tiene-28-millones-problemas-hackeo-vuelve-a-poner-duda-seguridad-datos-jugadores"
+        },
+        {
+          "name": "Cybernews",
+          "url": "https://cybernews.com/security/discord-user-data-breach/"
+        },
+        {
+          "name": "Dexerto",
+          "url": "https://www.dexerto.com/gaming/discord-bot-built-to-stop-alt-accounts-leaks-millions-of-users-ip-addresses-3416371/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/discord-protection-bot-breach-exposes-accounts/"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-policia-seis-estrellas-separar-jason-lucia",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 recupera las seis estrellas y deja separar a Jason y Lucia para despistar a la policía",
+        "en": "GTA 6 brings back six wanted stars and lets you split Jason and Lucia to confuse the police"
+      },
+      "dek": {
+        "es": "La policía irá a por tu aspecto y tu vehículo, no solo a por tu posición.",
+        "en": "Police will track your look and vehicle, not just your position."
+      },
+      "body": {
+        "es": [
+          "Según Vandal, que atribuye la mecánica a Rockstar y los detalles de las seis estrellas a Game Informer, la policía de GTA 6 será más lista tras un delito: testigos y cámaras aportarán pistas sobre el aspecto de los criminales y sobre que son dos, y habrá que cambiar de vehículo, de ropa o de peinado para despistarla.",
+          "Podrás separar a Jason y a Lucia durante un tiempo para dividir la atención policial: si los agentes buscan a un hombre y una mujer, es más fácil confundirlos. Vandal añade que la partida se pierde si cualquiera de los dos es arrestado o cae.",
+          "Otros medios coinciden en el sistema de identificación y avisan de que los requisitos exactos de cada nivel no están detallados y podrían cambiar antes del lanzamiento, el 19 de noviembre."
+        ],
+        "en": [
+          "Per Vandal, which credits Rockstar for the mechanic and Game Informer for the six-star details, GTA 6 police will be smarter after a crime: witnesses and cameras will give clues about the criminals' appearance and that there are two of them, and you will need to change vehicle, clothes or hairstyle to shake them.",
+          "You can split Jason and Lucia for a while to divide police attention: if officers look for a man and a woman, they are easier to confuse. Vandal adds that the run is lost if either one is arrested or goes down.",
+          "Other outlets agree on the identification system and note the exact requirements for each level have not been detailed and may change before the November 19 launch."
+        ]
+      },
+      "why": {
+        "es": "Añade una capa táctica a las persecuciones y confirma que el juego se jugará con dos protagonistas.",
+        "en": "It adds a tactical layer to chases and confirms the game is played with two leads."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026283010/gta-6-permitira-separar-a-los-protagonistas-para-dividir-la-atencion-policial-en-las-persecuciones/"
+        },
+        {
+          "name": "Beebom",
+          "url": "https://beebom.com/gta-6-confirms-six-star-wanted-level/"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-nombres-apellidos-beta-expulsiones",
+      "category": "pc",
+      "title": {
+        "es": "Blizzard retira acceso a la beta de WoW: Forever a jugadores con nombres ofensivos",
+        "en": "Blizzard pulls WoW: Forever beta access from players with offensive names"
+      },
+      "dek": {
+        "es": "Los nuevos apellidos de personaje han dado pie a nombres vulgares; el juego sale el 4 de noviembre.",
+        "en": "The new character surnames led to crude names; the game launches November 4."
+      },
+      "body": {
+        "es": [
+          "World of Warcraft: Forever permite elegir nombre y apellido para el personaje, y según Vandal algunos jugadores de la beta han creado combinaciones vulgares. Blizzard recuerda que su política de nombres sigue vigente y que retirará el acceso a quienes la incumplan.",
+          "Icy Veins y Dexerto recogen que Blizzard anunció en un foro renombrados forzosos y la retirada de la beta a algunos usuarios, y que se prepara un sistema automático de filtrado. El productor Tom Ellis respondió a las quejas con un «no hay simpatía» que generó polémica.",
+          "El lanzamiento está previsto para el 4 de noviembre en PC y macOS, incluido en la suscripción de WoW."
+        ],
+        "en": [
+          "World of Warcraft: Forever lets players pick a first and last name for their character, and per Vandal some beta testers have made crude combinations. Blizzard reminds players its naming policy still applies and that it will remove access from those who break it.",
+          "Icy Veins and Dexerto report that Blizzard announced on its forums forced renames and the removal of beta access for some users, with an automated filter on the way. Producer Tom Ellis answered complaints with a \"no sympathy\" remark that stirred controversy.",
+          "Launch is set for November 4 on PC and macOS, included in the WoW subscription."
+        ]
+      },
+      "why": {
+        "es": "El caso anticipa cómo gestionará Blizzard la moderación al llegar millones de jugadores.",
+        "en": "It previews how Blizzard will handle moderation once millions of players arrive."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026283007/blizzard-se-pone-estricta-y-censurara-los-nombres-inapropiados-en-world-of-warcraft-forever/"
+        },
+        {
+          "name": "Icy Veins",
+          "url": "https://www.icy-veins.com/wow-forever/news/blizzard-bans-players-for-offensive-names-in-wow-forever-beta/"
+        },
+        {
+          "name": "Dexerto",
+          "url": "https://www.dexerto.com/world-of-warcraft/blizzard-pulls-wow-forever-beta-access-from-players-with-offensive-character-names-3412554/"
+        }
+      ]
+    },
+    {
+      "id": "dragons-dogma-2-dark-arisen-lanzamiento-9-octubre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/5ed2cb7b124dd248376bb16270c72dfd53aec6e2/ss_5ed2cb7b124dd248376bb16270c72dfd53aec6e2.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/f0224a5ef749d5211a09e6daede81d5b428faf2a/header.jpg",
+        "credit": "CAPCOM Co., Ltd. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2593290/"
+      },
+      "title": {
+        "es": "Dark Arisen, la expansión de Dragon's Dogma 2, ya está entre lo más vendido de Steam",
+        "en": "Dragon's Dogma 2: Dark Arisen is already among Steam's top sellers"
+      },
+      "dek": {
+        "es": "Capcom la fijó para el 9 de octubre en PS5, Xbox Series y PC, con un pack para Switch 2.",
+        "en": "Capcom set it for October 9 on PS5, Xbox Series and PC, with a bundle for Switch 2."
+      },
+      "body": {
+        "es": [
+          "La expansión Dark Arisen de Dragon's Dogma 2 tenía fecha de lanzamiento el 9 de octubre en PS5, Xbox Series X|S y PC (Steam), según RPG Site, y la versión combinada para Switch 2 llegaba el mismo día. Añade una región nevada en el norte, nuevas mazmorras y opciones de personalización.",
+          "En Steam, la expansión figura entre los diez títulos más vendidos de la lista de ventas actual, junto a EA Sports FC 27 y Gears of War: E-Day. Varios medios han publicado ya guías de misiones y de cambio de apariencia, señal de que los jugadores están explorándola.",
+          "Nintendo Life ha publicado además una comparativa gráfica entre Switch 2 y PS5 del juego base."
+        ],
+        "en": [
+          "The Dark Arisen expansion for Dragon's Dogma 2 was dated for October 9 on PS5, Xbox Series X|S and PC (Steam), per RPG Site, with the combined Switch 2 release landing the same day. It adds a snowy northern region, new dungeons and character-creation options.",
+          "On Steam the expansion sits among the ten best sellers on the current chart, alongside EA Sports FC 27 and Gears of War: E-Day. Several outlets have already published quest and appearance guides, a sign players are digging in.",
+          "Nintendo Life has also posted a side-by-side graphics comparison of the base game on Switch 2 and PS5."
+        ]
+      },
+      "why": {
+        "es": "Confirma que Capcom mantiene vivo Dragon's Dogma 2 más de un año después con contenido de pago.",
+        "en": "It shows Capcom keeping Dragon's Dogma 2 alive with paid content well after launch."
+      },
+      "sources": [
+        {
+          "name": "RPG Site",
+          "url": "https://www.rpgsite.net/news/20617-dragons-dogma-2-dark-arisen-launches-on-october-9"
+        },
+        {
+          "name": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/09/dragons-dogma-2-announces-dark-arisen-expansion-adding-new-areas-dungeons-and-cosmetics"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2593290/"
+        }
+      ]
+    },
+    {
+      "id": "reskate-skate-modo-offline-full-circle-responde",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/79c5a87b61a396cc6e6b69e3a083727f175dea83/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3354750/"
+      },
+      "title": {
+        "es": "Full Circle responde a ReSkate, el mod que permite jugar a Skate sin conexión",
+        "en": "Full Circle responds to ReSkate, the mod that lets you play Skate offline"
+      },
+      "dek": {
+        "es": "El estudio dice no estar «en contra de la creatividad», pero rechaza las modificaciones que saltan los cosméticos de pago.",
+        "en": "The studio says it is \"not against creativity\" but rejects mods that bypass paid cosmetics."
+      },
+      "body": {
+        "es": [
+          "ReSkate es un proyecto de fans que permite jugar a Skate en servidores propios, con mapas personalizados y sin conexión a los servidores oficiales. Según PC Gamer y Kotaku, acumula más de 350.000 descargas en pocos días.",
+          "Full Circle publicó el 9 de octubre un mensaje en el que apoya la creatividad de la comunidad, pero traza la línea en los mods que evitan sus sistemas para desbloquear cosméticos de pago o que usan activos sin autorización. Dice que trabaja en herramientas oficiales para dar más libertad creativa de forma controlada.",
+          "El estudio no ha anunciado que vaya a bloquear ReSkate. Sus creadores dicen a PC Gamer que acatarían un requerimiento legal de EA."
+        ],
+        "en": [
+          "ReSkate is a fan project that lets players run Skate on their own servers, with custom maps and no connection to the official servers. According to PC Gamer and Kotaku, it has passed 350,000 downloads within days.",
+          "On October 9 Full Circle posted a message supporting community creativity but drawing the line at mods that bypass its systems to unlock paid cosmetics or use unauthorised assets. It says it is working on official tools to allow more creative freedom in a controlled way.",
+          "The studio has not said it will block ReSkate. Its creators told PC Gamer they would comply with a legal request from EA."
+        ]
+      },
+      "why": {
+        "es": "Reabre el debate sobre los juegos «siempre online» y la preservación frente al modelo de servicio.",
+        "en": "It reopens the debate over always-online games and preservation versus the live-service model."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/skate-developers-full-circle-respond-to-offline-mod-would-prefer-you-didnt-2000743777"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/"
+        }
+      ]
+    },
+    {
+      "id": "warhorse-gta-6-precio-80-dolares-juegos-aaa",
+      "category": "industria",
+      "title": {
+        "es": "Warhorse espera que GTA 6 abra el camino a los juegos AAA de 80 dólares",
+        "en": "Warhorse hopes GTA 6 paves the way for $80 AAA games"
+      },
+      "dek": {
+        "es": "Su COO, Martin Klima, defiende subir el precio por unidad ante la crisis del sector.",
+        "en": "COO Martin Klima argues for higher unit prices amid the sector's crisis."
+      },
+      "body": {
+        "es": [
+          "En una entrevista con PC Gamer recogida por Vandal, Martin Klima, de Warhorse Studios (Kingdom Come: Deliverance), dice que «con un poco de suerte GTA abrirá el camino y nos permitirá aumentar el precio». Sostiene que solo Rockstar y Take-Two pueden permitirse ese movimiento y que el resto del sector «está muerto de miedo» ante él.",
+          "La edición estándar de GTA 6 costará 79,99 dólares en EE. UU., unos diez más que otros grandes estrenos. Hasta ahora solo Nintendo, con Mario Kart World, había rozado esa cifra.",
+          "Otros medios señalan que hay opiniones encontradas: para unos 80 dólares es excesivo; para otros, incluso poco."
+        ],
+        "en": [
+          "In an interview with PC Gamer, relayed by Vandal, Martin Klima of Warhorse Studios (Kingdom Come: Deliverance) says \"hopefully GTA will pave the way and allow us to raise the price\". He argues only Rockstar and Take-Two can afford the move and that the rest of the industry is \"scared to death\" of it.",
+          "GTA 6's standard edition will cost $79.99 in the US, around ten dollars above other big releases. So far only Nintendo, with Mario Kart World, had reached that territory.",
+          "Other outlets note opinions are split: some find $80 too steep, others say it is too low."
+        ]
+      },
+      "why": {
+        "es": "Si GTA 6 vende bien a 80 dólares, otras editoras podrían copiar el precio.",
+        "en": "If GTA 6 sells well at $80, other publishers may follow suit."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026283005/juegos-a-80-dolares-warhorse-studios-espera-que-gta-6-establezca-el-nuevo-estandar-de-precio-triple-a/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/warhorse-studio-gta-6-price-rise/"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://gizmodo.com/kingdom-come-deliverance-studio-co-founder-expresses-hope-that-gta6-will-drive-up-game-prices-2000821035"
+        }
+      ]
+    },
+    {
+      "id": "sonic-pico-park-12-noviembre-silver-blaze",
+      "category": "nintendo",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304060/facdfc4b9d4eefb367f121c96f77b48535cee733/ss_facdfc4b9d4eefb367f121c96f77b48535cee733.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304060/eada949a951c74165aad20e7588b7d5fb52e0c94/header.jpg",
+        "credit": "PICO PARK Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4304060/"
+      },
+      "title": {
+        "es": "Sonic Pico Park suma a Silver y Blaze en un nuevo tráiler y llegará el 12 de noviembre",
+        "en": "Sonic Pico Park adds Silver and Blaze in a new trailer and arrives November 12"
+      },
+      "dek": {
+        "es": "El puzle cooperativo para 2–8 jugadores saldrá en Switch y Switch 2.",
+        "en": "The co-op puzzler for 2–8 players is coming to Switch and Switch 2."
+      },
+      "body": {
+        "es": [
+          "Sega ha mostrado un tráiler de Sonic Pico Park durante la celebración del 35.º aniversario de Sonic, en el que se confirma que Silver y Blaze serán personajes jugables. El juego saldrá el 12 de noviembre de 2026 en Switch y Switch 2, según Nintendo Life.",
+          "La plantilla incluye además a Sonic, Tails, Knuckles, Amy, Shadow, Cream y Cheese, Big y el gato de Pico Park. Admite de dos a ocho jugadores."
+        ],
+        "en": [
+          "Sega showed a Sonic Pico Park trailer during Sonic's 35th anniversary celebration, confirming Silver and Blaze as playable characters. The game launches on November 12, 2026 on Switch and Switch 2, per Nintendo Life.",
+          "The roster also includes Sonic, Tails, Knuckles, Amy, Shadow, Cream and Cheese, Big and the Pico Park cat. It supports two to eight players."
+        ]
+      },
+      "why": {
+        "es": "Sega prolonga el calendario de su aniversario con un juego de salón pensado para jugar en grupo.",
+        "en": "Sega extends its anniversary calendar with a party-friendly co-op game."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/sonic-pico-park-silver-blaze-playable/"
+        }
+      ]
+    },
+    {
+      "id": "blazblue-central-fiction-ps5-rollback-crossplay",
+      "category": "playstation",
+      "title": {
+        "es": "BlazBlue: Central Fiction llegará a PS5 con rollback y juego cruzado con PC",
+        "en": "BlazBlue: Central Fiction is coming to PS5 with rollback and PC crossplay"
+      },
+      "dek": {
+        "es": "Arc System Works anuncia el port nativo del juego de 2015 sin fecha por ahora.",
+        "en": "Arc System Works announces a native port of the 2015 fighter, with no date yet."
+      },
+      "body": {
+        "es": [
+          "Arc System Works llevará BlazBlue: Central Fiction de forma nativa a PS5, una década después del original. Según Push Square, incluirá netcode con rollback y juego cruzado con la versión de PC en Steam, cuatro idiomas de texto nuevos y modos de entrenamiento mejorados.",
+          "Todavía no hay fecha de lanzamiento. Push Square sugiere que podría haber mejora gratuita para quienes tengan la versión de PS4, pero la compañía no lo ha confirmado."
+        ],
+        "en": [
+          "Arc System Works will bring BlazBlue: Central Fiction natively to PS5, a decade after the original. Per Push Square, it will include rollback netcode and crossplay with the Steam PC version, four new text languages and improved training modes.",
+          "There is no release date yet. Push Square suggests a free upgrade may be offered to PS4 owners, but the company has not confirmed it."
+        ]
+      },
+      "why": {
+        "es": "El rollback es lo que más pedía la comunidad de juegos de lucha para esta entrega.",
+        "en": "Rollback is what the fighting-game community most wanted for this entry."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/blazblue-central-fiction-coming-to-ps5"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Zelda: Ocarina of Time para Switch 2 (5 de noviembre) supera por primera vez a Pokémon Vientos/Oleaje como el juego más esperado en la lista de lectores de Famitsu, por seis votos.",
+        "en": "The Zelda: Ocarina of Time remake for Switch 2 (November 5) tops Pokémon Winds/Waves for the first time as most-anticipated game in Famitsu's reader poll, by six votes."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/zelda-ocarina-of-time-remake-supera-a-pokemon-viento-y-oleaje-por-primera-vez-y-se-coloca-como-el-juego-mas-esperado-del-momento-en-japon/"
+      }
+    },
+    {
+      "text": {
+        "es": "Dragon Ball: Sparking! ZERO cumple dos años con hoja de ruta: modo Tower of Power y DLC Super Limit-Breaking NEO en Switch y Switch 2 (primavera de 2027); el juego cruzado, en beta tras el verano de 2027 en PS5, Xbox y Steam.",
+        "en": "Dragon Ball: Sparking! ZERO turns two with a roadmap: a Tower of Power mode and the Super Limit-Breaking NEO DLC on Switch and Switch 2 (spring 2027); crossplay enters beta after summer 2027 on PS5, Xbox and Steam."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map"
+      }
+    },
+    {
+      "text": {
+        "es": "Phantom Blade Zero tendrá Nueva Partida +, pero todo su contenido se podrá ver en una sola partida y en cualquier dificultad, según su director.",
+        "en": "Phantom Blade Zero will have New Game +, but all its content can be seen in a single playthrough on any difficulty, its director says."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026283002/phantom-blade-zero-tendra-modo-nueva-partida-pero-podras-verlo-todo-en-una-sola-partida/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: según un informe recogido por Insider Gaming, las reservas de Metro 2039 podrían abrirse el 13 de octubre.",
+        "en": "Rumor: according to a report relayed by Insider Gaming, Metro 2039 pre-orders could open on October 13."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/metro-2039-preorders-october-13-report/"
+      }
+    },
+    {
+      "text": {
+        "es": "WARDOGS lanza su temporada 2 el 15 de octubre en Steam con nuevas armas, vehículos y lluvia.",
+        "en": "WARDOGS launches Season 2 on October 15 on Steam with new weapons, vehicles and rain."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/wardogs-season-2-release-date-update/"
+      }
+    },
+    {
+      "text": {
+        "es": "M2 lanzará Senxin Aleste en PS5, PS4 y Switch el 18 de marzo de 2027 en Japón.",
+        "en": "M2 will release Senxin Aleste on PS5, PS4 and Switch on March 18, 2027 in Japan."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/senxin-aleste-coming-to-ps5-ps4-and-switch-on-march-18-2027-in-japan"
+      }
+    },
+    {
+      "text": {
+        "es": "Descubren nuevos códigos de trucos en F-Zero GX, 23 años después de su lanzamiento.",
+        "en": "New F-Zero GX cheat codes have been discovered 23 years after launch."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/new-cheat-codes-for-f-zero-gxs-gold-parts-have-been-discovered-after-23-years-2000743767"
+      }
+    },
+    {
+      "text": {
+        "es": "Pawel Sasko, de CD Projekt, admite que el éxito de Phantom Liberty no borra el mal lanzamiento original de Cyberpunk 2077.",
+        "en": "CD Projekt's Pawel Sasko admits Phantom Liberty's success does not erase Cyberpunk 2077's troubled launch."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026283003/cd-projekt-lo-admite-el-exito-de-phantom-liberty-no-borra-el-desastroso-lanzamiento-de-cyberpunk-2077/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Dragon's Dogma 2: Dark Arisen",
+      "platforms": "PS5 · Xbox · PC · Switch 2",
+      "note": {
+        "es": "9 de octubre",
+        "en": "October 9"
+      },
+      "url": "https://www.rpgsite.net/news/20617-dragons-dogma-2-dark-arisen-launches-on-october-9"
+    },
+    {
+      "title": "WARDOGS – Temporada 2",
+      "platforms": "PC (Steam)",
+      "note": {
+        "es": "15 de octubre",
+        "en": "October 15"
+      },
+      "url": "https://insider-gaming.com/wardogs-season-2-release-date-update/"
+    },
+    {
+      "title": "Zelda: Ocarina of Time (remake)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/zelda-ocarina-of-time-remake-supera-a-pokemon-viento-y-oleaje-por-primera-vez-y-se-coloca-como-el-juego-mas-esperado-del-momento-en-japon/"
+    },
+    {
+      "title": "World of Warcraft: Forever",
+      "platforms": "PC · macOS",
+      "note": {
+        "es": "4 de noviembre",
+        "en": "November 4"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026283007/blizzard-se-pone-estricta-y-censurara-los-nombres-inapropiados-en-world-of-warcraft-forever/"
+    },
+    {
+      "title": "Sonic Pico Park",
+      "platforms": "Switch · Switch 2",
+      "note": {
+        "es": "12 de noviembre",
+        "en": "November 12"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month"
+    },
+    {
+      "title": "GTA 6",
+      "platforms": "PS5 · Xbox Series",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://insider-gaming.com/gta-6-playable-leak/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "El filtrador de GTA 6 y su memecoin: la comunidad debate si la amenaza es un farol o una nueva estafa.",
+        "en": "The GTA 6 leaker and his meme coin: the community debates whether the threat is a bluff or another scam."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779"
+      }
+    },
+    {
+      "text": {
+        "es": "ReSkate divide a los jugadores de Skate entre quienes defienden jugar sin conexión y quienes apoyan el modelo de servicio.",
+        "en": "ReSkate splits Skate players between those defending offline play and those backing the live-service model."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/skate-developers-full-circle-respond-to-offline-mod-would-prefer-you-didnt-2000743777"
+      }
+    },
+    {
+      "text": {
+        "es": "Críticas por las expulsiones de la beta de WoW: Forever por nombres ofensivos y por la respuesta del productor Tom Ellis.",
+        "en": "Backlash over WoW: Forever beta removals for offensive names and the response from producer Tom Ellis."
+      },
+      "source": {
+        "name": "Icy Veins",
+        "url": "https://www.icy-veins.com/wow-forever/news/blizzards-wow-forever-name-crackdown-sparks-player-backlash/"
+      }
+    },
+    {
+      "text": {
+        "es": "¿80 dólares por un AAA? Las palabras de Warhorse reavivan el debate sobre el precio de los juegos.",
+        "en": "$80 for a AAA? Warhorse's remarks reignite the debate over game prices."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/warhorse-studio-gta-6-price-rise/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "EA SPORTS™ FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850/"
+    },
+    {
+      "name": "Paquete de EA SPORTS™ FC™ 26 y 27",
+      "url": "https://store.steampowered.com/app/85334/"
+    },
+    {
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "url": "https://store.steampowered.com/app/3055670/"
+    },
+    {
+      "name": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+      "url": "https://store.steampowered.com/app/2593290/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430/"
+    }
+  ]
+}
