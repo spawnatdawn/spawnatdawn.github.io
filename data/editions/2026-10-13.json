@@ -1,0 +1,675 @@
+{
+  "date": "2026-10-13",
+  "headline": {
+    "es": "Epic apuesta por la IA en su juego de Disney y Steam supera los 43 millones de usuarios",
+    "en": "Epic goes AI-first on its Disney game as Steam tops 43 million users"
+  },
+  "intro": {
+    "es": "Epic ordena desarrollar con «IA primero» su shooter de Marvel y Star Wars, Gears of War: E-Day sufre un DDoS, Squadron 42 enseña tráiler y Sonic Racing enfada a su comunidad. Lo importante del día, con sus fuentes.",
+    "en": "Epic orders AI-first development for its Marvel and Star Wars shooter, Gears of War: E-Day weathers a DDoS, Squadron 42 shows a trailer and Sonic Racing angers its community. The day's essentials, with sources."
+  },
+  "stories": [
+    {
+      "id": "epic-disney-shooter-ia-primero-sin-codigo-manual",
+      "category": "industria",
+      "title": {
+        "es": "Epic ordena desarrollar con «IA primero» su shooter con Disney, según Bloomberg",
+        "en": "Epic orders \"AI-first\" development on its Disney shooter, Bloomberg reports"
+      },
+      "dek": {
+        "es": "Sin código escrito a mano y con el arte generado por IA; Tim Sweeney habla de un «giro enorme».",
+        "en": "No handwritten code and AI-generated art; Tim Sweeney talks of a \"huge pivot\"."
+      },
+      "body": {
+        "es": [
+          "Bloomberg informó el 12 de octubre de que Epic Games ha pedido a los equipos de su shooter sin anunciar con personajes de Marvel y Star Wars, desarrollado junto a Disney, que adopten un enfoque «AI-first»: nada de código escrito a mano y, según un mensaje interno atribuido a un director, un arte «generado con flujos de trabajo de IA completos». El proyecto, además, avanza más despacio de lo previsto.",
+          "Según VGC, que recoge el informe, el anuncio dejó a parte de la plantilla «atónita» en una videollamada y se les dijo que usarían herramientas como Claude de Anthropic, con personas supervisando. Un portavoz de Epic respondió que la compañía apuesta por un desarrollo «acelerado por IA y liderado por sus desarrolladores». Tim Sweeney escribió en X que hay «un giro enorme» en marcha para lograr «máxima aceleración con IA» y que el objetivo no es hacer lo mismo con menos gente, sino más y mejor."
+        ],
+        "en": [
+          "Bloomberg reported on October 12 that Epic Games has told the teams on its unannounced Marvel and Star Wars shooter, made with Disney, to adopt an \"AI-first\" approach: no handwritten code and, per an internal message attributed to a director, art \"generated with full AI workflows\". The project is also reportedly running behind schedule.",
+          "According to VGC, which relays the report, the announcement left some staff \"stunned\" on a video call, and they were told production would use tools such as Anthropic's Claude with humans guiding the work. An Epic spokesperson said the company is embracing AI-accelerated development led by its developers. Tim Sweeney wrote on X that a \"huge pivot\" is underway toward \"maximum AI acceleration\", and that the aim is to build more and better rather than do the same with fewer people."
+        ]
+      },
+      "why": {
+        "es": "Es uno de los giros hacia la IA más explícitos de un gran estudio, en un proyecto con propiedad intelectual de Disney.",
+        "en": "It is one of the most explicit AI pivots by a major studio, on a project built on Disney IP."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/no-codigo-escrito-a-mano-todo-ha-cambiado-para-arc-raiders-personajes-disney-padres-fortnite"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/1280px-Epic_Games_office.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/960px-Epic_Games_office.jpg",
+        "credit": "Sergey Galyonkin / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Epic_Games_office.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    {
+      "id": "gears-of-war-e-day-ddos-ventas-estimadas-game-pass",
+      "category": "xbox",
+      "title": {
+        "es": "Gears of War: E-Day sufre un ataque DDoS mientras se debate cuánto ha vendido",
+        "en": "Gears of War: E-Day hit by a DDoS attack as its sales are debated"
+      },
+      "dek": {
+        "es": "The Coalition mitiga los ataques; Alinea Analytics estima unas 230.000 copias vendidas en la primera semana.",
+        "en": "The Coalition is mitigating the attacks; Alinea Analytics estimates about 230,000 copies sold in week one."
+      },
+      "body": {
+        "es": [
+          "Los jugadores de Gears of War: E-Day (lanzado el 6 de octubre en Xbox Series y PC) denunciaron el domingo desconexiones y problemas de inicio de sesión. The Coalition atribuyó los fallos a un ataque de denegación de servicio distribuido (DDoS) durante el fin de semana y aseguró en X que sus equipos vigilan y mitigan los ataques.",
+          "Aparte, Vandal recoge una estimación de Alinea Analytics: unas 230.000 copias en la primera semana (unas 168.000 en Steam), además de 1,7 millones de jugadores en Game Pass, 722.000 de ellos con la mejora Premium. Son cifras estimadas, no de Microsoft. El analista Rhys Elliott sostiene que Game Pass resta ventas; Mat Piscatella, de Circana, replica que jugar por suscripción no es necesariamente una venta perdida."
+        ],
+        "en": [
+          "Players of Gears of War: E-Day (released October 6 on Xbox Series and PC) reported disconnects and login problems on Sunday. The Coalition blamed a distributed denial-of-service (DDoS) attack over the weekend and said on X that its teams are monitoring and mitigating the attacks.",
+          "Separately, Vandal relays an Alinea Analytics estimate: about 230,000 copies in week one (around 168,000 on Steam), plus 1.7 million Game Pass players, 722,000 of whom paid for the Premium upgrade. These are estimates, not Microsoft figures. Analyst Rhys Elliott argues Game Pass cuts into sales; Circana's Mat Piscatella counters that playing through a subscription is not automatically a lost sale."
+        ]
+      },
+      "why": {
+        "es": "Un lanzamiento grande ve afectado su online y reabre la discusión sobre el impacto de Game Pass en las ventas.",
+        "en": "A big launch has its online play disrupted and reopens the debate over Game Pass and sales."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026285009/gears-of-war-eday-habria-vendido-230000-copias-pero-17-millones-de-jugadores-lo-han-disfrutado-en-game-pass/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gears-of-war-e-day-the-coalition-microsoft-ddos-attack-woke-2000744559"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/gears-of-war-e-day/noticias/han-atacado-servidores-gears-of-war-e-day-tu-miles-usuarios-puedan-jugar-online"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/capsule_616x353.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3010850/"
+      }
+    },
+    {
+      "id": "steam-record-43-5-millones-usuarios-simultaneos",
+      "category": "pc",
+      "title": {
+        "es": "Steam bate su récord con más de 43,5 millones de usuarios simultáneos",
+        "en": "Steam breaks its record with over 43.5 million concurrent users"
+      },
+      "dek": {
+        "es": "El pico del domingo 11 de octubre supera en unos 820.000 al de marzo; 14,46 millones estaban jugando.",
+        "en": "Sunday October 11's peak tops March's by about 820,000; 14.46 million were in-game."
+      },
+      "body": {
+        "es": [
+          "Según SteamDB, que recoge Vandal, Steam alcanzó el domingo 11 de octubre 43.505.724 usuarios conectados a la vez, por encima de los 42.686.616 de marzo de 2026. De ellos, unos 14,46 millones estaban jugando, también un máximo histórico (el anterior rondaba los 13,8 millones).",
+          "La cifra incluye a quienes tienen Steam abierto sin jugar. En las últimas 24 horas, Counter-Strike 2 superó 1,4 millones de jugadores simultáneos, Dota 2 rondó el millón y PUBG: Battlegrounds pasó de 700.000. Kotaku también destaca el récord de jugadores en partida."
+        ],
+        "en": [
+          "According to SteamDB, relayed by Vandal, Steam hit 43,505,724 concurrent users on Sunday, October 11, above the 42,686,616 set in March 2026. About 14.46 million of them were in-game, also an all-time high (the previous mark was around 13.8 million).",
+          "The figure includes people with Steam open but not playing. In the previous 24 hours Counter-Strike 2 peaked above 1.4 million players, Dota 2 around a million and PUBG: Battlegrounds over 700,000. Kotaku also highlights the in-game record."
+        ]
+      },
+      "why": {
+        "es": "La plataforma sigue creciendo y refuerza el peso del PC en un mercado de consolas en retroceso.",
+        "en": "The platform keeps growing, strengthening PC's weight as console markets slump."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026285011/steam-sigue-imparable-y-bate-un-nuevo-record-historico-con-mas-de-435-millones-de-usuarios-conectados/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-polemica-pase-temporada-2",
+      "category": "juegos",
+      "title": {
+        "es": "Sonic Racing: CrossWorlds, en polémica por el pase de la Temporada 2",
+        "en": "Sonic Racing: CrossWorlds faces backlash over its Season 2 pass"
+      },
+      "dek": {
+        "es": "Los dueños de la Digital Deluxe recuerdan la promesa de «todo el DLC de pago futuro»; SEGA no se ha pronunciado.",
+        "en": "Digital Deluxe owners cite a promise of \"all future paid DLC\"; SEGA has not responded."
+      },
+      "body": {
+        "es": [
+          "SEGA presentó el segundo año de contenidos de Sonic Racing: CrossWorlds, con seis expansiones de pago (Final Fantasy VII, Godzilla, Evangelion y otras), personajes gratuitos como Bayonetta y Aigis y una rebaja del juego base. El pase de la Temporada 2 cuesta 29,99 dólares y quienes ya tienen la edición Digital Deluxe tendrán que comprarlo.",
+          "Parte de la comunidad señala una publicación de junio de 2025 que decía que esa edición incluía «todo el contenido descargable de pago futuro». Según Push Square, la defensa de SEGA sería que la imagen de la hoja de ruta que la acompañaba solo cubría la Temporada 1; el medio no recoge ninguna declaración oficial. Los comentarios están divididos entre quienes ven engaño y quienes dicen que la Temporada 2 nunca estuvo garantizada."
+        ],
+        "en": [
+          "SEGA unveiled the second year of content for Sonic Racing: CrossWorlds, with six paid expansions (Final Fantasy VII, Godzilla, Evangelion and more), free characters such as Bayonetta and Aigis and a base-game price cut. The Season 2 pass costs $29.99, and Digital Deluxe owners will have to buy it.",
+          "Part of the community points to a June 2025 post saying that edition included \"all future paid downloadable content\". According to Push Square, SEGA's defence would be that the accompanying roadmap image only covered Season 1; it reports no official statement. Comments are split between those who see misleading wording and those who say Season 2 was never guaranteed."
+        ]
+      },
+      "why": {
+        "es": "Reabre el debate sobre qué prometen realmente las ediciones «completas» con pases de temporada.",
+        "en": "It reopens the debate over what \"complete\" editions with season passes really promise."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026285001/sonic-racing-crossworlds-anuncia-sus-proximos-dlc-con-final-fantasy-vii-godzilla-persona-y-mas-sorpresas/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/fans-accuse-sonic-racing-crossworlds-of-breaking-deluxe-edition-promise-after-revealing-ff7-dlc-paid-100-for-this-sht-guess-i-learned-my-lesson-2000744567"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/capsule_616x353.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2486820/"
+      }
+    },
+    {
+      "id": "nvidia-rtx-5090-fin-produccion-rumor-rtx-pro",
+      "category": "hardware",
+      "title": {
+        "es": "Rumor: Nvidia habría dejado de fabricar la RTX 5090 para priorizar las RTX Pro",
+        "en": "Rumor: Nvidia has reportedly stopped making the RTX 5090 to prioritise RTX Pro"
+      },
+      "dek": {
+        "es": "Dos filtradores aseguran que el silicio GB202 será exclusivo de las gráficas profesionales; Nvidia no ha comentado.",
+        "en": "Two leakers claim GB202 silicon will be exclusive to professional cards; Nvidia has not commented."
+      },
+      "body": {
+        "es": [
+          "Según los filtradores @honzing2020 y @Zed__Wang, recogidos por Tom's Hardware y VGC, Nvidia habría cesado la producción de la RTX 5090. El chip GB202 de esa tarjeta también se usa en las RTX Pro para centros de datos de IA, y uno de los mensajes afirma que «todo el suministro futuro de GB202 es exclusivo de RTX Pro».",
+          "Es información no confirmada: el artículo de VGC no incluye ninguna declaración de Nvidia. La 5090 salió en enero de 2025 a 1.999 dólares y, según el medio, ha llegado a venderse en la calle entre 4.000 y 5.000 dólares o más. PC Gamer también se hace eco de rumores sobre una RTX 5080 de 24 GB."
+        ],
+        "en": [
+          "According to leakers @honzing2020 and @Zed__Wang, relayed by Tom's Hardware and VGC, Nvidia has reportedly ended RTX 5090 production. The card's GB202 chip is also used in RTX Pro data-centre AI cards, and one post claims \"all future GB202 supplies are RTX Pro exclusive\".",
+          "This is unconfirmed: VGC's article includes no Nvidia statement. The 5090 launched in January 2025 at $1,999 and, per the outlet, has sold on the street for $4,000–$5,000 or more. PC Gamer also covers rumours of a 24 GB RTX 5080."
+        ]
+      },
+      "why": {
+        "es": "Si se confirma, el tope de gama de GeForce desaparecería justo cuando la IA absorbe la producción de chips.",
+        "en": "If confirmed, GeForce's top card would vanish just as AI soaks up chip production."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026285024/nvidia-habria-dejado-de-fabricar-la-rtx-5090-para-priorizar-sus-graficas-profesionales-para-ia/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png/1280px-Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png/960px-Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png",
+        "credit": "PantheraLeo1359531 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    {
+      "id": "yuji-horii-juego-ia-30-minutos-interrogation-room-komiya",
+      "category": "industria",
+      "title": {
+        "es": "Yuji Horii crea con IA un juego «en unos 30 minutos»",
+        "en": "Yuji Horii makes a game with AI \"in about 30 minutes\""
+      },
+      "dek": {
+        "es": "El creador de Dragon Quest publicó «Interrogation Room Komiya» y habló de una tecnología «asombrosa».",
+        "en": "The Dragon Quest creator released \"Interrogation Room Komiya\" and called the technology \"astonishing\"."
+      },
+      "body": {
+        "es": [
+          "Yuji Horii, de 72 años y creador de Dragon Quest, anunció en X el 11 de octubre Interrogation Room Komiya, un juego de texto en el que se eligen preguntas para que un sospechoso confiese. Según VGC, lo hizo con IA generativa (sin precisar la herramienta) y afirma que solo le llevó «unos 30 minutos».",
+          "Horii dice que con la IA puede «dar instrucciones y crear un juego decente él solo» y lo compara con Portopia Serial Murder Case, que programó solo hace décadas. Ya había hablado en el G-Star 2025 de usar IA para hacer más interactivos los juegos de misterio. VGC recuerda que la IA generativa sigue siendo polémica en el sector."
+        ],
+        "en": [
+          "Yuji Horii, 72, creator of Dragon Quest, announced Interrogation Room Komiya on X on October 11: a text game where players pick prompts to make a suspect confess. According to VGC he made it with generative AI (the tool is not named) and says it took \"about 30 minutes\".",
+          "Horii says that with AI he can \"just give instructions and create a decent game all by myself\", comparing it to The Portopia Serial Murder Case, which he made alone decades ago. At G-Star 2025 he had already talked about using AI to make mystery games more interactive. VGC notes generative AI remains controversial in the industry."
+        ]
+      },
+      "why": {
+        "es": "Una figura clásica del diseño respalda la IA el mismo día en que Epic anuncia su giro, y las reacciones llegan divididas.",
+        "en": "A design veteran backs AI on the same day Epic's pivot lands, and reactions are split."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/dragon-quest-xii/noticias/creador-dragon-quest-ha-hecho-juego-que-tardas-ver-capitulo-simpson-sabes-que-significa"
+        }
+      ]
+    },
+    {
+      "id": "squadron-42-trailer-the-oath-steam-2027",
+      "category": "pc",
+      "title": {
+        "es": "Squadron 42 reaparece con un tráiler, página en Steam y ventana de 2027",
+        "en": "Squadron 42 returns with a trailer, a Steam page and a 2027 window"
+      },
+      "dek": {
+        "es": "Cloud Imperium sitúa el estreno entre abril y junio de 2027; GameSpot duda de la fecha.",
+        "en": "Cloud Imperium targets April–June 2027; GameSpot doubts the date."
+      },
+      "body": {
+        "es": [
+          "Cloud Imperium Games publicó el 10 de octubre «The Oath», un tráiler de Squadron 42, la campaña para un jugador de Star Citizen, y abrió su página en Steam. Según 3DJuegos, la ventana de lanzamiento es del 1 de abril al 30 de junio de 2027, tras abandonar el objetivo de 2026. La última muestra anterior databa de octubre de 2024.",
+          "Ambientada en 2945, con el Imperio Terrestre al borde del colapso, mezcla combate espacial y terrestre, sigilo y decisiones, con un reparto que incluye a Mark Hamill, Gary Oldman, Gillian Anderson, Henry Cavill y Andy Serkis. GameSpot elogia el tráiler, pero titula que la fecha de 2027 «es difícil de creer»: el proyecto lleva más de una década en desarrollo y Star Citizen ha recaudado más de 1.000 millones de dólares."
+        ],
+        "en": [
+          "Cloud Imperium Games released \"The Oath\" on October 10, a trailer for Squadron 42, Star Citizen's single-player campaign, and opened its Steam page. According to 3DJuegos, the launch window is April 1 to June 30, 2027, after dropping a 2026 target. The previous showing dated from October 2024.",
+          "Set in 2945 with the United Earth Empire near collapse, it mixes space and ground combat, stealth and choices, with a cast including Mark Hamill, Gary Oldman, Gillian Anderson, Henry Cavill and Andy Serkis. GameSpot praises the trailer but headlines that the 2027 date is \"hard to believe\": the project has been in development for over a decade and Star Citizen has raised more than $1 billion."
+        ]
+      },
+      "why": {
+        "es": "Es la primera fecha concreta en años para un juego sinónimo de retrasos.",
+        "en": "It is the first concrete window in years for a game synonymous with delays."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/star-citizen/noticias/723-dias-se-ha-producido-milagro-modo-campana-star-citizen-tiene-nuevo-trailer-fin-vemos-luz-al-final-tunel"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045720/2f838a5350a7271a5530a2eb7cd076a70d4ef2d5/ss_2f838a5350a7271a5530a2eb7cd076a70d4ef2d5.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045720/bb659b93138f2881c155b84c8896463acc041e9f/header.jpg",
+        "credit": "Roberts Space Industries / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4045720/"
+      }
+    },
+    {
+      "id": "valor-mortis-lanzamiento-game-pass-resenas-mixtas",
+      "category": "xbox",
+      "title": {
+        "es": "Valor Mortis llega a Game Pass con reseñas de notable a mixtas",
+        "en": "Valor Mortis lands on Game Pass with reviews from strong to mixed"
+      },
+      "dek": {
+        "es": "El soulslike en primera persona de One More Level sale hoy; Metacritic marca 77 en el momento de la recopilación.",
+        "en": "One More Level's first-person soulslike launches today; Metacritic sits at 77 at time of writing."
+      },
+      "body": {
+        "es": [
+          "Valor Mortis, de los creadores de Ghostrunner, sale hoy 13 de octubre en Xbox Game Pass desde el primer día, además de PS5 y PC, con Lyrical Games como editora. Ambienta un soulslike en primera persona en un campo de batalla napoleónico asolado por una plaga.",
+          "Pure Xbox recopila notas que van del 9/10 de Destructoid y TheGamer al 6/10 de GameSpot y GamesRadar+, pasando por 8/10 en Eurogamer y Push Square y 7/10 en IGN y Game Informer. Push Square destaca su combate y diseño de niveles, aunque señala tropiezos. Metacritic mostraba 77 de media, con 83 en PS5."
+        ],
+        "en": [
+          "Valor Mortis, from the makers of Ghostrunner, launches today, October 13, on Xbox Game Pass day one, as well as PS5 and PC, published by Lyrical Games. It is a first-person soulslike set on a plague-ridden Napoleonic battlefield.",
+          "Pure Xbox collects scores ranging from 9/10 at Destructoid and TheGamer to 6/10 at GameSpot and GamesRadar+, with 8/10 at Eurogamer and Push Square and 7/10 at IGN and Game Informer. Push Square praises its combat and level design while noting stumbles. Metacritic showed a 77 average, 83 on PS5."
+        ]
+      },
+      "why": {
+        "es": "Un lanzamiento de peso en Game Pass cuyo recibimiento dependerá de cuánto pese el diseño frente a sus irregularidades.",
+        "en": "A notable Game Pass launch whose reception hinges on how much its design outweighs its rough spots."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/valor-mortis-reviews-are-mixed-ahead-of-its-xbox-game-pass-day-one-launch"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/valor-mortis"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/capsule_616x353.jpg",
+        "credit": "Lyrical Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2828710/"
+      }
+    },
+    {
+      "id": "no-mans-sky-ios-28-octubre",
+      "category": "movil",
+      "title": {
+        "es": "No Man's Sky llegará a iOS el 28 de octubre",
+        "en": "No Man's Sky is coming to iOS on October 28"
+      },
+      "dek": {
+        "es": "Hello Games lo lanza con una primera parte gratuita y compra única para el juego completo.",
+        "en": "Hello Games launches it with a free opening section and a one-time purchase for the full game."
+      },
+      "body": {
+        "es": [
+          "Hello Games ha anunciado que No Man's Sky saldrá en iOS el 28 de octubre. Según Gematsu, ofrece una primera parte gratuita y una compra única que desbloquea el juego completo, con todas las actualizaciones desde el lanzamiento, de «Foundation» a «COSMOS» (7.0).",
+          "La ficha mantiene el universo procedural sin pantallas de carga entre el espacio y los planetas y el mapa compartido de descubrimientos. Las fuentes consultadas no detallan precio ni requisitos, ni si cubre iPhone y iPad por igual. El juego ya está en PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch y PC."
+        ],
+        "en": [
+          "Hello Games has announced No Man's Sky will launch on iOS on October 28. According to Gematsu, it offers a free opening section and a one-time purchase that unlocks the full game with every update since launch, from \"Foundation\" through \"COSMOS\" (7.0).",
+          "The listing keeps the procedural universe with no loading screens between space and planets, and the shared discovery map. The sources consulted do not detail price or requirements, or whether iPhone and iPad are equally covered. The game is already on PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch and PC."
+        ]
+      },
+      "why": {
+        "es": "Suma otra plataforma a un juego que lleva una década creciendo a golpe de actualizaciones.",
+        "en": "It adds another platform to a game that has spent a decade growing through updates."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/no-mans-sky-coming-to-ios-on-october-28"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/no-mans-sky-releases-for-iphones-ipads-this-month/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_616x353.jpg",
+        "credit": "Hello Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/275850/"
+      }
+    },
+    {
+      "id": "he-man-dragon-pearl-of-destruction-4-febrero-2027",
+      "category": "indie",
+      "title": {
+        "es": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction sale el 4 de febrero de 2027",
+        "en": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction launches February 4, 2027"
+      },
+      "dek": {
+        "es": "El beat 'em up de Bitmap Bureau costará 29,99 euros/dólares y ya admite reservas físicas.",
+        "en": "Bitmap Bureau's beat 'em up will cost $29.99 / €29.99, with physical pre-orders open."
+      },
+      "body": {
+        "es": [
+          "El beat 'em up de scroll lateral de Bitmap Bureau y Limited Run Games tiene fecha: 4 de febrero de 2027, en PS5, Xbox Series, PS4, Xbox One, Switch y PC (Steam). Costará 29,99 dólares o euros, según Gematsu, y las ediciones físicas pueden reservarse ya en la web de Limited Run Games.",
+          "Push Square confirma el lanzamiento en PS5 y PS4 en febrero, y Vandal habla de un nuevo tráiler y de la propuesta retro del juego."
+        ],
+        "en": [
+          "Bitmap Bureau and Limited Run Games' side-scrolling beat 'em up has a date: February 4, 2027, on PS5, Xbox Series, PS4, Xbox One, Switch and PC (Steam). It costs $29.99 / €29.99, per Gematsu, and physical editions can be pre-ordered now on Limited Run Games' site.",
+          "Push Square confirms the February launch on PS5 and PS4, and Vandal mentions a new trailer and the game's retro pitch."
+        ]
+      },
+      "why": {
+        "es": "Cierra la espera de un proyecto retrasado y apuesta por la nostalgia a precio contenido.",
+        "en": "It ends the wait for a delayed project and bets on nostalgia at a modest price."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-launches-february-4-2027"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026285019/heman-vuelve-a-repartir-mamporros-su-nuevo-beat-em-up-ya-tiene-fecha-de-lanzamiento-precio-y-nuevo-trailer/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749580/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749580/capsule_616x353.jpg",
+        "credit": "Clear River Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3749580/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Ubisoft cerrará Rainbow Six Mobile el 15 de enero de 2027, menos de un año después de su lanzamiento global de febrero de 2026; la próxima temporada seguirá según lo previsto.",
+        "en": "Ubisoft will shut down Rainbow Six Mobile on January 15, 2027, less than a year after its February 2026 global launch; the next season will go ahead as planned."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/"
+      }
+    },
+    {
+      "text": {
+        "es": "Sony ha vendido 43 patentes de realidad virtual a Meta, según registros de la oficina de patentes de EE. UU.; un acuerdo de diciembre de 2025 apunta a más de 400 en total. Sony no ha comentado.",
+        "en": "Sony has sold 43 VR patents to Meta, per US patent office records; a December 2025 agreement points to over 400 in total. Sony has not commented."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/"
+      }
+    },
+    {
+      "text": {
+        "es": "Digital Foundry ve Dragon's Dogma 2: Dark Arisen en Switch 2 en «sorprendente buena forma» (1080p en dock con DLSS), pero no recomienda ninguno de sus tres modos gráficos sin reservas.",
+        "en": "Digital Foundry finds Dragon's Dogma 2: Dark Arisen on Switch 2 in \"surprisingly good shape\" (1080p docked via DLSS), but cannot recommend any of its three graphics modes without caveats."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2"
+      }
+    },
+    {
+      "text": {
+        "es": "Xbox prueba con Insiders un sistema de «rachas» en el panel: exige jugar tres días por semana para mantener el contador junto a la Gamerscore. No hay anuncio oficial.",
+        "en": "Xbox is testing a \"streak\" system with Insiders: playing three days a week keeps the counter next to Gamerscore alive. There is no official announcement."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/xbox-testing-a-new-streak-system-for-dashboard/"
+      }
+    },
+    {
+      "text": {
+        "es": "La demo «Prologue» de Metaphor: ReFantazio ya está en Switch 2 y su progreso pasa al juego completo, que sale el 12 de noviembre.",
+        "en": "The \"Prologue\" demo of Metaphor: ReFantazio is out on Switch 2 and its progress carries over to the full game, launching November 12."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/metaphor-refantazio-prologue-demo-for-switch-2-now-available"
+      }
+    },
+    {
+      "text": {
+        "es": "Según Deadline, Paramount desarrolla una película de acción real de Cyberpunk 2077 con Lorenzo di Bonaventura como productor; está en fase muy temprana y sin director ni reparto.",
+        "en": "Per Deadline, Paramount is developing a live-action Cyberpunk 2077 film with Lorenzo di Bonaventura producing; it is at a very early stage with no director or cast."
+      },
+      "source": {
+        "name": "Game Informer",
+        "url": "https://gameinformer.com/gamer-culture/2026/10/08/paramount-is-making-a-live-action-cyberpunk-2077-movie-with-the-producer"
+      }
+    },
+    {
+      "text": {
+        "es": "Shin chan: Me and the Professor on Summer Vacation y Shin chan: Shiro and the Coal Town llegarán a Switch 2 el 4 de marzo de 2027.",
+        "en": "Shin chan: Me and the Professor on Summer Vacation and Shin chan: Shiro and the Coal Town are coming to Switch 2 on March 4, 2027."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-and-shin-chan-shiro-and-the-coal-town-coming-to-switch-2-on-march-4-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Usual June se retrasa al 20 de enero de 2027.",
+        "en": "Usual June has been delayed to January 20, 2027."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/usual-june-delayed-to-january-20-2027"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Valor Mortis",
+      "platforms": "Xbox Series · PS5 · PC · Game Pass",
+      "note": {
+        "es": "13 de octubre",
+        "en": "October 13"
+      },
+      "url": "https://www.purexbox.com/news/2026/10/valor-mortis-reviews-are-mixed-ahead-of-its-xbox-game-pass-day-one-launch"
+    },
+    {
+      "title": "No Man's Sky (iOS)",
+      "platforms": "iOS",
+      "note": {
+        "es": "28 de octubre",
+        "en": "October 28"
+      },
+      "url": "https://www.gematsu.com/2026/10/no-mans-sky-coming-to-ios-on-october-28"
+    },
+    {
+      "title": "BUZZ or DIE",
+      "platforms": "PC",
+      "note": {
+        "es": "28 de octubre",
+        "en": "October 28"
+      },
+      "url": "https://www.gematsu.com/2026/10/buzz-or-die-launches-october-28"
+    },
+    {
+      "title": "Chivalware (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.gematsu.com/2026/10/chivalware-adds-switch-2-version-launches-november-5"
+    },
+    {
+      "title": "Metaphor: ReFantazio",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "12 de noviembre",
+        "en": "November 12"
+      },
+      "url": "https://www.gematsu.com/2026/10/metaphor-refantazio-prologue-demo-for-switch-2-now-available"
+    },
+    {
+      "title": "UnderMire",
+      "platforms": "PC",
+      "note": {
+        "es": "13 de noviembre",
+        "en": "November 13"
+      },
+      "url": "https://www.gematsu.com/2026/10/undermire-launches-november-13"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La plantilla de Epic y la comunidad reaccionan al «sin código a mano»: Sweeney defiende que la IA sirve para hacer más, no para recortar plantilla.",
+        "en": "Reaction to Epic's \"no handwritten code\" order: Sweeney argues AI is meant to build more, not cut staff."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Sonic Racing: CrossWorlds piden la Temporada 2 gratis a quienes compraron la Digital Deluxe por la promesa de «todo el DLC de pago futuro».",
+        "en": "Sonic Racing: CrossWorlds players demand Season 2 for free from Digital Deluxe buyers over the \"all future paid DLC\" promise."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/"
+      }
+    },
+    {
+      "text": {
+        "es": "El elogio de Yuji Horii a la IA para hacer juegos reabre el debate; Push Square lo vincula a la espera de Dragon Quest 12.",
+        "en": "Yuji Horii's praise of AI for making games reopens the debate; Push Square ties it to the wait for Dragon Quest 12."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai"
+      }
+    },
+    {
+      "text": {
+        "es": "Gears of War: E-Day: debate entre analistas sobre si Game Pass canibaliza las ventas.",
+        "en": "Gears of War: E-Day: analysts debate whether Game Pass cannibalises sales."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026285009/gears-of-war-eday-habria-vendido-230000-copias-pero-17-millones-de-jugadores-lo-han-disfrutado-en-game-pass/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Planet Zoo 2",
+      "url": "https://store.steampowered.com/app/3219030/"
+    },
+    {
+      "name": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Paquete de EA SPORTS FC™ 26 y 27",
+      "url": "https://store.steampowered.com/app/85334/"
+    }
+  ]
+}
