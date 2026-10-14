@@ -1,0 +1,780 @@
+{
+  "date": "2026-10-14",
+  "headline": {
+    "es": "Xbox crea Xbox Labs y GTA 6 llegaría a PC en el primer trimestre de 2027, según un informe",
+    "en": "Xbox launches Xbox Labs and GTA 6 reportedly reaches PC by Q1 2027"
+  },
+  "intro": {
+    "es": "Microsoft presenta Xbox Labs, Asha Sharma defiende crear nuevas sagas, Castlevania: Belmont's Curse recibe buenas críticas y Sony anuncia una PS5 negra solo para Japón. Lo importante del día, con sus fuentes.",
+    "en": "Microsoft unveils Xbox Labs, Asha Sharma argues for new franchises, Castlevania: Belmont's Curse earns strong reviews and Sony reveals a black PS5 for Japan only. The day's essentials, with sources."
+  },
+  "stories": [
+    {
+      "id": "xbox-labs-nueva-division-tecnologias-emergentes",
+      "category": "xbox",
+      "title": {
+        "es": "Microsoft anuncia Xbox Labs, un equipo para explorar tecnologías emergentes",
+        "en": "Microsoft announces Xbox Labs, a team to explore emerging technology"
+      },
+      "dek": {
+        "es": "Un mensaje interno de Asha Sharma presenta un grupo pequeño que convertirá ideas nuevas en cosas que jugadores y desarrolladores puedan probar.",
+        "en": "An internal message from Asha Sharma introduces a small group that will turn new ideas into things players and developers can try."
+      },
+      "body": {
+        "es": [
+          "Xbox presentó el 13 de octubre Xbox Labs mediante un mensaje de Asha Sharma enviado a toda la plantilla y publicado en Xbox Wire. Lo describe como un equipo reducido de creadores de juegos, ingenieros y científicos cuyo objetivo es hacer los juegos más accesibles, dar nueva vida a títulos antiguos y ayudar a que más jugadores se conviertan en creadores. Trabajará «en abierto» y compartirá las herramientas que desarrolle con el resto de la industria.",
+          "El texto cita como ejemplo proyectos recientes que han llevado juegos a hardware para el que no estaban pensados, como versiones de PC traducidas a Apple Silicon o juegos ejecutados en el navegador. VGC lo vincula con la ola de mods y ports asistidos por IA, y Kotaku lo califica de gran anuncio sobre IA. Sharma insiste en que las prioridades actuales de Xbox, entre ellas los juegos, el hardware y la gestión de sus franquicias, no cambian. No se han dado cifras de plantilla, presupuesto ni productos concretos."
+        ],
+        "en": [
+          "Xbox introduced Xbox Labs on October 13 through a message from Asha Sharma sent to all staff and published on Xbox Wire. She describes it as a small team of game makers, engineers and scientists meant to make games easier to access, give older titles new life and help more players become creators. It will work \"in the open\" and share the tools it builds with the wider industry.",
+          "The post points to recent projects that put games on hardware they were not designed for, such as PC builds translated to Apple Silicon or games running in a browser. VGC ties it to the surge of AI-assisted mods and ports, and Kotaku reads it as a big announcement about AI. Sharma stresses that Xbox's current priorities, including games, hardware and stewardship of its franchises, are unchanged. No headcount, budget or specific products were given."
+        ]
+      },
+      "why": {
+        "es": "Es la primera señal concreta de cómo la nueva cúpula de Xbox quiere aprovechar la IA y la comunidad de modders.",
+        "en": "It is the first concrete sign of how Xbox's new leadership wants to harness AI and the modding community."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/xbox-labs-is-a-big-announcement-about-ai-that-doesnt-mention-ai-once-2000745355"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/microsoft-anuncia-xbox-labs"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/xbox-announces-xbox-labs-to-explore-emerging-technologies"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/1280px-Xbox-console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/960px-Xbox-console.jpg",
+        "credit": "Evan-Amos / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox-console.jpg",
+        "license": "Public domain"
+      }
+    },
+    {
+      "id": "gta-6-pc-primer-trimestre-2027-rumor-gamesbeat",
+      "category": "juegos",
+      "title": {
+        "es": "Rumor: GTA 6 llegaría a PC en el primer trimestre de 2027",
+        "en": "Rumor: GTA 6 coming to PC in the first quarter of 2027"
+      },
+      "dek": {
+        "es": "GamesBeat, citando a cuatro fuentes anónimas, sitúa la versión de PC como máximo cuatro meses después de la de consolas.",
+        "en": "GamesBeat, citing four anonymous sources, places the PC version at most four months after the console launch."
+      },
+      "body": {
+        "es": [
+          "Según un informe de GamesBeat basado en cuatro fuentes anónimas de la industria, Rockstar planea lanzar la versión de PC de Grand Theft Auto VI dentro del primer trimestre de 2027, es decir, antes de que acabe marzo. Rockstar no ha anunciado versión de PC y no hay comunicado oficial sobre el asunto: se trata de un rumor.",
+          "Las versiones de PS5 y Xbox Series X|S están previstas para el 19 de noviembre. De confirmarse la ventana, la espera de los jugadores de PC sería mucho menor que la de GTA 5, que tardó cerca de un año y siete meses en llegar a ordenador, o la de GTA 4, unos siete meses, como recuerda VGC. El exproductor de Rockstar John Ricchio apunta en ese medio que priorizar consolas responde a la gestión de recursos y no a una desconfianza hacia el PC."
+        ],
+        "en": [
+          "According to a GamesBeat report based on four anonymous industry sources, Rockstar plans to release the PC version of Grand Theft Auto VI within the first quarter of 2027, meaning before the end of March. Rockstar has not announced a PC version and there is no official statement: this is a rumor.",
+          "The PS5 and Xbox Series X|S versions are scheduled for November 19. If the window holds, PC players would wait far less than for GTA 5, which took about a year and seven months to reach PC, or GTA 4, about seven months, as VGC notes. Former Rockstar producer John Ricchio tells that outlet that prioritizing consoles is about managing resources rather than any hostility toward PC."
+        ]
+      },
+      "why": {
+        "es": "Si se cumple, rompe el patrón histórico de Rockstar de dejar el PC para años después.",
+        "en": "If accurate, it breaks Rockstar's historical habit of leaving PC for years later."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/rumor-grand-theft-auto-vi-coming-to-pc-in-q1-2027"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026286026/gta-6-para-pc-ya-tendria-ventana-de-lanzamiento-y-estaria-mas-cerca-de-lo-esperado-principios-del-2027/"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-xbox-no-sobrevivira-solo-pasado-nueva-ip",
+      "category": "xbox",
+      "title": {
+        "es": "Sharma: Xbox «no sobrevivirá» viviendo solo de sus sagas del pasado",
+        "en": "Sharma: Xbox won't survive by relying only on past franchises"
+      },
+      "dek": {
+        "es": "La consejera delegada de Xbox defendió ante la plantilla seguir creando nueva propiedad intelectual, en plena polémica por los recortes.",
+        "en": "Xbox's CEO told staff the company must keep creating new IP, amid scrutiny over layoffs."
+      },
+      "body": {
+        "es": [
+          "Asha Sharma habló en una reunión interna de Microsoft la semana pasada, según Windows Central, que recogió Pure Xbox. Dijo que Xbox seguirá apostando por sus franquicias más fuertes, con la intención de convertirlas en «franquicias globales de mil millones de dólares», pero que también quiere ver cómo se crea «nueva IP duradera» que llegue a públicos nuevos.",
+          "Según la misma información, también habló de hacer crecer King y el juego casual y de «simplificar» la estructura de estudios, tras los movimientos recientes que han situado varios equipos propios bajo las marcas Activision y Bethesda. Pure Xbox señala que las declaraciones chocan con los cierres de estudios y los despidos recientes, y muchos lectores se muestran escépticos."
+        ],
+        "en": [
+          "Asha Sharma spoke at an internal Microsoft town hall last week, according to Windows Central, as relayed by Pure Xbox. She said Xbox will keep backing its strongest franchises, aiming to make them \"global billion-dollar franchises\", but also wants to see the company create \"enduring new IP\" that reaches new audiences.",
+          "The same report says she discussed growing King and casual games and \"simplifying\" the studio structure, following recent moves that placed several first-party teams under the Activision and Bethesda banners. Pure Xbox notes the comments sit awkwardly beside recent studio closures and job cuts, and many readers were skeptical."
+        ]
+      },
+      "why": {
+        "es": "Marca el discurso con el que Xbox intenta reconciliar los recortes con su futuro creativo.",
+        "en": "It sets the message Xbox is using to reconcile cutbacks with its creative future."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/asha-sharma-tells-employees-that-xbox-wont-survive-by-only-relying-on-past-franchises"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/no-sobreviviremos-vivimos-pasado-xbox-no-se-va-a-dedicar-a-hacer-siempre-mismos-juegos-defiende-su-ceo"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026286007/no-sobreviviremos-si-solo-vivimos-del-pasado-la-nueva-jefa-de-xbox-defiende-crear-nuevas-sagas/"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-belmonts-curse-resenas-positivas",
+      "category": "juegos",
+      "title": {
+        "es": "Castlevania: Belmont's Curse recibe críticas mayoritariamente positivas",
+        "en": "Castlevania: Belmont's Curse earns mostly positive reviews"
+      },
+      "dek": {
+        "es": "El juego de Evil Empire y Konami sale el 15 de octubre con notas que van del 7 al 10.",
+        "en": "Evil Empire and Konami's game launches October 15 with scores ranging from 7 to 10."
+      },
+      "body": {
+        "es": [
+          "Castlevania: Belmont's Curse, desarrollado por Evil Empire (Rogue Prince of Persia) junto a Motion Twin y publicado por Konami, sale el 15 de octubre. Es una aventura de acción y exploración en 2D protagonizada por Rose Belmont, ambientada 23 años después de Castlevania III. Según Nintendo Life, también estará en PS5, PC y Xbox Series X|S, y en Switch 2 se puede jugar con una tasa de fotogramas mejorada.",
+          "El recopilatorio de Nintendo Life recoge notas como el 10 de GameSpot, el 9,25 de Game Informer, el 8 de IGN o el 7 de Push Square y Siliconera. Los textos coinciden en que es un metroidvania sólido, aunque algunos lo ven más convincente como metroidvania que como Castlevania y citan dificultad irregular y problemas de rendimiento, sobre todo en Switch. 3DJuegos, por su parte, esperaba un buen juego pero no uno de los mejores del género."
+        ],
+        "en": [
+          "Castlevania: Belmont's Curse, developed by Evil Empire (Rogue Prince of Persia) with Motion Twin and published by Konami, launches October 15. It is a 2D action-exploration game starring Rose Belmont, set 23 years after Castlevania III. According to Nintendo Life it is also coming to PS5, PC and Xbox Series X|S, and on Switch 2 it plays with an improved frame rate.",
+          "Nintendo Life's round-up collects scores such as GameSpot's 10, Game Informer's 9.25, IGN's 8 and 7 from both Push Square and Siliconera. Critics broadly agree it is a solid metroidvania, though some find it stronger as a metroidvania than as a Castlevania, and cite uneven difficulty and performance problems, especially on Switch. 3DJuegos, for its part, expected a good game but not one of the genre's best."
+        ]
+      },
+      "why": {
+        "es": "Es la vuelta al 2D de una saga que llevaba años sin una entrada nueva de este tipo.",
+        "en": "It marks the return to 2D for a series that had gone years without a new entry of this kind."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/castlevania-belmonts-curse-is-getting-some-brilliant-review-scores-ahead-of-launch"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/castlevania-belmonts-curse/analisis/me-esperaba-buen-juego-no-uno-mejores-su-genero-analisis-castlevania-belmont-s-curse"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/4cf6d35e1d8c07fc552a59c970ed9af490ce75a5/ss_4cf6d35e1d8c07fc552a59c970ed9af490ce75a5.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg",
+        "credit": "KONAMI / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4231820/"
+      }
+    },
+    {
+      "id": "resident-evil-2-3-4-switch-2-16-octubre-notas",
+      "category": "nintendo",
+      "title": {
+        "es": "Resident Evil 2, 3 y 4 llegan a Switch 2 el 16 de octubre con notas altas, salvo RE3",
+        "en": "Resident Evil 2, 3 and 4 reach Switch 2 on October 16 with high scores, RE3 aside"
+      },
+      "dek": {
+        "es": "Las versiones nativas sustituyen a las de la nube; la edición física llegará el 29 de enero de 2027.",
+        "en": "Native versions replace the cloud ones; the physical edition arrives January 29, 2027."
+      },
+      "body": {
+        "es": [
+          "Resident Evil 2 Deluxe Edition, Resident Evil 3 y Resident Evil 4 Gold Edition salen en formato digital para Nintendo Switch 2 el 16 de octubre; las ediciones físicas llegarán el 29 de enero de 2027, según Nintenderos. Hasta ahora, la saga moderna de Capcom solo estaba en Switch mediante versiones en la nube, algo que Nintendo Life describe como controvertido.",
+          "Las primeras notas son muy buenas para RE2 (9,5 en Nintendo World Report y 9 en Nintendo Life, FingerGuns, TechRadar y SwitchUp) y RE4 (9 en Nintendo Life, Nintendo World Report y FingerGuns). RE3 queda por debajo: un 8 en FingerGuns, un 7,9 en SwitchUp y un 6 en Nintendo Life, que lo describe como una buena conversión de un remake menor."
+        ],
+        "en": [
+          "Resident Evil 2 Deluxe Edition, Resident Evil 3 and Resident Evil 4 Gold Edition launch digitally on Nintendo Switch 2 on October 16, with physical editions following on January 29, 2027, according to Nintenderos. Until now Capcom's modern Resident Evil games were on Switch only as cloud versions, which Nintendo Life calls controversial.",
+          "Early scores are very strong for RE2 (9.5 at Nintendo World Report and 9 at Nintendo Life, FingerGuns, TechRadar and SwitchUp) and RE4 (9 at Nintendo Life, Nintendo World Report and FingerGuns). RE3 trails: 8 at FingerGuns, 7.9 at SwitchUp and 6 at Nintendo Life, which calls it an impressive port of a subpar remake."
+        ]
+      },
+      "why": {
+        "es": "Capcom lleva a Switch 2 versiones locales de tres de sus remakes más populares.",
+        "en": "Capcom brings local versions of three of its most popular remakes to Switch 2."
+      },
+      "sources": [
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/estas-notas-se-han-llevado-resident-evil-2-deluxe-edition-resident-evil-3-y-resident-evil-4-gold-edition-en-nintendo-switch-2/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-4-gold-edition"
+        },
+        {
+          "name": "Nintendo Life (RE3)",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-3"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/resident-evil-4-remake/noticias/alguien-nintendo-deberia-hablar-capcom-porque-que-han-hecho-2026-resident-evil-switch-2-tremendo"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg",
+        "credit": "CAPCOM Co., Ltd. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2050650/"
+      }
+    },
+    {
+      "id": "ps5-digital-edition-midnight-black-japon-19-noviembre",
+      "category": "playstation",
+      "title": {
+        "es": "Sony anuncia una PS5 Digital Edition Midnight Black, de momento solo para Japón",
+        "en": "Sony announces a Midnight Black PS5 Digital Edition, Japan-only for now"
+      },
+      "dek": {
+        "es": "Sale el 19 de noviembre por 55.000 yenes; solo cambia el color, no el hardware.",
+        "en": "It launches November 19 for ¥55,000; only the color changes, not the hardware."
+      },
+      "body": {
+        "es": [
+          "Sony Interactive Entertainment Japan Asia lanzará el 19 de noviembre la PlayStation 5 Digital Edition en color Midnight Black, con mando DualSense a juego. Según VGC cuesta 55.000 yenes (unos 350 dólares) y es la variante más barata y bloqueada por región que se vende en Japón; Push Square precisa que solo cambia el color de la carcasa y del mando.",
+          "La consola funciona únicamente con una cuenta de PlayStation configurada en Japón y con el idioma del sistema en japonés. Sony ha anunciado también una unidad de disco Midnight Black para ese día, y por ahora no ha dicho si el modelo llegará a otros mercados."
+        ],
+        "en": [
+          "Sony Interactive Entertainment Japan Asia will release the PlayStation 5 Digital Edition in Midnight Black on November 19, with a matching DualSense controller. VGC reports it costs ¥55,000 (about $350) and is the cheaper region-locked variant sold in Japan; Push Square clarifies that only the color of the casing and controller changes.",
+          "The console works only with a PlayStation account set to Japan and the system language set to Japanese. Sony has also announced a Midnight Black disc drive for the same day, and has not said whether the model will reach other markets."
+        ]
+      },
+      "why": {
+        "es": "Es el primer modelo de PS5 totalmente negro, aunque su disponibilidad fuera de Japón sigue sin confirmarse.",
+        "en": "It is the first all-black PS5 model, though availability outside Japan remains unconfirmed."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/ps5-digital-edition-midnight-black-japan-only-model-launches-november-19"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026286008/sony-anuncia-una-nueva-ps5-completamente-negra-y-mas-barata-aunque-de-momento-solo-se-vendera-en-japon/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/1280px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/960px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "credit": "JDC808 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:All_PlayStations_(1-5,_PSP,_%26_Vita).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "peak-ps5-clasificacion-esrb-sin-anunciar",
+      "category": "playstation",
+      "title": {
+        "es": "Peak, el éxito cooperativo de 2025, aparece clasificado por la ESRB para PS5",
+        "en": "Peak, 2025's co-op hit, appears rated by the ESRB for PS5"
+      },
+      "dek": {
+        "es": "No hay anuncio oficial todavía; la ficha de la ESRB indica E10+.",
+        "en": "There is no official announcement yet; the ESRB listing shows E10+."
+      },
+      "body": {
+        "es": [
+          "La ESRB ha clasificado una versión de PS5 de Peak, el juego cooperativo de escalada de Aggro Crab y Landfall Games, con la calificación E10+. Ni los estudios ni Sony lo han anunciado oficialmente, así que la fecha y los detalles de la versión de consola siguen sin conocerse.",
+          "Push Square recuerda que el juego salió en PC en junio de 2025 y que ha superado los 10 millones de copias vendidas, con más de 146.500 reseñas «Muy positivas» en Steam. Considera probable un anuncio próximo, aunque las calificaciones por edades no siempre acaban en un lanzamiento inmediato."
+        ],
+        "en": [
+          "The ESRB has rated a PS5 version of Peak, the cooperative climbing game from Aggro Crab and Landfall Games, E10+. Neither the studios nor Sony have announced it officially, so the date and details of the console version remain unknown.",
+          "Push Square notes the game launched on PC in June 2025 and has passed 10 million copies sold, with more than 146,500 \"Overwhelmingly Positive\" reviews on Steam. It considers an announcement likely soon, though age ratings do not always lead to an immediate release."
+        ]
+      },
+      "why": {
+        "es": "Un fenómeno de 2025 en PC podría dar el salto a consola.",
+        "en": "A 2025 PC phenomenon may be heading to console."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/peak-one-of-2025s-biggest-breakout-hits-is-finally-coming-to-ps5"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/esrb-rates-peak-for-ps5"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026286029/ha-sido-uno-de-los-grandes-exitos-de-2025-y-prepara-su-lanzamiento-en-ps5-segun-esrb/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+        "credit": "Aggro Crab / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3527290/"
+      }
+    },
+    {
+      "id": "legacy-games-cierre-tienda-tuyos-para-siempre",
+      "category": "industria",
+      "title": {
+        "es": "Legacy Games cierra su tienda pese al lema «tuyos para siempre»",
+        "en": "Legacy Games shuts its store despite its \"yours to keep forever\" slogan"
+      },
+      "dek": {
+        "es": "Las compras no se podrán volver a descargar después del 28 de febrero de 2027.",
+        "en": "Purchases can no longer be re-downloaded after February 28, 2027."
+      },
+      "body": {
+        "es": [
+          "La tienda de juegos casuales Legacy Games cerrará el 31 de diciembre de 2026 y dejará de vender títulos. Quienes tengan juegos físicos con código de descarga deben canjearlos antes de esa fecha. Hasta el 28 de febrero de 2027 se podrán seguir descargando las compras anteriores desde el lanzador, incluidos los juegos gratuitos reclamados mediante Amazon Prime.",
+          "Pasada esa fecha, los juegos ya instalados seguirán funcionando mientras permanezcan en el dispositivo, pero no podrán descargarse de nuevo, y probablemente no se podrá trasladar la biblioteca a otro equipo. VGC contrasta la situación con el lema de la web, «yours to keep forever»; la empresa sostiene que los juegos instalados «seguirán siendo tuyos»."
+        ],
+        "en": [
+          "Casual game store Legacy Games will close on December 31, 2026 and stop selling titles. Owners of physical games with download codes must redeem them before then. Until February 28, 2027 previous purchases can still be downloaded through the launcher, including free games claimed via Amazon Prime.",
+          "After that date, games already installed will keep working as long as they stay on the device, but cannot be downloaded again, and the library likely cannot be moved to a new machine. VGC contrasts this with the site's \"yours to keep forever\" slogan; the company says installed games will \"stay yours\"."
+        ]
+      },
+      "why": {
+        "es": "Reabre el debate sobre qué significa «comprar» un juego digital.",
+        "en": "It reopens the debate over what it means to \"buy\" a digital game."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/online-store-that-promised-games-were-yours-to-keep-forever-is-shutting-down-2000745265"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026286025/una-tienda-de-juegos-con-el-mensaje-tuyos-para-siempre-anuncia-su-cierre-y-los-usuarios-perderan-las-compras/"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-laufey-edicion-coleccionista-sin-juego",
+      "category": "playstation",
+      "title": {
+        "es": "La edición de coleccionista de God of War Laufey no incluye el juego",
+        "en": "God of War Laufey's collector's edition does not include the game"
+      },
+      "dek": {
+        "es": "El Collector Box cuesta 130 libras en Reino Unido y 149,99 euros en España, según los medios.",
+        "en": "The Collector Box costs £130 in the UK and €149.99 in Spain, according to outlets."
+      },
+      "body": {
+        "es": [
+          "Sony ha abierto la reserva del God of War Laufey Collector Box, que aparecía antes en la tienda española de PlayStation sin anuncio previo. Contiene una estatua de resina con luz, una baraja de 51 cartas Oracle y un pequeño libro de arte, pero no el juego, que hay que comprar aparte. Kotaku cifra el precio en 130 libras en Reino Unido; Vandal da 149,99 euros para España.",
+          "Kotaku, en un texto de opinión de John Walker, sostiene que la omisión es deliberada y no está justificada, y recuerda que las ediciones especiales de God of War Ragnarök de 2023 llegaron con problemas con los códigos de descarga. GameSpot subraya igualmente que, a diferencia de las ediciones estándar y digital deluxe reservables desde el mes pasado, esta es solo una caja de merchandising."
+        ],
+        "en": [
+          "Sony has opened pre-orders for the God of War Laufey Collector Box, which first appeared on the Spanish PlayStation Store without prior announcement. It contains a light-up resin statue, a 51-card Oracle deck and a mini artbook, but not the game, which must be bought separately. Kotaku puts the UK price at £130; Vandal gives €149.99 for Spain.",
+          "Kotaku, in an opinion piece by John Walker, argues the omission is deliberate and unjustified, and recalls that the 2023 God of War Ragnarök special editions shipped with download-code problems. GameSpot likewise stresses that, unlike the standard and digital deluxe editions that went up for pre-order last month, this one is purely a box of merchandise."
+        ]
+      },
+      "why": {
+        "es": "Vuelve la polémica sobre ediciones de coleccionista que cobran por el merchandising pero no incluyen el juego.",
+        "en": "It revives the debate over collector's editions that charge for merchandise without including the game."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/god-of-war-laufey-collector-box-no-disc-download-code-statue-cards-2000745249"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/god-of-wars-laufey-collectors-edition-leaves-one-important-thing-out-the-game/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026286016/god-of-war-laufey-tendra-una-edicion-para-coleccionistas-de-14999-euros-con-figura-de-laufey-pero-sin-el-juego/"
+        }
+      ]
+    },
+    {
+      "id": "dan-houser-max-payne-3-fracase-entrevista-ign",
+      "category": "juegos",
+      "title": {
+        "es": "Dan Houser admite que falló con Max Payne 3: «Me equivoqué por completo»",
+        "en": "Dan Houser says he failed with Max Payne 3: \"I got that completely wrong\""
+      },
+      "dek": {
+        "es": "El cofundador de Rockstar repasa en IGN la recepción del juego de 2012.",
+        "en": "The Rockstar co-founder looks back in IGN at the reception of the 2012 game."
+      },
+      "body": {
+        "es": [
+          "En una entrevista con IGN recogida por Kotaku, Dan Houser, exvicepresidente y guionista principal de Rockstar, dice que creía haber creado «una experiencia noir digital realmente genial», pero que el consenso de entonces fue negativo, así que se equivocó por completo. Añade «fallé» y que su parte del juego no fue un éxito.",
+          "Houser opina que mucha gente echó de menos la escritura de Sam Lake, autor de los dos primeros juegos, desarrollados por Remedy. Max Payne 3, de 2012, lo desarrolló íntegramente Rockstar y trasladó la serie a Brasil. Kotaku indica que vendió menos que otros títulos de la compañía, sin dar cifras. PC Gamer, en cambio, discrepa y opina que Houser se equivoca al juzgarlo así. Remedy prepara ahora un remake de los dos primeros, publicado por Rockstar."
+        ],
+        "en": [
+          "In an IGN interview picked up by Kotaku, Dan Houser, Rockstar's former vice president and lead writer, says he thought he had made \"a really cool digital noir experience\", but the consensus at the time was negative, so he got it completely wrong. He adds \"I failed\" and that his part of the game was not a success.",
+          "Houser thinks many people missed the writing of Sam Lake, who wrote the first two games, developed by Remedy. Max Payne 3, from 2012, was developed entirely by Rockstar and moved the series to Brazil. Kotaku says it sold less than other Rockstar titles, without giving figures. PC Gamer, however, disagrees and argues Houser is wrong to judge it that way. Remedy is now remaking the first two games, published by Rockstar."
+        ]
+      },
+      "why": {
+        "es": "Una autocrítica poco habitual de uno de los creadores de Rockstar, justo cuando regresa la saga Max Payne.",
+        "en": "A rare self-critique from one of Rockstar's creators, just as the Max Payne series returns."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/max-payne-3-wasnt-a-big-hit-and-former-rockstar-vp-and-writer-dan-houser-blames-himself-i-failed-2000745306"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/max-payne-3/noticias/me-equivoque-completo-guionista-gta-5-red-dead-redemption-2-asume-culpa-juego-que-no-tuvo-exito-que-merecia"
+        }
+      ]
+    },
+    {
+      "id": "battlefield-6-game-pass-edicion-juego-del-ano",
+      "category": "xbox",
+      "title": {
+        "es": "Battlefield 6 llega a Game Pass con EA Play y estrena edición Juego del Año",
+        "en": "Battlefield 6 joins Game Pass via EA Play and gets a Game of the Year Edition"
+      },
+      "dek": {
+        "es": "La edición GOTY se vende aparte; Push Square cuestiona el motivo del nombre.",
+        "en": "The GOTY edition is sold separately; Push Square questions the name."
+      },
+      "body": {
+        "es": [
+          "Battlefield 6 ya está disponible mediante EA Play para suscriptores de Game Pass Ultimate, según Xbox Wire, y también se puede jugar con Xbox PC Game Pass y en la nube. EA Play incluye acceso ilimitado, un pack de la Temporada 5 y recompensas recurrentes, además de un 10 % de descuento en el Kit de atajos definitivo y Battlefield Pro.",
+          "EA ha lanzado además la edición Juego del Año, que no entra en la suscripción y se compra aparte. Según Push Square, reempaqueta la edición Phantom del lanzamiento y añade kits de atajos para cada clase. El medio ironiza con que el juego solo ha ganado un premio GOTY según un sitio de seguimiento sobre unos 700 medios. GameSpot informa además de una microtransacción de 30 dólares que desbloquea todas las armas al 100 % de maestría."
+        ],
+        "en": [
+          "Battlefield 6 is now available through EA Play for Game Pass Ultimate subscribers, per Xbox Wire, and can also be played with Xbox PC Game Pass and in the cloud. EA Play includes unlimited access, a Season 5 pack and recurring rewards, plus 10% off the Ultimate Shortcut Kit and Battlefield Pro.",
+          "EA has also released a Game of the Year Edition, which is not part of the subscription and must be bought separately. According to Push Square, it repackages the launch Phantom Edition and adds shortcut kits for every class. The outlet notes dryly that the game won just one GOTY award according to a tracking site covering about 700 outlets. GameSpot also reports a $30 microtransaction that instantly unlocks all guns at 100% mastery."
+        ]
+      },
+      "why": {
+        "es": "Suma un gran shooter al catálogo de Game Pass justo cuando Xbox redefine su estrategia.",
+        "en": "It adds a major shooter to Game Pass just as Xbox redefines its strategy."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/13/ea-play-october/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/battlefield-6-comes-to-game-pass-as-30-microtransaction-that-instantly-unlocks-all-guns-is-now-available/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2807960/"
+      }
+    },
+    {
+      "id": "levelord-richard-gray-fallece-duke-nukem-ritual",
+      "category": "industria",
+      "title": {
+        "es": "Muere Richard «Levelord» Gray, diseñador de niveles de Duke Nukem 3D y fundador de Ritual",
+        "en": "Richard \"Levelord\" Gray, Duke Nukem 3D level designer and Ritual co-founder, has died"
+      },
+      "dek": {
+        "es": "Su esposa dio la noticia; según Kotaku tenía 68 años y no se ha informado oficialmente de la causa.",
+        "en": "His wife shared the news; Kotaku says he was 68 and no official cause has been given."
+      },
+      "body": {
+        "es": [
+          "El diseñador de niveles Richard «Levelord» Gray ha fallecido, según PC Gamer y Kotaku. Apogee Entertainment compartió la noticia, que dio su esposa, y Kotaku indica que tenía 68 años. No se ha confirmado oficialmente la causa.",
+          "Gray empezó a crear mapas en la treintena y se incorporó al equipo de Duke Nukem 3D antes de fundar Ritual Entertainment, estudio que trabajó en la misión Scourge of Armagon de Quake, SiN, Star Trek: Elite Force 2 y Counter-Strike: Condition Zero. Kotaku destaca sus niveles «The Edge of Oblivion» y «Behind Zee Bookcase», y un huevo de Pascua oculto en Duke Nukem 3D que dice «You're not supposed to be here»."
+        ],
+        "en": [
+          "Level designer Richard \"Levelord\" Gray has died, according to PC Gamer and Kotaku. Apogee Entertainment shared the news, which came from his wife, and Kotaku says he was 68. No cause has been officially confirmed.",
+          "Gray began making maps in his thirties and joined the Duke Nukem 3D team before founding Ritual Entertainment, which worked on Quake's Scourge of Armagon mission pack, SiN, Star Trek: Elite Force 2 and Counter-Strike: Condition Zero. Kotaku highlights his levels \"The Edge of Oblivion\" and \"Behind Zee Bookcase\", and a hidden Duke Nukem 3D easter egg reading \"You're not supposed to be here\"."
+        ]
+      },
+      "why": {
+        "es": "Fue una figura influyente del diseño de niveles de los shooters de los años noventa.",
+        "en": "He was an influential figure in 1990s shooter level design."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/famous-and-innovative-duke-nukem-quake-level-designer-levelord-has-died-2000745380"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Xbox e IGN emitirán el ID@Xbox Showcase el 20 de octubre, con 18 juegos entre tráileres y gameplay y «muchos» estrenos mundiales.",
+        "en": "Xbox and IGN will stream the ID@Xbox Showcase on October 20, featuring 18 games across trailers and gameplay, with \"tons\" of world premieres."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-indie-showcase-to-highlight-18-games-this-month-including-tons-of-world-premieres"
+      }
+    },
+    {
+      "text": {
+        "es": "Valve ha dejado de fabricar las Index, lanzadas el 28 de junio de 2019; se vende el stock restante con descuento. Las gafas siguen siendo compatibles con Steam y SteamVR y su sucesora es Steam Frame.",
+        "en": "Valve has stopped making the Index, released June 28, 2019; remaining stock is sold at a discount. The headset stays compatible with Steam and SteamVR, and its successor is Steam Frame."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/pc/noticias/valve-dice-adios-a-parte-su-historia-7-anos-despues-su-lanzamiento-compania-se-despide-index"
+      }
+    },
+    {
+      "text": {
+        "es": "Bandai Namco convertirá en juego independiente Ace Combat 0: The Belkan War en Steam, que hasta ahora se lanzaba desde Ace Combat 8. Conservará las partidas; no hay fecha. Ace Combat 8 supera el millón de copias desde el 2 de octubre.",
+        "en": "Bandai Namco will turn Ace Combat 0: The Belkan War on Steam into a standalone app; it used to launch through Ace Combat 8. Saves carry over; no date yet. Ace Combat 8 has passed a million copies since its October 2 launch."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/after-fan-outrage-bandai-namco-will-make-ace-combat-zero-a-standalone-game-2000745289"
+      }
+    },
+    {
+      "text": {
+        "es": "Project Zomboid vendió 305.000 copias en Steam en septiembre, impulsado por Build 42, la mayor actualización de su historia lanzada en julio, y entró en el top 10 de Steam.",
+        "en": "Project Zomboid sold 305,000 copies on Steam in September, boosted by Build 42, the biggest update in its history released in July, and entered Steam's top 10."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026286012/project-zomboid-resucita-13-anos-despues-vende-305000-copias-en-un-mes-y-entra-en-el-top-10-de-steam/"
+      }
+    },
+    {
+      "text": {
+        "es": "RimWorld abandona Unity y pasa a un motor propio; según PC Gamer, las partidas guardadas y la mayoría de mods siguen funcionando y el juego va el doble de rápido.",
+        "en": "RimWorld is dropping Unity for an in-house engine; per PC Gamer, saves and most mods still work and the game runs twice as fast."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/"
+      }
+    },
+    {
+      "text": {
+        "es": "Halo Fest 2026, previsto para diciembre, sigue adelante pese a los despidos en Halo Studios; esta semana habrá novedades, según la directora de competitivo del estudio.",
+        "en": "Halo Fest 2026, planned for December, is going ahead despite layoffs at Halo Studios; news is due this week, per the studio's director of competitive engagement."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon/"
+      }
+    },
+    {
+      "text": {
+        "es": "Shin chan: Me and the Professor on Summer Vacation y Shin chan: Shiro and the Coal Town llegarán a Switch 2 el 4 de marzo de 2027, con edición física conjunta.",
+        "en": "Shin chan: Me and the Professor on Summer Vacation and Shin chan: Shiro and the Coal Town are coming to Switch 2 on March 4, 2027, with a physical bundle."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-and-shin-chan-shiro-and-the-coal-town-coming-to-switch-2-on-march-4-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Un nuevo parche de Oblivion Remastered en Switch 2 corrige la «degradación visual global» introducida por la actualización anterior.",
+        "en": "A new Oblivion Remastered patch on Switch 2 fixes the \"global visual degradation\" introduced by the previous update."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue"
+      }
+    },
+    {
+      "text": {
+        "es": "La demo «Prologue» de Metaphor: ReFantazio ya está disponible gratis en Switch 2.",
+        "en": "The \"Prologue\" demo of Metaphor: ReFantazio is now available on Switch 2."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/metaphor-refantazio-prologue-demo-for-switch-2-now-available"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintendo añade Monster Rancher Advance, Metal Slug Advance y Kururin Paradise a Game Boy Advance – Nintendo Classics.",
+        "en": "Nintendo adds Monster Rancher Advance, Metal Slug Advance and Kururin Paradise to Game Boy Advance – Nintendo Classics."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/game-boy-advance-nintendo-classics-adds-monster-rancher-advance-metal-slug-advance-and-kururin-paradise"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Castlevania: Belmont's Curse",
+      "platforms": "Switch · Switch 2 · PS5 · Xbox Series · PC",
+      "note": {
+        "es": "15 de octubre",
+        "en": "October 15"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in"
+    },
+    {
+      "title": "ANTONBLAST (PS5, PS4)",
+      "platforms": "PS5 · PS4",
+      "note": {
+        "es": "15 de octubre",
+        "en": "October 15"
+      },
+      "url": "https://www.gematsu.com/2026/10/antonblast-for-ps5-ps4-launches-october-15"
+    },
+    {
+      "title": "Resident Evil 2 Deluxe, RE3 y RE4 Gold",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "16 de octubre (digital)",
+        "en": "October 16 (digital)"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/estas-notas-se-han-llevado-resident-evil-2-deluxe-edition-resident-evil-3-y-resident-evil-4-gold-edition-en-nintendo-switch-2/"
+    },
+    {
+      "title": "Escape Academy 2: Back 2 School (PS5)",
+      "platforms": "PS5",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.pushsquare.com/news/2026/10/open-world-puzzler-escape-academy-2-back-2-school-enrols-on-ps5-this-november"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Kotaku titula que Xbox Labs es un gran anuncio sobre IA sin usar la palabra «IA»; Xbox lo presenta como un equipo para explorar tecnologías emergentes.",
+        "en": "Kotaku headlines Xbox Labs as a big AI announcement that never says \"AI\"; Xbox presents it as a team to explore emerging technology."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-labs-is-a-big-announcement-about-ai-that-doesnt-mention-ai-once-2000745355"
+      }
+    },
+    {
+      "text": {
+        "es": "Pure Xbox señala que las palabras de Sharma sobre nueva IP chocan con los cierres de estudios, y muchos comentaristas se muestran escépticos.",
+        "en": "Pure Xbox notes Sharma's new-IP remarks sit awkwardly beside studio closures, and many commenters are skeptical."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/asha-sharma-tells-employees-that-xbox-wont-survive-by-only-relying-on-past-franchises"
+      }
+    },
+    {
+      "text": {
+        "es": "El Collector Box de God of War Laufey sin juego provoca críticas por su precio y por cobrar el merchandising sin incluir el título.",
+        "en": "God of War Laufey's game-less Collector Box draws criticism over its price and charging for merchandise without the title."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/god-of-war-laufey-collector-box-no-disc-download-code-statue-cards-2000745249"
+      }
+    },
+    {
+      "text": {
+        "es": "El lema «yours to keep forever» de Legacy Games se vuelve en su contra al anunciar el cierre de la tienda.",
+        "en": "Legacy Games' \"yours to keep forever\" slogan backfires as the store announces its closure."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Total War: SHOGUN 2 – Edición completa",
+      "url": "https://store.steampowered.com/app/3846830/"
+    },
+    {
+      "name": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500/"
+    },
+    {
+      "name": "Valor Mortis",
+      "url": "https://store.steampowered.com/app/2828710/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282/"
+    },
+    {
+      "name": "Planet Zoo 2",
+      "url": "https://store.steampowered.com/app/3219030/"
+    },
+    {
+      "name": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220/"
+    }
+  ]
+}
