@@ -1,0 +1,584 @@
+{
+  "date": "2026-10-15",
+  "headline": {
+    "es": "Ubisoft cierra RedLynx y Xbox sondea volver a las exclusivas, mientras Zelda: Ocarina of Time se acerca",
+    "en": "Ubisoft closes RedLynx and Xbox polls players on exclusives as the Ocarina of Time remake nears"
+  },
+  "intro": {
+    "es": "Ubisoft propone cerrar el estudio de Trials, Xbox pregunta a sus usuarios por las exclusivas y los primeros avances del remake de Zelda: Ocarina of Time son muy positivos. También, el nuevo launcher de Epic y el adiós de League of Legends Classic.",
+    "en": "Ubisoft proposes closing the Trials studio, Xbox asks users about exclusives and the first previews of the Zelda: Ocarina of Time remake are very positive. Plus Epic's new launcher and the end of League of Legends Classic."
+  },
+  "stories": [
+    {
+      "id": "ubisoft-cierre-redlynx-trials-recortes-singapur",
+      "category": "industria",
+      "title": {
+        "es": "Ubisoft propone cerrar RedLynx, el estudio de Trials, y recortar Ubisoft Singapur",
+        "en": "Ubisoft proposes closing Trials studio RedLynx and downsizing Ubisoft Singapore"
+      },
+      "dek": {
+        "es": "El cierre del estudio finlandés está en fase de propuesta, a la espera de las negociaciones laborales en Finlandia.",
+        "en": "The closure of the Finnish studio is at proposal stage, pending labor negotiations in Finland."
+      },
+      "body": {
+        "es": [
+          "Ubisoft ha anunciado que plantea cerrar RedLynx, el estudio finlandés conocido por la saga Trials. Según Game Developer, el cierre afectaría a 52 puestos y todavía depende de las negociaciones de cambio que exige la ley finlandesa, de modo que sigue siendo una propuesta. Ubisoft no ha explicado en detalle la decisión; la prensa apunta a que el estudio no tenía un proyecto asignado.",
+          "La compañía también prevé reducir plantilla en Ubisoft Singapur, el estudio de Skull and Bones y Assassin's Creed Black Flag Resynced: unas 70 personas, según VGC, para ajustarse a las necesidades de producción futuras. Los recortes forman parte de la reorganización en «creative houses» que Ubisoft inició en enero y que ya ha afectado a otros estudios. Las fuentes difieren en el total de empleos en juego, así que no se da una cifra global."
+        ],
+        "en": [
+          "Ubisoft has announced plans to close RedLynx, the Finnish studio known for the Trials series. According to Game Developer the closure would affect 52 jobs and still depends on the change negotiations required by Finnish law, so it remains a proposal. Ubisoft has not explained the decision in detail; press reports suggest the studio had no project assigned.",
+          "The company also plans to cut staff at Ubisoft Singapore, the studio behind Skull and Bones and Assassin's Creed Black Flag Resynced: around 70 people, per VGC, to match future production needs. The cuts are part of the \"creative houses\" restructuring Ubisoft began in January, which has already hit other studios. Sources differ on the total number of jobs at stake, so no overall figure is given."
+        ]
+      },
+      "why": {
+        "es": "Confirma que la reestructuración de Ubisoft sigue cerrando estudios con sagas propias, no solo proyectos concretos.",
+        "en": "It confirms Ubisoft's restructuring keeps closing studios with franchises of their own, not just individual projects."
+      },
+      "sources": [
+        { "name": "Game Developer", "url": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore" },
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/" },
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure" },
+        { "name": "Eurogamer.es", "url": "https://www.eurogamer.es/ubisoft-planea-cerrar-redlynx-trials-y-despedir-a-un-20-de-ubisoft-singapur-ac-black-flag-resynced" }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Gamescom_2009_-_Ubisoft_%285070%29.jpg/1280px-Gamescom_2009_-_Ubisoft_%285070%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Gamescom_2009_-_Ubisoft_%285070%29.jpg/960px-Gamescom_2009_-_Ubisoft_%285070%29.jpg",
+        "credit": "© Raimond Spekking / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Gamescom_2009_-_Ubisoft_(5070).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "xbox-encuesta-exclusividad-fallout-elder-scrolls-minecraft",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox sondea a usuarios sobre volver a las exclusivas: Fallout, The Elder Scrolls y Minecraft",
+        "en": "Xbox reportedly polls users on a return to exclusives: Fallout, The Elder Scrolls and Minecraft"
+      },
+      "dek": {
+        "es": "Una encuesta a Xbox Insiders plantea escenarios que van de exclusividad temporal a que casi todos los juegos nuevos sean solo de Xbox y PC.",
+        "en": "A survey sent to Xbox Insiders floats scenarios from temporary exclusivity to nearly all new games being Xbox and PC only."
+      },
+      "body": {
+        "es": [
+          "Windows Central informó de una encuesta enviada a algunos miembros del programa Xbox Insider, cuya autenticidad confirmó el medio. Según Push Square, las preguntas piden imaginar que series como Fallout, The Elder Scrolls o Minecraft dejaran de estar en PlayStation y Nintendo, para medir si eso llevaría a comprar una Xbox, pasarse al PC o directamente no jugar. Nintenderos añade a Doom y Diablo entre las franquicias citadas.",
+          "Uno de los escenarios convertiría en exclusivos de consola Xbox todos los futuros juegos de sus estudios salvo Call of Duty; en el caso de Minecraft, las versiones actuales dejarían de venderse y de recibir contenido en otras consolas, y quienes ya las tienen las conservarían. En PC no cambiaría nada. Microsoft no ha hecho ningún comentario oficial: una encuesta no implica que haya una decisión, y la muestra son usuarios muy implicados con la marca.",
+          "GameSpot recuerda que la consejera delegada de Xbox, Asha Sharma, ya ha insinuado cambios en la estrategia de exclusivas."
+        ],
+        "en": [
+          "Windows Central reported on a survey sent to some Xbox Insider members, and confirmed it was authentic. According to Push Square, the questions ask respondents to imagine series such as Fallout, The Elder Scrolls or Minecraft leaving PlayStation and Nintendo, to gauge whether that would make them buy an Xbox, move to PC or simply skip the games. Nintenderos adds Doom and Diablo to the franchises named.",
+          "One scenario would make all future games from Xbox's studios Xbox console exclusives except Call of Duty; for Minecraft, current versions would stop being sold and updated on other consoles, while existing owners keep what they have. Nothing would change on PC. Microsoft has made no official comment: a survey does not mean a decision has been made, and the sample is made of highly engaged fans.",
+          "GameSpot notes that Xbox CEO Asha Sharma has already hinted at changes to the exclusivity strategy."
+        ]
+      },
+      "why": {
+        "es": "Un giro así invertiría la política multiplataforma de los últimos años y afectaría a millones de jugadores de PlayStation y Switch.",
+        "en": "Such a shift would reverse the multiplatform policy of recent years and affect millions of PlayStation and Switch players."
+      },
+      "sources": [
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive" },
+        { "name": "GameSpot", "url": "https://www.gamespot.com/articles/xbox-survey-about-exclusives-includes-a-nuclear-strategy-but-wait-just-a-minute/" },
+        { "name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/microsoft-estudia-hacer-exclusivos-de-xbox-juegos-como-fallout-y-minecraft-que-dejarian-de-recibir-novedades-en-nintendo-y-playstation/" },
+        { "name": "Insider Gaming", "url": "https://insider-gaming.com/microsoft-xbox-future-exclusivity-survey/" }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-primeros-avances-switch-2",
+      "category": "nintendo",
+      "title": {
+        "es": "Los primeros avances del remake de Zelda: Ocarina of Time lo reciben con entusiasmo",
+        "en": "First previews of the Zelda: Ocarina of Time remake are enthusiastic"
+      },
+      "dek": {
+        "es": "La prensa elogia el detalle visual y los cambios «bajo la superficie»; llega a Switch 2 el 5 de noviembre.",
+        "en": "Press praise the visual detail and the changes \"under the surface\"; it arrives on Switch 2 on November 5."
+      },
+      "body": {
+        "es": [
+          "Nintendo ha dejado de restringir los primeros avances del remake de The Legend of Zelda: Ocarina of Time para Switch 2, que sale el 5 de noviembre de 2026. Según el resumen de Nintendo Life, el tono es muy positivo: IGN habla de un remake centrado en la profundidad más que en el alcance, GameSpot destaca el nuevo botón de salto, que moderniza la exploración y las plataformas, y Game Informer elogia el detalle «maximalista» de personajes y escenarios.",
+          "Hay matices: Game Informer encuentra que el combate a veces se siente anticuado, The Guardian cree que Hyrule Field aún parece un espacio artificial frente a Breath of the Wild y Eurogamer considera molesto el doblaje inglés. Nintendo Life también publicó 20 minutos de gameplay y señala que el juego incluye un museo y un modo de contrarreloj contra jefes."
+        ],
+        "en": [
+          "Nintendo lifted the embargo on the first previews of The Legend of Zelda: Ocarina of Time remake for Switch 2, which launches on November 5, 2026. According to Nintendo Life's roundup the tone is very positive: IGN describes a remake focused on depth rather than scope, GameSpot highlights the new jump button that modernizes exploration and platforming, and Game Informer praises the \"maximalist\" detail in characters and environments.",
+          "There are caveats: Game Informer finds combat sometimes feels dated, The Guardian thinks Hyrule Field still feels like an artificial space next to Breath of the Wild, and Eurogamer finds the English voice acting grating. Nintendo Life also published 20 minutes of gameplay and notes the game includes a museum and a boss time trial mode."
+        ]
+      },
+      "why": {
+        "es": "Es uno de los grandes lanzamientos de Switch 2 de este otoño y los avances apuntan a una buena acogida.",
+        "en": "It is one of Switch 2's big releases this fall, and the previews point to a warm reception."
+      },
+      "sources": [
+        { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2" },
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/" },
+        { "name": "Kotaku", "url": "https://kotaku.com/nintendo-breathes-quality-of-life-into-the-ocarina-of-time-remake-2000745964" },
+        { "name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/las-impresiones-de-la-prensa-de-zelda-ocarina-of-time-nos-dejan-nuevos-detalles-imagenes-y-extenso-gameplay/" }
+      ]
+    },
+    {
+      "id": "xbox-nano-controller-mando-compacto-49-99-dolares",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox presenta el Nano Controller, un mando compacto y recargable de 49,99 dólares",
+        "en": "Xbox unveils the Nano Controller, a compact rechargeable pad at $49.99"
+      },
+      "dek": {
+        "es": "Pensado para manos pequeñas y jugadores jóvenes, se reserva desde hoy y llega en noviembre.",
+        "en": "Designed for smaller hands and younger players, it is available to pre-order today and arrives in November."
+      },
+      "body": {
+        "es": [
+          "Microsoft anunció el Xbox Nano Controller, un mando más pequeño y barato que el actual: mide algo más de 5 pulgadas, pesa 3,5 onzas y cuesta 49,99 dólares. Conserva los 18 controles estándar y añade un botón de acción programable para atajos como capturas de pantalla o grabación de partidas.",
+          "Usa batería recargable en lugar de pilas AA y se conecta por Xbox Wireless y Bluetooth. La reserva está abierta desde el 14 de octubre en la web de Xbox y el lanzamiento está previsto para noviembre en mercados como EE. UU., Reino Unido, Canadá, Japón y Alemania, con más países después. Xbox Wire no detalla la duración de la batería."
+        ],
+        "en": [
+          "Microsoft announced the Xbox Nano Controller, a smaller and cheaper pad than the current one: it measures a little over 5 inches, weighs 3.5 ounces and costs $49.99. It keeps all 18 standard inputs and adds a programmable Action Button for shortcuts such as screenshots or gameplay capture.",
+          "It uses a rechargeable battery instead of AA cells and connects via Xbox Wireless and Bluetooth. Pre-orders opened October 14 on the Xbox site, with launch planned for November in markets including the US, UK, Canada, Japan and Germany, and more to follow. Xbox Wire does not give battery life."
+        ]
+      },
+      "why": {
+        "es": "Abarata el acceso al ecosistema Xbox para niños y jugadores con manos pequeñas.",
+        "en": "It lowers the cost of entry to the Xbox ecosystem for children and players with smaller hands."
+      },
+      "sources": [
+        { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller/" },
+        { "name": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/xbox-unveils-new-nano-controller-perfect-for-smaller-hands" },
+        { "name": "Gematsu", "url": "https://www.gematsu.com/2026/10/xbox-nano-controller-announced" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026287029/microsoft-anuncia-un-nuevo-mando-asi-es-el-xbox-nano-con-bateria-recargable-y-pensado-para-manos-pequenas/" }
+      ]
+    },
+    {
+      "id": "rockstar-proximo-juego-no-tardara-ocho-anos-gta-6",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar promete que su próximo juego tras GTA 6 no tardará otros ocho años",
+        "en": "Rockstar says its next game after GTA 6 won't take another eight years"
+      },
+      "dek": {
+        "es": "Phil Hooker y Aaron Garbut dicen a Bloomberg que el motor, las herramientas y el equipo de GTA 6 acelerarán lo siguiente.",
+        "en": "Phil Hooker and Aaron Garbut tell Bloomberg the engine, tools and team built for GTA 6 will speed up what comes next."
+      },
+      "body": {
+        "es": [
+          "En una entrevista con Bloomberg, recogida por VGC, los responsables de Rockstar Phil Hooker y Aaron Garbut aseguran que el siguiente juego del estudio no necesitará tanto tiempo como GTA 6. Hooker afirma que el motor, las herramientas y el equipo creados durante este proyecto permitirán «hacer las cosas más rápido» y que confía en poder «ir más hacia los lados que hacia arriba».",
+          "Garbut añade que cambiaron «muchas cosas de forma fundamental», pero que no piensan desmontarlo todo ahora. Bloomberg compara la situación con Vice City, que llegó un año después de GTA 3 aprovechando su base, aunque VGC aclara que nada sugiere un plazo tan corto. GTA 6 sale el 19 de noviembre y será el primer gran juego para un jugador de Rockstar desde Red Dead Redemption 2, en 2018."
+        ],
+        "en": [
+          "In a Bloomberg interview relayed by VGC, Rockstar's Phil Hooker and Aaron Garbut say the studio's next game won't need as long as GTA 6. Hooker says the engine, tools and team built during this project will let them \"do things more quickly\" and that he is confident they can \"go more sideways than upwards.\"",
+          "Garbut adds that they \"foundationally changed a lot of stuff\" but won't tear it all apart now. Bloomberg compares it to Vice City, which arrived a year after GTA 3 by building on its groundwork, though VGC stresses nothing suggests such a short gap. GTA 6 launches on November 19 and will be Rockstar's first major single-player release since Red Dead Redemption 2 in 2018."
+        ]
+      },
+      "why": {
+        "es": "Responde a la preocupación de que el siguiente Rockstar tarde otra década.",
+        "en": "It answers fears that the next Rockstar game could take another decade."
+      },
+      "sources": [
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/" },
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait" },
+        { "name": "GameSpot", "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/" },
+        { "name": "Eurogamer.es", "url": "https://www.eurogamer.es/rockstar-asegura-que-no-hara-falta-esperar-ocho-anos-para-el-proximo-grand-theft-auto" }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg/1280px-Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg/960px-Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Rockstar_Games,_Game_Developers_Choice_Awards_2019.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    {
+      "id": "epic-nuevo-launcher-vibe-coding-fortnite-linux",
+      "category": "pc",
+      "title": {
+        "es": "Epic estrena un launcher creado con IA y promete Fortnite en Linux",
+        "en": "Epic releases an AI-built launcher and promises Fortnite on Linux"
+      },
+      "dek": {
+        "es": "La versión preliminar llega a Windows, macOS y Linux; Epic afirma que muestra la tienda en la mitad de tiempo que Steam.",
+        "en": "The preview version arrives on Windows, macOS and Linux; Epic says it shows its store in about half the time Steam takes."
+      },
+      "body": {
+        "es": [
+          "Epic Games ha lanzado una versión preliminar de su nuevo launcher para Windows, macOS y, por primera vez, Linux nativo. La compañía asegura que lo desarrolló mediante «vibe coding»: la IA escribió el código bajo la dirección y supervisión del equipo. Según pruebas que Epic encargó a Keywords Studios, la tienda tarda 5,47 segundos en mostrarse frente a 10,07 de Steam, y la biblioteca carga 30 veces más rápido que la versión anterior. Son datos de Epic, no una comparación independiente.",
+          "Por ahora faltan logros, perfiles y publicaciones, y la versión definitiva se espera para 2027. Fortnite y Rocket League siguen usando el launcher antiguo. Epic también anunció que Fortnite llegará a Linux cuando tenga lista una nueva implementación de Easy Anti-Cheat, sin fecha. El anuncio ha recibido críticas en redes por el enfoque de IA, según Kotaku."
+        ],
+        "en": [
+          "Epic Games has released a preview of its new launcher for Windows, macOS and, for the first time, native Linux. The company says it was built through \"vibe coding\": AI wrote the code under the team's direction and oversight. In tests Epic commissioned from Keywords Studios, the store takes 5.47 seconds to appear versus 10.07 for Steam, and the library loads 30 times faster than the previous version. These are Epic's figures, not an independent comparison.",
+          "For now achievements, profiles and posts are missing, and the final version is expected in 2027. Fortnite and Rocket League still use the old launcher. Epic also said Fortnite will come to Linux once a new Easy Anti-Cheat implementation is ready, with no date. The announcement drew criticism online over its AI approach, per Kotaku."
+        ]
+      },
+      "why": {
+        "es": "Abre la puerta a que el mayor juego con anticheat bloqueado en Linux llegue a Steam Deck y Steam Machine, y reaviva el debate sobre la IA en el desarrollo.",
+        "en": "It opens the door to one of the biggest anti-cheat-blocked games reaching Linux devices like Steam Deck and Steam Machine, and fuels the debate over AI in development."
+      },
+      "sources": [
+        { "name": "3DJuegos", "url": "https://www.3djuegos.com/juegos/fortnite/noticias/comienza-nueva-era-para-epic-games-store-nuevo-launcher-hecho-ia-para-competir-steam-gran-noticia-fortnite-linux" },
+        { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/" },
+        { "name": "Kotaku", "url": "https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031" },
+        { "name": "Eurogamer.es", "url": "https://www.eurogamer.es/epic-ha-vibe-codeado-un-nuevo-launcher-de-su-store-porque-programar-es-dificil" }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/1280px-Epic_Games_office.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/960px-Epic_Games_office.jpg",
+        "credit": "Sergey Galyonkin / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Epic_Games_office.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    {
+      "id": "total-war-shogun-2-edicion-completa-rechazo-jugadores",
+      "category": "pc",
+      "title": {
+        "es": "Total War: Shogun 2 – Edición completa, hundido en Steam por las quejas de los jugadores",
+        "en": "Total War: Shogun 2 – Complete Edition review-bombed over player complaints"
+      },
+      "dek": {
+        "es": "Los jugadores critican rendimiento, errores, soporte de mods y arte que sospechan reescalado con IA generativa.",
+        "en": "Players criticize performance, bugs, mod support and art they suspect was upscaled with generative AI."
+      },
+      "body": {
+        "es": [
+          "Total War: Shogun 2 – Complete Edition salió el 13 de octubre y, según Kotaku, tiene valoración «Abrumadoramente negativa» en Steam, con un 82 % de reseñas negativas en las últimas 24 horas. Los jugadores citan mal rendimiento, errores nuevos y antiguos, soporte de mods roto y que el tamaño de instalación pasó de 3,85 GB a 45 GB. También protestan porque Sega retiró de la tienda las versiones anteriores y subió el precio.",
+          "La polémica se agrava por la sospecha de que las ilustraciones de unidades y de la enciclopedia se reescalaron con IA generativa: Kotaku muestra comparaciones con figuras fusionadas y emblemas deformados. Ni Sega ni Creative Assembly habían respondido sobre el uso de IA al publicarse el artículo, y la ficha de Steam no declara su uso. Solo cuatro críticos la han analizado, con un Metascore de 86."
+        ],
+        "en": [
+          "Total War: Shogun 2 – Complete Edition launched on October 13 and, per Kotaku, sits at \"Overwhelmingly Negative\" on Steam, with 82% negative reviews in the previous 24 hours. Players cite poor performance, new and old bugs, broken mod support and an install size that grew from 3.85 GB to 45 GB. They also object that Sega delisted earlier versions and raised the price.",
+          "The row is sharpened by suspicion that unit and encyclopedia artwork was upscaled with generative AI: Kotaku shows comparisons with merged figures and distorted emblems. Neither Sega nor Creative Assembly had answered about AI use at publication, and the Steam page does not disclose any. Only four critics have reviewed it, giving a Metascore of 86."
+        ]
+      },
+      "why": {
+        "es": "Es un nuevo caso de rechazo a la IA generativa en relanzamientos de clásicos, y llega con un precio más alto.",
+        "en": "It is another case of pushback against generative AI in classic re-releases, arriving at a higher price."
+      },
+      "sources": [
+        { "name": "Kotaku", "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877" },
+        { "name": "Steam", "url": "https://store.steampowered.com/app/3846830/" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/a2989ba555b450d5b91d15d7a3a48b3519646b6c/ss_a2989ba555b450d5b91d15d7a3a48b3519646b6c.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/d0ee9f67d5afcf19e5e8d7955fc831d5d197bdb0/header.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3846830/"
+      }
+    },
+    {
+      "id": "ps-plus-extra-premium-octubre-2026-mafia-horizon",
+      "category": "playstation",
+      "title": {
+        "es": "PS Plus Extra y Premium de octubre: Mafia: The Old Country, Horizon Forbidden West y Mycopunk",
+        "en": "October PS Plus Extra and Premium: Mafia: The Old Country, Horizon Forbidden West and Mycopunk"
+      },
+      "dek": {
+        "es": "Nueve juegos en el catálogo, con las primeras llegadas el 20 de octubre.",
+        "en": "Nine games join the catalog, with the first arriving on October 20."
+      },
+      "body": {
+        "es": [
+          "Sony ha confirmado el catálogo de PlayStation Plus Extra y Premium para octubre. El 20 de octubre llegan Mafia: The Old Country (PS5), Horizon Forbidden West (PS5, PS4) y Mycopunk (PS5); The Midnight Walk entra el 14 de octubre en EE. UU. y Reino Unido y el 15 en Japón. El 27 de octubre se suman Poppy Playtime: Chapter 2, Tales of Arise – Beyond the Dawn Edition y Monster Energy Supercross 25.",
+          "En Premium, el catálogo clásico incluye Dino Crisis 2 y RollerCoaster Tycoon 3 Complete Edition, y habrá pruebas de juego de Resonance: A Plague Tale Legacy y Mortal Shell II desde el 20 de octubre. Las fechas pueden variar por región, según PlayStation Blog."
+        ],
+        "en": [
+          "Sony has confirmed the PlayStation Plus Extra and Premium lineup for October. On October 20 Mafia: The Old Country (PS5), Horizon Forbidden West (PS5, PS4) and Mycopunk (PS5) arrive; The Midnight Walk joins on October 14 in the US and UK and October 15 in Japan. On October 27 Poppy Playtime: Chapter 2, Tales of Arise – Beyond the Dawn Edition and Monster Energy Supercross 25 follow.",
+          "In Premium, the classics lineup includes Dino Crisis 2 and RollerCoaster Tycoon 3 Complete Edition, with game trials of Resonance: A Plague Tale Legacy and Mortal Shell II from October 20. Dates may vary by region, per PlayStation Blog."
+        ]
+      },
+      "why": {
+        "es": "Suma varios estrenos recientes al servicio en un mes cargado para los suscriptores.",
+        "en": "It adds several recent releases to the service in a busy month for subscribers."
+      },
+      "sources": [
+        { "name": "PlayStation Blog", "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/" },
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/" },
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced" },
+        { "name": "3DJuegos", "url": "https://www.3djuegos.com/ps5/noticias/playstation-anuncia-9-juegos-gratis-ps4-ps5-para-miembros-ps-plus-extra-premium-octubre-2026" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/capsule_616x353.jpg",
+        "credit": "2K / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1941540/"
+      }
+    },
+    {
+      "id": "gran-turismo-dualsense-edicion-limitada-85-dolares",
+      "category": "playstation",
+      "title": {
+        "es": "Gran Turismo estrena un DualSense de edición limitada y la actualización Spec IV",
+        "en": "Gran Turismo gets a limited-edition DualSense and the Spec IV update"
+      },
+      "dek": {
+        "es": "El mando cuesta 84,99 dólares, sale el 10 de diciembre y se reserva desde el 22 de octubre.",
+        "en": "The pad costs $84.99, launches December 10 and opens for pre-order on October 22."
+      },
+      "body": {
+        "es": [
+          "PlayStation ha presentado un DualSense de edición limitada inspirado en Gran Turismo, con motivo de los 30 años de la serie. Mantiene el blanco del mando estándar y añade gráficos de GT en las empuñaduras y el panel táctil, detalles que imitan fibra de carbono junto a los sticks y franjas de carrera. Cuesta 84,99 dólares o euros (74,99 libras), saldrá el 10 de diciembre en cantidades limitadas y las reservas abren el 22 de octubre a las 10:00 hora local.",
+          "Además, la parte 1 de la actualización Spec IV de Gran Turismo 7 está disponible desde el 14 de octubre, con nuevo circuito y coches según Vandal. La segunda parte llegará en diciembre."
+        ],
+        "en": [
+          "PlayStation has revealed a limited-edition DualSense inspired by Gran Turismo, marking the series' 30th anniversary. It keeps the standard pad's white and adds GT graphics on the grips and touchpad, carbon-fiber-style trim by the sticks and racing stripes. It costs $84.99 or €84.99 (£74.99), launches December 10 in limited quantities and pre-orders open October 22 at 10am local time.",
+          "Part 1 of the Gran Turismo 7 Spec IV update is also live since October 14, with a new circuit and cars per Vandal. The second part arrives in December."
+        ]
+      },
+      "why": {
+        "es": "Refuerza la celebración del 30 aniversario de la serie con contenido gratuito y un coleccionable.",
+        "en": "It underlines the series' 30th anniversary with free content and a collectible."
+      },
+      "sources": [
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/playstation-celebrates-30-years-of-gran-turismo-with-a-stunning-ps5-controller" },
+        { "name": "PlayStation Blog", "url": "https://blog.playstation.com/2026/10/14/20261015-gt7/" },
+        { "name": "Gematsu", "url": "https://www.gematsu.com/2026/10/gran-turismo-limited-edition-dualsense-controller-announced" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026287030/gran-turismo-7-estrena-nuevo-contenido-gratuito-con-la-actualizacion-spec-iv-nuevo-circuito-vehiculos-y-mas/" }
+      ]
+    },
+    {
+      "id": "league-of-legends-classic-cierre-6-enero-2027",
+      "category": "esports",
+      "title": {
+        "es": "Riot dejará de ofrecer League of Legends Classic como modo permanente el 6 de enero",
+        "en": "Riot ends League of Legends Classic as a permanent mode on January 6"
+      },
+      "dek": {
+        "es": "Lanzado el 29 de julio, volverá solo de forma puntual como modo rotatorio.",
+        "en": "Launched July 29, it will only return occasionally as a rotating mode."
+      },
+      "body": {
+        "es": [
+          "Riot Games ha anunciado que League of Legends Classic dejará de ser un modo permanente el 6 de enero de 2027, al terminar la temporada 3 de 2026. Había llegado el 29 de julio y, según Riot, la mayoría de jugadores ha vuelto a otras partes del juego. Classic regresará de forma esporádica como modo rotatorio o evento, con ajustes y novedades y sin fecha fija.",
+          "Hasta entonces, en la mayoría de regiones solo estará activo en ventanas horarias para reducir tiempos de cola y desajustes de MMR; en Japón y MENA se limitará a partidas personalizadas desde el parche 26.21. Los contenidos exclusivos de Classic, como retratos y cromas, se reembolsarán antes del 30 de noviembre."
+        ],
+        "en": [
+          "Riot Games has announced League of Legends Classic will stop being a permanent mode on January 6, 2027, when Season 3 of 2026 ends. It launched July 29 and, per Riot, most players have gone back to other parts of the game. Classic will return sporadically as a rotating or limited-time mode, with tweaks and additions and no set date.",
+          "Until then, in most regions it will only run in set windows to cut queue times and MMR gaps; in Japan and MENA it will be limited to custom matches starting with Patch 26.21. Classic-only content such as portraits and chromas will be refunded by November 30."
+        ]
+      },
+      "why": {
+        "es": "Un modo pensado como segunda vía del juego dura menos de seis meses.",
+        "en": "A mode meant as a second track for the game lasts under six months."
+      },
+      "sources": [
+        { "name": "Insider Gaming", "url": "https://insider-gaming.com/league-classic-set-to-end-2027-become-rotating-game-mode/" },
+        { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/" },
+        { "name": "3DJuegos", "url": "https://www.3djuegos.com/juegos/league-of-legends/noticias/riot-games-no-levanta-cabeza-confirmado-cierre-league-of-legends-classic-solo-dos-meses-despues-su-estreno" }
+      ]
+    },
+    {
+      "id": "007-first-light-switch-2-18-marzo-2027",
+      "category": "nintendo",
+      "title": {
+        "es": "007 First Light ya tiene fecha en Switch 2: 18 de marzo de 2027",
+        "en": "007 First Light gets a Switch 2 date: March 18, 2027"
+      },
+      "dek": {
+        "es": "IO Interactive desvela la fecha en un tráiler y ofrece un traje GoldenEye por reservar.",
+        "en": "IO Interactive reveals the date in a trailer and offers a GoldenEye suit for pre-orders."
+      },
+      "body": {
+        "es": [
+          "IO Interactive ha fijado el lanzamiento de 007 First Light en Nintendo Switch 2 para el 18 de marzo de 2027, según un tráiler del IGN Fan Fest recogido por Nintendo Life. La versión se había retrasado hasta marzo de 2027, según un artículo previo del medio. Reservarlo da acceso a un traje exclusivo GoldenEye.",
+          "Nintendo Life lista el juego a 69,99 dólares (EE. UU.) y 59,99 libras. El juego figura también para PS5, Xbox Series y PC, aunque la fuente no da sus fechas."
+        ],
+        "en": [
+          "IO Interactive has set 007 First Light's Nintendo Switch 2 launch for March 18, 2027, according to an IGN Fan Fest trailer relayed by Nintendo Life. The version had previously been delayed to March 2027, per an earlier article from the outlet. Pre-ordering unlocks an exclusive GoldenEye suit.",
+          "Nintendo Life lists the game at $69.99 (US) and £59.99. The game is also listed for PS5, Xbox Series and PC, though the source gives no dates for those."
+        ]
+      },
+      "why": {
+        "es": "Cierra la incertidumbre sobre cuándo podrán jugarlo los usuarios de Switch 2.",
+        "en": "It ends the uncertainty over when Switch 2 owners can play it."
+      },
+      "sources": [
+        { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date" },
+        { "name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/007-first-light-ya-tiene-nueva-fecha-en-nintendo-switch-2-llegara-el-18-de-marzo-de-2027-y-estrena-trailer-en-la-consola/" },
+        { "name": "Insider Gaming", "url": "https://insider-gaming.com/007-first-light-switch-2-release-date/" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg",
+        "credit": "IO Interactive A/S / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3768760/"
+      }
+    },
+    {
+      "id": "sbox-garry-newman-disculpa-free-to-play",
+      "category": "indie",
+      "title": {
+        "es": "El creador de Garry's Mod pide perdón por s&box y lo hará gratuito",
+        "en": "Garry's Mod creator apologizes for s&box and will make it free"
+      },
+      "dek": {
+        "es": "Garry Newman admite que el lanzamiento fue un fracaso y promete un giro hacia el juego y el Workshop de Steam.",
+        "en": "Garry Newman admits the launch fell flat and promises a pivot toward gameplay and Steam Workshop."
+      },
+      "body": {
+        "es": [
+          "Garry Newman, de Facepunch, ha publicado un mensaje en el que se declara «avergonzado» por la recepción de s&box, el sucesor espiritual de Garry's Mod lanzado en Steam en abril de 2026. Según Kotaku, tiene un 47 % de reseñas positivas y unos 500 jugadores simultáneos de media, mientras Garry's Mod mantiene casi 30.000 diarios. Newman cree que el error fue venderlo como motor y plataforma de desarrollo cuando los jugadores quieren jugar.",
+          "Facepunch planea un «Sandbox Game» con NPC, vehículos, multijugador y addons, abandonar la tienda estilo Netflix en favor de la curación, dejar su backend propio por el Workshop de Steam y pasar a free-to-play antes de que acabe el año. Quienes ya lo compraron recibirán objetos exclusivos. PC Gamer habla de «cambios drásticos»."
+        ],
+        "en": [
+          "Garry Newman of Facepunch has posted a message calling himself \"ashamed\" over the reception of s&box, the Garry's Mod spiritual successor released on Steam in April 2026. Per Kotaku it sits at 47% positive reviews with about 500 concurrent players on average, while Garry's Mod still draws nearly 30,000 daily. Newman believes the mistake was selling it as an engine and development platform when players want to play.",
+          "Facepunch plans a \"Sandbox Game\" with NPCs, vehicles, multiplayer and addons, to drop the Netflix-style storefront in favor of curation, to ditch its in-house backend for Steam Workshop and to go free-to-play before year's end. Existing buyers will receive exclusive items. PC Gamer talks of \"sweeping changes.\""
+        ]
+      },
+      "why": {
+        "es": "Es un raro mea culpa público que redefine el proyecto casi desde cero.",
+        "en": "It is a rare public mea culpa that redefines the project almost from scratch."
+      },
+      "sources": [
+        { "name": "Kotaku", "url": "https://kotaku.com/garrys-mod-sbox-garry-newman-facepunch-sandbox-steam-valve-2000745866" },
+        { "name": "PC Gamer", "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/capsule_616x353.jpg",
+        "credit": "Facepunch Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/590830/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Kotaro Uchikoshi (Zero Escape, AI: The Somnium Files) ha anunciado su nuevo estudio, Crash Keys, que busca socios inversores. Según Nintendo Life, el equipo trabajó año y medio en un juego que fue cancelado.",
+        "en": "Kotaro Uchikoshi (Zero Escape, AI: The Somnium Files) has announced his new studio, Crash Keys, which is seeking investment partners. Per Nintendo Life, the team spent a year and a half on a game that was cancelled."
+      },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio" }
+    },
+    {
+      "text": {
+        "es": "Monster Hunter Wilds tendrá una demo gratuita del prólogo en Switch 2 el 19 de octubre, con transferencia de partida.",
+        "en": "Monster Hunter Wilds gets a free Prologue Demo on Switch 2 on October 19, with save data carry-over."
+      },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-switch-2-next-week" }
+    },
+    {
+      "text": {
+        "es": "Un estudio de Cyabra sostiene que casi la mitad de las respuestas a la campaña «blackout» de PlayStation por el fin de los juegos físicos en 2028 provenían de cuentas falsas.",
+        "en": "A Cyabra study claims almost half of the replies to PlayStation's August \"blackout\" campaign over ending physical games in 2028 came from inauthentic accounts."
+      },
+      "source": { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/study-finds-almost-half-of-ps5-disc-backlash-came-from-fake-accounts" }
+    },
+    {
+      "text": {
+        "es": "Rumor: IGN cita código de Steam extraído por datamineros que apuntaría a un Steam Frame con ópticas OLED. Valve no lo ha confirmado.",
+        "en": "Rumor: IGN cites datamined Steam code that points to a Steam Frame with OLED optics. Valve has not confirmed it."
+      },
+      "source": { "name": "IGN", "url": "https://www.ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code" }
+    },
+    {
+      "text": {
+        "es": "El anime de Ghost of Tsushima: Legends se retrasa a 2028, según ha anunciado Crunchyroll.",
+        "en": "The Ghost of Tsushima: Legends anime slips to 2028, Crunchyroll has announced."
+      },
+      "source": { "name": "Eurogamer.es", "url": "https://www.eurogamer.es/el-anime-ghost-of-tsushima-legends-se-retrasa-a-2028" }
+    },
+    {
+      "text": {
+        "es": "La industria pide a Estados Unidos que actúe contra las consolas retro que incluyen miles de juegos sin licencia.",
+        "en": "The games industry is asking the US government to act against retro handhelds loaded with thousands of unlicensed games."
+      },
+      "source": { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026287015/la-industria-del-videojuego-pide-a-estados-unidos-que-actue-contra-las-consolas-retro-con-miles-de-juegos-piratas/" }
+    },
+    {
+      "text": {
+        "es": "Nintendo añade tres juegos de GBA a Switch Online, entre ellos Metal Slug Advance y uno antes exclusivo de Japón.",
+        "en": "Nintendo adds three GBA games to Switch Online, including Metal Slug Advance and a previously Japan-only title."
+      },
+      "source": { "name": "VGC", "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/" }
+    },
+    {
+      "text": {
+        "es": "Famitsu da la primera nota a Final Fantasy Resonance, que sale el 22 de octubre; Push Square destaca una campaña de duración moderada.",
+        "en": "Famitsu delivers the first review of Final Fantasy Resonance, out October 22; Push Square highlights a moderate campaign length."
+      },
+      "source": { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed" }
+    },
+    {
+      "text": {
+        "es": "Fire Emblem: Fortune's Weave recibe un pase de expansión; su primera oleada ya está disponible.",
+        "en": "Fire Emblem: Fortune's Weave gets an Expansion Pass, with Wave 1 available now."
+      },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today" }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Monster Hunter Wilds – Prologue Demo",
+      "platforms": "Switch 2",
+      "note": { "es": "19 de octubre (gratis)", "en": "October 19 (free)" },
+      "url": "https://www.gematsu.com/2026/10/monster-hunter-wilds-prologue-demo-for-switch-2-launches-october-19"
+    },
+    {
+      "title": "Final Fantasy Resonance",
+      "platforms": "PS5",
+      "note": { "es": "22 de octubre", "en": "October 22" },
+      "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed"
+    },
+    {
+      "title": "Titanium Court",
+      "platforms": "PS5 · Switch 2 · Switch · iOS · Android",
+      "note": { "es": "29 de octubre", "en": "October 29" },
+      "url": "https://www.gematsu.com/2026/10/titanium-court-coming-to-ps5-switch-2-switch-ios-and-android-on-october-29"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platforms": "Switch 2",
+      "note": { "es": "5 de noviembre", "en": "November 5" },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2"
+    },
+    {
+      "title": "Reverie in the Moonlight",
+      "platforms": "Switch 2 · Switch",
+      "note": { "es": "19 de noviembre", "en": "November 19" },
+      "url": "https://www.gematsu.com/2026/10/reverie-in-the-moonlight-coming-to-switch-2-switch-on-november-19"
+    },
+    {
+      "title": "Acts of Blood",
+      "platforms": "PC · PS5 · Xbox Series",
+      "note": { "es": "4 de diciembre (PC); 2027 (consolas)", "en": "December 4 (PC); 2027 (consoles)" },
+      "url": "https://www.gematsu.com/2026/10/acts-of-blood-launches-december-4-for-pc-in-2027-for-ps5-and-xbox-series"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "El nuevo launcher de Epic, hecho con «vibe coding», recibe críticas en redes; Kotaku recoge reacciones muy duras y Push Square critica el giro hacia el desarrollo con IA.",
+        "en": "Epic's new \"vibe-coded\" launcher draws backlash online; Kotaku collects harsh reactions and Push Square criticizes the pivot to AI-driven development."
+      },
+      "source": { "name": "Kotaku", "url": "https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031" }
+    },
+    {
+      "text": {
+        "es": "Los jugadores arremeten contra Total War: Shogun 2 – Edición completa por rendimiento, precio y arte sospechoso de IA.",
+        "en": "Players lash out at Total War: Shogun 2 – Complete Edition over performance, price and suspected AI-upscaled art."
+      },
+      "source": { "name": "Kotaku", "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877" }
+    },
+    {
+      "text": {
+        "es": "La encuesta de Xbox sobre exclusivas reabre el debate entre jugadores de PlayStation y Nintendo sobre el futuro de Fallout y Minecraft.",
+        "en": "Xbox's exclusivity survey reopens debate among PlayStation and Nintendo players over the future of Fallout and Minecraft."
+      },
+      "source": { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive" }
+    },
+    {
+      "text": {
+        "es": "Los comentarios de lectores de Nintendo Life sobre el remake de Zelda: Ocarina of Time piden modo de rendimiento y critican el aliasing; son opiniones sin verificar.",
+        "en": "Nintendo Life reader comments on the Zelda: Ocarina of Time remake ask for a performance mode and criticize aliasing; these are unverified opinions."
+      },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2" }
+    }
+  ],
+  "steam": [
+    { "name": "over the hill", "url": "https://store.steampowered.com/app/2929250/" },
+    { "name": "ARC Raiders", "url": "https://store.steampowered.com/app/1808500/" },
+    { "name": "Steam Machine", "url": "https://store.steampowered.com/app/4165910/" },
+    { "name": "Cyberpunk 2077", "url": "https://store.steampowered.com/app/1091500/" },
+    { "name": "Total War: SHOGUN 2 – Edición completa", "url": "https://store.steampowered.com/app/3846830/" },
+    { "name": "Dressmaker", "url": "https://store.steampowered.com/app/4019220/" },
+    { "name": "Cyberpunk 2077: Ultimate Edition", "url": "https://store.steampowered.com/app/32470/" },
+    { "name": "Cyberpunk 2077: Phantom Liberty", "url": "https://store.steampowered.com/app/2138330/" }
+  ]
+}
