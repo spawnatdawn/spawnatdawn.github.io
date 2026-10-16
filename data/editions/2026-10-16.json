@@ -1,0 +1,719 @@
+{
+  "date": "2026-10-16",
+  "headline": {
+    "es": "GTA 6 estrena su tráiler de lanzamiento y Sega retira el remaster de Shogun 2 por sus gráficos con IA",
+    "en": "GTA 6 gets its launch trailer and Sega pulls the Shogun 2 remaster over AI-upscaled graphics"
+  },
+  "intro": {
+    "es": "Rockstar fija el 19 de noviembre con un nuevo tráiler, Modern Warfare 4 sale sin Game Pass el día 23 y Jagex cancela RuneScape Reignited. También, una ley en EE. UU. sobre propiedad de juegos y la nueva ROG Xbox Ally X20.",
+    "en": "Rockstar locks in November 19 with a new trailer, Modern Warfare 4 launches off Game Pass on the 23rd and Jagex cancels RuneScape Reignited. Plus a US bill on game ownership and the new ROG Xbox Ally X20."
+  },
+  "stories": [
+    {
+      "id": "gta-6-trailer-lanzamiento-19-noviembre-rockstar-plantilla",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar publica el tráiler de lanzamiento de GTA 6, previsto para el 19 de noviembre",
+        "en": "Rockstar releases the GTA 6 launch trailer ahead of its November 19 release"
+      },
+      "dek": {
+        "es": "Noventa segundos con Jason y Lucia en Vice City, música original de Justice y una plantilla de Rockstar que ya ronda los 4.700 empleados.",
+        "en": "Ninety seconds with Jason and Lucia in Vice City, an original score by Justice and a Rockstar workforce now around 4,700."
+      },
+      "body": {
+        "es": [
+          "Rockstar Games ha publicado el tráiler de lanzamiento de Grand Theft Auto VI, un vídeo de 90 segundos ambientado en Vice City, en el estado de Leonida, que presenta a los protagonistas Jason y Lucia. El juego saldrá el 19 de noviembre en PlayStation 5 y Xbox Series X|S, y según VGC es la primera gran novedad single-player del estudio desde Red Dead Redemption 2, de 2018. Rockstar indica que el tráiler se grabó en una PS5.",
+          "La banda sonora original corre a cargo del dúo francés Justice, que también firma la música del vídeo; un single nuevo, «Flower in a Hurricane», con Tame Impala, SZA y King Gizzard & The Lizard Wizard, formará parte del álbum oficial del juego.",
+          "En paralelo, un reportaje de Bloomberg recogido por Vandal sitúa la plantilla de Rockstar en 4.711 personas en agosto de 2026, frente a las 2.441 de 2018, repartidas en 12 estudios. En la misma entrevista, los responsables Phil Hooker y Aaron Garbut aseguran que el siguiente juego del estudio no tardará otros ocho años, porque el motor y las herramientas se reaprovecharán."
+        ],
+        "en": [
+          "Rockstar Games has released the launch trailer for Grand Theft Auto VI, a 90-second video set in Vice City, in the state of Leonida, introducing protagonists Jason and Lucia. The game arrives on November 19 on PlayStation 5 and Xbox Series X|S and, per VGC, is the studio's first major single-player release since 2018's Red Dead Redemption 2. Rockstar says the trailer was captured on a PS5.",
+          "The original score is by French duo Justice, who also provide the trailer's music; a new single, \"Flower in a Hurricane\", featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard, will be part of the game's official album.",
+          "Meanwhile, a Bloomberg report picked up by Vandal puts Rockstar's headcount at 4,711 in August 2026, up from 2,441 in 2018, across 12 studios. In the same interview, studio heads Phil Hooker and Aaron Garbut say the next Rockstar game will not take another eight years, since the engine and tools will carry over."
+        ]
+      },
+      "why": {
+        "es": "Con cinco semanas por delante, el lanzamiento más esperado del año entra en su recta final.",
+        "en": "With five weeks to go, the year's most anticipated launch enters its final stretch."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026288026/nuevo-trailer-de-gta-6-rockstar-estrena-el-video-de-lanzamiento-cargado-de-gameplay-secuencias-y-accion/"
+        },
+        {
+          "name": "Vandal (plantilla)",
+          "url": "https://vandal.elespanol.com/noticia/2026288009/rockstar-games-ha-duplicado-su-tamano-durante-el-desarrollo-de-gta-6-ya-rozan-los-5000-empleados-a-nivel-global/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg/1280px-Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg/960px-Rockstar_Games%2C_Game_Developers_Choice_Awards_2019.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Rockstar_Games,_Game_Developers_Choice_Awards_2019.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    {
+      "id": "modern-warfare-4-23-octubre-sin-game-pass-nueva-subsaga",
+      "category": "xbox",
+      "title": {
+        "es": "Modern Warfare 4 sale el 23 de octubre sin Game Pass y Activision confirma una nueva subsaga",
+        "en": "Modern Warfare 4 launches October 23 off Game Pass as Activision confirms a new sub-series"
+      },
+      "dek": {
+        "es": "El acceso anticipado a la campaña arranca hoy; el responsable de marketing llama a GTA 6 y MW4 «los dos juegos más grandes del año».",
+        "en": "Campaign early access starts today; Activision's marketing chief calls GTA 6 and MW4 \"the two biggest games of the year\"."
+      },
+      "body": {
+        "es": [
+          "Call of Duty: Modern Warfare 4 llegará el 23 de octubre como lanzamiento independiente y, según GameSpot, no estará en Xbox Game Pass en su estreno, algo ya sabido que Activision ha recordado en un nuevo artículo en su blog. El acceso anticipado a la campaña comienza el 16 de octubre.",
+          "Tyler Bahl, responsable de marketing de Activision, ha afirmado que, «sin ánimo de ofender a Zelda», GTA 6 y Modern Warfare 4 son los dos juegos más grandes del año, y ha hablado de un «impuesto Call of Duty» que, a su juicio, hace que la prensa cubra la saga menos que antes.",
+          "Según Vandal, Activision también ha confirmado que prepara una nueva subsaga de Call of Duty, sin dar detalles ni fecha. Los datos que circulan sobre ella (estudio, ambientación) proceden de filtraciones de un insider y no están confirmados."
+        ],
+        "en": [
+          "Call of Duty: Modern Warfare 4 arrives on October 23 as a standalone release and, per GameSpot, will not be on Xbox Game Pass at launch, something already known that Activision has reiterated in a new blog post. Campaign early access begins on October 16.",
+          "Tyler Bahl, Activision's head of marketing, has said that \"no offense to Zelda\", GTA 6 and Modern Warfare 4 are the two biggest games of the year, and spoke of a \"Call of Duty tax\" that, in his view, leads games media to cover the series less than it used to.",
+          "According to Vandal, Activision has also confirmed it is working on a new Call of Duty sub-series, with no details or date. What is circulating about it (studio, setting) comes from an insider's leaks and is unconfirmed."
+        ]
+      },
+      "why": {
+        "es": "Activision coloca su estreno junto a GTA 6 y fuera de la suscripción de Xbox, un cambio notable para la saga.",
+        "en": "Activision frames its launch alongside GTA 6 and outside Xbox's subscription, a notable shift for the series."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/15/modern-warfare-4-launches-october-23-as-a-standalone-release/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026288035/activision-confirma-los-rumores-trabajan-en-una-nueva-subsaga-de-call-of-duty/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      }
+    },
+    {
+      "id": "sega-retira-total-war-shogun-2-complete-edition-ia",
+      "category": "pc",
+      "title": {
+        "es": "Sega retira Total War: Shogun 2 – Complete Edition dos días después de su lanzamiento",
+        "en": "Sega pulls Total War: Shogun 2 – Complete Edition two days after launch"
+      },
+      "dek": {
+        "es": "Las críticas por fallos y gráficos escalados con IA llevaron a Sega a restituir la versión original de 2011.",
+        "en": "Complaints about bugs and AI-upscaled graphics led Sega to reinstate the 2011 original."
+      },
+      "body": {
+        "es": [
+          "Sega y Creative Assembly han retirado temporalmente de las tiendas Total War: Shogun 2 – Complete Edition, que salió el 13 de octubre, y han vuelto a poner a la venta el juego original de 2011. Según VGC, los jugadores criticaron errores del original que seguían presentes y recursos gráficos escalados con IA, como las tarjetas de unidades.",
+          "Antes de la retirada, el juego tenía en Steam la valoración «Extremadamente negativa», con un 19 % de recomendaciones entre más de 2.000 reseñas. Sega dice que colabora con las plataformas para retirarlo y que investiga las causas de los problemas; no ha dado plazo para su regreso. Quienes ya lo compraron pueden seguir jugando."
+        ],
+        "en": [
+          "Sega and Creative Assembly have temporarily pulled Total War: Shogun 2 – Complete Edition, released on October 13, and put the original 2011 game back on sale. Per VGC, players criticised bugs from the original that were still present and AI-upscaled assets such as unit cards.",
+          "Before its removal the game held an \"Overwhelmingly Negative\" rating on Steam, with 19% of more than 2,000 reviews positive. Sega says it is working with platform holders to remove it and is investigating the causes; it gave no timeline for its return. Existing owners can keep playing."
+        ]
+      },
+      "why": {
+        "es": "Es un caso claro de cómo el uso de IA en remasterizaciones puede volverse en contra de una editora.",
+        "en": "It is a clear case of how AI use in remasters can backfire on a publisher."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/sega-retirara-temporalmente-total-war-shogun-2-complete-edition-de-las-tiendas-digitales-tras-las-quejas-de-los-compradores"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/capsule_616x353.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/201270/"
+      }
+    },
+    {
+      "id": "jagex-cancela-runescape-reignited-tras-las-criticas",
+      "category": "pc",
+      "title": {
+        "es": "Jagex cancela RuneScape Reignited a menos de dos semanas de anunciarlo",
+        "en": "Jagex cancels RuneScape Reignited less than two weeks after announcing it"
+      },
+      "dek": {
+        "es": "El estudio admite que «no dio en el blanco» tras las críticas de la comunidad.",
+        "en": "The studio admits it \"missed the mark\" after community criticism."
+      },
+      "body": {
+        "es": [
+          "Jagex ha cancelado RuneScape Reignited, su proyecto de «nuevo comienzo» para RuneScape, menos de dos semanas después de anunciarlo y tras las críticas de los jugadores. El director creativo Mod Ryan reconoce que se «erró el tiro», agradece los comentarios y se disculpa con quienes esperaban la iniciativa.",
+          "La actualización del 2 de diciembre sigue adelante, con la Guía de Aventura y la primera parte del recorrido remasterizado, junto a una prueba gratuita de 10 días del 2 al 12 de diciembre. Ryan añade que RuneScape no tendrá mundos divididos y que la hoja de ruta de 2027 presentada en RuneFest sigue en pie."
+        ],
+        "en": [
+          "Jagex has cancelled RuneScape Reignited, its \"fresh start\" project for RuneScape, less than two weeks after announcing it and following player criticism. Creative director Mod Ryan acknowledges the studio \"missed the mark\", thanks players for their feedback and apologises to those who were looking forward to it.",
+          "The December 2 update still goes ahead, with the Adventure Guide and the first part of the remastered journey, alongside a 10-day free trial from December 2 to 12. Ryan adds that RuneScape will not have split worlds and that the 2027 roadmap revealed at RuneFest remains on track."
+        ]
+      },
+      "why": {
+        "es": "Otro ejemplo de una comunidad que consigue revertir un plan en cuestión de días.",
+        "en": "Another example of a community reversing a plan within days."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/runescape-reignited-canceled/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/"
+        }
+      ]
+    },
+    {
+      "id": "ritchie-torres-power-to-the-players-act-propiedad-juegos-digitales",
+      "category": "industria",
+      "title": {
+        "es": "Un congresista de EE. UU. plantea una ley para que los juegos digitales se posean, no se alquilen",
+        "en": "A US congressman proposes a bill so digital games are owned, not rented"
+      },
+      "dek": {
+        "es": "La «Power To The Players Act» de Ritchie Torres pediría a la FTC normas sobre propiedad y modos offline.",
+        "en": "Ritchie Torres' \"Power To The Players Act\" would direct the FTC to set ownership and offline-play rules."
+      },
+      "body": {
+        "es": [
+          "El representante demócrata Ritchie Torres ha anunciado una iniciativa legislativa, la Power To The Players Act, para proteger la propiedad de los videojuegos. Según Kotaku, ordenaría a la Comisión Federal de Comercio crear normas para que los juegos digitales ofrezcan algo más que una licencia revocable y para que los juegos con funciones online tengan modos offline operativos tras el cierre de servidores. Excluye otros medios como cine o música.",
+          "Torres sostiene que un juego que puede desaparecer cuando la empresa deja de darle soporte es «un alquiler disfrazado de venta». Kotaku señala que el texto aún no se ha presentado formalmente, no hay coautores confirmados y la tramitación sería larga. Cita como contexto el movimiento Stop Killing Games."
+        ],
+        "en": [
+          "Democratic Representative Ritchie Torres has announced a legislative initiative, the Power To The Players Act, to protect video game ownership. Per Kotaku, it would direct the Federal Trade Commission to craft rules so digital games offer more than a revocable licence and so games with online features have working offline modes after servers shut down. It excludes other media such as film or music.",
+          "Torres argues that a game that can disappear when its maker ends support is \"a rental disguised as a sale\". Kotaku notes the bill has not yet been formally introduced, no cosponsors are confirmed and passage would be a long process. It cites the Stop Killing Games movement as context."
+        ]
+      },
+      "why": {
+        "es": "Lleva a la política estadounidense un debate que hasta ahora se daba sobre todo entre jugadores.",
+        "en": "It brings to US politics a debate that has so far been mostly among players."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/rep-ritchie-torres-announces-congressional-legislation-to-protect-video-game-ownership-2000746395"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1280px-US_Capitol_west_side.JPG",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/960px-US_Capitol_west_side.JPG",
+        "credit": "Martin Falbisoner / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    {
+      "id": "steam-logros-conjuntos-dlc-beta-renovacion",
+      "category": "pc",
+      "title": {
+        "es": "Steam renueva los logros: conjuntos separados, logros de DLC y comparación con amigos",
+        "en": "Steam overhauls achievements: separate sets, DLC achievements and friend comparison"
+      },
+      "dek": {
+        "es": "La novedad ya está en la beta del cliente; Valve no ha dado fecha de lanzamiento general.",
+        "en": "The feature is live in the client beta; Valve has given no general release date."
+      },
+      "body": {
+        "es": [
+          "Valve ha incorporado a la beta del cliente de Steam un nuevo sistema de logros. Los desarrolladores pueden dividirlos en conjuntos independientes, cada uno con su barra de progreso e insignia en el perfil, y el progreso se conserva si se añaden logros nuevos al conjunto. Los del juego base aparecen en azul y los de DLC en morado, y estos últimos no cuentan para el progreso global hasta tener acceso al contenido.",
+          "También se podrán archivar logros que ya no se pueden conseguir, y la página renovada permite filtrar y comparar con hasta tres amigos. Entre los juegos ya adaptados figuran Modern Warfare 4, Team Fortress 2, Portal 2, Forza Horizon 5, Left 4 Dead 2 y DREDGE. PC Gamer apunta a un lanzamiento amplio en torno a un mes, aunque el resto de fuentes no da fecha."
+        ],
+        "en": [
+          "Valve has added a new achievements system to the Steam client beta. Developers can split them into independent sets, each with its own progress bar and profile badge, and progress is kept if new achievements are added to a set. Base-game achievements show in blue and DLC ones in purple, and the latter do not count toward overall progress until you have access to that content.",
+          "Achievements that can no longer be earned can also be archived, and the redesigned page allows filtering and comparing with up to three friends. Games already adapted include Modern Warfare 4, Team Fortress 2, Portal 2, Forza Horizon 5, Left 4 Dead 2 and DREDGE. PC Gamer points to a wide release in about a month, though other sources give no date."
+        ]
+      },
+      "why": {
+        "es": "Resuelve el viejo problema de los logros «imposibles» tras eventos o DLC que cambian el 100 %.",
+        "en": "It addresses the old problem of \"impossible\" achievements after events or DLC move the 100%."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/buenas-noticias-logros-steam-han-cambiado-para-siempre-a-mejor"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-un-millon-copias-remedy",
+      "category": "juegos",
+      "title": {
+        "es": "Control Resonant supera el millón de copias y es el estreno más rápido de Remedy",
+        "en": "Control Resonant passes one million copies, Remedy's fastest-selling launch"
+      },
+      "dek": {
+        "es": "Lo logra en tres semanas, pese a que su versión digital se filtró y pirateó tras el lanzamiento.",
+        "en": "It did so in three weeks, despite its digital version leaking and being pirated after launch."
+      },
+      "body": {
+        "es": [
+          "Remedy ha anunciado que Control Resonant, lanzado el 24 de septiembre, ha vendido un millón de copias en unas tres semanas, lo que lo convierte en el juego de más rápida venta del estudio. Push Square señala que Alan Wake 2 tardó unos dos meses en alcanzar esa cifra, en parte por limitarse en PC a Epic Games Store.",
+          "IGN añade que el hito llega a pesar de que el juego fue crackeado y pirateado tras su lanzamiento digital. Push Square lo valoró con un 8/10."
+        ],
+        "en": [
+          "Remedy has announced that Control Resonant, released on September 24, has sold one million copies in about three weeks, making it the studio's fastest-selling game. Push Square notes that Alan Wake 2 took about two months to reach that mark, partly because its PC version was limited to the Epic Games Store.",
+          "IGN adds that the milestone comes even though the game was cracked and pirated after its digital launch. Push Square scored it 8/10."
+        ]
+      },
+      "why": {
+        "es": "Refuerza la apuesta de Remedy por sus propias franquicias tras Alan Wake 2.",
+        "en": "It reinforces Remedy's bet on its own franchises after Alan Wake 2."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/422f3eed36d3033c4b0f4fde485c29b980e49454/ss_422f3eed36d3033c4b0f4fde485c29b980e49454.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+        "credit": "Remedy Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3669870/"
+      }
+    },
+    {
+      "id": "rog-xbox-ally-x20-ya-a-la-venta-resenas-precio",
+      "category": "hardware",
+      "title": {
+        "es": "La ROG Xbox Ally X20 sale a la venta: pantalla OLED aplaudida y precio de 1.299 dólares criticado",
+        "en": "The ROG Xbox Ally X20 goes on sale: OLED screen praised, $1,299 price criticised"
+      },
+      "dek": {
+        "es": "Las reseñas coinciden en que la mejora está en la pantalla y los mandos, no en el rendimiento.",
+        "en": "Reviews agree the upgrade lies in the screen and controls, not performance."
+      },
+      "body": {
+        "es": [
+          "La ROG Xbox Ally X20, nueva versión de la portátil de Asus y Xbox con pantalla OLED más grande, ya está disponible. Pure Xbox recoge precios de 1.299,99 dólares en EE. UU. y 1.299 libras en Reino Unido, y un pack con las gafas ROG XREAL R1 Edition por 2.499,99 dólares.",
+          "Las reseñas elogian la pantalla, la ergonomía y los controles, con notas como el 5/5 de Dexerto, el 8,3/10 de CNET o el 80/100 de PC Gamer. La crítica general es el precio y que el rendimiento apenas cambia respecto a la Ally X original, cuyo procesador, memoria, almacenamiento y batería coinciden, según BGR."
+        ],
+        "en": [
+          "The ROG Xbox Ally X20, a new version of the Asus and Xbox handheld with a bigger OLED screen, is now available. Pure Xbox lists prices of $1,299.99 in the US and £1,299 in the UK, plus a bundle with the ROG XREAL R1 Edition glasses for $2,499.99.",
+          "Reviews praise the screen, ergonomics and controls, with scores such as Dexerto's 5/5, CNET's 8.3/10 or PC Gamer's 80/100. The common criticism is the price and that performance barely changes from the original Ally X, whose processor, memory, storage and battery match, per BGR."
+        ]
+      },
+      "why": {
+        "es": "Es la primera portátil OLED de Xbox, pero el precio la sitúa en el segmento de lujo.",
+        "en": "It is the first OLED Xbox handheld, but the price puts it in the luxury tier."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/15/asus-announces-availability-of-rog-xbox-ally-x20/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/hardware/pc-y-portatiles/analisis/asus-fin-lleva-oled-a-su-portatil-a-puertas-siguiente-generacion-analisis-rog-xbox-ally-x20"
+        }
+      ]
+    },
+    {
+      "id": "red-rooster-summer-eternal-exdesarrolladores-disco-elysium",
+      "category": "indie",
+      "title": {
+        "es": "Antiguos desarrolladores de Disco Elysium anuncian Red Rooster, un RPG de física y fuego",
+        "en": "Former Disco Elysium developers announce Red Rooster, a physics-and-fire RPG"
+      },
+      "dek": {
+        "es": "El juego de Summer Eternal llegará a PC primero y después a PS5, Xbox Series y Switch 2.",
+        "en": "Summer Eternal's game comes to PC first, then PS5, Xbox Series and Switch 2."
+      },
+      "body": {
+        "es": [
+          "Summer Eternal, estudio fundado por antiguos desarrolladores de Disco Elysium, ha presentado Red Rooster, un RPG en tercera persona con un mundo interactivo y físicas avanzadas en el que se pueden mover objetos y provocar incendios. Según Vandal, llegará primero a PC y luego a PS5, Xbox Series X|S y Switch 2; no hay fecha confirmada y su ficha apunta a 2027.",
+          "Vandal cuenta que el protagonista es un preso que se infiltra entre los bomberos para investigar incendios ligados a su hermano, en una historia alternativa inspirada en la Europa del Este de los ochenta, con voces interiores al estilo de Disco Elysium. PC Gamer lo describe como un RPG «incendiario» basado en la física."
+        ],
+        "en": [
+          "Summer Eternal, a studio founded by former Disco Elysium developers, has unveiled Red Rooster, a third-person RPG with an interactive world and advanced physics in which players can move objects and start fires. Per Vandal, it comes to PC first and later to PS5, Xbox Series X|S and Switch 2; no date is confirmed and its listing points to 2027.",
+          "Vandal says the protagonist is an inmate who infiltrates the fire department to investigate fires tied to his brother, in an alternate history inspired by 1980s Eastern Europe, with inner voices in the style of Disco Elysium. PC Gamer calls it an \"incendiary\", physics-driven RPG."
+        ]
+      },
+      "why": {
+        "es": "Otro estudio nacido de ZA/UM intenta heredar la fórmula narrativa de Disco Elysium con un giro sistémico.",
+        "en": "Another studio born from ZA/UM tries to carry on Disco Elysium's narrative formula with a systemic twist."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026288022/los-creadores-de-disco-elysium-anuncian-red-rooster-un-ambicioso-rpg-en-el-que-podras-provocar-incendios/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/disco-elysium-splinter-studios-red-rooster-is-going-to-be-a-an-incendiary-physics-driven-rpg-where-you-play-an-inmate-an-opiate-fuelled-mathematician-and-a-bus-driver-with-nunchucks/"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-resonance-famitsu-36-40",
+      "category": "juegos",
+      "title": {
+        "es": "Final Fantasy Resonance recibe un 36/40 de Famitsu, la primera reseña, a una semana de su estreno",
+        "en": "Final Fantasy Resonance gets 36/40 from Famitsu, its first review, a week before launch"
+      },
+      "dek": {
+        "es": "El juego de Square Enix sale el 22 de octubre.",
+        "en": "Square Enix's game launches October 22."
+      },
+      "body": {
+        "es": [
+          "Famitsu ha publicado la primera reseña de Final Fantasy Resonance, el RPG por turnos de Square Enix que llega el 22 de octubre: cuatro críticos le han dado un 9, para un total de 36 sobre 40, según Nintendo Life.",
+          "Push Square destaca además un dato de duración: la campaña principal rondaría las 20-30 horas y el juego completo unas 70, aunque esas cifras proceden de un tercero y no están confirmadas."
+        ],
+        "en": [
+          "Famitsu has published the first review of Final Fantasy Resonance, Square Enix's turn-based RPG arriving October 22: four critics gave it a 9 each, for 36 out of 40, per Nintendo Life.",
+          "Push Square also highlights a length figure: the main campaign is said to run 20 to 30 hours and the full game about 70, although these numbers come from a third party and are unconfirmed."
+        ]
+      },
+      "why": {
+        "es": "Es la primera señal de la crítica antes de uno de los estrenos más cargados de octubre.",
+        "en": "It is the first critical signal ahead of one of October's busiest releases."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed"
+        }
+      ]
+    },
+    {
+      "id": "peak-ps5-22-octubre-cooperativo-escalada",
+      "category": "playstation",
+      "title": {
+        "es": "Peak llega a PS5 el 22 de octubre con todo el contenido añadido desde su estreno",
+        "en": "Peak arrives on PS5 on October 22 with all content added since launch"
+      },
+      "dek": {
+        "es": "El juego cooperativo de escalada admite hasta cuatro jugadores con juego cruzado.",
+        "en": "The co-op climbing game supports up to four players with crossplay."
+      },
+      "body": {
+        "es": [
+          "Aggro Crab y Landfall, que trabajan juntos como Team Peak, han confirmado en el blog de PlayStation que Peak saldrá en PS5 el 22 de octubre. Es un juego cooperativo de escalada para jugar solo o con hasta tres amigos, con juego cruzado.",
+          "La versión incluye los cuatro biomas y todo el contenido añadido desde el lanzamiento original. Hay que buscar comida, gestionar heridas que reducen la resistencia y sortear peligros como tornados, nubes de veneno, pájaros y zombis; las partidas son personalizables para hacerlas más fáciles o más difíciles."
+        ],
+        "en": [
+          "Aggro Crab and Landfall, who work together as Team Peak, have confirmed on the PlayStation Blog that Peak launches on PS5 on October 22. It is a co-op climbing game playable solo or with up to three friends, with crossplay.",
+          "The version includes all four biomes and all content added since the original launch. Players scavenge for food, manage injuries that limit stamina and avoid hazards such as tornadoes, poison clouds, birds and zombies; runs can be customised to make them easier or harder."
+        ]
+      },
+      "why": {
+        "es": "Suma a PlayStation uno de los juegos cooperativos más comentados del año.",
+        "en": "It adds one of the year's most talked-about co-op games to PlayStation."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/15/peak-climbs-its-way-onto-ps5-october-22/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+        "credit": "Aggro Crab / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3527290/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "La UE endurece las reglas sobre micropagos: los objetos y monedas virtuales deberán mostrar su precio en dinero real y habrá 14 días de desistimiento. Las actuaciones, anunciadas por Consumo, apuntan a nueve juegos como Candy Crush, Minecraft o Valorant; Vandal no precisa si es una ley nueva.",
+        "en": "EU consumer authorities are tightening rules on microtransactions: virtual items and currencies must show their real-money price, with a 14-day withdrawal right. The actions, announced by Spain's consumer secretariat, target nine games including Candy Crush, Minecraft and Valorant; Vandal does not specify whether this is a new law."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026288015/europa-se-pone-dura-con-los-micropagos-en-videojuegos-obligara-a-mostrar-precio-real-en-euros-y-14-dias-para-devoluciones/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los probadores de control de calidad de Activision, sindicados con CWA, han votado autorizar una huelga tras más de dos años sin primer convenio. Activision asegura negociar de buena fe y ofrece reunirse el 21 y 22 de octubre.",
+        "en": "Activision's unionised QA testers (CWA) have voted to authorise a strike after more than two years without a first contract. Activision says it is negotiating in good faith and has offered to meet on October 21 and 22."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/modern-warfare-4-testers-vote-to-authorize-union-strike-as-contract-negotiations-stall-it-is-time-to-stop-playing-games-2000746427"
+      }
+    },
+    {
+      "text": {
+        "es": "Hitman: Absolution – Nintendo Switch 2 Edition llegará el 22 de octubre con compatibilidad con ratón, mayor resolución y un modo de rendimiento a 60 fps.",
+        "en": "Hitman: Absolution – Nintendo Switch 2 Edition arrives October 22 with mouse support, higher resolution and a 60fps performance mode."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintendo lanza el Pase de Expansión de Fire Emblem: Fortune's Weave, exclusivo de Switch 2: tres oleadas de contenido de pago, la primera disponible ya.",
+        "en": "Nintendo launches the Expansion Pass for Switch 2 exclusive Fire Emblem: Fortune's Weave: three waves of paid content, the first available now."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today"
+      }
+    },
+    {
+      "text": {
+        "es": "Caves of Qud recibirá en diciembre la expansión Diaspora, el primer DLC que Steam permitirá lanzar en acceso anticipado.",
+        "en": "Caves of Qud will get the Diaspora expansion in December, the first DLC Steam will allow to launch in early access."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/el-roguelike-caves-of-qud-recibira-en-diciembre-la-expansion-diaspora-primer-dlc-que-steam-permitira-lanzar-en-acceso-anticipado"
+      }
+    },
+    {
+      "text": {
+        "es": "WWE 2K26 recibirá el 28 de octubre el Street Fighter Elite Pack, con cinco luchadores de WWE como figuras de acción de Street Fighter, nuevos movimientos especiales y piezas cosméticas.",
+        "en": "WWE 2K26 gets the Street Fighter Elite Pack on October 28, adding five WWE wrestlers as Street Fighter action figures, with new special moves and cosmetic parts."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los creadores de Big Walk, House House, no lo lanzarán en Xbox por ahora y vinculan la decisión al boicot BDS contra Microsoft. El juego superó el millón de copias en menos de una semana.",
+        "en": "House House, makers of Big Walk, has no plans to release it on Xbox for now and ties the decision to the BDS boycott against Microsoft. The game passed one million copies in under a week."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026288010/los-creadores-del-juego-mejor-valorado-de-2026-explican-su-boicot-a-microsoft-y-descartan-lanzarlo-en-xbox/"
+      }
+    },
+    {
+      "text": {
+        "es": "GTA 6 es elegible para The Game Awards 2026, según Kotaku y GameSpot, que subrayan que lo era desde el principio. Push Square apunta que entra por poco en el plazo de votación.",
+        "en": "GTA 6 is eligible for The Game Awards 2026, per Kotaku and GameSpot, which stress it always was. Push Square says it barely makes the voting cut."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-avoids-a-very-awkward-situation-by-officially-being-eligible-for-the-2026-game-awards-2000746320"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: usuarios de Reddit aseguran haber recibido un aviso de que GTA 5 saldrá de PS Plus poco antes del estreno de GTA 6, según GameSpot. Sony no lo ha confirmado.",
+        "en": "Rumor: Reddit users say they received a notice that GTA 5 will leave PS Plus just before GTA 6 releases, per GameSpot. Sony has not confirmed it."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/"
+      }
+    },
+    {
+      "text": {
+        "es": "Kingdom Hearts lidera las ventas semanales en Japón con su nueva colección para Switch 2 y PS5, pese a un arranque lento, según Nintendo Life.",
+        "en": "Kingdom Hearts tops weekly sales in Japan with its new collection for Switch 2 and PS5 despite a slow start, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Modern Warfare 4",
+      "platforms": "Multiplataforma",
+      "note": {
+        "es": "23 de octubre (campaña en acceso anticipado desde el 16)",
+        "en": "October 23 (campaign early access from the 16th)"
+      },
+      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/"
+    },
+    {
+      "title": "Final Fantasy Resonance",
+      "platforms": "PS5, Switch, Switch 2",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in"
+    },
+    {
+      "title": "Peak",
+      "platforms": "PS5",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://blog.playstation.com/2026/10/15/peak-climbs-its-way-onto-ps5-october-22/"
+    },
+    {
+      "title": "Hitman: Absolution – Nintendo Switch 2 Edition",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week"
+    },
+    {
+      "title": "Monster Hunter Wilds – Prologue Demo",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "19 de octubre (gratis)",
+        "en": "October 19 (free)"
+      },
+      "url": "https://www.gematsu.com/2026/10/monster-hunter-wilds-prologue-demo-for-switch-2-launches-october-19"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "El tráiler de lanzamiento de GTA 6 acapara la conversación: Kotaku y GameSpot repasan escenas y detalles, y la polémica sobre la elegibilidad en The Game Awards queda zanjada.",
+        "en": "The GTA 6 launch trailer dominates the conversation: Kotaku and GameSpot go through scenes and details, and the Game Awards eligibility row is settled."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Total War: Shogun 2 – Complete Edition dejaron un 19 % de reseñas positivas en Steam antes de su retirada.",
+        "en": "Total War: Shogun 2 – Complete Edition players left 19% positive reviews on Steam before its removal."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/"
+      }
+    },
+    {
+      "text": {
+        "es": "La comunidad de RuneScape consigue que Jagex dé marcha atrás en RuneScape Reignited en menos de dos semanas.",
+        "en": "The RuneScape community gets Jagex to reverse course on RuneScape Reignited in under two weeks."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/"
+      }
+    },
+    {
+      "text": {
+        "es": "Battlefield 6 recibe críticas por contenido de pago que parece generado con IA, con operadores de cinco armas y parches con errores ortográficos, según Kotaku.",
+        "en": "Battlefield 6 draws criticism over paid content that looks AI-generated, with five-gun operators and misspelled patches, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "DayZ Badlands",
+      "url": "https://store.steampowered.com/app/3816030/"
+    },
+    {
+      "name": "Castlevania: Belmont's Curse",
+      "url": "https://store.steampowered.com/app/4231820/"
+    },
+    {
+      "name": "Hot & Cool",
+      "url": "https://store.steampowered.com/app/90770/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250/"
+    }
+  ]
+}
