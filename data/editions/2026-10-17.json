@@ -1,0 +1,839 @@
+{
+  "date": "2026-10-17",
+  "headline": {
+    "es": "Kutaragi defiende el fin de los discos de PlayStation y la campaña de Modern Warfare 4 se estrena con buenas reseñas",
+    "en": "Kutaragi backs the end of PlayStation discs and the Modern Warfare 4 campaign debuts to good reviews"
+  },
+  "intro": {
+    "es": "Zelda: Ocarina of Time enseña su Coliseo de los Monstruos, Castlevania: Belmont's Curse tropieza en Steam y la plataforma de Valve marca un nuevo récord de 43,5 millones de usuarios.",
+    "en": "Zelda: Ocarina of Time shows its Monster Coliseum, Castlevania: Belmont's Curse stumbles on Steam and Valve's platform sets a new record of 43.5 million users."
+  },
+  "stories": [
+    {
+      "id": "modern-warfare-4-primeras-resenas-campana-acceso-anticipado",
+      "category": "juegos",
+      "title": {
+        "es": "La campaña de Modern Warfare 4 recibe buenas primeras reseñas antes del lanzamiento del día 23",
+        "en": "Modern Warfare 4's campaign draws solid early reviews ahead of its October 23 launch"
+      },
+      "dek": {
+        "es": "IGN le da un 8/10 y GameSpot un 7/10 a una campaña que ya se puede jugar en acceso anticipado con la reserva digital.",
+        "en": "IGN gives it 8/10 and GameSpot 7/10 for a campaign now playable in early access with a digital pre-order."
+      },
+      "body": {
+        "es": [
+          "La campaña de Call of Duty: Modern Warfare 4 está disponible desde el 16 de octubre para quienes reservaron el juego en digital, y con ella han llegado las primeras valoraciones. Según el repaso de Pure Xbox, IGN la puntúa con un 8/10 y GameSpot con un 7/10, que la considera la mejor campaña de la saga desde Modern Warfare (2019); GamesBeat le da 4,5 sobre 5.",
+          "No todo son elogios: GamesBeat opina que las zonas más abiertas frenan la historia, y GamesRadar apunta que el diseño rígido de algunas misiones a veces estorba. PC Gamer, en su análisis en curso, la define como una campaña fragmentada pero divertida que gana si se mira hacia atrás en la serie.",
+          "El juego completo sale el 23 de octubre. Xbox Wire añade que el acceso anticipado al modo DMZ empieza el 20 de octubre, y Activision ha dicho que esta entrega «cerrará este capítulo» de la serie para abrir otro."
+        ],
+        "en": [
+          "The Call of Duty: Modern Warfare 4 campaign has been playable since October 16 for anyone who pre-ordered digitally, and the first verdicts have arrived with it. According to Pure Xbox's roundup, IGN scores it 8/10 and GameSpot 7/10, calling it the series' best campaign since 2019's Modern Warfare; GamesBeat gives it 4.5 out of 5.",
+          "It is not all praise: GamesBeat feels the open-world sections slow the story, and GamesRadar notes that rigid mission design sometimes gets in the way. PC Gamer, in its review in progress, calls it a fractured but fun campaign that benefits from looking back at the series.",
+          "The full game launches on October 23. Xbox Wire adds that DMZ early access starts on October 20, and Activision has said this entry will \"close this chapter\" of the series and launch a new one."
+        ]
+      },
+      "why": {
+        "es": "Con el lanzamiento a una semana, las reseñas de la campaña marcan el tono para el resto del juego.",
+        "en": "With launch a week away, campaign reviews set the tone for the rest of the game."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/heres-what-the-reviews-are-saying-about-call-of-duty-modern-warfare-4s-campaign"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/16/dmz-early-access-starts-october-20/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      }
+    },
+    {
+      "id": "kutaragi-fin-discos-playstation-mentalidad-friccion",
+      "category": "playstation",
+      "title": {
+        "es": "Ken Kutaragi defiende el fin de los discos de PlayStation, aunque admite que hay «fricción» con los jugadores",
+        "en": "Ken Kutaragi backs the end of PlayStation discs while admitting \"friction\" with players"
+      },
+      "dek": {
+        "es": "El creador de PlayStation dice que mantener juegos físicos «no es económicamente razonable», pero que son opiniones personales.",
+        "en": "PlayStation's creator says keeping physical games is \"not economically reasonable\", but stresses these are personal views."
+      },
+      "body": {
+        "es": [
+          "Ken Kutaragi, creador de las tres primeras PlayStation, ha hablado con VGC durante el evento Game Republic New Horizons sobre la decisión de Sony de dejar de fabricar copias en disco de sus juegos a partir de enero de 2028, según recoge Push Square. Kutaragi cree que mantener el formato físico ya no es económicamente razonable a medida que crecen las compras digitales.",
+          "Entiende, no obstante, que el disco se ha convertido en una metáfora de «poseer» un juego, y atribuye parte del rechazo a una cuestión de mentalidad. Reconoce que la medida ha generado «fricción» con los aficionados, y recuerda que ya en 2006 predijo que la distribución digital y el streaming harían innecesarios los discos.",
+          "Según Vandal, Kutaragi insiste en que son opiniones suyas y no la postura oficial de Sony, de la que se fue en 2007."
+        ],
+        "en": [
+          "Ken Kutaragi, creator of the first three PlayStation consoles, spoke to VGC at the Game Republic New Horizons event about Sony's decision to stop making disc copies of its games from January 2028, as reported by Push Square. Kutaragi believes keeping the physical format is no longer economically reasonable as digital purchases grow.",
+          "He does understand that the disc has become a metaphor for \"owning\" a game, and he attributes part of the backlash to a mentality issue. He acknowledges that the move has caused \"friction\" with enthusiasts, and recalls predicting back in 2006 that digital distribution and streaming would make discs unnecessary.",
+          "According to Vandal, Kutaragi stresses these are his own views rather than Sony's official position; he left the company in 2007."
+        ]
+      },
+      "why": {
+        "es": "Las declaraciones reabren el debate sobre la propiedad de los juegos justo cuando EE. UU. estudia una ley al respecto.",
+        "en": "The remarks reopen the debate on game ownership just as a US bill on the subject is being introduced."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289022/el-padre-de-playstation-cree-que-los-discos-ya-no-tienen-sentido-aunque-entiende-el-enfado-de-los-jugadores/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/father-of-playstation-ken-kutaragi-blames-a-mentality-issue-for-the-backlash-to-killing-discs-2000746753"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014.jpg/1280px-Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014.jpg/960px-Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-coliseo-monstruos",
+      "category": "nintendo",
+      "title": {
+        "es": "El remake de Zelda: Ocarina of Time mostrará un Coliseo de los Monstruos para repetir combates contra jefes",
+        "en": "The Zelda: Ocarina of Time remake adds a Monster Coliseum to replay boss fights"
+      },
+      "dek": {
+        "es": "Nuevos anuncios japoneses enseñan material inédito, entre ellos una primera mirada a Dark Link, a tres semanas del lanzamiento.",
+        "en": "New Japanese ads show fresh footage, including a first look at Dark Link, three weeks from launch."
+      },
+      "body": {
+        "es": [
+          "Nintendo ha publicado en su canal de YouTube de Japón dos nuevos anuncios de The Legend of Zelda: Ocarina of Time, el remake exclusivo de Switch 2 que sale el 5 de noviembre. Según Vandal, uno de los vídeos revela el Coliseo de los Monstruos, una zona secreta que no existía en el juego de Nintendo 64: reúne figuras de los enemigos derrotados con datos de cada uno y permite repetir combates contra jefes, por ejemplo con un cronómetro para el Rey Dodongo.",
+          "Nintendo Life destaca además que uno de los anuncios muestra por primera vez a Dark Link en el remake. El juego incorpora gráficos renovados, arreglos nuevos en la banda sonora, controles modernizados, cámara libre y funciones de ocarina que usan el micrófono de Switch 2.",
+          "Con la fecha cerca, varios comercios anuncian lanzamientos a medianoche y extras: en Francia hay un extra: una caja réplica de la del N64 para la edición de Switch 2."
+        ],
+        "en": [
+          "Nintendo has put out two new The Legend of Zelda: Ocarina of Time ads on its Japanese YouTube channel for the Switch 2-exclusive remake, which launches on November 5. According to Vandal, one video reveals the Monster Coliseum, a secret area absent from the Nintendo 64 original: it collects figures of defeated enemies with details on each and lets you replay boss fights, for instance with a timer for King Dodongo.",
+          "Nintendo Life adds that one ad gives a first look at Dark Link in the remake. The game features revamped visuals, new soundtrack arrangements, modernised controls, a free camera and ocarina features that use the Switch 2 microphone.",
+          "With the date close, retailers are announcing midnight launches and extras: in France there is a bonus replica N64 box for the Switch 2 edition."
+        ]
+      },
+      "why": {
+        "es": "Es el título estrella de Nintendo para el cierre del año y su campaña de marketing ya está en marcha.",
+        "en": "It is Nintendo's headline title for the end of the year, and its marketing push is already underway."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289009/el-remake-de-zelda-ocarina-of-time-esconde-una-nueva-zona-donde-podras-volver-a-luchar-contra-los-jefes/"
+        },
+        {
+          "name": "Nintendo Life (Dark Link)",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link"
+        },
+        {
+          "name": "Nintendo Life (caja réplica)",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed"
+        },
+        {
+          "name": "Vandal (vídeos)",
+          "url": "https://vandal.elespanol.com/noticia/2026289025/dos-nuevos-videos-de-the-legend-of-zelda-ocarina-of-time-nos-muestran-nuevo-material-y-sorpresas-del-remake/"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-marketing-miami-dirigible-vice-city",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar llena Miami de GTA 6: un dirigible de Goodyear con los colores de Vice City sobrevuela la ciudad",
+        "en": "Rockstar takes GTA 6 to the streets of Miami with a Vice City-branded Goodyear blimp"
+      },
+      "dek": {
+        "es": "La campaña a un mes del lanzamiento incluye vallas, colaboraciones locales y coches del juego en la vida real.",
+        "en": "The campaign, a month from launch, includes billboards, local tie-ins and in-game cars in real life."
+      },
+      "body": {
+        "es": [
+          "Rockstar ha puesto en circulación un dirigible de Goodyear, el Wingfoot Three, decorado con la marca de Vice City y el logotipo de GTA VI. Según Vandal, despegó de Ohio el 12 de octubre y fue grabado sobre Miami el día 15; la ciudad inspira el escenario del juego, que sale el 19 de noviembre en PS5 y Xbox Series X|S.",
+          "Push Square cuenta que la campaña incluye también coches del juego aparcados en Miami, y que la promoción de Sony para PS5 con creadores de contenido como IShowSpeed ya está dando resultados.",
+          "Kotaku, por su parte, recoge que parte de los aficionados critica que el último tráiler luce «borroso» frente al primero. Según Vandal, Rockstar no ha anunciado versión para PC."
+        ],
+        "en": [
+          "Rockstar has put a Goodyear blimp, the Wingfoot Three, into the air decorated with Vice City branding and the GTA VI logo. According to Vandal, it took off from Ohio on October 12 and was filmed over Miami on the 15th; the city inspires the game's setting, and the game launches on November 19 on PS5 and Xbox Series X|S.",
+          "Push Square reports that the campaign also includes in-game cars appearing in Miami, and that Sony's PS5 promotion with creators such as IShowSpeed is already paying off.",
+          "Kotaku, meanwhile, notes that some fans complain the latest trailer looks \"blurry\" compared to the first. Per Vandal, Rockstar has not announced a PC version."
+        ]
+      },
+      "why": {
+        "es": "A cinco semanas del estreno, la promoción se traslada del tráiler a la calle.",
+        "en": "Five weeks from release, promotion moves from trailers to the street."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289008/rockstar-lleva-al-limite-la-promocion-de-gta-6-despliega-un-enorme-dirigible-por-la-miami-real/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push"
+        },
+        {
+          "name": "Push Square (Sony)",
+          "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-belmonts-curse-steam-problemas-tecnicos",
+      "category": "pc",
+      "title": {
+        "es": "Castlevania: Belmont's Curse arranca con reseñas «variadas» en Steam por sus problemas técnicos",
+        "en": "Castlevania: Belmont's Curse starts with \"mixed\" Steam reviews over technical problems"
+      },
+      "dek": {
+        "es": "Alrededor del 66 % de casi 2.000 reseñas son positivas; ni Konami ni Evil Empire se han pronunciado.",
+        "en": "Around 66% of nearly 2,000 reviews are positive; neither Konami nor Evil Empire has commented."
+      },
+      "body": {
+        "es": [
+          "Castlevania: Belmont's Curse, publicado por Konami y desarrollado por Evil Empire, el estudio de Dead Cells, salió el 15 de octubre en PS5, Xbox Series X|S, Switch y Steam. Según Vandal, en la versión de PC solo el 66 % de sus casi 2.000 reseñas son positivas, lo que le vale la etiqueta «variadas».",
+          "Los jugadores denuncian pantallas negras que impiden arrancar, cierres y problemas de rendimiento; algunos han tenido que limitar el monitor a 60 Hz. También hay entradas fantasma en menús y mapa, y caídas de fotogramas en Steam Deck, con una interfaz que puede cortarse a ciertas resoluciones. Parte de estos fallos ya estaba en la demo.",
+          "En paralelo, IGN recoge que los desarrolladores celebran el fanart de los protagonistas. A la hora de publicar, Konami y Evil Empire no habían comentado los fallos de PC ni si hay un parche en camino."
+        ],
+        "en": [
+          "Castlevania: Belmont's Curse, published by Konami and developed by Dead Cells studio Evil Empire, launched on October 15 on PS5, Xbox Series X|S, Switch and Steam. According to Vandal, only 66% of its nearly 2,000 PC reviews are positive, earning a \"Mixed\" rating.",
+          "Players report black screens that prevent launch, crashes and performance problems; some had to cap their monitors at 60 Hz. There are also phantom inputs in menus and the map, and frame drops on Steam Deck, with an interface that can be cut off at certain resolutions. Some of these issues were already in the demo.",
+          "Meanwhile, IGN reports the developers are enjoying fan art of the game's characters. At the time of writing, Konami and Evil Empire had not commented on the PC issues or any upcoming patch."
+        ]
+      },
+      "why": {
+        "es": "Es el regreso de la saga en consolas y PC, y su recepción en Steam depende de que lleguen parches pronto.",
+        "en": "It is the series' return on consoles and PC, and its Steam reception hinges on patches arriving soon."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289007/el-regreso-de-castlevania-tropieza-en-steam-belmonts-curse-recibe-criticas-por-sus-problemas-tecnicos-en-pc/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/4cf6d35e1d8c07fc552a59c970ed9af490ce75a5/ss_4cf6d35e1d8c07fc552a59c970ed9af490ce75a5.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg",
+        "credit": "KONAMI / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4231820/"
+      }
+    },
+    {
+      "id": "steam-record-43-5-millones-jugadores-simultaneos",
+      "category": "pc",
+      "title": {
+        "es": "Steam bate su récord con 43,5 millones de usuarios simultáneos, el tercero de 2026",
+        "en": "Steam sets a new record of 43.5 million concurrent users, its third of 2026"
+      },
+      "dek": {
+        "es": "La cifra se alcanzó el 11 de octubre, según SteamDB, y no se debe a un único lanzamiento.",
+        "en": "The figure was reached on October 11, per SteamDB, and is not driven by a single release."
+      },
+      "body": {
+        "es": [
+          "Steam superó los 43 millones de usuarios simultáneos por primera vez: según SteamDB, el 11 de octubre se conectaron 43,5 millones, un nuevo máximo para la plataforma de Valve. Es la tercera vez este año que sube su récord, tras empezar 2026 con 42 millones.",
+          "Vandal señala que ningún lanzamiento concreto explica el pico, y que entre lo más jugado de la semana figuran Counter-Strike 2, Dota 2, PUBG, Apex Legends y Wardogs; el free-to-play AION 2, lanzado el 5 de octubre, ocupó la quinta plaza con 276.275 jugadores.",
+          "La cifra mide usuarios conectados, no necesariamente jugando, ya que algunos dejan la aplicación abierta en segundo plano. Kotaku añade que 2026 ya acumula más juegos nuevos en Steam que todo 2025."
+        ],
+        "en": [
+          "Steam passed 43 million concurrent users for the first time: according to SteamDB, 43.5 million connected on October 11, a new peak for Valve's platform. It is the third time this year it has raised its record, after starting 2026 at 42 million.",
+          "Vandal notes that no single release explains the spike, and that the week's most-played games include Counter-Strike 2, Dota 2, PUBG, Apex Legends and Wardogs; free-to-play AION 2, launched on October 5, ranked fifth with 276,275 players.",
+          "The figure counts connected users, not necessarily people playing, since some leave the app running in the background. Kotaku adds that 2026 has already seen more games added to Steam than all of 2025."
+        ]
+      },
+      "why": {
+        "es": "El crecimiento sostenido de Steam llega mientras Valve suma hardware propio, como Steam Deck y Steam Machine, a las listas de ventas.",
+        "en": "Steam's steady growth comes as Valve's own hardware, Steam Deck and Steam Machine, shows up in the sales charts."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289023/steam-batio-su-record-de-jugadores-simultaneos-y-sube-el-liston-de-nuevo-por-tercera-vez-en-2026/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/steam-valve-slop-ai-genai-vibe-coding-pc-game-releases-2000746749"
+        }
+      ]
+    },
+    {
+      "id": "blood-of-dawnwalker-parche-1-1-mas-de-1100-mejoras",
+      "category": "juegos",
+      "title": {
+        "es": "The Blood of Dawnwalker prepara su parche 1.1 con más de 1.100 mejoras, nuevo modo de dificultad y reasignar habilidades",
+        "en": "The Blood of Dawnwalker readies patch 1.1 with 1,100+ fixes, a new difficulty and skill respec"
+      },
+      "dek": {
+        "es": "Rebel Wolves lo lanzará «la semana que viene»; entre las novedades, acariciar animales.",
+        "en": "Rebel Wolves will release it \"next week\"; among the additions, you can pet animals."
+      },
+      "body": {
+        "es": [
+          "Rebel Wolves, el estudio formado por antiguos desarrolladores de CD Projekt RED, ha detallado la actualización 1.1 de The Blood of Dawnwalker, que llegará la semana próxima sin fecha concreta. Según Push Square, incluye más de 1.100 «mejoras y correcciones» con el detalle publicado para PS5.",
+          "La dificultad actual del modo Historia pasa a llamarse Indulgente y se añade un nuevo modo Historia más fácil con más ayudas en combate. Un objeto, la Poción de Renacimiento Mental, permite reiniciar las habilidades de Maestría con la espada, Brujería y Vampirismo para repartir los puntos de nuevo.",
+          "El parche añade además ajustes de FrameGen, cambios en la cámara de combate y en el apuntado, mejoras de traversal con Shadowstep y Planeshift, más opciones de subtítulos y, según GameSpot, la posibilidad de acariciar al perro."
+        ],
+        "en": [
+          "Rebel Wolves, the studio made up of former CD Projekt RED developers, has detailed update 1.1 for The Blood of Dawnwalker, arriving next week with no exact date. According to Push Square, it contains over 1,100 \"improvements and fixes\", with details given for PS5.",
+          "The current Story mode difficulty is renamed Forgiving, and a new, easier Story mode with more combat assists is added. An item, the Draught of Mind Rebirth, lets you reset your Swordmastery, Witchcraft and Vampirism skills to reallocate points.",
+          "The patch also adds FrameGen settings, combat camera and targeting changes, traversal improvements for Shadowstep and Planeshift, more subtitle options and, per GameSpot, the ability to pet the dog."
+        ]
+      },
+      "why": {
+        "es": "Es el primer gran parche del RPG, orientado a facilitar el acceso y corregir críticas de la comunidad.",
+        "en": "It is the RPG's first major patch, aimed at easing access and addressing community feedback."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289024/the-blood-of-dawnwalker-anuncia-una-gran-actualizacion-con-mas-de-1100-mejoras-y-nuevas-funciones/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg",
+        "credit": "Bandai Namco Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3751260/"
+      }
+    },
+    {
+      "id": "zero-parades-directors-cut-switch-2-3-noviembre",
+      "category": "indie",
+      "title": {
+        "es": "Zero Parades: Director's Cut, el RPG de los creadores de Disco Elysium, llegará el 3 de noviembre a Switch 2",
+        "en": "Zero Parades: Director's Cut, from the Disco Elysium studio, arrives on Switch 2 on November 3"
+      },
+      "dek": {
+        "es": "La edición añade unas 40.000 palabras de contenido nuevo, modo entre bastidores y controles pensados para la consola.",
+        "en": "The edition adds around 40,000 words of new content, a backstage mode and console-specific controls."
+      },
+      "body": {
+        "es": [
+          "ZA/UM ha confirmado que Zero Parades: Director's Cut saldrá el 3 de noviembre en Nintendo Switch 2; Vandal indica que también llegará a PS5. El RPG, que apareció en PC en mayo, es el segundo juego del estudio tras Disco Elysium.",
+          "Según Nintendo Life, la edición incorpora una nueva escena, el Quisach Roundabout, unas 40.000 palabras de material nuevo, un Modo Backstage con versiones anteriores de niveles y comentarios de los desarrolladores, y la locución en inglés regrabada. También suma mejoras de accesibilidad como soporte ultrapanorámico, reasignación de mando y un modo para fotosensibilidad.",
+          "En Switch 2 aprovecha el control con ratón, la pantalla táctil y la vibración HD. El Director's Cut ya se lanzó como actualización gratuita para los jugadores de PC a principios de mes; no se ha detallado cómo funcionará en otras plataformas."
+        ],
+        "en": [
+          "ZA/UM has confirmed that Zero Parades: Director's Cut will launch on Nintendo Switch 2 on November 3; Vandal says it is also coming to PS5. The RPG, which came out on PC in May, is the studio's second game after Disco Elysium.",
+          "According to Nintendo Life, the edition includes a new encounter, the Quisach Roundabout, roughly 40,000 words of new material, a Backstage Mode with earlier level versions and developer commentary, and re-recorded English voice-over. It also adds accessibility features such as ultrawide support, controller remapping and a photosensitivity mode.",
+          "On Switch 2 it uses mouse controls, the touchscreen and HD rumble. The Director's Cut was released as a free update for PC players earlier this month; how it will work on other platforms has not been detailed."
+        ]
+      },
+      "why": {
+        "es": "El estudio lleva su segundo RPG a consolas con una edición ampliada.",
+        "en": "The studio brings its second RPG to consoles with an expanded edition."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zero-parades-the-successor-to-disco-elysium-has-been-confirmed-for-switch-2"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289014/el-nuevo-rpg-de-los-creadores-de-disco-elysium-confirma-su-llegada-a-nintendo-switch-2-con-una-edicion-ampliada/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/54018bd8ff78f17e7bfd691dadade1602938b8e8/header.jpg",
+        "credit": "ZA/UM / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2863680/"
+      }
+    },
+    {
+      "id": "rumor-shrek-2-remastered-ficha-xbox-store-aspyr",
+      "category": "xbox",
+      "title": {
+        "es": "Una ficha en la Xbox Store destapa Shrek 2 Remastered, de Aspyr, antes de su anuncio",
+        "en": "An Xbox Store listing exposes Shrek 2 Remastered, from Aspyr, ahead of its announcement"
+      },
+      "dek": {
+        "es": "La página, ya retirada, detalla texturas mejoradas, 4K y cooperativo para hasta cuatro jugadores; falta fecha.",
+        "en": "The since-removed page details improved textures, 4K and co-op for up to four players; no date yet."
+      },
+      "body": {
+        "es": [
+          "Usuarios han encontrado una ficha oficial en la Xbox Store de Shrek 2 Remastered, un juego aún sin anunciar que desarrolla Aspyr Media para Xbox Series X|S. Según Pure Xbox y GameSpot, la página, ya eliminada, hablaba de texturas mejoradas, una interfaz renovada, resolución 4K y escenas rehechas.",
+          "Entre las funciones citadas figuran un modo foto y un modo trucos, y la posibilidad de jugar en solitario o en cooperativo con hasta tres amigos más. No consta fecha de lanzamiento.",
+          "Pure Xbox sugiere que el anuncio formal podría llegar en el ID@Xbox Showcase de la próxima semana, y Gematsu confirma la aparición de la ficha en la Microsoft Store. Hasta entonces, se trata de una filtración sin confirmar por la compañía."
+        ],
+        "en": [
+          "Users have found an official Xbox Store listing for Shrek 2 Remastered, an unannounced game being developed by Aspyr Media for Xbox Series X|S. According to Pure Xbox and GameSpot, the page, since removed, mentioned improved textures, a refreshed UI, 4K resolution and rebuilt cutscenes.",
+          "Listed features include a photo mode and a cheat mode, and the option to play solo or in co-op with up to three friends. No release date is given.",
+          "Pure Xbox suggests the formal announcement could come at next week's ID@Xbox Showcase, and Gematsu confirms the listing appeared on the Microsoft Store. Until then, this remains a leak not confirmed by the companies."
+        ]
+      },
+      "why": {
+        "es": "Los remasters de juegos licenciados de los 2000 siguen ganando terreno en las plataformas actuales.",
+        "en": "Remasters of 2000s licensed games keep gaining ground on current platforms."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/stop-the-presses-shrek-2-is-officially-being-remastered-for-xbox-series-xs"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/shrek-2-remastered-microsoft-store-page-appears"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store"
+        }
+      ]
+    },
+    {
+      "id": "wolf-among-us-remastered-switch-retraso-29-octubre",
+      "category": "nintendo",
+      "title": {
+        "es": "The Wolf Among Us Remastered retrasa su versión de Switch sin nueva fecha; el resto sigue el 29 de octubre",
+        "en": "The Wolf Among Us Remastered delays its Switch version with no new date; others stay on October 29"
+      },
+      "dek": {
+        "es": "Telltale dice que necesita «más tiempo» para ofrecer la experiencia que merecen los jugadores de Nintendo.",
+        "en": "Telltale says it needs \"additional time\" to deliver the experience Nintendo players deserve."
+      },
+      "body": {
+        "es": [
+          "Telltale Games ha retrasado de forma indefinida la versión para Nintendo Switch de The Wolf Among Us Remastered. Según Gematsu, el estudio alega que necesita tiempo adicional para ofrecer una experiencia a la altura de los jugadores de Nintendo.",
+          "El resto de versiones —PS5, Xbox Series, Xbox One y PC en Steam y Epic Games Store— mantienen su fecha del 29 de octubre. Nintenderos subraya que el comunicado no menciona la versión de Switch 2, que sí estaba anunciada."
+        ],
+        "en": [
+          "Telltale Games has delayed the Nintendo Switch version of The Wolf Among Us Remastered indefinitely. According to Gematsu, the studio says it needs additional time to deliver an experience worthy of Nintendo players.",
+          "The other versions, on PS5, Xbox Series, Xbox One and PC via Steam and the Epic Games Store, remain set for October 29. Nintenderos points out that the statement does not mention the Switch 2 version, which had been announced."
+        ]
+      },
+      "why": {
+        "es": "Queda en el aire cuándo llegará a las consolas de Nintendo.",
+        "en": "It is unclear when it will reach Nintendo consoles."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/la-version-para-switch-de-the-wolf-among-us-remastered-se-retrasa-de-forma-indefinida"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/the-wolf-among-us-remastered-se-retrasa-en-nintendo-switch-y-se-olvida-de-nintendo-switch-2-en-el-comunicado/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/55f3d832fa0e7dbf88beded2134b2de5f130a433/ss_55f3d832fa0e7dbf88beded2134b2de5f130a433.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg",
+        "credit": "Telltale / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3884860/"
+      }
+    },
+    {
+      "id": "coral-island-switch-2-invierno-actualizacion-1-4",
+      "category": "nintendo",
+      "title": {
+        "es": "Coral Island llegará a Switch 2 este invierno junto a la actualización 1.4, «Kids Grow Up»",
+        "en": "Coral Island heads to Switch 2 this winter alongside the \"Kids Grow Up\" 1.4 update"
+      },
+      "dek": {
+        "es": "El anuncio se hizo en The MIX Fall Showcase; la actualización permite formar una familia.",
+        "en": "The announcement came at The MIX Fall Showcase; the update lets you raise a family."
+      },
+      "body": {
+        "es": [
+          "El simulador de granja Coral Island, de Stairway Games, tendrá versión para Nintendo Switch 2 en invierno de 2026, según Nintendo Life, que lo vio en el showcase The MIX Fall. Gematsu añade que Balor Games y Stairway Games lo lanzarán junto a la versión 1.4 del juego.",
+          "La actualización gratuita «Kids Grow Up» permite criar hijos que crecen y desarrollan sus propios intereses, y los niños del vecindario también envejecen, con nuevas historias en Starlet Town. El juego admite partidas en solitario o con hasta cuatro amigos."
+        ],
+        "en": [
+          "Farming sim Coral Island, from Stairway Games, will get a Nintendo Switch 2 version in winter 2026, according to Nintendo Life, which saw it at The MIX Fall Showcase. Gematsu adds that Balor Games and Stairway Games will release it alongside version 1.4 of the game.",
+          "The free \"Kids Grow Up\" update lets players raise children who grow up and develop their own interests, and neighbourhood kids age too, bringing new stories to Starlet Town. The game can be played solo or with up to four friends."
+        ]
+      },
+      "why": {
+        "es": "Suma otro título cooperativo de granjas a Switch 2 a pocas semanas de las fiestas.",
+        "en": "It adds another co-op farming title to Switch 2 a few weeks before the holidays."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/coral-island-coming-to-switch-2-this-winter-alongside-version-1-4-update"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/coral-island-se-confirma-para-nintendo-switch-2-y-otros-7-juegos-concretan-sus-debuts/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/capsule_616x353.jpg",
+        "credit": "Balor Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1158160/"
+      }
+    },
+    {
+      "id": "no-rest-for-the-wicked-1-0-marzo-2027-ps5",
+      "category": "pc",
+      "title": {
+        "es": "No Rest for the Wicked fija la versión 1.0 para marzo de 2027 en PS5 y promete duplicar el tamaño del juego",
+        "en": "No Rest for the Wicked sets 1.0 for March 2027 on PS5, promising to roughly double the game"
+      },
+      "dek": {
+        "es": "Moon Studios retrasó el lanzamiento previsto para octubre porque no quería precipitarlo.",
+        "en": "Moon Studios pushed back an October release because it did not want to rush."
+      },
+      "body": {
+        "es": [
+          "Moon Studios ha confirmado que la versión 1.0 de No Rest for the Wicked llegará en marzo de 2027, con estreno en PS5. Según Push Square, el lanzamiento estaba previsto para octubre de 2026, pero el estudio lo retrasó para no apresurarlo.",
+          "La compañía asegura que la 1.0 «duplicará aproximadamente el tamaño del juego», con un sistema de clases, líneas de misiones por facciones y numerosos añadidos y ajustes. Gematsu recoge los detalles de los nuevos sistemas de clase.",
+          "El juego sigue en acceso anticipado en otras plataformas."
+        ],
+        "en": [
+          "Moon Studios has confirmed that version 1.0 of No Rest for the Wicked will arrive in March 2027, launching on PS5. According to Push Square, it had been planned for October 2026, but the studio delayed it to avoid rushing.",
+          "The company says 1.0 will \"roughly double the size of the game\", with a class system, faction-based questlines and numerous additions and tweaks. Gematsu details the new class systems.",
+          "The game remains in early access on other platforms."
+        ]
+      },
+      "why": {
+        "es": "La 1.0 supone un cambio sustancial respecto al acceso anticipado actual.",
+        "en": "Version 1.0 is a substantial change from the current early access build."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wicked-confirms-march-2027-release-on-ps5"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/no-rest-for-the-wicked-details-new-class-systems-version-1-0-enhancements"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/capsule_616x353.jpg",
+        "credit": "Moon Studios GmbH / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1371980/"
+      }
+    },
+    {
+      "id": "ancestors-humankind-odyssey-remaster-8-diciembre",
+      "category": "indie",
+      "title": {
+        "es": "Ancestors: The Humankind Odyssey vuelve el 8 de diciembre con un remaster en Unreal Engine 5",
+        "en": "Ancestors: The Humankind Odyssey returns December 8 as an Unreal Engine 5 remaster"
+      },
+      "dek": {
+        "es": "Llegará a PS5, Xbox Series X|S y Switch 2, con mejora gratuita para quienes ya tienen el original.",
+        "en": "It heads to PS5, Xbox Series X|S and Switch 2, with a free upgrade for existing owners."
+      },
+      "body": {
+        "es": [
+          "La aventura de supervivencia y evolución de Patrice Désilets, creador de Assassin's Creed, tendrá un remaster el 8 de diciembre en PS5, Xbox Series X|S y Nintendo Switch 2. Según Vandal, está reconstruido en Unreal Engine 5, con gráficos renovados, narración al estilo documental, modo foto completo y mejoras de calidad de vida.",
+          "El original salió en PC en 2019, y quienes ya lo tengan recibirán las mejoras en una actualización gratuita. Push Square precisa que los dueños de PS4 también tendrán mejora gratuita a PS5. El remaster lo anuncian la editora Fictions y el estudio Panache Digital Games, con un primer tráiler."
+        ],
+        "en": [
+          "Patrice Désilets' survival and evolution adventure, from the creator of Assassin's Creed, gets a remaster on December 8 for PS5, Xbox Series X|S and Nintendo Switch 2. According to Vandal, it is rebuilt in Unreal Engine 5, with updated visuals, documentary-style narration, a full photo mode and quality-of-life improvements.",
+          "The original launched on PC in 2019, and existing owners will receive the improvements in a free update. Push Square specifies that PS4 owners will also get a free PS5 upgrade. Publisher Fictions and studio Panache Digital Games announced the remaster with a first trailer."
+        ]
+      },
+      "why": {
+        "es": "Un juego singular y poco visto vuelve con otro motor y por fin en consolas de nueva generación.",
+        "en": "A distinctive, little-seen game returns on a new engine and finally on current-gen consoles."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026289006/anunciado-el-remaster-del-juego-de-supervivencia-del-creador-de-assassins-creed-ancestors-llegara-mejorado/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/capsule_616x353.jpg",
+        "credit": "Private Division / Steam",
+        "creditUrl": "https://store.steampowered.com/app/536270/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Liquid Swords, el estudio sueco de Samson, está en quiebra tras meses sin pagar salarios, según Breakit. Cerca de 30 empleados recibirán compensación estatal y el administrador busca comprador. Samson, su único juego, salió en abril con un 51 en Metacritic.",
+        "en": "Samson developer Liquid Swords is bankrupt after months of unpaid salaries, per Breakit. Nearly 30 employees will receive state compensation and the trustee hopes to find a buyer. Samson, its only game, launched in April with a 51 on Metacritic."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/samson-developer-liquid-swords-bankrupt/"
+      }
+    },
+    {
+      "text": {
+        "es": "WWE 2K26 recibirá el 28 de octubre un pack de pago con Street Fighter: The Rock como M. Bison, Rey Mysterio como Ryu, Bianca Belair como Cammy, Ultimate Warrior como Blanka y Dominik Mysterio como Ken.",
+        "en": "WWE 2K26 gets a paid Street Fighter pack on October 28: The Rock as M. Bison, Rey Mysterio as Ryu, Bianca Belair as Cammy, Ultimate Warrior as Blanka and Dominik Mysterio as Ken."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026289010/street-fighter-llega-a-wwe-2k26-con-un-sorprendente-crossover-the-rock-sera-m-bison-y-rey-mysterio-ryu/"
+      }
+    },
+    {
+      "text": {
+        "es": "Atelier Karia añadirá una mecánica de peso corporal, al estilo de GTA San Andreas, tras una votación de los fans: la complexión de la protagonista cambiará según lo que coma.",
+        "en": "Atelier Karia will add a GTA San Andreas-style weight mechanic after a fan vote: the protagonist's build will change depending on what she eats."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote"
+      }
+    },
+    {
+      "text": {
+        "es": "Un analista estima que Ghost of Yōtei vende menos que Ghost of Tsushima, aunque sus cifras en PS5 siguen siendo sólidas.",
+        "en": "An analyst estimates Ghost of Yōtei is selling below Ghost of Tsushima, though its numbers on PS5 remain strong."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: una nueva patente de Sony sugiere que PS6 tendría su propia tecnología de generación de fotogramas, según IGN; las patentes no garantizan funciones finales.",
+        "en": "Rumour: a new Sony patent suggests the PS6 would have its own frame generation technology, per IGN; patents do not guarantee final features."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/playstation-6-will-likely-have-sonys-own-take-on-frame-generation-according-to-latest-patent"
+      }
+    },
+    {
+      "text": {
+        "es": "Big Walk no llegará a Xbox mientras Microsoft sea objetivo del boicot BDS, según su estudio, House House, como gesto de apoyo al movimiento.",
+        "en": "Big Walk will not come to Xbox while Microsoft is a BDS boycott target, developer House House says, as a show of support for the movement."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target/"
+      }
+    },
+    {
+      "text": {
+        "es": "Masahiro Sakurai duda de que el primer Super Smash Bros. se hubiera publicado de seguir las reglas de un juego de lucha tradicional.",
+        "en": "Masahiro Sakurai says the first Super Smash Bros. might never have been released had it followed traditional fighting-game rules."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/sakurai-smash-bros-traditional-fighting-game/"
+      }
+    },
+    {
+      "text": {
+        "es": "Star Wars: Zero Company recibe el parche 1.2, con modificadores de campaña y otras novedades.",
+        "en": "Star Wars: Zero Company gets patch 1.2, with campaign modifiers and other additions."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026289020/star-wars-zero-company-el-juego-de-estrategia-tipo-xcom-se-actualiza-con-el-parche-12-estas-son-sus-novedades/"
+      }
+    },
+    {
+      "text": {
+        "es": "DREADMOOR, aventura de pesca y supervivencia en primera persona, llegará a Steam en acceso anticipado el 9 de noviembre y ya tiene demo gratuita.",
+        "en": "DREADMOOR, a first-person fishing and survival adventure, arrives on Steam in early access on November 9 and already has a free demo."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026289013/pesca-monstruos-y-sobrevive-en-un-mundo-posapocaliptico-dreadmoor-ya-tiene-fecha-y-se-puede-probar-gratis/"
+      }
+    },
+    {
+      "text": {
+        "es": "Cult of the Lamb confirma versión para Nintendo Switch 2, con actualización gratuita para quienes ya lo tengan en Switch.",
+        "en": "Cult of the Lamb is confirmed for Nintendo Switch 2, with a free update for existing Switch owners."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/cult-of-the-lamb-confirma-version-para-nintendo-switch-2-con-actualizacion-gratis-para-quienes-ya-lo-tengan-en-nintendo-switch/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Final Fantasy Resonance",
+      "platforms": "PS5, Switch, Switch 2, Xbox",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/"
+    },
+    {
+      "title": "Modern Warfare 4",
+      "platforms": "Multiplataforma",
+      "note": {
+        "es": "23 de octubre (campaña en acceso anticipado con reserva digital; DMZ desde el 20)",
+        "en": "October 23 (campaign early access with digital pre-order; DMZ from the 20th)"
+      },
+      "url": "https://news.xbox.com/en-us/2026/10/16/modern-warfare-4-campaign-early-access-now-live/"
+    },
+    {
+      "title": "Vixen 357",
+      "platforms": "PS5, Xbox, Switch, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://www.gematsu.com/2026/10/vixen-357-coming-to-ps5-xbox-series-ps4-xbox-one-switch-and-pc-on-october-23"
+    },
+    {
+      "title": "The Wolf Among Us Remastered",
+      "platforms": "PS5, Xbox, PC (Switch sin fecha)",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date"
+    },
+    {
+      "title": "Zero Parades: Director's Cut",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "3 de noviembre",
+        "en": "November 3"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/zero-parades-the-successor-to-disco-elysium-has-been-confirmed-for-switch-2"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026289009/el-remake-de-zelda-ocarina-of-time-esconde-una-nueva-zona-donde-podras-volver-a-luchar-contra-los-jefes/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Las reseñas «variadas» de Castlevania: Belmont's Curse en Steam (66 % positivas) por pantallas negras y bloqueos centran la conversación de la comunidad de PC.",
+        "en": "Castlevania: Belmont's Curse's \"mixed\" Steam reviews (66% positive) over black screens and crashes dominate PC community talk."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026289007/el-regreso-de-castlevania-tropieza-en-steam-belmonts-curse-recibe-criticas-por-sus-problemas-tecnicos-en-pc/"
+      }
+    },
+    {
+      "text": {
+        "es": "Parte de los aficionados compara el último tráiler de GTA 6 con el primero y lo tilda de «borroso» o de «downgrade»; Kotaku defiende que es una decisión artística.",
+        "en": "Some fans compare the latest GTA 6 trailer with the first and call it \"blurry\" or a \"downgrade\"; Kotaku argues it is an artistic choice."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855"
+      }
+    },
+    {
+      "text": {
+        "es": "El rechazo al fin de los discos de PlayStation sigue vivo: Kutaragi admite «fricción» con los jugadores.",
+        "en": "Backlash to the end of PlayStation discs continues: Kutaragi admits \"friction\" with players."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator"
+      }
+    },
+    {
+      "text": {
+        "es": "El fanart de los protagonistas de Belmont's Curse se ha vuelto viral y los desarrolladores dicen que lo disfrutan.",
+        "en": "Fan art of Belmont's Curse's leads has gone viral and the developers say they are enjoying it."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "DayZ Badlands",
+      "url": "https://store.steampowered.com/app/3816030/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Castlevania: Belmont's Curse",
+      "url": "https://store.steampowered.com/app/4231820/"
+    },
+    {
+      "name": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/"
+    }
+  ]
+}
