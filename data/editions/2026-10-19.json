@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-19",
+  "headline": {
+    "es": "Quiebra de Liquid Swords y saqueos en tiendas de videojuegos de París marcan un fin de semana de malas noticias",
+    "en": "Liquid Swords goes bankrupt and Paris game shops are looted in a grim weekend for the industry"
+  },
+  "intro": {
+    "es": "El estudio de Samson cierra sin cobrar a su plantilla, los disturbios de París arrasan comercios y el equipo Vitality, y Lucasfilm defiende a los estudios pequeños para Star Wars.",
+    "en": "Samson's studio folds with staff unpaid, Paris riots wreck shops and the Vitality esports HQ, and Lucasfilm backs smaller studios for Star Wars."
+  },
+  "stories": [
+    {
+      "id": "liquid-swords-samson-quiebra-sueldos-impagados",
+      "category": "industria",
+      "title": {
+        "es": "Liquid Swords, el estudio de Samson, se declara en quiebra",
+        "en": "Liquid Swords, the studio behind Samson, goes bankrupt"
+      },
+      "dek": {
+        "es": "La plantilla denuncia dos meses sin cobrar y el administrador busca comprador para el estudio.",
+        "en": "Staff say they went two months without pay and the administrator is looking for a buyer."
+      },
+      "body": {
+        "es": [
+          "Liquid Swords, el estudio sueco que desarrolló el juego de acción en mundo abierto Samson, ha sido declarado en quiebra, según PC Gamer, VGC y Eurogamer.es. PC Gamer lo vincula a las denuncias de la plantilla, que asegura llevar dos meses sin cobrar; VGC, citando a Break It, habla de varios meses de impagos.",
+          "VGC señala que hay unas 30 personas afectadas, que el Estado sueco compensaría a los empleados y que el estudio, cofundado en 2020 por Christofer Sundberg (cofundador de Avalanche y director creativo de Just Cause), espera encontrar comprador. Las fuentes difieren en cuánto tiempo llevaban sin cobrar, así que conviene tomar la cifra como aproximada.",
+          "Samson salió en Steam y Epic Games Store en abril con reseñas mixtas y críticas por errores, y llegó a consolas en septiembre."
+        ],
+        "en": [
+          "Liquid Swords, the Swedish studio that made the open-world action game Samson, has been declared bankrupt, according to PC Gamer, VGC and Eurogamer.es. PC Gamer ties it to staff claims of two months without pay; VGC, citing Break It, speaks of several months of missed wages.",
+          "VGC reports around 30 people are affected, that the Swedish state is expected to compensate employees, and that the studio, co-founded in 2020 by Christofer Sundberg (an Avalanche co-founder and Just Cause creative director), hopes to find a buyer. The sources differ on how long wages went unpaid, so treat the figure as approximate.",
+          "Samson launched on Steam and the Epic Games Store in April to mixed reviews and complaints about bugs, and reached consoles in September."
+        ]
+      },
+      "why": {
+        "es": "Es otro cierre de un estudio con trayectoria cuyo equipo paga las consecuencias antes de que haya salida clara.",
+        "en": "It is another closure of an experienced studio where the team bears the cost before any outcome is clear."
+      },
+      "sources": [
+        {"name": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/"},
+        {"name": "VGC", "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/"},
+        {"name": "Eurogamer.es", "url": "https://www.eurogamer.es/el-estudio-de-samson-se-declara-en-bancarrota"}
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634520/043caa717412362032308226e5706e9da12e6e1b/ss_043caa717412362032308226e5706e9da12e6e1b.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634520/139e0f223c1c0cb4f2e763c41ae7fe6e4e3e59a2/header.jpg",
+        "credit": "Liquid Swords / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3634520/"
+      }
+    },
+    {
+      "id": "paris-disturbios-tiendas-videojuegos-team-vitality-saqueos",
+      "category": "industria",
+      "title": {
+        "es": "Los disturbios de París saquean tiendas de videojuegos y la sede de Team Vitality",
+        "en": "Paris riots loot game shops and Team Vitality's headquarters"
+      },
+      "dek": {
+        "es": "El sábado 17 de octubre varios comercios del distrito XI y la sede V.Hive del equipo de esports quedaron destrozados.",
+        "en": "On Saturday, October 17, several shops in the 11th arrondissement and the esports team's V.Hive base were wrecked."
+      },
+      "body": {
+        "es": [
+          "Durante los disturbios del sábado 17 de octubre en París fueron saqueadas varias tiendas del bulevar Voltaire, entre ellas Manga Story, Hobby One Repar (reparación de consolas y mandos) y Sat Elite (videojuegos retro y figuras), según recoge 3DJuegos a partir de Le Parisien. Sat Elite habría perdido entre 300.000 y 500.000 euros, y uno de los socios de Manga Story dijo que no reabrirá en ese local. El Ayuntamiento ha anunciado un equipo para ayudar con daños y seguros.",
+          "Insider Gaming cuenta que la sede parisina de Team Vitality, V.Hive, también fue asaltada: según el club, no hubo heridos, pero se destrozaron las fachadas y se llevaron trofeos y equipos informáticos. Su director ejecutivo, Fabien Devide, dijo sentir que «una parte de mí se va en humo».",
+          "Nintenderos recoge además la imagen viral de un empleado de Micromania defendiendo la entrada de una tienda destrozada en Niza."
+        ],
+        "en": [
+          "During the October 17 riots in Paris, several shops on boulevard Voltaire were looted, including Manga Story, Hobby One Repar (console and controller repairs) and Sat Elite (retro games and figures), according to 3DJuegos citing Le Parisien. Sat Elite reportedly lost between €300,000 and €500,000, and a Manga Story partner said they will not reopen at that location. The city council has announced a team to help with damage and insurance.",
+          "Insider Gaming reports that Team Vitality's Paris headquarters, V.Hive, was also broken into: the club says nobody was hurt, but storefronts were destroyed and trophies and IT equipment taken. CEO Fabien Devide said he felt \"a part of me go up in smoke\".",
+          "Nintenderos also covers a viral image of a Micromania employee guarding the entrance of a smashed shop in Nice."
+        ]
+      },
+      "why": {
+        "es": "Los comercios especializados son pequeños y dependen de stock físico difícil de asegurar; una campaña vecinal ya recauda ayuda para Sat Elite.",
+        "en": "Specialist shops are small and rely on physical stock that is hard to insure; a fundraiser for Sat Elite is already under way."
+      },
+      "sources": [
+        {"name": "3DJuegos", "url": "https://www.3djuegos.com/sociedad/noticias/se-acabo-se-han-llevado-todo-devastadora-imagen-tiendas-videojuegos-coleccionismo-disturbios-paris"},
+        {"name": "Insider Gaming", "url": "https://insider-gaming.com/team-vitality-paris-hq-looted-trashed-riots/"},
+        {"name": "Nintenderos", "url": "https://www.nintenderos.com/2026/10/la-impactante-escena-viral-de-una-tienda-de-videojuegos-destrozada-en-francia-el-ultimo-gran-bastion-del-formato-fisico/"}
+      ]
+    },
+    {
+      "id": "lucasfilm-star-wars-juegos-estudios-pequenos-sin-gran-editora",
+      "category": "juegos",
+      "title": {
+        "es": "Lucasfilm: para un buen juego de Star Wars no hace falta una gran editora",
+        "en": "Lucasfilm: a great Star Wars game doesn't need a top publisher"
+      },
+      "dek": {
+        "es": "Douglas Reilly dice que los estudios independientes forman parte de la estrategia de la franquicia.",
+        "en": "Douglas Reilly says independent studios are part of the franchise's strategy."
+      },
+      "body": {
+        "es": [
+          "Douglas Reilly, de Lucasfilm Games, explicó a The Games Business que «no hace falta ser una de las cinco grandes editoras para hacer un gran juego de Star Wars», según Insider Gaming. Lucasfilm mantiene un listón alto y suele trabajar con equipos con experiencia, pero cuenta con estudios pequeños dentro de su plan.",
+          "Como ejemplos, el medio cita Star Wars Zero Company y Star Wars Galactic Racer, desarrollados por estudios más modestos y con notas de Metacritic en torno a los 80 altos. 3DJuegos lo interpreta como una buena noticia para los aficionados, con proyectos de géneros distintos al clásico de acción y aventura con Jedi.",
+          "Insider Gaming añade que, según informaciones separadas, Star Wars Eclipse, de Quantic Dream, vuelve a encarrilarse tras un desarrollo lento."
+        ],
+        "en": [
+          "Lucasfilm Games' Douglas Reilly told The Games Business that \"you don't have to necessarily be a top five publisher to make a great Star Wars game\", as reported by Insider Gaming. Lucasfilm keeps a high bar and generally works with experienced teams, but indie studios are part of its plan.",
+          "The outlet cites Star Wars Zero Company and Star Wars Galactic Racer, made by smaller studios and scoring in the mid-80s on Metacritic. 3DJuegos reads it as good news for fans, with projects beyond the classic Jedi action-adventure formula.",
+          "Insider Gaming adds that, per separate reports, Quantic Dream's Star Wars Eclipse is back on track after slow development."
+        ]
+      },
+      "why": {
+        "es": "Abre la puerta a más propuestas de tamaño medio y de géneros variados bajo la marca Star Wars.",
+        "en": "It points to more mid-sized, genre-varied projects under the Star Wars brand."
+      },
+      "sources": [
+        {"name": "Insider Gaming", "url": "https://insider-gaming.com/lucasfilm-star-wars-games-independent-studios/"},
+        {"name": "3DJuegos", "url": "https://www.3djuegos.com/juegos/star-wars-galactic-racer/noticias/gran-momento-para-ser-fan-star-wars-lucasfilm-da-gran-noticia-proximos-videojuegos-franquicia"}
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/678c46e3c0b0f82e3af8b0e901b8434057a36966/ss_678c46e3c0b0f82e3af8b0e901b8434057a36966.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg",
+        "credit": "Secret Mode / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4078430/"
+      }
+    },
+    {
+      "id": "gta-6-cambiar-personaje-copiloto-perfil-criminal",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6: podrás controlar al copiloto y tendrá un «perfil criminal» distinto al honor de RDR 2",
+        "en": "GTA 6: you can switch to the passenger, and a \"criminal profile\" replaces RDR 2's honor system"
+      },
+      "dek": {
+        "es": "Rob Nelson, director de desarrollo, detalla dos mecánicas en una entrevista con IGN.",
+        "en": "Development director Rob Nelson details two mechanics in an IGN interview."
+      },
+      "body": {
+        "es": [
+          "Según Vandal, que cita una entrevista de IGN, cuando Jason y Lucia viajen en el mismo coche el jugador podrá cambiar al que va de copiloto y dejar que el otro conduzca hasta el destino. Rob Nelson añade que el personaje al volante va a buen ritmo, de modo que no hay penalización por dejarle conducir.",
+          "Nelson también explicó el «perfil criminal»: un sistema de reputación, distinto al de honor de Red Dead Redemption 2, en el que las acciones repetidas influyen en cómo reacciona el mundo y en cómo avanza la historia. Cumplir lo que pide una misión se considera juego limpio; actuar de forma constante más allá de lo necesario puede inclinar el perfil. Según él, no hay una forma correcta de jugar."
+        ],
+        "en": [
+          "According to Vandal, citing an IGN interview, when Jason and Lucia share a car the player can switch to the passenger and let the other character drive to the destination. Rob Nelson adds that the driver moves at a good pace, so there is no penalty for letting them drive.",
+          "Nelson also explained the \"criminal profile\": a reputation system, different from Red Dead Redemption 2's honor, where repeated actions shape how the world reacts and how the story progresses. Doing what a mission asks counts as playing fair; consistently going beyond what is needed can tilt the profile. He says there is no right or wrong way to play."
+        ]
+      },
+      "why": {
+        "es": "Dos pistas concretas sobre cómo Rockstar quiere que se juegue la pareja protagonista y se mida el comportamiento del jugador.",
+        "en": "Two concrete hints at how Rockstar wants the lead pair to play and how player behavior will be tracked."
+      },
+      "sources": [
+        {"name": "Vandal (copiloto)", "url": "https://vandal.elespanol.com/noticia/2026291009/gta-6-permitira-cambiar-de-personaje-mientras-conduces-y-podras-relajarte-como-copiloto/"},
+        {"name": "Vandal (perfil criminal)", "url": "https://vandal.elespanol.com/noticia/2026291001/rockstar-explica-en-que-consiste-el-perfil-criminal-de-gta-6-es-diferente-al-sistema-de-honor-de-rdr-2/"}
+      ]
+    },
+    {
+      "id": "decomp-dev-cierra-ia-contribuciones-comunidad-descompilacion",
+      "category": "industria",
+      "title": {
+        "es": "decomp.dev cierra: la IA «ha roto» la comunidad de descompilación",
+        "en": "decomp.dev shuts down: AI has \"broken\" the decompilation community"
+      },
+      "dek": {
+        "es": "La plataforma que seguía proyectos de descompilación de juegos para mods y ports dice que las aportaciones con IA la han desbordado.",
+        "en": "The platform tracking game decompilation projects for mods and ports says AI-driven contributions overwhelmed it."
+      },
+      "body": {
+        "es": [
+          "decomp.dev, creada en 2024 para seguir proyectos voluntarios de descompilación de videojuegos —paso previo a mods, ports y parches—, anunció su cierre el fin de semana, según Kotaku. Sus responsables sostienen que la comunidad ya no funciona como antes: «el aspecto comunitario de la descompilación se ha roto».",
+          "El motivo, dicen, son las «contribuciones de paso» generadas con IA, que cualquiera con suficientes recursos puede enviar. Según Time Extension y 404 Media, el administrador, que firma como Encounter, también describe bifurcaciones de proyectos humanos que se terminan con IA sin implicarse con la comunidad. Reconoce que la IA puede acelerar el trabajo con supervisión humana.",
+          "Las fuentes difieren en el alcance técnico del cierre: algunas hablan de que se apaga el índice público, otras de que las páginas existentes siguen accesibles."
+        ],
+        "en": [
+          "decomp.dev, founded in 2024 to track volunteer game decompilation projects — a step toward mods, ports and patches — announced its closure over the weekend, according to Kotaku. Its operators say the community no longer works as it did: \"the community aspect of decompilation has been broken\".",
+          "The cause, they say, is AI-generated \"drive-by contributions\" that anyone with enough resources can submit. Per Time Extension and 404 Media, the admin, who goes by Encounter, also describes forks of human-led projects being finished with AI without engaging the community. They acknowledge AI can speed up the work under human oversight.",
+          "Sources differ on the technical scope of the shutdown: some say the public index is going dark, others that existing pages remain available."
+        ]
+      },
+      "why": {
+        "es": "Muestra cómo la IA está cambiando las comunidades de preservación y modding, no solo la producción de juegos.",
+        "en": "It shows how AI is reshaping preservation and modding communities, not only game production."
+      },
+      "sources": [
+        {"name": "Kotaku", "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302"},
+        {"name": "Time Extension", "url": "https://www.timeextension.com/news/2026/10/the-community-aspect-of-decompilation-has-been-broken-decomp-dev-closes-in-the-wake-of-ai-based-bad-actors"},
+        {"name": "404 Media", "url": "https://404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy"}
+      ]
+    },
+    {
+      "id": "konami-presidente-ia-no-sustituye-creadores",
+      "category": "industria",
+      "title": {
+        "es": "El presidente de Konami: la IA no sustituirá la química entre creadores",
+        "en": "Konami's president: AI can't replace the chemistry between creators"
+      },
+      "dek": {
+        "es": "Hideki Hayakawa lo plantea en el informe integrado de la compañía.",
+        "en": "Hideki Hayakawa makes the case in the company's integrated report."
+      },
+      "body": {
+        "es": [
+          "En el informe integrado de Konami, su presidente Hideki Hayakawa resta peso al impacto de la IA generativa en el mercado: argumenta que los motores genéricos y el contenido generado por usuarios ya redujeron las barreras de entrada. Aunque la IA mejore la eficiencia, afirma que lo más importante para hacer juegos innovadores «son las personas y los creadores», según VGC y Automaton.",
+          "Describe la interacción del equipo como una «reacción química» difícil de reemplazar. Kotaku recoge que el informe tampoco descarta la IA: la ve como una oportunidad y dice que ofrece a los equipos pautas para usarla con cautela.",
+          "VGC recuerda que Konami ha vuelto al desarrollo de gran presupuesto con Silent Hill 2, Silent Hill f, Silent Hill: Townfall y Castlevania: Belmont's Curse."
+        ],
+        "en": [
+          "In Konami's integrated report, president Hideki Hayakawa downplays generative AI's impact on the market, arguing generic engines and user-generated content already lowered entry barriers. Even if AI improves efficiency, he says the key to innovative games is \"people and creators\", per VGC and Automaton.",
+          "He describes team interaction as a \"chemical reaction\" that is hard to replace. Kotaku notes the report does not rule AI out: it sees an opportunity and says teams get guardrails for using it carefully.",
+          "VGC points out that Konami is back in big-budget development with Silent Hill 2, Silent Hill f, Silent Hill: Townfall and Castlevania: Belmont's Curse."
+        ]
+      },
+      "why": {
+        "es": "Fija la postura de una gran editora japonesa en un debate que divide a la industria.",
+        "en": "It sets the stance of a major Japanese publisher in a debate that divides the industry."
+      },
+      "sources": [
+        {"name": "VGC", "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/"},
+        {"name": "Automaton", "url": "https://automaton-media.com/en/news/konami-president-hayakawa-believes-ai-wont-bring-a-significant-change-to-the-game-market-humans-and-creators-are-crucial-for-developing/"},
+        {"name": "Kotaku", "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506"}
+      ]
+    },
+    {
+      "id": "street-fighter-pelicula-taquilla-51-millones-estreno",
+      "category": "adaptaciones",
+      "title": {
+        "es": "La película de Street Fighter lidera la taquilla con 51,1 millones en su estreno",
+        "en": "Street Fighter movie tops the box office with $51.1M opening"
+      },
+      "dek": {
+        "es": "Queda por debajo de los 70 millones que esperaban algunos analistas y con críticas divididas.",
+        "en": "It falls short of the roughly $70M some analysts expected, with split reviews."
+      },
+      "body": {
+        "es": [
+          "La adaptación de acción real de Street Fighter recaudó 51,1 millones de dólares a escala internacional en su primer fin de semana y fue lo más visto del cine mundial, según Push Square e IGN. Algunos analistas esperaban cerca de 70 millones.",
+          "Push Square cita a Deadline para un presupuesto de 82 millones, por lo que el camino a la rentabilidad con costes de marketing sigue siendo largo, aunque podría acercarse al equilibrio. Distribuye Paramount y coproducen Legendary y Capcom. En Rotten Tomatoes tiene un 42 % de críticos y un 79 % de público."
+        ],
+        "en": [
+          "The live-action Street Fighter adaptation took $51.1 million internationally in its opening weekend and topped the worldwide box office, per Push Square and IGN. Some analysts had expected closer to $70 million.",
+          "Push Square cites Deadline for an $82 million budget, so the road to profitability with marketing costs remains long, though it may come close to breaking even. Paramount distributes, with Legendary and Capcom co-funding. Rotten Tomatoes shows 42% from critics and 79% from audiences."
+        ]
+      },
+      "why": {
+        "es": "Su segundo fin de semana dirá si hay secuela, algo que la prensa ya menciona.",
+        "en": "Its second weekend will show whether a sequel is likely, which the press already raises."
+      },
+      "sources": [
+        {"name": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend"},
+        {"name": "IGN", "url": "https://www.ign.com/articles/street-fighter-tops-the-box-office-with-51-million-opening-weekend-amid-lackluster-reviews"}
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-pelicula-historia-original-cd-projekt",
+      "category": "adaptaciones",
+      "title": {
+        "es": "La película de Cyberpunk 2077 contará una historia original, dice CD Projekt",
+        "en": "The Cyberpunk 2077 film will tell an original story, CD Projekt says"
+      },
+      "dek": {
+        "es": "Michał Nowakowski descarta trasladar la trama del juego al cine.",
+        "en": "Michał Nowakowski rules out transferring the game's plot to the screen."
+      },
+      "body": {
+        "es": [
+          "Michał Nowakowski, codirector ejecutivo de CD Projekt RED, dijo al medio polaco PAP Biznes que «de momento solo podemos decir que definitivamente no queremos hacer una adaptación cinematográfica del juego». Según 3DJuegos y GamesRadar, la película contará una historia original ambientada en el universo de Cyberpunk.",
+          "Paramount desarrolla el proyecto de acción real con Lorenzo di Bonaventura como productor. No hay fecha, director ni reparto anunciados, ni confirmación del regreso de Keanu Reeves. Nowakowski dice que habrá más información cuando «ambas partes estén preparadas», lo que tardará meses como mínimo."
+        ],
+        "en": [
+          "CD Projekt RED co-CEO Michał Nowakowski told Polish outlet PAP Biznes that \"for now, all we can say is that we definitely don't want to make a film adaptation of the game\". According to 3DJuegos and GamesRadar, the film will tell an original story set in the Cyberpunk universe.",
+          "Paramount is developing the live-action project with Lorenzo di Bonaventura producing. No release date, director or cast has been announced, and Keanu Reeves' return is unconfirmed. Nowakowski says more will come when \"both sides are ready\", which will take months at least."
+        ]
+      },
+      "why": {
+        "es": "Sigue el modelo de Edgerunners: mismo mundo, personajes y trama nuevos.",
+        "en": "It follows the Edgerunners model: same world, new characters and plot."
+      },
+      "sources": [
+        {"name": "3DJuegos", "url": "https://www.3djuegos.com/tv-series/noticias/que-historia-contara-pelicula-cyberpunk-2077-cd-projekt-red-ha-dejado-claro-que-no-quiere-llevar-tu-partida-al-cine"},
+        {"name": "Gematsu", "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-live-action-film-in-development-at-paramount"}
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1091500/"
+      }
+    },
+    {
+      "id": "arc-raiders-sendero-helado-embark-ritmo-actualizaciones",
+      "category": "juegos",
+      "title": {
+        "es": "Embark asume menos jugadores en ARC Raiders a cambio de un ritmo de trabajo sostenible",
+        "en": "Embark accepts fewer ARC Raiders players in exchange for a sustainable pace"
+      },
+      "dek": {
+        "es": "Tras Sendero helado, el productor Aleksander Grondal defiende una gran actualización cada seis meses.",
+        "en": "After Frozen Trail, executive producer Aleksander Grondal defends one big update every six months."
+      },
+      "body": {
+        "es": [
+          "Según Vandal, Embark Studios dejó el ritmo constante de actualizaciones de los primeros meses porque perjudicaba al equipo, y volvió a una gran actualización cada seis meses con más contenido. Aleksander Grondal, productor ejecutivo, dijo: «Cuando hicimos el cambio, aceptamos el hecho de que habría menos jugadores», y reconoció que el modelo semestral «puede que no sea la solución perfecta».",
+          "Sendero helado (versión 2.0) es la mayor actualización hasta ahora: añade mapa, enemigos, armas y una gran nave ARC, y coincide con el primer aniversario y una prueba gratuita temporal. Los jugadores en Steam han subido hasta su máximo en seis meses, aunque siguen lejos de las cifras iniciales. PC Gamer, tras probarla, se muestra entusiasmada con el Emperador caído y la nave."
+        ],
+        "en": [
+          "According to Vandal, Embark Studios dropped the constant update pace of the early months because it hurt the team, and returned to one big update every six months with more content. Executive producer Aleksander Grondal said: \"When we made the change, we accepted that there would be fewer players\", and admitted the semiannual model \"may not be the perfect solution\".",
+          "Frozen Trail (version 2.0) is the biggest update so far: it adds a map, enemies, weapons and a large ARC ship, and coincides with the first anniversary and a temporary free trial. Steam players have climbed to a six-month high, though still well below early figures. PC Gamer, after playing it, is excited about the Fallen Emperor and the frigate."
+        ]
+      },
+      "why": {
+        "es": "Un caso visible del debate sobre el desgaste en los juegos como servicio.",
+        "en": "A visible case in the debate over burnout in live-service games."
+      },
+      "sources": [
+        {"name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026291006/arc-raiders-sacrifico-su-ritmo-de-actualizaciones-por-un-mayor-bienestar-en-el-equipo-no-somos-tan-grandes/"},
+        {"name": "PC Gamer", "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/"}
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/capsule_616x353.jpg",
+        "credit": "Embark Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1808500/"
+      }
+    },
+    {
+      "id": "final-fantasy-resonance-precios-tamanos-switch-2",
+      "category": "nintendo",
+      "title": {
+        "es": "Final Fantasy Resonance: 59,99 € y 11,7 GB en Switch 2 para el 22 de octubre",
+        "en": "Final Fantasy Resonance: €59.99 and 11.7 GB on Switch 2 for October 22"
+      },
+      "dek": {
+        "es": "Square Enix detalla precios, ediciones y tamaños de descarga en Switch y Switch 2.",
+        "en": "Square Enix details prices, editions and download sizes on Switch and Switch 2."
+      },
+      "body": {
+        "es": [
+          "Según Nintenderos, el primer Final Fantasy en estilo HD-2D llega el 22 de octubre a Switch 2 y Switch. La edición estándar cuesta 59,99 € y la Digital Deluxe, con un pack de objetos, 69,99 €, en ambas consolas.",
+          "La descarga ocupa 11,7 GB en Switch 2 y 8,8 GB en Switch. En físico será una tarjeta de clave de juego en Switch 2 y un cartucho en Switch. Gematsu lo incluye entre los lanzamientos de la semana en PS5, Xbox Series, Switch 2, Switch y PC."
+        ],
+        "en": [
+          "According to Nintenderos, the first HD-2D Final Fantasy arrives October 22 on Switch 2 and Switch. The standard edition costs €59.99 and the Digital Deluxe, with an item pack, €69.99, on both consoles.",
+          "The download is 11.7 GB on Switch 2 and 8.8 GB on Switch. The physical release is a game-key card on Switch 2 and a cartridge on Switch. Gematsu lists it among this week's releases on PS5, Xbox Series, Switch 2, Switch and PC."
+        ]
+      },
+      "why": {
+        "es": "Cierra las dudas de precio y espacio justo antes del lanzamiento de la semana.",
+        "en": "It settles price and storage questions right before this week's launch."
+      },
+      "sources": [
+        {"name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/final-fantasy-resonance-confirma-precios-y-tamano-de-descarga-en-nintendo-switch-2/"},
+        {"name": "Gematsu", "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"}
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/c9e0d9f5cd2a7102098d5967046a90c4181de601/ss_c9e0d9f5cd2a7102098d5967046a90c4181de601.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg",
+        "credit": "Square Enix / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3259780/"
+      }
+    },
+    {
+      "id": "one-piece-grand-gourmet-switch-2-30-fps-sin-paquete-mejora",
+      "category": "nintendo",
+      "title": {
+        "es": "One Piece: Grand Gourmet irá a 30 fps en Switch y Switch 2, sin paquete de mejora",
+        "en": "One Piece: Grand Gourmet runs at 30 fps on Switch and Switch 2, with no upgrade pack"
+      },
+      "dek": {
+        "es": "Bandai Namco detalla resolución y fotogramas antes del estreno del 23 de octubre.",
+        "en": "Bandai Namco details resolution and frame rate ahead of the October 23 release."
+      },
+      "body": {
+        "es": [
+          "Según Nintenderos, One Piece: Grand Gourmet llegará el 23 de octubre con hasta 4K en modo dock y 1080p en portátil en Switch 2, y 1080p en dock y 720p en portátil en Switch. Irá a 30 fps en ambas consolas, igual que la versión de PC.",
+          "Bandai Namco no prevé un paquete de mejora de Switch a Switch 2; la versión de Switch funcionará en la nueva consola mediante retrocompatibilidad. Gematsu lo sitúa en Switch 2, Switch, PC, iOS y Android."
+        ],
+        "en": [
+          "According to Nintenderos, One Piece: Grand Gourmet arrives October 23 with up to 4K docked and 1080p handheld on Switch 2, and 1080p docked and 720p handheld on Switch. It runs at 30 fps on both consoles, as does the PC version.",
+          "Bandai Namco has no plans for a Switch-to-Switch 2 upgrade pack; the Switch version will run on the new console through backward compatibility. Gematsu lists it for Switch 2, Switch, PC, iOS and Android."
+        ]
+      },
+      "why": {
+        "es": "Quien dude entre versiones debe decidir ya: no habrá mejora posterior de pago.",
+        "en": "Buyers choosing between versions should decide now: there will be no paid upgrade path."
+      },
+      "sources": [
+        {"name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/one-piece-grand-gourmet-detalla-su-apartado-tecnico-en-nintendo-switch-y-nintendo-switch-2-y-no-tendra-paquete-de-mejora/"},
+        {"name": "Gematsu", "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"}
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/7decbf4a844f1e5bba3622cc342ff205858971e4/ss_7decbf4a844f1e5bba3622cc342ff205858971e4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/0437aa2ef308bd35d40833de72c3dac04a24f067/header.jpg",
+        "credit": "Bandai Namco Entertainment Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3905010/"
+      }
+    }
+  ],
+  "briefs": [
+    {"text": {"es": "Ocho juegos salen de Xbox Game Pass el 31 de octubre, entre ellos Deep Rock Galactic, LEGO Star Wars: La saga Skywalker, Wartales, Full Throttle Remastered y Day of the Tentacle Remastered.", "en": "Eight games leave Xbox Game Pass on October 31, including Deep Rock Galactic, LEGO Star Wars: The Skywalker Saga, Wartales, Full Throttle Remastered and Day of the Tentacle Remastered."}, "source": {"name": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-late-october-2026"}},
+    {"text": {"es": "Xbox ofrece soporte oficial al motor gratuito Defold desde su versión 1.14.0; los desarrolladores deben estar aprobados por Microsoft y solicitar acceso.", "en": "Xbox now officially supports the free Defold engine from version 1.14.0; developers must be approved by Microsoft and request access."}, "source": {"name": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/xbox-officially-adds-support-for-a-modern-powerful-and-production-ready-game-engine"}},
+    {"text": {"es": "Insignia, el servicio no oficial que sustituye a Xbox Live en la Xbox original, vuelve a añadir juegos tras meses parado: Burnout 3, Delta Force Black Hawk Down, Madden NFL 2005 y otros.", "en": "Insignia, the unofficial Xbox Live replacement for the original Xbox, is adding games again after months of pause: Burnout 3, Delta Force Black Hawk Down, Madden NFL 2005 and more."}, "source": {"name": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/insignia-brings-back-online-multiplayer-for-lots-more-xbox-games-including-burnout-3"}},
+    {"text": {"es": "Fire Emblem: Fortune's Weave y Pokémon Pokopia están entre los diez nominados a mejor juego de consola en los Golden Joystick 2026; la votación cierra el viernes 23 de octubre.", "en": "Fire Emblem: Fortune's Weave and Pokémon Pokopia are among ten nominees for console game of the year at the 2026 Golden Joystick Awards; voting closes Friday, October 23."}, "source": {"name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/fire-emblem-fortunes-weave-y-pokemon-pokopia-optan-a-mejor-juego-del-ano-en-los-golden-joystick-awards-2026-lista-completa-de-nominados-y-votaciones-abiertas/"}},
+    {"text": {"es": "Dan Houser, cofundador de Rockstar, asegura que Red Dead Redemption y Bully estuvieron a punto de no existir y explica cómo los equipos sólidos pueden salvar un juego.", "en": "Dan Houser says Red Dead Redemption and Bully nearly never happened, explaining how strong teams can save games, per Insider Gaming."}, "source": {"name": "Insider Gaming", "url": "https://insider-gaming.com/dan-houser-red-dead-bully-development/"}},
+    {"text": {"es": "Marvel Rivals endurece las penalizaciones por chat tóxico de texto y voz, con sanciones mayores para casos graves o reincidentes, y estrena una página de política.", "en": "Marvel Rivals toughens penalties for toxic text and voice chat, with harsher action for severe or repeat offenses, and adds a new policy page."}, "source": {"name": "Insider Gaming", "url": "https://insider-gaming.com/marvel-rivals-toxic-chat-penalties/"}},
+    {"text": {"es": "Bloober Team, estudio del remake de Silent Hill 2, quiere hacer versiones físicas de sus juegos «mientras sea posible».", "en": "Bloober Team, the studio behind the Silent Hill 2 remake, wants to make physical versions of its games \"for as long as possible\"."}, "source": {"name": "IGN", "url": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible"}},
+    {"text": {"es": "Anunciado HeroQuest: Digital Edition, adaptación con licencia oficial del juego de tablero, a cargo de Balor Games.", "en": "HeroQuest: Digital Edition, an officially licensed adaptation of the board game by Balor Games, has been announced."}, "source": {"name": "Eurogamer.es", "url": "https://www.eurogamer.es/anunciado-heroquest-digital-edition"}},
+    {"text": {"es": "Una cuenta atrás en la web del regreso de Ecco the Dolphin apunta a novedades próximas, según Nintenderos.", "en": "A countdown on the website for Ecco the Dolphin's return hints at news soon, per Nintenderos."}, "source": {"name": "Nintenderos", "url": "https://www.nintenderos.com/2026/10/parece-que-pronto-tendremos-novedades-del-regreso-de-ecco-the-dolphin-una-cuenta-atras-ha-aparecido-en-su-web/"}},
+    {"text": {"es": "Sony patenta un sistema para que los espectadores interactúen con un streamer, por ejemplo moviendo un cursor o modificando el entorno. Como toda patente, puede no llegar a producto.", "en": "Sony has patented a system letting viewers interact with a streamer, such as moving a cursor or changing the environment. As with any patent, it may never become a product."}, "source": {"name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026291002/sony-patenta-un-sistema-que-permitira-a-los-espectadores-interactuar-y-guiar-a-un-streamer/"}},
+    {"text": {"es": "Un mod gratuito añade contratos infinitos a The Witcher 3: Wild Hunt Remastered, según Vandal.", "en": "A free mod adds endless contracts to The Witcher 3: Wild Hunt Remastered, per Vandal."}, "source": {"name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026291003/llegan-los-contratos-infinitos-a-the-witcher-3-wild-hunt-remastered-con-un-mod-que-expande-su-duracion-total/"}}
+  ],
+  "releases": [
+    {"title": "Final Fantasy Resonance", "platforms": "PS5, Xbox Series, Switch, Switch 2, PC", "note": {"es": "22 de octubre", "en": "October 22"}, "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"},
+    {"title": "Call of Duty: Modern Warfare 4", "platforms": "PS5, Xbox Series, Switch 2, PC", "note": {"es": "23 de octubre", "en": "October 23"}, "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"},
+    {"title": "One Piece: Grand Gourmet", "platforms": "Switch 2, Switch, PC, iOS, Android", "note": {"es": "23 de octubre", "en": "October 23"}, "url": "https://www.nintenderos.com/nintendo-switch-2/one-piece-grand-gourmet-detalla-su-apartado-tecnico-en-nintendo-switch-y-nintendo-switch-2-y-no-tendra-paquete-de-mejora/"},
+    {"title": "Stupid Never Dies", "platforms": "PS5, PC", "note": {"es": "Esta semana", "en": "This week"}, "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"},
+    {"title": "Nintendo Switch Sports Resort", "platforms": "Switch 2", "note": {"es": "Esta semana", "en": "This week"}, "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"}
+  ],
+  "social": [
+    {"text": {"es": "La quiebra de Liquid Swords reabre el debate sobre los impagos a plantillas y el estado de los estudios medianos.", "en": "Liquid Swords' bankruptcy reopens the debate over unpaid staff and the state of mid-sized studios."}, "source": {"name": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/"}},
+    {"text": {"es": "La imagen del empleado de Micromania defendiendo su tienda destrozada en Niza se ha hecho viral y alimenta el debate sobre el formato físico.", "en": "The image of a Micromania employee guarding his smashed shop in Nice went viral and feeds the debate on physical media."}, "source": {"name": "Nintenderos", "url": "https://www.nintenderos.com/2026/10/la-impactante-escena-viral-de-una-tienda-de-videojuegos-destrozada-en-francia-el-ultimo-gran-bastion-del-formato-fisico/"}},
+    {"text": {"es": "El cierre de decomp.dev divide a la comunidad de modding y preservación entre quienes culpan a la IA y quienes ven una herramienta útil con supervisión.", "en": "decomp.dev's closure splits the modding and preservation community between those blaming AI and those seeing a useful tool under oversight."}, "source": {"name": "Kotaku", "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302"}}
+  ],
+  "steam": [
+    {"name": "Call of Duty: Modern Warfare 4", "url": "https://store.steampowered.com/app/4435490/"},
+    {"name": "Steam Machine", "url": "https://store.steampowered.com/app/4165910/"},
+    {"name": "Enshrouded", "url": "https://store.steampowered.com/app/1203620/"},
+    {"name": "EA SPORTS FC 27", "url": "https://store.steampowered.com/app/4080220/"},
+    {"name": "Steam Controller", "url": "https://store.steampowered.com/app/4165870/"},
+    {"name": "Cyberpunk 2077", "url": "https://store.steampowered.com/app/1091500/"},
+    {"name": "Dressmaker", "url": "https://store.steampowered.com/app/4019220/"},
+    {"name": "Castlevania: Belmont's Curse", "url": "https://store.steampowered.com/app/4231820/"}
+  ]
+}
