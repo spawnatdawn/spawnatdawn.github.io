@@ -1,0 +1,803 @@
+{
+  "date": "2026-10-20",
+  "headline": {
+    "es": "Saros estrena su gran actualización gratuita y el debate sobre la IA sacude a Xbox y a los estudios indie",
+    "en": "Saros gets its big free update as the AI debate shakes Xbox and indie studios"
+  },
+  "intro": {
+    "es": "Modern Warfare 4 arranca con la mejor nota en Steam de la saga en 16 años, un directivo de Xbox borra su cuenta tras defender la IA y Riot recorta su lista de equipos de VCT.",
+    "en": "Modern Warfare 4 starts with the series' best Steam score in 16 years, an Xbox manager deletes his account after defending AI, and Riot trims its VCT partner list."
+  },
+  "stories": [
+    {
+      "id": "saros-zenith-actualizacion-gratuita-overlord-rush-eclipse-layers",
+      "category": "playstation",
+      "title": {
+        "es": "Saros recibe la actualización gratuita Zenith con Nueva Partida+ y un modo de jefes",
+        "en": "Saros gets the free Zenith update with New Game+ and a boss-rush mode"
+      },
+      "dek": {
+        "es": "Housemarque añade 20 modificadores, opciones de accesibilidad y clasificaciones online.",
+        "en": "Housemarque adds 20 modifiers, accessibility options and online leaderboards."
+      },
+      "body": {
+        "es": [
+          "Housemarque y Sony han lanzado el 19 de octubre Zenith, una actualización gratuita para todos los propietarios de Saros en PS5. Según Push Square, es la versión 2.0 y ocupa 3,5 GB.",
+          "Incluye Capas de Eclipse (Eclipse Layers), el modo de Nueva Partida+, y Overlord Rush, un modo de jefes con clasificaciones online en el que se pueden afrontar grupos de Overlords o los ocho seguidos. Se suman 20 modificadores carcosanos (10 de protección y 10 de prueba) y una corona cosmética para Arjun que crece con el nivel de dificultad.",
+          "En accesibilidad llegan la velocidad de juego reducida, el disparo automático y el apuntado por sensor de movimiento. Según el blog de PlayStation, el objetivo era dar rejugabilidad a quien ya completó el juego y facilitarlo a quien aún no lo ha probado."
+        ],
+        "en": [
+          "Housemarque and Sony released Zenith on October 19, a free update for all Saros owners on PS5. According to Push Square it is version 2.0 and weighs 3.5 GB.",
+          "It adds Eclipse Layers, the New Game+ mode, and Overlord Rush, a boss-rush mode with online leaderboards where players take on sets of Overlords or all eight in a row. There are also 20 Carcosan modifiers (10 protective, 10 trials) and a cosmetic crown for Arjun that grows with the difficulty level.",
+          "On accessibility, it brings slowed game speed, auto-fire and motion-sensor aiming. The PlayStation Blog says the aim was to add replayability for those who already finished the game and make it easier for newcomers."
+        ]
+      },
+      "why": {
+        "es": "Es una ampliación de contenido sustancial y gratuita pocos meses después del estreno, algo poco habitual en grandes exclusivos.",
+        "en": "A substantial free content expansion shortly after launch is uncommon for a major exclusive."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/19/the-saros-zenith-update-out-today-brings-more-ways-to-play-for-newcomers-and-veterans-alike/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/saross-free-new-game-plus-update-is-out-now-including-a-boss-rush-mode/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/saros-recibe-la-actualizacion-zenith-con-nueva-partida-opciones-de-accesibilidad-y-el-modo-lance-supremo"
+        }
+      ]
+    },
+    {
+      "id": "modern-warfare-4-steam-87-por-ciento-homenaje-vince-zampella",
+      "category": "juegos",
+      "title": {
+        "es": "Modern Warfare 4 llega con el mejor arranque en Steam de la saga en 16 años y un homenaje a Zampella",
+        "en": "Modern Warfare 4 has the best Steam start in the series in 16 years and a Zampella tribute"
+      },
+      "dek": {
+        "es": "Su campaña suma un 87,4 % de reseñas positivas a cuatro días del estreno.",
+        "en": "Its campaign sits at 87.4% positive reviews four days before launch."
+      },
+      "body": {
+        "es": [
+          "Call of Duty: Modern Warfare 4 sale el 23 de octubre, pero quienes pagaron el acceso anticipado ya juegan la campaña. Según Insider Gaming, citado por Vandal, acumula un 87,4 % de reseñas positivas en Steam con más de 2.000 opiniones, la mejor marca de la saga desde Black Ops en 2010.",
+          "Las cifras de los últimos títulos, también según esa comparativa, son mucho más bajas: Black Ops 7 ronda el 39 %, Black Ops 6 el 46 % y Modern Warfare 3 el 48 %. Hay un matiz: las reseñas solo valoran la campaña, y la nota puede cambiar cuando llegue el multijugador.",
+          "El juego también rinde tributo a Vince Zampella, cofundador de Infinity Ward y de Respawn, fallecido en diciembre de 2025: los créditos incluyen una pantalla «In memoriam». Según VGC, la compartió Geoff Keighley, que añadió que el juego está dedicado a su memoria."
+        ],
+        "en": [
+          "Call of Duty: Modern Warfare 4 launches on October 23, but those who paid for early access are already playing the campaign. According to Insider Gaming, cited by Vandal, it has 87.4% positive Steam reviews from more than 2,000 players, the series' best mark since Black Ops in 2010.",
+          "Recent entries, per the same comparison, sit far lower: Black Ops 7 around 39%, Black Ops 6 around 46% and Modern Warfare 3 around 48%. One caveat: the reviews only cover the campaign, and the score may shift once multiplayer arrives.",
+          "The game also pays tribute to Vince Zampella, co-founder of Infinity Ward and Respawn, who died in December 2025: the credits include an \"In memoriam\" screen. VGC says Geoff Keighley shared it and added that the game is dedicated to his memory."
+        ]
+      },
+      "why": {
+        "es": "Tras varias entregas mal recibidas en PC, el estreno de la serie parte con buena opinión de sus jugadores, aunque el multijugador será la prueba real.",
+        "en": "After several poorly received PC entries, the series starts with good player sentiment, although multiplayer will be the real test."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026292007/modern-warfare-4-sorprende-en-steam-es-el-call-of-duty-mejor-valorado-desde-2010/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/"
+        },
+        {
+          "name": "Vandal (homenaje)",
+          "url": "https://vandal.elespanol.com/noticia/2026292018/modern-warfare-4-rinde-homenaje-a-vince-zampella-el-cocreador-de-la-saga-que-fallecio-en-2025/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      }
+    },
+    {
+      "id": "directivo-xbox-ia-elimina-cuenta-brandon-stirrup-desarrolladores",
+      "category": "industria",
+      "title": {
+        "es": "Un directivo de Xbox borra su cuenta tras defender el uso de IA en los juegos",
+        "en": "An Xbox manager deletes his account after defending AI use in games"
+      },
+      "dek": {
+        "es": "Brandon Stirrup dijo que usar IA es lo normal en 2026 y recibió una avalancha de críticas.",
+        "en": "Brandon Stirrup said using AI is standard in 2026 and drew a flood of criticism."
+      },
+      "body": {
+        "es": [
+          "Brandon Stirrup, responsable sénior de estrategia de negocio en Xbox, publicó en X que la industria del videojuego «finge no usar IA» mientras otros sectores la aceptan, y que los estudios que no la adopten «no deberían estar en el negocio de ser un negocio». También afirmó que trabajo que antes llevaba meses a un equipo de adaptación puede hacerse en un fin de semana.",
+          "Las respuestas fueron muy críticas, y Insider Gaming informa de que desactivó su perfil horas después. Pure Xbox sitúa los mensajes los días 18 y 19 de octubre, poco después de que Asha Sharma anunciara Xbox Labs, un anuncio que no mencionaba la IA de forma expresa. Según PC Gamer, una persona que dice estar en Xbox atribuyó el cierre al volumen de respuestas. Ninguna de las fuentes recoge una declaración oficial de Microsoft."
+        ],
+        "en": [
+          "Brandon Stirrup, a senior business strategy manager at Xbox, posted on X that the games industry is \"pretending to not use AI\" while other sectors embrace it, and that studios that don't adopt it \"should not be in the business of being a business\". He also claimed work that once took a porting team months can now be done in a weekend.",
+          "Replies were heavily critical, and Insider Gaming reports he deactivated his profile hours later. Pure Xbox dates the posts to October 18-19, shortly after Asha Sharma announced Xbox Labs, an announcement that did not explicitly mention AI. PC Gamer says someone claiming to be at Xbox attributed the deletion to the volume of replies. None of the sources include an official Microsoft statement."
+        ]
+      },
+      "why": {
+        "es": "El choque refleja la tensión entre quienes dirigen estudios y la comunidad sobre el papel de la IA en el desarrollo.",
+        "en": "The clash reflects the tension between studio leadership and the community over AI's role in development."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-manager-adored-ai-openly-deletes-social-media-profile/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/microsoft-employee-shares-their-truth-about-ai-usage-at-xbox-and-beyond"
+        }
+      ]
+    },
+    {
+      "id": "digital-sun-revamp-cancela-playtest-publico-clones-ia",
+      "category": "indie",
+      "title": {
+        "es": "Los creadores de Moonlighter reducen el playtest de ReVamp por miedo a los clones con IA",
+        "en": "Moonlighter's developer scales back the ReVamp playtest over AI-cloning fears"
+      },
+      "dek": {
+        "es": "Digital Sun pasa de una prueba pública en Steam a una sesión en Discord el 29 de octubre.",
+        "en": "Digital Sun moves from a public Steam test to a Discord session on October 29."
+      },
+      "body": {
+        "es": [
+          "Digital Sun Games, estudio de Moonlighter, no abrirá un playtest público de ReVamp, su «Tower Defensevania». Según Game Developer, la prueba pasa a ser más reducida y se celebrará en su Discord desde el 29 de octubre.",
+          "El estudio cita noticias recientes de juegos «ingeniería inversa, clonados y publicados antes de que salga el original». Con el lanzamiento aún a meses vista, considera arriesgado distribuir una versión a mucha gente. Afirma además que no es el único estudio que lo siente así.",
+          "Game Developer añade que Alliance Arts y Who's You cancelaron un día antes la demo de Drunken Goddess Reflux para Steam Next Fest, que arrancó este lunes."
+        ],
+        "en": [
+          "Digital Sun Games, the studio behind Moonlighter, will not hold a public playtest of ReVamp, its \"Tower Defensevania\". According to Game Developer, the test becomes smaller and will run on its Discord server from October 29.",
+          "The studio cites recent news of games being \"reverse-engineered, cloned, and published before the original is even out\". With launch still months away, it considers distributing a build widely too risky. It also says it knows it is not the only developer feeling this way.",
+          "Game Developer adds that Alliance Arts and Who's You cancelled the Drunken Goddess Reflux demo for Steam Next Fest a day earlier; the festival kicked off Monday."
+        ]
+      },
+      "why": {
+        "es": "Si crece la desconfianza, los estudios pequeños enseñarán menos antes del lanzamiento, y eso afecta a las pruebas abiertas y a los festivales de demos.",
+        "en": "If distrust grows, small studios will show less before launch, affecting open tests and demo festivals."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558"
+        }
+      ]
+    },
+    {
+      "id": "vct-socios-2027-2028-cloud9-global-esports-fuera",
+      "category": "esports",
+      "title": {
+        "es": "Riot anuncia los equipos socios de VCT 2027-2028: Cloud9 y Global Esports quedan fuera",
+        "en": "Riot names its 2027-2028 VCT partners: Cloud9 and Global Esports miss out"
+      },
+      "dek": {
+        "es": "Cada región pasa de diez a ocho socios, con cinco incorporaciones.",
+        "en": "Each region goes from ten to eight partners, with five newcomers."
+      },
+      "body": {
+        "es": [
+          "Riot Games ha confirmado los equipos socios de la VCT para 2027 y 2028. Según Insider Gaming, cada región reduce sus socios de 10 a 8 para dar paso a un circuito abierto con Cups y Qualifiers abiertos.",
+          "Entran G2 Esports (Américas), Weibo Gaming y XLG (China), y GAM Esports y Crazy Raccoon (Pacífico), este último de vuelta tras disolverse hace tres años. Quedan fuera Cloud9, KOI y Global Esports, ganador de una etapa de VCT Pacific y presente en Champions 2026; Insider Gaming añade que este club ha anunciado el cierre de sus operaciones de esports.",
+          "Cloud9, Barça eSports, Nongshim RedForce, ENVY y DRX han dicho que buscarán el acceso por Qualifiers abiertos. Riot ofrece paquetes de apoyo de 100.000 dólares a los equipos de Qualifiers en EMEA."
+        ],
+        "en": [
+          "Riot Games has confirmed the VCT partner teams for 2027 and 2028. According to Insider Gaming, each region cuts its partners from 10 to 8 to make way for an open circuit with Cups and Open Qualifiers.",
+          "G2 Esports (Americas), Weibo Gaming and XLG (China), and GAM Esports and Crazy Raccoon (Pacific) join, the latter returning after disbanding three years ago. Cloud9, KOI and Global Esports, a VCT Pacific stage winner that played Champions 2026, miss out; Insider Gaming adds that Global Esports has announced it will shut down its esports operations.",
+          "Cloud9, Barça eSports, Nongshim RedForce, ENVY and DRX have said they will pursue Open Qualifiers. Riot is offering $100,000 support packages to Open Qualifier teams in EMEA."
+        ]
+      },
+      "why": {
+        "es": "El recorte reduce la estabilidad de muchos clubes y pone a prueba la apuesta de Riot por un acceso más abierto.",
+        "en": "The cut removes stability for many clubs and tests Riot's bet on more open access."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/all-vct-partnered-teams-2027-2028/"
+        },
+        {
+          "name": "Insider Gaming (exclusiones)",
+          "url": "https://insider-gaming.com/vct-partnered-teams-2027-omissions-cloud9/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Valorant_Champions_Los_Angeles_2023.jpg/1280px-Valorant_Champions_Los_Angeles_2023.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Valorant_Champions_Los_Angeles_2023.jpg/960px-Valorant_Champions_Los_Angeles_2023.jpg",
+        "credit": "David Jiang / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Valorant_Champions_Los_Angeles_2023.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "edgerunners-2-kojima-vuelve-hideyoshi-oshima",
+      "category": "adaptaciones",
+      "title": {
+        "es": "Hideo Kojima vuelve a Cyberpunk con un cameo en Edgerunners 2",
+        "en": "Hideo Kojima returns to Cyberpunk with a cameo in Edgerunners 2"
+      },
+      "dek": {
+        "es": "La segunda temporada se estrena hoy en Netflix.",
+        "en": "Season 2 premieres today on Netflix."
+      },
+      "body": {
+        "es": [
+          "Hideo Kojima repetirá su papel de Hideyoshi Oshima, productor de braindances, en la segunda temporada de Cyberpunk: Edgerunners, según VGC y Kotaku. El creador de Metal Gear y Death Stranding pone su propia voz al personaje.",
+          "Kojima ya apareció en Cyberpunk 2077 en la misión The Heist: quien miraba por el bar del hotel Konpeki Plaza podía encontrarlo sentado al fondo, hablando de su trabajo. La temporada llega a Netflix este martes 20 de octubre."
+        ],
+        "en": [
+          "Hideo Kojima will reprise his role as braindance producer Hideyoshi Oshima in season 2 of Cyberpunk: Edgerunners, according to VGC and Kotaku. The Metal Gear and Death Stranding creator voices the character himself.",
+          "Kojima previously appeared in Cyberpunk 2077 in The Heist mission: anyone who looked around the Konpeki Plaza hotel bar could find him at a back table talking about his work. The season arrives on Netflix on Tuesday, October 20."
+        ]
+      },
+      "why": {
+        "es": "Conecta la serie con un guiño del juego y refuerza el vínculo entre ambos proyectos de CD Projekt.",
+        "en": "It ties the series to an in-game easter egg and strengthens the link between both CD Projekt projects."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/after-making-a-cameo-appearance-in-cyberpunk-2077-hideo-kojima-is-coming-to-cyberpunk-edgerunners-2/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/cyberpunk-edgerunners-season-2-hideo-kojima-cameo-character-2000747537"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-back-in-the-cyberpunk-universe-for-edgerunners-season-2"
+        }
+      ]
+    },
+    {
+      "id": "rtx-5090-palets-desaparecidos-aeropuerto-brasil-nvidia",
+      "category": "hardware",
+      "title": {
+        "es": "Desaparecen dos palés de RTX 5090 en un aeropuerto de Brasil",
+        "en": "Two pallets of RTX 5090s go missing at a Brazilian airport"
+      },
+      "dek": {
+        "es": "El valor se estima en 2,5 millones de reales, unos 440.000 euros.",
+        "en": "Their value is put at 2.5 million reais, about €440,000."
+      },
+      "body": {
+        "es": [
+          "Dos palés con tarjetas gráficas RTX 5090 de Zotac han desaparecido en un aeropuerto brasileño, según 3DJuegos y PC Gamer, que calcula un valor de unos 495.000 dólares. 3DJuegos cifra la pérdida en 2,5 millones de reales (unos 440.000 euros).",
+          "La empresa de carga Oderso, a través de su presidente Oderso Matos, ha denunciado que nadie ha dado una explicación ni existe registro del suceso: «Dos palés no desaparecen por sí solos dentro de un aeropuerto internacional». El artículo no nombra el aeropuerto ni informa de avances en la investigación.",
+          "PC Gamer informa además de que la RTX 5090 ha desaparecido de la tienda oficial de Nvidia, aunque la compañía asegura que no está descatalogada."
+        ],
+        "en": [
+          "Two pallets of Zotac RTX 5090 graphics cards have vanished at a Brazilian airport, according to 3DJuegos and PC Gamer, which puts the value at about $495,000. 3DJuegos puts the loss at 2.5 million reais (about €440,000).",
+          "Cargo company Oderso, through president Oderso Matos, says nobody has offered an explanation and there is no record of the incident: \"two pallets don't disappear by themselves inside an international airport\". The article does not name the airport or report progress in the investigation.",
+          "PC Gamer also reports that the RTX 5090 has vanished from Nvidia's official marketplace, though the company says the card is not discontinued."
+        ]
+      },
+      "why": {
+        "es": "Con la RTX 5090 escasa y cara, el suceso alimenta la preocupación por el suministro de gráficas de gama alta.",
+        "en": "With the RTX 5090 scarce and pricey, the case feeds concern over high-end GPU supply."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/hardware/tarjetas-graficas/noticias/dos-cargamentos-llenos-rtx-5090-valor-440-000-euros-desaparecen-explicacion-aeropuerto-38-anos-nunca-nos-habia-pasado"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/"
+        },
+        {
+          "name": "PC Gamer (Nvidia)",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png/1280px-Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png/960px-Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png",
+        "credit": "PantheraLeo1359531 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Palit_GeForce_RTX_5090_Gamerock_20250530_HOF4166_RAW-Export.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    {
+      "id": "directive-8020-multijugador-online-gratis-cinco-jugadores",
+      "category": "juegos",
+      "title": {
+        "es": "Directive 8020 añade multijugador online gratuito para hasta cinco jugadores",
+        "en": "Directive 8020 adds free online multiplayer for up to five players"
+      },
+      "dek": {
+        "es": "Supermassive lo lanza justo antes de Halloween con dos modos de juego.",
+        "en": "Supermassive releases it just ahead of Halloween with two modes."
+      },
+      "body": {
+        "es": [
+          "Supermassive Games ha publicado una actualización gratuita de Directive 8020: A Dark Pictures Game con multijugador online para hasta cinco personas, cada una con su copia del juego, según Push Square y Gematsu.",
+          "Push Square detalla el Modo personalizado, donde cada jugador elige personaje y el control pasa según quién protagoniza la escena, y el Modo rotación, donde el control cambia a intervalos fijos. En ciertos momentos los jugadores votan las decisiones. La actualización suma además nuevos trajes y 13 premoniciones coleccionables. La fuente describe la versión de PS5 y no aclara el resto de plataformas."
+        ],
+        "en": [
+          "Supermassive Games has released a free update for Directive 8020: A Dark Pictures Game adding online multiplayer for up to five people, each with their own copy of the game, according to Push Square and Gematsu.",
+          "Push Square details Custom Mode, where each player picks a character and control passes depending on whose scene it is, and Round Robin Mode, where control rotates at set intervals. At certain points players vote on decisions. The update also adds new outfits and 13 collectable premonitions. The source covers the PS5 version and does not clarify other platforms."
+        ]
+      },
+      "why": {
+        "es": "Convierte una aventura narrativa de un jugador en una experiencia cooperativa a distancia.",
+        "en": "It turns a single-player narrative adventure into a remote co-op experience."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/in-time-for-halloween-directive-8020-adds-online-multiplayer-in-major-update-on-ps5"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/directive-8020-a-dark-pictures-game-online-multiplayer-mode-update-now-available"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/directive-8020-se-actualiza-gratis-con-un-modo-multijugador-online"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255370/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255370/capsule_616x353.jpg",
+        "credit": "Supermassive Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2255370/"
+      }
+    },
+    {
+      "id": "mario-64-placa-eternal-star-we-hope-so-analisis-mochi64",
+      "category": "nintendo",
+      "title": {
+        "es": "Un análisis computacional lee la placa de Super Mario 64 como «Eternal Star / We Hope So»",
+        "en": "A computational analysis reads Super Mario 64's plaque as \"Eternal Star / We Hope So\""
+      },
+      "dek": {
+        "es": "El programador Mochi64 probó más de 1,2 millones de palabras, pero el resultado no es definitivo.",
+        "en": "Programmer Mochi64 tested over 1.2 million words, but the result is not definitive."
+      },
+      "body": {
+        "es": [
+          "El programador Mochi64 sostiene haber resuelto el misterio de la placa de Super Mario 64: según VGC, el texto sería «Eternal Star» en la primera línea y «We Hope So» en la segunda, y no «L is Real 2401» como se creía.",
+          "El texto ocupa una textura de 32×32 píxeles con líneas de 3 a 5 píxeles de alto. Mochi64 probó combinaciones de palabras, fuentes y técnicas de reescalado de mediados de los noventa, y puntuó cada una por su parecido con la textura original; ha publicado el código en GitHub.",
+          "Es la mejor coincidencia estadística, no una confirmación: el propio autor lanza un reto para probar otras frases, y no es probable que Nintendo aclare el significado."
+        ],
+        "en": [
+          "Programmer Mochi64 says they have solved Super Mario 64's plaque mystery: according to VGC, the text would be \"Eternal Star\" on the first line and \"We Hope So\" on the second, not \"L is Real 2401\" as long believed.",
+          "The text sits on a 32×32-pixel texture with lines only 3 to 5 pixels tall. Mochi64 tested combinations of words, fonts and mid-1990s resizing techniques, scoring each by how closely it matched the original texture; the code is on GitHub.",
+          "It is the best statistical match, not a confirmation: the author has launched a challenge to test other phrases, and Nintendo is unlikely to clarify the meaning."
+        ]
+      },
+      "why": {
+        "es": "Cierra, con reservas, una de las teorías más antiguas de la comunidad del juego.",
+        "en": "It closes, with caveats, one of the community's oldest theories."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/10/un-fan-cree-haber-resuelto-el-misterio-de-la-placa-de-super-mario-64-tras-30-anos-de-teorias-sobre-luigi/"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-switch-2-parche-5-01-nitidez-fallos",
+      "category": "nintendo",
+      "title": {
+        "es": "The Witcher 3 Remastered recibe en Switch 2 el parche 5.01",
+        "en": "The Witcher 3 Remastered gets patch 5.01 on Switch 2"
+      },
+      "dek": {
+        "es": "Ajusta nitidez y resolución, corrige un cierre inesperado y el temblor de los Joy-Con 2.",
+        "en": "It tweaks sharpness and resolution and fixes a crash and Joy-Con 2 rumble."
+      },
+      "body": {
+        "es": [
+          "CD Projekt RED ha lanzado la versión 5.01 de The Witcher 3: Wild Hunt – Remastered, que Nintendo Life describe como especial para Switch 2. Se despliega en la mayoría de regiones y llegará a Japón tras su certificación.",
+          "Para Switch 2 ajusta la nitidez de imagen y la resolución, corrige un cierre inesperado poco frecuente al cambiar de región, optimiza la caché del soporte de mods multiplataforma y arregla que la vibración HD llegase solo al Joy-Con 2 izquierdo al trepar escaleras. También impide colocar marcadores en las franjas negras del mapa.",
+          "El parche incluye correcciones generales, como una localización ucraniana y un problema que podía afectar a los datos de guardado. Según Nintenderos, CD Projekt RED está satisfecha con las ventas y quiere seguir apostando por el formato físico con The Witcher 4."
+        ],
+        "en": [
+          "CD Projekt RED has released version 5.01 of The Witcher 3: Wild Hunt – Remastered, which Nintendo Life describes as a Switch 2 special. It is rolling out in most regions and will reach Japan after certification.",
+          "For Switch 2 it adjusts image sharpness and resolution, fixes a rare crash when changing regions, optimizes cache handling for cross-platform mod support, and fixes HD rumble reaching only the left Joy-Con 2 while climbing ladders. It also stops map pins being placed on the map's black bars.",
+          "The patch includes general fixes, such as Ukrainian localization and an issue that could affect save data. According to Nintenderos, CD Projekt RED is happy with sales and wants to keep backing physical releases with The Witcher 4."
+        ]
+      },
+      "why": {
+        "es": "Es la primera gran puesta a punto de la versión de Switch 2, con arreglos de rendimiento y de uso del mando.",
+        "en": "It is the first major tune-up of the Switch 2 version, with performance and controller fixes."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026292029/the-witcher-3-se-actualiza-en-switch-2-para-mejorar-sus-graficos-y-rendimiento/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/cd-projekt-red-esta-satisfecha-con-las-ventas-de-the-witcher-3-quiere-seguir-apostando-por-el-formato-fisico-con-the-witcher-4-y-confirma-avances-en-hadar/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/292030/"
+      }
+    },
+    {
+      "id": "game-pass-ocho-juegos-salen-31-octubre-skywalker-saga-deep-rock",
+      "category": "xbox",
+      "title": {
+        "es": "Ocho juegos abandonan Xbox Game Pass el 31 de octubre",
+        "en": "Eight games leave Xbox Game Pass on October 31"
+      },
+      "dek": {
+        "es": "Entre ellos, Deep Rock Galactic, LEGO Star Wars: La saga Skywalker y dos clásicos de Double Fine.",
+        "en": "They include Deep Rock Galactic, LEGO Star Wars: The Skywalker Saga and two Double Fine classics."
+      },
+      "body": {
+        "es": [
+          "Microsoft ha confirmado las bajas de Game Pass del 31 de octubre en consola, PC y nube: Day of the Tentacle Remastered, Dead Static Drive, Deep Rock Galactic, Full Throttle Remastered, Lara Croft and the Temple of Osiris, LEGO Star Wars: The Skywalker Saga, Wartales y Wildgate, según GameSpot y Vandal.",
+          "Los suscriptores tienen menos de dos semanas para jugarlos. GameSpot lo presenta como otra tanda de bajas de octubre."
+        ],
+        "en": [
+          "Microsoft has confirmed the October 31 Game Pass departures across console, PC and cloud: Day of the Tentacle Remastered, Dead Static Drive, Deep Rock Galactic, Full Throttle Remastered, Lara Croft and the Temple of Osiris, LEGO Star Wars: The Skywalker Saga, Wartales and Wildgate, according to GameSpot and Vandal.",
+          "Subscribers have under two weeks to play them. GameSpot presents it as another batch of October departures."
+        ]
+      },
+      "why": {
+        "es": "Los suscriptores que quieran terminar estos juegos tienen hasta final de mes.",
+        "en": "Subscribers who want to finish these games have until the end of the month."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-october/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026292025/xbox-game-pass-perdera-ocho-juegos-a-finales-de-octubre-incluidos-dos-clasicos-de-double-fine-y-lego-star-wars/"
+        }
+      ]
+    },
+    {
+      "id": "xbox-juegos-fisicos-oferta-empleo-sin-precintos",
+      "category": "xbox",
+      "title": {
+        "es": "Una oferta de empleo y la ausencia de precintos alimentan dudas sobre el futuro de los discos de Xbox",
+        "en": "A job ad and missing seals fuel questions over Xbox's disc future"
+      },
+      "dek": {
+        "es": "Microsoft busca a un «Xbox Games Supply Strategist» para coordinar lanzamientos físicos.",
+        "en": "Microsoft is hiring an \"Xbox Games Supply Strategist\" to coordinate physical launches."
+      },
+      "body": {
+        "es": [
+          "Microsoft ha publicado una oferta para un «Xbox Games Supply Strategist» que coordinaría el lanzamiento y la distribución de juegos físicos de Xbox, según Pure Xbox y Vandal, que lo leen como una señal de que la compañía no abandona el disco.",
+          "Pure Xbox añade que varios lanzamientos recientes llegan sin el precinto de seguridad, lo que parece una iniciativa de empaquetado. Ninguna fuente recoge una declaración de Microsoft sobre sus planes."
+        ],
+        "en": [
+          "Microsoft has posted a job ad for an \"Xbox Games Supply Strategist\" who would coordinate the launch and distribution of physical Xbox games, according to Pure Xbox and Vandal, which read it as a sign the company is not abandoning discs.",
+          "Pure Xbox adds that several recent releases ship without the security seal, which appears to be a packaging initiative. Neither source includes a Microsoft statement on its plans."
+        ]
+      },
+      "why": {
+        "es": "Es una lectura de indicios, no un anuncio, pero llega en pleno debate sobre el formato físico.",
+        "en": "It is a reading of clues rather than an announcement, but it lands amid the physical-media debate."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-hiring-for-role-involving-physical-games-but-what-about-the-future-of-discs"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026292019/xbox-podria-reforzar-su-apuesta-por-los-juegos-fisicos-una-oferta-de-empleo-de-microsoft-da-pistas/"
+        },
+        {
+          "name": "Pure Xbox (precintos)",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-appears-to-be-ditching-security-seals-from-new-physical-releases"
+        }
+      ]
+    },
+    {
+      "id": "faraway-fecha-5-noviembre-steph-thirion-annapurna",
+      "category": "indie",
+      "title": {
+        "es": "Faraway, el juego en solitario de Steph Thirion, saldrá el 5 de noviembre",
+        "en": "Steph Thirion's solo game Faraway launches on November 5"
+      },
+      "dek": {
+        "es": "Tras más de una década de desarrollo llega a PC, PS5, Xbox Series y Switch.",
+        "en": "After over a decade in development it comes to PC, PS5, Xbox Series and Switch."
+      },
+      "body": {
+        "es": [
+          "Faraway, el juego de arcade y puzles de Steph Thirion (creador de Eliss), tiene fecha: 5 de noviembre para PC, PS5, Xbox Series, Switch 2 y Switch. Lo publica Annapurna Interactive, según Gematsu y GameSpot.",
+          "Es un juego procedural en el que una estrella fugaz dibuja constelaciones para seguir con vida: se conectan estrellas para conseguir energía y puntos. Incluye un modo infinito y 16 fases de puzle, con gráficos minimalistas generados en tiempo real. Thirion lo desarrolló en solitario durante más de diez años."
+        ],
+        "en": [
+          "Faraway, the arcade puzzle game by Steph Thirion (creator of Eliss), has a date: November 5 for PC, PS5, Xbox Series, Switch 2 and Switch. Annapurna Interactive is publishing it, according to Gematsu and GameSpot.",
+          "It is a procedurally generated game in which a shooting star draws constellations to stay alive: players connect stars to gain energy and points. It has an endless mode and 16 handcrafted puzzle stages, with minimalist visuals generated in real time. Thirion built it alone over more than ten years."
+        ]
+      },
+      "why": {
+        "es": "Es un estreno discreto pero singular, fruto de un desarrollo individual muy largo.",
+        "en": "A quiet but distinctive release, the result of a very long solo development."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/faraway-launches-november-5-for-ps5-xbox-series-switch-2-switch-and-pc"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Steam Next Fest ha arrancado con más de 8.000 demos y los jugadores piden un filtro para ocultar juegos hechos con IA.",
+        "en": "Steam Next Fest has kicked off with over 8,000 demos, and players are asking for a filter to hide AI-made games."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/"
+      }
+    },
+    {
+      "text": {
+        "es": "Amazon Luna ya está en la app Prime Video de los dispositivos Fire TV en España, sin coste adicional para suscriptores Prime.",
+        "en": "Amazon Luna is now inside the Prime Video app on Fire TV devices in Spain at no extra cost for Prime members."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/amazon-luna-ya-esta-disponible-en-la-app-prime-video-en-dispositivos-fire-tv"
+      }
+    },
+    {
+      "text": {
+        "es": "Acer lanza en España la consola portátil Predator Atlas 8, con pantalla de 120 Hz y precio desde 1.099 euros.",
+        "en": "Acer launches the Predator Atlas 8 handheld in Spain, with a 120 Hz screen and prices from €1,099."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026292016/acer-lanza-en-espana-su-nueva-consola-portatil-predator-atlas-8-con-pantalla-de-120-hz-desde-1099-euros/"
+      }
+    },
+    {
+      "text": {
+        "es": "Capcom confirma una actualización de Dragon's Dogma 2 para Switch 2, aún sin fecha.",
+        "en": "Capcom confirms a Dragon's Dogma 2 update for Switch 2, with no date yet."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026292021/capcom-confirma-una-actualizacion-para-dragons-dogma-2-en-switch-2-aunque-todavia-no-tiene-fecha/"
+      }
+    },
+    {
+      "text": {
+        "es": "The Wolf Among Us Remastered llegará a Switch más tarde que al resto de plataformas.",
+        "en": "The Wolf Among Us Remastered will reach Switch later than other platforms."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026292015/the-wolf-among-us-remastered-se-retrasa-en-nintendo-switch-y-llegara-despues-que-al-resto-de-plataformas/"
+      }
+    },
+    {
+      "text": {
+        "es": "No Rest for the Wicked duplicará su tamaño con la versión 1.0, con 24 clases y seis facciones.",
+        "en": "No Rest for the Wicked will double in size with version 1.0, adding 24 classes and six factions."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026292014/no-rest-for-the-wicked-duplicara-su-tamano-con-la-version-10-y-estrenara-24-clases-y-seis-facciones/"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintendo dice haber subestimado la demanda de la Switch 2 de Zelda y promete reposiciones.",
+        "en": "Nintendo says it underestimated demand for the Zelda Switch 2 and promises restocks."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-underestimated-zelda-switch-2-console-sales-but-promises-restocks-are-on-the-way"
+      }
+    },
+    {
+      "text": {
+        "es": "La Halo Championship Series vuelve en diciembre con el HCS Invitational.",
+        "en": "The Halo Championship Series returns in December with the HCS Invitational."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/halo-championship-series-returns-december-invitational/"
+      }
+    },
+    {
+      "text": {
+        "es": "Phantom Blade Zero ocupará una parte considerable del SSD de la PS5.",
+        "en": "Phantom Blade Zero will take up a large chunk of the PS5's SSD."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps5s-ssd"
+      }
+    },
+    {
+      "text": {
+        "es": "Una de las mayores webs de descompilación de juegos cierra porque la IA ha «roto el aspecto comunitario».",
+        "en": "One of the biggest game decompilation sites is closing because AI has \"broken the community aspect\"."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Final Fantasy Resonance",
+      "platforms": "PS5, Xbox Series, Switch, Switch 2, PC",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"
+    },
+    {
+      "title": "Faraway",
+      "platforms": "PS5, Xbox Series, Switch 2, Switch, PC",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.gematsu.com/2026/10/faraway-launches-november-5-for-ps5-xbox-series-switch-2-switch-and-pc"
+    },
+    {
+      "title": "PAYDAY: Aces High",
+      "platforms": "PC",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.gematsu.com/2026/10/payday-aces-high-launches-november-5"
+    },
+    {
+      "title": "Littlelands",
+      "platforms": "PC",
+      "note": {
+        "es": "Acceso anticipado: 16 de noviembre",
+        "en": "Early Access: November 16"
+      },
+      "url": "https://www.gematsu.com/2026/10/littlelands-launches-in-early-access-on-november-16"
+    },
+    {
+      "title": "Dumpster Gang",
+      "platforms": "—",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/10/dumpster-gang-launches-december-3"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los jugadores de Steam reclaman un filtro «sin IA» ante la avalancha de demos de baja calidad en Next Fest.",
+        "en": "Steam players are demanding a \"no AI\" filter amid a flood of low-effort Next Fest demos."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+      }
+    },
+    {
+      "text": {
+        "es": "Las palabras de un directivo de Xbox sobre la IA provocan un aluvión de críticas y su salida de X.",
+        "en": "An Xbox manager's remarks on AI trigger a flood of criticism and his exit from X."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/xbox-manager-adored-ai-openly-deletes-social-media-profile/"
+      }
+    },
+    {
+      "text": {
+        "es": "La comunidad de Tekken se divide por un mod de rollback netcode para Tekken 6 que algunos jugadores japoneses rechazan con dureza.",
+        "en": "The Tekken community is split over a rollback netcode mod for Tekken 6 that some Japanese players sharply reject."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split"
+      }
+    },
+    {
+      "text": {
+        "es": "La voz japonesa de Goku denuncia que la IA le ha copiado la voz: «No puedo perdonarlo».",
+        "en": "Goku's Japanese voice actor says AI has copied her voice: \"I can't forgive them\"."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Castlevania: Belmont's Curse",
+      "url": "https://store.steampowered.com/app/4231820/"
+    }
+  ]
+}
