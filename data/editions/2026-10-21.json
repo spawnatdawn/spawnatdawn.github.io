@@ -1,0 +1,822 @@
+{
+  "date": "2026-10-21",
+  "headline": {
+    "es": "El próximo Xbox se va a 2028 y Final Fantasy Resonance y Switch Sports Resort llegan con buenas críticas",
+    "en": "The next Xbox slips to 2028 as Final Fantasy Resonance and Switch Sports Resort arrive to good reviews"
+  },
+  "intro": {
+    "es": "Un informe de Fortune sitúa Project Helix en 2028 con un precio de hasta 1.800 dólares, EA confirma el regreso de Fight Night y Cyberpunk 2077 prepara su actualización 2.5.",
+    "en": "A Fortune report places Project Helix in 2028 at up to $1,800, EA confirms Fight Night's return and Cyberpunk 2077 readies update 2.5."
+  },
+  "stories": [
+    {
+      "id": "xbox-helix-informe-fortune-portatil-2027-consola-2028-precio",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/1280px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/960px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "credit": "Kyu3a / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Un informe sitúa la próxima Xbox en 2028 y su precio entre 1.200 y 1.800 dólares",
+        "en": "Report puts the next Xbox at 2028 and a price between $1,200 and $1,800"
+      },
+      "dek": {
+        "es": "Un portátil llegaría en las navidades de 2027, según un perfil de Fortune sobre la CEO Asha Sharma.",
+        "en": "A handheld would arrive for holiday 2027, according to a Fortune profile of CEO Asha Sharma."
+      },
+      "body": {
+        "es": [
+          "Un perfil de Fortune sobre Asha Sharma, CEO de Xbox, asegura que Microsoft apunta a lanzar un portátil de nueva generación en las navidades de 2027 y la consola Project Helix en las de 2028. Los medios que lo recogen lo presentan como información no confirmada.",
+          "Sobre el precio, el informe habla de proyecciones internas de entre 1.200 y 1.800 dólares para la consola, salvo que Microsoft decida subvencionarla. Según VGC, varios analistas ya esperaban que las consolas de nueva generación superasen los 1.000 dólares, y el coste de la memoria del futuro PS6 se estima en más de 680 dólares.",
+          "El texto también recoge una disputa interna: la dirección de Windows quería una versión reducida de Windows Home para el portátil, mientras que el equipo de Sharma prefiere controlar su propio software para obtener mejor rendimiento en juegos. Microsoft había confirmado en la GDC de marzo que Helix ejecutará juegos de Xbox y de PC."
+        ],
+        "en": [
+          "A Fortune profile of Xbox CEO Asha Sharma says Microsoft is aiming to launch a next-generation handheld for holiday 2027 and the Project Helix console for holiday 2028. Outlets covering it describe the details as unconfirmed.",
+          "On price, the report cites internal projections of $1,200 to $1,800 for the console unless Microsoft decides to subsidize it. According to VGC, analysts already expected next-gen consoles to top $1,000, and memory costs alone for the future PS6 are reportedly above $680.",
+          "The piece also describes an internal dispute: Windows leadership wanted a trimmed-down version of Windows Home for the handheld, while Sharma's team prefers to control its own software for better gaming performance. Microsoft confirmed at GDC in March that Helix will run both Xbox and PC games."
+        ]
+      },
+      "why": {
+        "es": "Si se confirma, el hardware de Xbox se encarecería mucho y se alejaría del ciclo habitual de consolas.",
+        "en": "If confirmed, Xbox hardware would get far more expensive and drift from the usual console cycle."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/report-claims-next-xbox-is-targeting-2028-and-could-cost-between-1200-and-1800/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-next-gen-handheld-planned-for-2027-and-console-in-2028-its-claimed/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/10/la-proxima-xbox-helix-podria-costar-hasta-1-800-y-llegar-a-finales-de-2028-segun-reportes/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/proxima-xbox-podria-costar-1-200-euros-sale-a-luz-su-posible-fecha-lanzamiento-plan-microsoft-para-futuro-game-pass"
+        }
+      ]
+    },
+    {
+      "id": "xbox-game-pass-redisenio-a-la-carta-recortes-empleo-sharma",
+      "category": "xbox",
+      "title": {
+        "es": "Fortune: Game Pass se rediseñaría «a la carta» y Xbox seguiría recortando empleo hasta enero",
+        "en": "Fortune: Game Pass would be rebuilt 'à la carte' and Xbox would keep cutting jobs through January"
+      },
+      "dek": {
+        "es": "El mismo perfil de Asha Sharma habla de 1.868 despidos ya hechos y 3.200 previstos.",
+        "en": "The same Asha Sharma profile cites 1,868 jobs already cut and 3,200 planned."
+      },
+      "body": {
+        "es": [
+          "Según el perfil de Fortune, Microsoft prepara una reorganización profunda de Game Pass para que los suscriptores elijan las funciones que quieren, con complementos como el juego en la nube o el multijugador. IGN y Kotaku lo recogen como información de prensa, sin confirmación de la compañía ni detalles de precios.",
+          "El artículo añade que los recortes de plantilla de Xbox continuarán este mes, en noviembre y en enero: Sharma habría eliminado ya 1.868 puestos de un total previsto de 3.200, según Push Square, que cita a Fortune.",
+          "También describe cambios de estructura: Halo pasa a depender de Activision y estudios como Obsidian se integran bajo el paraguas de Bethesda. Varios empleados actuales y anteriores creen que Xbox se prepara para una eventual venta, escisión o entrada de inversores, algo que Fortune atribuye a sus fuentes."
+        ],
+        "en": [
+          "According to the Fortune profile, Microsoft is preparing a deep reorganization of Game Pass so subscribers can pick the features they want, with add-ons such as cloud gaming or multiplayer. IGN and Kotaku relay it as press reporting, with no company confirmation or pricing details.",
+          "The article adds that Xbox layoffs will continue this month, in November and in January: Sharma has reportedly cut 1,868 jobs out of 3,200 planned, according to Push Square citing Fortune.",
+          "It also describes structural changes: Halo now sits under Activision and studios such as Obsidian fall under the Bethesda umbrella. Several current and former employees believe Xbox is being prepared for a possible sale, spinoff or outside investment, which Fortune attributes to its sources."
+        ]
+      },
+      "why": {
+        "es": "Un cambio de modelo en Game Pass afectaría a millones de suscriptores y a la estrategia de lanzamientos de Xbox.",
+        "en": "A change of model at Game Pass would affect millions of subscribers and Xbox's release strategy."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/proxima-xbox-podria-costar-1-200-euros-sale-a-luz-su-posible-fecha-lanzamiento-plan-microsoft-para-futuro-game-pass"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-fight-night-regreso-oficial-primera-pista",
+      "category": "juegos",
+      "title": {
+        "es": "EA Sports confirma el regreso de Fight Night tras 15 años de ausencia",
+        "en": "EA Sports confirms Fight Night is back after 15 years"
+      },
+      "dek": {
+        "es": "Una nueva cuenta oficial lo anunció con el mensaje «Fight Night is coming back».",
+        "en": "A new official account announced it with the message 'Fight Night is coming back'."
+      },
+      "body": {
+        "es": [
+          "EA ha confirmado el 20 de octubre que su serie de boxeo Fight Night vuelve, mediante una cuenta nueva en redes sociales cuyo primer mensaje dice: «Para todos los que os quedasteis en nuestra esquina: Fight Night vuelve». Es la primera señal oficial de la saga desde Fight Night Champion, de 2011.",
+          "Por ahora no hay fecha, plataformas ni detalles de juego. VGC recuerda que cinco entregas aparecidas entre 2004 y 2011 obtuvieron notas en Metacritic de entre el 80 y el 89, y que EA centró después su esfuerzo en EA Sports UFC, donde la licencia de luchadores resulta más sencilla.",
+          "VGC señala además que el anuncio llega cerca del cierre de la venta de EA al fondo saudí PIF."
+        ],
+        "en": [
+          "EA confirmed on October 20 that its Fight Night boxing series is returning, via a new social media account whose first post reads: 'To everyone who stayed in our corner: Fight Night is coming back.' It is the first official sign of the franchise since Fight Night Champion in 2011.",
+          "There is no date, platform or gameplay detail yet. VGC notes that five entries released between 2004 and 2011 scored in the mid-to-high 80s on Metacritic, and that EA later focused on EA Sports UFC, where licensing fighters is simpler.",
+          "VGC also points out that the announcement comes close to the completion of EA's sale to Saudi Arabia's PIF."
+        ]
+      },
+      "why": {
+        "es": "Recupera una de las sagas deportivas más queridas, aunque todo lo importante sigue sin concretar.",
+        "en": "It revives one of the best-loved sports franchises, though every key detail is still unspecified."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-boxing-series-fight-night-back-for-another-round-new-game-teased"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/ea-sports-fight-night-teases-return"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/ea-sports-announces-fight-night-return/"
+        }
+      ]
+    },
+    {
+      "id": "amd-fsr-4-1-xbox-series-x-s-rog-xbox-ally-fsr-diamond-helix",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/X_Xbox_Series_X_S_black.png/1280px-X_Xbox_Series_X_S_black.png",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/X_Xbox_Series_X_S_black.png/960px-X_Xbox_Series_X_S_black.png",
+        "credit": "Microsoft / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:X_Xbox_Series_X_S_black.png",
+        "license": "Public domain"
+      },
+      "title": {
+        "es": "AMD y Xbox llevarán FSR 4.1 a Xbox Series X|S y a las ROG Xbox Ally",
+        "en": "AMD and Xbox will bring FSR 4.1 to Xbox Series X|S and the ROG Xbox Ally"
+      },
+      "dek": {
+        "es": "Será la respuesta de Xbox al reescalado por hardware de PS5, sin fecha concreta todavía.",
+        "en": "It is Xbox's answer to PS5's hardware upscaling, with no firm date yet."
+      },
+      "body": {
+        "es": [
+          "AMD y Microsoft han anunciado que FSR 4.1, la tecnología de reescalado basada en aprendizaje automático, llegará a las consolas Xbox Series X y Series S y a los portátiles ROG Xbox Ally X y X20. El anuncio lo hizo Jack Huynh, de AMD, junto a Scott Van Vliet, CTO de Xbox.",
+          "Van Vliet habló de soporte «próximamente» para Series X|S, pero Pure Xbox subraya que no se dio ningún calendario. La prensa lo compara con QSSR, el reescalado que Sony ha incorporado a PS5 y PS5 Pro.",
+          "Xbox añadió que seguirá colaborando con AMD en Project Helix, que usará FSR Diamond para «lo que viene»; por ahora no se han explicado los detalles de esa tecnología."
+        ],
+        "en": [
+          "AMD and Microsoft announced that FSR 4.1, the machine-learning-based upscaling technology, is coming to Xbox Series X and Series S consoles and to the ROG Xbox Ally X and X20 handhelds. AMD's Jack Huynh made the announcement alongside Xbox CTO Scott Van Vliet.",
+          "Van Vliet spoke of 'coming soon' support for Series X|S, but Pure Xbox stresses that no timeline was given. Outlets compare it with QSSR, the upscaling Sony has brought to PS5 and PS5 Pro.",
+          "Xbox added that it will keep working with AMD on Project Helix, which will use FSR Diamond to power 'what comes next'; details of that technology have not been explained yet."
+        ]
+      },
+      "why": {
+        "es": "Mejoraría imagen y rendimiento en las consolas actuales sin cambiar de hardware.",
+        "en": "It could improve image quality and performance on current consoles without new hardware."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/amd-fsr-4-1-announced-for-xbox-series-xs-and-rog-xbox-handhelds"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026293025/amd-lleva-su-nueva-tecnologia-de-reescalado-a-xbox-series-y-anticipa-fsr-diamond-para-project-helix/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/se-avecina-grandisima-mejora-para-xbox-series-x-s-consolas-microsoft-recibiran-mejor-tecnologia-amd-juegos-se-beneficiaran"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-resonance-resenas-metacritic-83-22-octubre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/c9e0d9f5cd2a7102098d5967046a90c4181de601/ss_c9e0d9f5cd2a7102098d5967046a90c4181de601.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg",
+        "credit": "Square Enix / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3259780/"
+      },
+      "title": {
+        "es": "Final Fantasy Resonance llega con críticas mayoritariamente positivas",
+        "en": "Final Fantasy Resonance arrives to mostly positive reviews"
+      },
+      "dek": {
+        "es": "La versión de Switch 2 suma 83 en Metacritic; el guion es el reproche más habitual.",
+        "en": "The Switch 2 version sits at 83 on Metacritic; the story is the most common complaint."
+      },
+      "body": {
+        "es": [
+          "Square Enix levantó el embargo de Final Fantasy Resonance antes de su salida, el 22 de octubre. Según el repaso de Nintendo Life, la versión de Switch 2 tenía un 83 en Metacritic con 25 análisis; entre las notas figuran un 9/10 de Game Informer, 8/10 de IGN y Nintendo Life, 7/10 de GameSpot y 3/5 de Eurogamer.",
+          "Los críticos elogian el regreso al combate por turnos clásico y el estilo HD-2D. Las críticas se centran en una historia correcta pero poco memorable, en el ritmo y, según GameSpot, en un combate repetitivo. VGC lo describe como un JRPG nostálgico limitado por su origen móvil.",
+          "Pure Xbox indica que los análisis disponibles eran sobre todo de las versiones de PS5 y Switch 2, y que también saldrá en Xbox."
+        ],
+        "en": [
+          "Square Enix lifted the Final Fantasy Resonance review embargo ahead of its October 22 launch. According to Nintendo Life's roundup, the Switch 2 version stood at 83 on Metacritic from 25 reviews; scores include Game Informer 9/10, IGN and Nintendo Life 8/10, GameSpot 7/10 and Eurogamer 3/5.",
+          "Critics praise the return to classic turn-based combat and the HD-2D style. Complaints focus on a competent but forgettable story, pacing and, per GameSpot, repetitive combat. VGC describes it as a nostalgic JRPG held back by its mobile origins.",
+          "Pure Xbox notes that most reviews so far covered the PS5 and Switch 2 versions, and that the game also launches on Xbox."
+        ]
+      },
+      "why": {
+        "es": "La crítica premia el regreso a las raíces de la serie, con reservas en la narrativa.",
+        "en": "Critics reward the series' return to its roots, with reservations about the narrative."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/final-fantasy-resonance-is-launching-on-xbox-to-extremely-impressive-reviews"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/final-fantasy-resonance/analisis/alguien-tenia-dudas-square-enix-sabe-hacer-jrpg-tradicionales-toda-vida-final-fantasy-resonance-respuesta-analisis"
+        }
+      ]
+    },
+    {
+      "id": "pegi-16-cajas-botin-juegos-digitales-ea-fc-27",
+      "category": "industria",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4080220/"
+      },
+      "title": {
+        "es": "PEGI empieza a subir a 16 años la edad de juegos digitales con compras aleatorias",
+        "en": "PEGI starts raising digital games with random purchases to age 16"
+      },
+      "dek": {
+        "es": "El cambio alcanza a títulos ya existentes y EA Sports FC 27 ya lleva esa calificación.",
+        "en": "The change reaches existing titles, and EA Sports FC 27 already carries that rating."
+      },
+      "body": {
+        "es": [
+          "PEGI ha empezado a reclasificar juegos digitales que permiten comprar objetos aleatorios, como cajas de botín. Los que tenían PEGI 3, 7 o 12 pasan a PEGI 16 con la etiqueta de compra de objetos aleatorios, según Vandal y Nintenderos, que sitúan el inicio en la semana del 12 de octubre y prevén que continúe durante el mes.",
+          "Vandal cita como ejemplos League of Legends, Overwatch, Brawl Stars, Genshin Impact, Clash Royale y Pokémon TCG Pocket. EA Sports FC 27, lanzado en septiembre, ya salió con PEGI 16 por este motivo, una política que PEGI aplica a los lanzamientos nuevos desde junio.",
+          "PC Gamer apunta que el juego de EA sigue teniendo en EE. UU. la clasificación E para todos de la ESRB."
+        ],
+        "en": [
+          "PEGI has begun reclassifying digital games that allow random-item purchases such as loot boxes. Titles previously rated PEGI 3, 7 or 12 move to PEGI 16 with a random-purchase label, according to Vandal and Nintenderos, which place the start in the week of October 12 and expect it to continue through the month.",
+          "Vandal cites League of Legends, Overwatch, Brawl Stars, Genshin Impact, Clash Royale and Pokémon TCG Pocket as examples. EA Sports FC 27, released in September, already launched at PEGI 16 for this reason, a policy PEGI has applied to new releases since June.",
+          "PC Gamer notes the EA game is still rated E for Everyone by the ESRB in the US."
+        ]
+      },
+      "why": {
+        "es": "Obliga a estudios y tiendas a revisar a qué público pueden dirigirse sus juegos gratuitos con compras aleatorias.",
+        "en": "It forces studios and stores to rethink who can be targeted by free games with random purchases."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026293024/los-juegos-digitales-con-cajas-de-botin-seran-para-mayores-de-16-anos-en-la-calificacion-pegi/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/10/pegi-comienza-a-elevar-la-clasificacion-de-juegos-digitales-existentes-con-cajas-de-botin-a-16-anos/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/pegi-ha-comenzado-a-aumentar-la-clasificacion-por-edades-de-los-juegos-digitales-con-articulos-aleatorios"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-actualizacion-2-5-edgerunners-2-jueves",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1091500/"
+      },
+      "title": {
+        "es": "Cyberpunk 2077 recibirá el jueves la actualización 2.5 por Edgerunners 2",
+        "en": "Cyberpunk 2077 gets update 2.5 on Thursday for Edgerunners 2"
+      },
+      "dek": {
+        "es": "CD Projekt RED añade objetos y funciones inspirados en la segunda temporada del anime.",
+        "en": "CD Projekt RED adds items and features inspired by the anime's second season."
+      },
+      "body": {
+        "es": [
+          "CD Projekt RED ha anunciado la actualización 2.5 de Cyberpunk 2077, que llegará el jueves 22 de octubre, coincidiendo con el estreno en Netflix de la segunda temporada de Cyberpunk: Edgerunners. Según GameSpot, incluirá «nuevos objetos y funciones» inspirados en la serie; Eurogamer.es destaca los cosméticos.",
+          "Es una de las últimas grandes novedades del juego a las puertas de su sexto aniversario. En Steam, el título y sus ediciones figuran entre los más vendidos de la semana, con descuentos de hasta el 70 %.",
+          "El contenido concreto circuló antes de tiempo en filtraciones, pero la compañía iba a detallarlo en su emisión oficial, de modo que conviene esperar a las notas del parche."
+        ],
+        "en": [
+          "CD Projekt RED has announced Cyberpunk 2077 update 2.5, arriving Thursday, October 22, to coincide with the Netflix premiere of Cyberpunk: Edgerunners season 2. According to GameSpot it will include 'new items and features' inspired by the series; Eurogamer.es highlights the cosmetics.",
+          "It is one of the game's latest major additions as its sixth anniversary approaches. On Steam, the game and its editions rank among the week's top sellers, with discounts of up to 70%.",
+          "Specific contents circulated early in leaks, but the company was due to detail them in its own broadcast, so it is best to wait for the official patch notes."
+        ]
+      },
+      "why": {
+        "es": "Seis años después del estreno, el juego sigue sumando contenido gratuito ligado a su universo.",
+        "en": "Six years after launch, the game keeps adding free content tied to its universe."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/cyberpunk-2077-is-celebrating-edgerunners-season-2-with-a-surprise-update/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/cyberpunk-2077-recibira-el-jueves-la-actualizacion-25-con-cosmeticos-de-edgerunners-2"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-free-update-2-5-arrives-this-week"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026293021/cyberpunk-2077-pone-fecha-a-su-proxima-gran-actualizacion-coincidiendo-con-el-estreno-de-edgerunners-2/"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-switch-sports-resort-resenas-metacritic-79",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo Switch Sports Resort recibe análisis positivos, con el multijugador como mayor baza",
+        "en": "Nintendo Switch Sports Resort gets positive reviews, with multiplayer as its strength"
+      },
+      "dek": {
+        "es": "Suma 79 en Metacritic con 46 críticas; sale el 22 de octubre en Switch 2.",
+        "en": "It holds 79 on Metacritic from 46 reviews; it launches October 22 on Switch 2."
+      },
+      "body": {
+        "es": [
+          "Switch Sports Resort sale el 22 de octubre en Switch 2 por 49,99 dólares. Según Nintendo Life, tenía un 79 en Metacritic con 46 análisis; entre las notas están 9/10 de Nintendo Life y GameSpot, 8 de Game Informer, 7/10 de IGN y 4/5 de VGC y Eurogamer.",
+          "Los críticos coinciden en que el multijugador local es lo más sólido y en que varios deportes clásicos mejoran respecto a antes. Nintendo Life cuenta 12 deportes, y Game Informer destaca el skateboard con el modo ratón de los Joy-Con.",
+          "Las reservas: algunos deportes se perciben como conservadores y, para Gfinity, no recupera del todo la magia de Wii Sports. El modo individual, con una campaña ligera en la isla, se considera un añadido útil pero inferior al multijugador."
+        ],
+        "en": [
+          "Switch Sports Resort launches October 22 on Switch 2 at $49.99. According to Nintendo Life it stood at 79 on Metacritic from 46 reviews; scores include 9/10 from Nintendo Life and GameSpot, 8 from Game Informer, 7/10 from IGN and 4/5 from VGC and Eurogamer.",
+          "Critics agree local multiplayer is the strongest part and that several classic sports improve on earlier versions. Nintendo Life counts 12 sports, and Game Informer highlights skateboarding using the Joy-Con mouse mode.",
+          "Reservations: some sports feel safe and, for Gfinity, it doesn't fully recapture the original Wii Sports magic. The single-player side, with a light island campaign, is seen as a useful addition but weaker than multiplayer."
+        ]
+      },
+      "why": {
+        "es": "Marca el regreso de la serie deportiva de Nintendo a lo grande en Switch 2.",
+        "en": "It brings Nintendo's sports series back in a big way on Switch 2."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/nintendo-switch-sports-resort/analisis/wii-sports-rompio-todas-normas-se-convirtio-juego-historico-ahora-le-toca-turno-a-nintendo-switch-sports-resort-analisis"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/review/nintendo-switch-sports-resort/"
+        }
+      ]
+    },
+    {
+      "id": "game-pass-octubre-ff7-remake-intergrade-salidas-31-octubre",
+      "category": "xbox",
+      "title": {
+        "es": "Game Pass suma Final Fantasy VII Remake Intergrade el 29 de octubre y pierde nueve juegos el día 31",
+        "en": "Game Pass adds Final Fantasy VII Remake Intergrade on October 29 and loses nine games on the 31st"
+      },
+      "dek": {
+        "es": "La segunda oleada de octubre incluye nueve títulos hasta el 3 de noviembre.",
+        "en": "October's second wave includes nine titles through November 3."
+      },
+      "body": {
+        "es": [
+          "Xbox ha detallado la segunda oleada de octubre en Game Pass: Sandustry (21 de octubre, en Game Preview), Dodo Duckie (22), Scramble Knights Online (26, Game Preview), The Séance of Blake Manor (27), Final Fantasy VII Remake Intergrade, Mouthwashing, Plants vs. Zombies: Replanted y Terrible Lizards (29) y Pit of Goblin (3 de noviembre).",
+          "Según Xbox Wire, varios entran también en Premium, pero no todos: Scramble Knights Online, Plants vs. Zombies: Replanted y Terrible Lizards solo llegan a Ultimate y PC Game Pass.",
+          "El 31 de octubre salen Day of the Tentacle Remastered, Dead Static Drive, Deep Rock Galactic, Full Throttle Remastered, Grim Fandango Remastered, Lara Croft and the Temple of Osiris, Lego Star Wars: La Saga Skywalker, Wartales y Wildgate. El 10 de noviembre abandona Football Manager 26."
+        ],
+        "en": [
+          "Xbox detailed October's second Game Pass wave: Sandustry (October 21, Game Preview), Dodo Duckie (22), Scramble Knights Online (26, Game Preview), The Séance of Blake Manor (27), Final Fantasy VII Remake Intergrade, Mouthwashing, Plants vs. Zombies: Replanted and Terrible Lizards (29) and Pit of Goblin (November 3).",
+          "Per Xbox Wire, several also come to Premium, but not all: Scramble Knights Online, Plants vs. Zombies: Replanted and Terrible Lizards only reach Ultimate and PC Game Pass.",
+          "On October 31, Day of the Tentacle Remastered, Dead Static Drive, Deep Rock Galactic, Full Throttle Remastered, Grim Fandango Remastered, Lara Croft and the Temple of Osiris, Lego Star Wars: The Skywalker Saga, Wartales and Wildgate leave. Football Manager 26 departs on November 10."
+        ]
+      },
+      "why": {
+        "es": "Quien quiera jugar a los títulos que salen tiene hasta el 31 de octubre; el catálogo gana un gran JRPG.",
+        "en": "Anyone wanting to play the departing titles has until October 31; the catalog gains a major JRPG."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026293026/final-fantasy-7-remake-intergrade-encabeza-las-novedades-de-xbox-game-pass-de-finales-de-octubre/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/anunciados-los-juegos-de-xbox-game-pass-de-la-segunda-mitad-de-octubre-2026"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/xbox-anuncia-8-juegos-gratis-finales-octubre-2026-para-miembros-game-pass-a-otros-11-titulos-que-abandonaran-pronto-servicio"
+        }
+      ]
+    },
+    {
+      "id": "shrek-2-remastered-aspyr-10-noviembre-consolas-pc",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523740/1f1dac15d8be808170f7da02d114288db9ab1a38/ss_1f1dac15d8be808170f7da02d114288db9ab1a38.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523740/abfa94e9a286146554386662e218aae82716711f/header.jpg",
+        "credit": "Aspyr Media / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2523740/"
+      },
+      "title": {
+        "es": "Aspyr anuncia DreamWorks Shrek 2 Remastered para el 10 de noviembre",
+        "en": "Aspyr announces DreamWorks Shrek 2 Remastered for November 10"
+      },
+      "dek": {
+        "es": "El juego cooperativo de PS2 vuelve a PS5, Xbox Series, Switch, Switch 2 y PC.",
+        "en": "The PS2 co-op brawler returns on PS5, Xbox Series, Switch, Switch 2 and PC."
+      },
+      "body": {
+        "es": [
+          "Aspyr ha anunciado DreamWorks Shrek 2 Remastered para PS5, Xbox Series, Switch 2, Switch y PC. Push Square sitúa su lanzamiento el 10 de noviembre de 2026 a un precio de 29,99 dólares en PS5; el original salió en PS2 en 2004.",
+          "La remasterización promete mejores texturas, interfaz renovada, resolución 4K y escenas rehechas, además de modo foto y trucos. Mantiene el cooperativo para hasta cuatro jugadores, local, en línea o combinado, y la posibilidad de cambiar de héroe en cualquier momento para usar sus habilidades en combates y puzles.",
+          "Los niveles incluyen el pantano de Shrek y el castillo de Far Far Away con guiños a la película."
+        ],
+        "en": [
+          "Aspyr has announced DreamWorks Shrek 2 Remastered for PS5, Xbox Series, Switch 2, Switch and PC. Push Square lists a November 10, 2026 release at $29.99 on PS5; the original launched on PS2 in 2004.",
+          "The remaster promises better textures, a revamped UI, 4K resolution and rebuilt cutscenes, plus a photo mode and cheats. It keeps up-to-four-player co-op, local, online or mixed, and the ability to swap heroes at any time to use their abilities in combat and puzzles.",
+          "Levels include Shrek's swamp and the castle of Far Far Away, with movie moments and Easter eggs."
+        ]
+      },
+      "why": {
+        "es": "Se suma a la ola de remasterizaciones de juegos de licencias de los 2000.",
+        "en": "It joins the wave of remasters of 2000s licensed games."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/dreamworks-shrek-2-remastered-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/dreamworks-shrek-2-remastered-se-confirma-oficialmente-para-nintendo-switch-y-nintendo-switch-2-fecha-detalles-y-trailer/"
+        }
+      ]
+    },
+    {
+      "id": "black-ops-1-2-ps4-ps5-ventas-desarrollador-treyarch-gavin-goslin",
+      "category": "industria",
+      "title": {
+        "es": "Un exdesarrollador de Treyarch critica que Black Ops 1 y 2 enriquezcan a Activision sin pagar a sus creadores",
+        "en": "A former Treyarch developer says Black Ops 1 and 2 are enriching Activision without paying their creators"
+      },
+      "dek": {
+        "es": "Gavin Goslin pide que la riqueza se reparta de forma retroactiva.",
+        "en": "Gavin Goslin says the wealth should be shared retroactively."
+      },
+      "body": {
+        "es": [
+          "Gavin Goslin, que trabajó 15 años en Treyarch como diseñador de niveles y artista en Call of Duty: Black Ops y Black Ops 2, calificó en LinkedIn de «agridulce» el éxito de sus relanzamientos. Sostiene que los ejecutivos cobran grandes beneficios de código antiguo mientras los desarrolladores no reciben nada, y que esa riqueza «debe repartirse retroactivamente».",
+          "Activision relanzó ambos juegos en PS4 y PS5 en julio de 2026 por 40 dólares cada uno, sin DLC de pago. Según GameSpot, que cita un informe, sumaron más de 11 millones de copias vendidas en esas consolas, una cifra que no hemos podido contrastar con otra fuente.",
+          "Goslin señala que el sector carece de regalías o pagos continuados como los de los creativos de Hollywood."
+        ],
+        "en": [
+          "Gavin Goslin, who spent 15 years at Treyarch as a level designer and artist on Call of Duty: Black Ops and Black Ops 2, called the success of their re-releases 'bittersweet' in a LinkedIn post. He argues executives collect big rewards from old code while the developers receive nothing, and that wealth 'needs to be shared retroactively'.",
+          "Activision re-released both games on PS4 and PS5 in July 2026 at $40 each, with no paid DLC. According to GameSpot, citing a report, they sold more than 11 million combined copies on those consoles, a figure we could not cross-check with another source.",
+          "Goslin notes the industry lacks residuals or ongoing payments like those Hollywood creatives can receive."
+        ]
+      },
+      "why": {
+        "es": "Reabre el debate sobre la remuneración de los desarrolladores en relanzamientos que se venden muy bien.",
+        "en": "It reopens the debate over developer compensation when old games are re-released and sell well."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/cod-dev-who-crunched-on-black-ops-1-2-reacts-to-remasters-blowing-up-hard-to-watch-the-suits-rake-in-giant-financial-windfalls-from-our-old-code-2000748065"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-suits-made-all-the-money-from-call-of-duty-black-ops-1-and-2-ports-og-dev-says/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cod-black-ops-1-and-2-dev-says-its-hard-to-watch-the-new-ports-selling-well-while-the-actual-creators-dont-see-a-dime/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/call-of-duty-black-ops/noticias/dedique-mi-vida-a-esos-juegos-creador-primeros-black-ops-esta-molesto-activision-microsoft-lanzar-call-of-duty-playstation"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-extra-noviembre-salidas-gta-5-red-dead-redemption-2",
+      "category": "playstation",
+      "title": {
+        "es": "PS Plus Extra pierde 11 juegos el 17 de noviembre, entre ellos GTA 5 y Red Dead Redemption 2",
+        "en": "PS Plus Extra loses 11 games on November 17, including GTA 5 and Red Dead Redemption 2"
+      },
+      "dek": {
+        "es": "También salen Football Manager 26, The Talos Principle 2 y Monster Boy.",
+        "en": "Football Manager 26, The Talos Principle 2 and Monster Boy also leave."
+      },
+      "body": {
+        "es": [
+          "Sony ha confirmado las salidas de PS Plus Extra de noviembre: el 17 de noviembre dejan el catálogo 11 juegos, entre ellos Grand Theft Auto V (PS5 y PS4) y Red Dead Redemption 2 (PS4). También se van Football Manager 26, The Talos Principle 2, Cricket 24 y Monster Boy and the Cursed Kingdom, además de varios títulos de PS4.",
+          "Push Square recuerda que, a diferencia de PS Plus Essential, el catálogo Extra revoca el acceso al salir el juego, por lo que quien quiera seguir jugando tendrá que comprarlo. Los juegos de Rockstar suelen volver al servicio con el tiempo.",
+          "Sobre las altas de octubre, Vandal cuenta nueve juegos disponibles para descargar en Extra y Premium, con Mafia: The Old Country."
+        ],
+        "en": [
+          "Sony has confirmed November's PS Plus Extra departures: 11 games leave the catalog on November 17, including Grand Theft Auto V (PS5 and PS4) and Red Dead Redemption 2 (PS4). Football Manager 26, The Talos Principle 2, Cricket 24 and Monster Boy and the Cursed Kingdom also go, along with several PS4 titles.",
+          "Push Square reminds readers that, unlike PS Plus Essential, Extra revokes access when a game leaves, so anyone who wants to keep playing will need to buy it. Rockstar games often return to the service over time.",
+          "On October's additions, Vandal counts nine games available to download on Extra and Premium, headlined by Mafia: The Old Country."
+        ]
+      },
+      "why": {
+        "es": "Quien no los haya terminado tiene casi un mes para hacerlo antes de perder el acceso.",
+        "en": "Anyone who hasn't finished them has almost a month before losing access."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have-time/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026293022/rockstar-deja-paso-a-gta-6-y-retirara-grand-theft-auto-5-y-red-dead-redemption-2-de-ps-plus-extra/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Mouthwashing llegará a PS5, Xbox Series, PS4 y Switch el 29 de octubre, con edición física para PS5 y Switch a través de Fangamer.",
+        "en": "Mouthwashing is coming to PS5, Xbox Series, PS4 and Switch on October 29, with a physical edition for PS5 and Switch through Fangamer."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/mouthwashing-coming-to-ps5-xbox-series-ps4-and-switch-on-october-29"
+      }
+    },
+    {
+      "text": {
+        "es": "Ubisoft lanzará Riders Republic en Switch 2 en diciembre, según Nintendo Life.",
+        "en": "Ubisoft will launch Riders Republic on Switch 2 this December, Nintendo Life reports."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-launches-on-switch-2-this-december"
+      }
+    },
+    {
+      "text": {
+        "es": "Ys VIII: Lacrimosa of Dana llegará a Switch 2 en febrero de 2027 con traducción al español.",
+        "en": "Ys VIII: Lacrimosa of Dana is coming to Switch 2 in February 2027 with a Spanish translation."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/ys-viii-lacrimosa-of-dana-llegara-a-switch-2-en-febrero-de-2027-con-traduccion-al-espanol"
+      }
+    },
+    {
+      "text": {
+        "es": "Cygames quiere publicar tres juegos al año con un nuevo sello de títulos pequeños, según Kotaku.",
+        "en": "Cygames wants to release three games a year under a new small-games label, Kotaku reports."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per-year-under-new-small-games-label-2000747683"
+      }
+    },
+    {
+      "text": {
+        "es": "Crimson Desert prepara el DLC «Charting the Unknown»; Gematsu publica su tráiler de características.",
+        "en": "Crimson Desert is getting the 'Charting the Unknown' DLC; Gematsu has its features overview trailer."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/crimson-desert-dlc-charting-the-unknown-features-overview-trailer"
+      }
+    },
+    {
+      "text": {
+        "es": "Final Fantasy VII Revelation permitirá elegir el modo difícil desde el inicio, a diferencia de Remake y Rebirth, según Vandal.",
+        "en": "Final Fantasy VII Revelation will offer hard mode from the start, unlike Remake and Rebirth, Vandal reports."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026293006/final-fantasy-7-revelation-rompe-con-remake-y-rebirth-el-modo-dificil-estara-disponible-desde-el-inicio/"
+      }
+    },
+    {
+      "text": {
+        "es": "Subnautica 2 prepara su «Early Access 2.0», con una de las regiones más aterradoras del juego, según PC Gamer.",
+        "en": "Subnautica 2 is heading for 'Early Access 2.0', with one of its scariest regions yet, PC Gamer reports."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un proyecto de código abierto busca ejecutar Game Pass en SteamOS y Linux, según PC Gamer.",
+        "en": "An open-source project aims to get Game Pass working on SteamOS and Linux, PC Gamer reports."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/microsoft-wont-like-this-open-source-project-to-get-game-pass-working-on-steamos-and-linux-but-i-think-its-pretty-neat/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un directivo de PlayStation afirma que «la creatividad es cosa de humanos, no de la IA», según GameSpot.",
+        "en": "A PlayStation executive says 'creativity is for humans, not AI', GameSpot reports."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/playstation-boss-creativity-is-for-humans-not-ai/"
+      }
+    },
+    {
+      "text": {
+        "es": "Galax prepara una RTX 5090 con cristales incrustados, según PC Gamer.",
+        "en": "Galax is releasing a crystal-encrusted RTX 5090, PC Gamer reports."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/i-have-neither-the-budget-nor-the-inclination-for-a-crystal-encrusted-rtx-5090-but-galax-is-releasing-one-anyway/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Final Fantasy Resonance",
+      "platforms": "PS5, Xbox Series, Switch, Switch 2, PC",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance"
+    },
+    {
+      "title": "Nintendo Switch Sports Resort",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "title": "Mouthwashing",
+      "platforms": "PS5, Xbox Series, PS4, Switch",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.gematsu.com/2026/10/mouthwashing-coming-to-ps5-xbox-series-ps4-and-switch-on-october-29"
+    },
+    {
+      "title": "Shrek 2 Remastered",
+      "platforms": "PS5, Xbox Series, Switch 2, Switch, PC",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november"
+    },
+    {
+      "title": "Riders Republic",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "Diciembre",
+        "en": "December"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-launches-on-switch-2-this-december"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Un correo atribuido a Xbox invitaría a los usuarios de Series a cambiar su consola en Best Buy, según Kotaku, que lo da como no confirmado.",
+        "en": "An email attributed to Xbox reportedly invites Series owners to trade in their console at Best Buy, per Kotaku, which treats it as unconfirmed."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-reportedly-emailing-users-to-trade-in-your-console-to-best-buy-2000747935"
+      }
+    },
+    {
+      "text": {
+        "es": "Helldivers 2 acumula más de 1.000 reseñas negativas en un día en Steam tras anunciar el cambio a Easy Anti-Cheat, que puede romper mods.",
+        "en": "Helldivers 2 collected over 1,000 negative Steam reviews in a day after announcing a switch to Easy Anti-Cheat that may break mods."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/"
+      }
+    },
+    {
+      "text": {
+        "es": "La comunidad de Steam sigue pidiendo filtros para ocultar juegos hechos con IA durante Next Fest.",
+        "en": "The Steam community keeps asking for filters to hide AI-made games during Next Fest."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026293009/steam-next-fest-esta-repleto-de-juegos-creados-con-ia-y-la-comunidad-pide-filtros-que-oculten-la-basura/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los aficionados especulan con que Rockstar rueda un tráiler en imagen real en Miami para GTA 6; es solo una teoría de fans.",
+        "en": "Fans speculate Rockstar is shooting a live-action GTA 6 trailer in Miami; it is only a fan theory."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "We Were Here Tomorrow",
+      "url": "https://store.steampowered.com/app/2315050/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    }
+  ]
+}
