@@ -1,0 +1,757 @@
+{
+  "date": "2026-10-22",
+  "headline": {
+    "es": "EA cierra BioWare y cancela Mass Effect, y Xbox prueba pagar la nube por horas",
+    "en": "EA closes BioWare and cancels Mass Effect, while Xbox tests paying for the cloud by the hour"
+  },
+  "intro": {
+    "es": "EA recorta unos 400 puestos y redefine su futuro, Xbox estrena Cloud Playtime y Cyberpunk 2077 recibe hoy su actualización 2.5.",
+    "en": "EA cuts about 400 jobs and redefines its future, Xbox launches Cloud Playtime and Cyberpunk 2077 gets update 2.5 today."
+  },
+  "stories": [
+    {
+      "id": "ea-cierra-bioware-cancela-mass-effect-400-despidos",
+      "category": "industria",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Electronic_Arts_Redwood_City_May_2011.jpg/1280px-Electronic_Arts_Redwood_City_May_2011.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Electronic_Arts_Redwood_City_May_2011.jpg/960px-Electronic_Arts_Redwood_City_May_2011.jpg",
+        "credit": "King of Hearts / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Electronic_Arts_Redwood_City_May_2011.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "title": {
+        "es": "EA cierra BioWare, cancela el próximo Mass Effect y recorta unos 400 puestos",
+        "en": "EA closes BioWare, cancels the next Mass Effect and cuts about 400 jobs"
+      },
+      "dek": {
+        "es": "El estudio de Dragon Age y Mass Effect desaparece tras 30 años, dos meses después de que se cerrara la compra de EA por 55.000 millones.",
+        "en": "The Dragon Age and Mass Effect studio shuts after 30 years, two months after EA's $55 billion buyout closed."
+      },
+      "body": {
+        "es": [
+          "Electronic Arts ha confirmado el cierre de BioWare y el fin del desarrollo inicial del próximo Mass Effect. Según Bloomberg, que cita una carta a la plantilla, EA recorta unos 400 empleos, cerca del 3 % de su personal, de los que unos 50 serían de BioWare. VGC recoge que la comunicación llevan la firma del COO David Tinson y del director de estudios Cam Weber.",
+          "La noticia llega dos meses después de que se completara la compra de EA por 55.000 millones de dólares a cargo del fondo saudí PIF. Según VGC, la compañía arrastra unos 18.000 millones de deuda y había avisado a sus acreedores de un recorte de costes de 700 millones anuales.",
+          "BioWare, fundada en 1995 y propiedad de EA desde 2007, firmó Baldur's Gate, Knights of the Old Republic, Mass Effect y Dragon Age. Su último juego, Dragon Age: The Veilguard (2024), tuvo críticas mayoritariamente positivas. VGC añade que el equipo de Skate, Full Circle, también pierde a «muchos» empleados."
+        ],
+        "en": [
+          "Electronic Arts has confirmed it is closing BioWare and ending early development on the next Mass Effect. According to Bloomberg, citing a staff letter, EA is cutting about 400 jobs, roughly 3% of its workforce, around 50 of them at BioWare. VGC reports the message was signed by COO David Tinson and Chief Studios Officer Cam Weber.",
+          "The news comes two months after EA's $55 billion buyout by Saudi Arabia's PIF closed. VGC says the company carries about $18 billion in debt and had told creditors it would cut $700 million in annual costs.",
+          "BioWare, founded in 1995 and owned by EA since 2007, made Baldur's Gate, Knights of the Old Republic, Mass Effect and Dragon Age. Its latest game, Dragon Age: The Veilguard (2024), was mostly well reviewed. VGC adds that the team behind Skate, Full Circle, is also losing 'many' staff."
+        ]
+      },
+      "why": {
+        "es": "Se cierra una de las editoras de RPG más influyentes y deja en el aire dos sagas que EA aún controla.",
+        "en": "One of the most influential RPG studios disappears, leaving two franchises that EA still owns in limbo."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026294028/ea-cierra-bioware-cancela-el-proximo-mass-effect-y-despide-a-400-personas/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/mass-effect-3/noticias/oficial-ea-cierra-bioware-entierra-nuevo-mass-effect-contemplaciones-sola-carta"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/ea-to-shut-down-bioware-and-cancel-the-next-mass-effect-game-2000748374"
+        }
+      ]
+    },
+    {
+      "id": "ea-memo-battlefield-apex-fight-night-battlefront-sims-project-lotus",
+      "category": "industria",
+      "title": {
+        "es": "El memorando de EA: Battlefield, Apex y deportes siguen; Battlefront, en marcha según Bloomberg",
+        "en": "EA's memo: Battlefield, Apex and sports stay; Battlefront reportedly in the works"
+      },
+      "dek": {
+        "es": "La compañía detalla su «siguiente capítulo» y pausa un proyecto de Los Sims.",
+        "en": "The company outlines its 'next chapter' and pauses a Sims project."
+      },
+      "body": {
+        "es": [
+          "EA ha publicado el memorando interno con su estrategia. Según Insider Gaming, que lo reproduce, la empresa seguirá apostando por Battlefield, Apex Legends, EA Sports FC, Marvel's Iron Man y el próximo Star Wars Jedi, y confirma que Fight Night está en preproducción. Skate pasará a un equipo más pequeño.",
+          "En Los Sims, el texto prioriza «Project Evergreen» y pausa «Project Lotus»; Insider Gaming y IGN hablan de cancelación y de un juego multijugador para móviles, así que las fuentes difieren en el término. EA también anuncia «Project Gridiron», una experiencia social de mundo abierto para su fútbol americano.",
+          "El memorando une a Respawn y DICE en un futuro shooter sin dar detalles. Bloomberg, según Insider Gaming, GameSpot y Push Square, afirma que es un nuevo Star Wars Battlefront; EA no lo ha confirmado."
+        ],
+        "en": [
+          "EA has published the internal memo laying out its strategy. According to Insider Gaming, which reproduces it, the company will keep investing in Battlefield, Apex Legends, EA Sports FC, Marvel's Iron Man and the next Star Wars Jedi, and says Fight Night is in pre-production. Skate moves to a smaller team.",
+          "On The Sims, the memo prioritizes 'Project Evergreen' and pauses 'Project Lotus'; Insider Gaming and IGN describe a cancellation and a mobile multiplayer game, so sources differ on the wording. EA also announces 'Project Gridiron', a social open-world experience for its American football games.",
+          "The memo pairs Respawn and DICE on a future shooter without details. Bloomberg, per Insider Gaming, GameSpot and Push Square, says it is a new Star Wars Battlefront; EA has not confirmed it."
+        ]
+      },
+      "why": {
+        "es": "EA concentra recursos en sus marcas más rentables y deja fuera casi todo lo demás.",
+        "en": "EA is concentrating resources on its most profitable brands and leaving almost everything else out."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/ea-future-memo/"
+        },
+        {
+          "name": "Insider Gaming (Battlefront)",
+          "url": "https://insider-gaming.com/ea-star-wars-battlefront-3/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/here-are-the-games-ea-says-it-will-still-make-amid-cancelations-and-400-layoffs-were-the-number-one-publisher-in-western-hd-gaming-2000748390"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/star-wars-battlefront-3/noticias/despues-diez-anos-nuevo-juego-star-wars-battlefront-esta-a-punto-volver"
+        }
+      ]
+    },
+    {
+      "id": "serie-mass-effect-prime-video-sigue-en-desarrollo-cierre-bioware",
+      "category": "adaptaciones",
+      "title": {
+        "es": "La serie de Mass Effect seguiría adelante en Prime Video pese al cierre de BioWare",
+        "en": "The Mass Effect series would continue at Prime Video despite BioWare's closure"
+      },
+      "dek": {
+        "es": "IGN dice que fuentes de la plataforma confirman que sigue en desarrollo en Amazon MGM Studios.",
+        "en": "IGN says sources at the platform confirm it remains in development at Amazon MGM Studios."
+      },
+      "body": {
+        "es": [
+          "Según IGN, que cita fuentes internas de Prime Video, la serie de televisión de Mass Effect sigue en desarrollo en Amazon MGM Studios a pesar del cierre de BioWare y la cancelación del próximo juego. Kotaku y 3DJuegos recogen la información, que no ha sido confirmada por Amazon ni por EA en los textos consultados.",
+          "La serie se anunció hace años como una adaptación de la saga de ciencia ficción. Por ahora no hay fecha, reparto ni detalles de producción en las fuentes."
+        ],
+        "en": [
+          "According to IGN, citing sources inside Prime Video, the Mass Effect TV series remains in development at Amazon MGM Studios despite BioWare's closure and the cancellation of the next game. Kotaku and 3DJuegos pass along the report, which Amazon and EA have not confirmed in the pieces consulted.",
+          "The series was announced years ago as an adaptation of the sci-fi franchise. The sources give no release date, cast or production details for now."
+        ]
+      },
+      "why": {
+        "es": "Es la vía más clara para que la marca siga viva mientras no haya un nuevo juego.",
+        "en": "It is the clearest path for the brand to stay alive while there is no new game."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/mass-effect-amazon-tv-show-bioware-shut-down-ea-2000748491"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/mass-effect-2021/noticias/cancelacion-mass-effect-5-cierre-bioware-no-han-acabado-franquicia-que-pasa-serie-mass-effect"
+        }
+      ]
+    },
+    {
+      "id": "xbox-cloud-playtime-insiders-10-25-50-horas-precios",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox prueba «Cloud Playtime»: jugar en la nube por horas sin Game Pass",
+        "en": "Xbox tests 'Cloud Playtime': pay-by-the-hour cloud gaming without Game Pass"
+      },
+      "dek": {
+        "es": "Paquetes de 10, 25 y 50 horas por 3,99, 7,99 y 11,99 dólares para los Insiders.",
+        "en": "Packs of 10, 25 and 50 hours for $3.99, $7.99 and $11.99 for Insiders."
+      },
+      "body": {
+        "es": [
+          "Desde el 21 de octubre, los Xbox Insiders sin suscripción a Game Pass pueden comprar tiempo de juego en la nube. Según Xbox Wire, los precios de lanzamiento son 3,99 dólares por 10 horas, 7,99 por 25 y 11,99 por 50.",
+          "Los paquetes ofrecen juego sin anuncios, menos tiempo de espera y streaming de alta calidad, y las horas no caducan hasta que se usan. Hace falta tener el juego en propiedad o que sea gratuito. Microsoft prevé extenderlo a más usuarios en noviembre.",
+          "Los Insiders también pueden probar la nube gratis con anuncios, una opción anunciada antes. La disponibilidad varía según mercado, dispositivo y cuenta."
+        ],
+        "en": [
+          "Starting October 21, Xbox Insiders without a Game Pass subscription can buy cloud playtime. According to Xbox Wire, launch prices are $3.99 for 10 hours, $7.99 for 25 and $11.99 for 50.",
+          "The packs offer ad-free play, shorter waits and high-quality streaming, and hours don't expire until used. A game must be owned or free-to-play. Microsoft plans a wider rollout in November.",
+          "Insiders can also try cloud gaming free with ads, an option announced earlier. Availability varies by market, device and account."
+        ]
+      },
+      "why": {
+        "es": "Es la primera alternativa de pago por uso a la suscripción para la nube de Xbox.",
+        "en": "It is the first pay-as-you-go alternative to a subscription for Xbox cloud gaming."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/three-price-tiers-revealed-as-xbox-rolls-out-cloud-playtime-to-insiders"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/xbox-reveals-new-pricing-plans-for-cloud-gaming-2000748436"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/xbox-pone-marcha-nueva-era-para-juego-nube-pagar-horas-se-conocen-precios"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/la-ultima-actualizacion-del-programa-xbox-insiders-confirma-los-precios-por-hora-de-jugar-en-xbox-cloud-gaming"
+        }
+      ]
+    },
+    {
+      "id": "xbox-cuatro-dias-oficina-febrero-2027-despidos-ronda",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/1280px-Building92microsoft.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/960px-Building92microsoft.jpg",
+        "credit": "Coolcaesar / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Xbox exigirá cuatro días de oficina desde febrero de 2027 mientras prosiguen los despidos",
+        "en": "Xbox will require four office days from February 2027 as layoffs continue"
+      },
+      "dek": {
+        "es": "La norma afecta al personal a menos de 50 millas del Studio D de Redmond.",
+        "en": "The rule covers staff within 50 miles of Studio D in Redmond."
+      },
+      "body": {
+        "es": [
+          "Según un memorando de Jacinda Chislum Pearson, directora de personas de Xbox, que recoge Insider Gaming a partir de The Verge, el personal de Puget Sound que viva a menos de 50 millas de Studio D deberá acudir cuatro días a la semana a partir del 1 de febrero de 2027. Hasta ahora eran tres.",
+          "Vandal, por su parte, cuenta que Xbox planearía tres rondas más de despidos (octubre, noviembre y enero) hasta llegar a los 3.200 anunciados; es información de prensa que Microsoft no ha confirmado en los textos consultados."
+        ],
+        "en": [
+          "According to a memo from Jacinda Chislum Pearson, Xbox's chief people officer, reported by Insider Gaming from The Verge, Puget Sound staff living within 50 miles of Studio D must be in the office four days a week starting February 1, 2027. The current requirement is three.",
+          "Vandal separately reports that Xbox plans three more rounds of layoffs (October, November and January) to reach the announced 3,200; this is press reporting that Microsoft has not confirmed in the pieces consulted."
+        ]
+      },
+      "why": {
+        "es": "Refuerza la imagen de un «reinicio» de Xbox que combina recortes y más presencialidad.",
+        "en": "It reinforces the picture of an Xbox 'reset' combining cuts and more in-person work."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-four-day-office-rule-redmond/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026294021/xbox-planea-tres-rondas-de-despidos-adicionales-hasta-alcanzar-los-3200-anunciados/"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-actualizacion-2-5-sale-hoy-mods-consolas",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1091500/"
+      },
+      "title": {
+        "es": "Cyberpunk 2077 recibe hoy la 2.5: mods en consolas, nuevas misiones y doble pistola",
+        "en": "Cyberpunk 2077 gets update 2.5 today: console mods, new quests and dual pistols"
+      },
+      "dek": {
+        "es": "La actualización «Edgerunners II» llega a PC, PS5 y Xbox Series; Switch 2 la recibirá unos días después.",
+        "en": "The 'Edgerunners II' update lands on PC, PS5 and Xbox Series; Switch 2 follows a few days later."
+      },
+      "body": {
+        "es": [
+          "La actualización 2.5 de Cyberpunk 2077 sale el 22 de octubre en PC, PS5 y Xbox Series X|S, según Gematsu; la versión de Switch 2 llegará unos días más tarde. PS4 y Xbox One no la reciben. Se desarrolla con Virtuos y acompaña a la nueva temporada de Edgerunners en Netflix.",
+          "La novedad principal es el soporte multiplataforma de mods mediante mod.io, accesible desde el menú del juego en PC, Mac, PS5, Xbox Series y Switch 2. Las partidas con mods quedan marcadas y en consola no dan logros ni trofeos.",
+          "Añade las misiones «Clampdown» y «Welcome to Paradise!», un conjunto de equipo King, nuevas ropas, la perk Double Trouble para usar dos pistolas o revólveres, una emisora de radio y un control de campo de visión en consola."
+        ],
+        "en": [
+          "Cyberpunk 2077's update 2.5 arrives October 22 on PC, PS5 and Xbox Series X|S, per Gematsu, with the Switch 2 version a few days later. PS4 and Xbox One don't get it. It was developed with Virtuos and ties in with the new Edgerunners season on Netflix.",
+          "The headline feature is cross-platform mod support through mod.io, available from the in-game menu on PC, Mac, PS5, Xbox Series and Switch 2. Modded saves are flagged and console players can't earn achievements or trophies on them.",
+          "It also adds the 'Clampdown' and 'Welcome to Paradise!' quests, a King gear set, new outfits, the Double Trouble perk for dual-wielding pistols or revolvers, a radio station and a field-of-view slider on consoles."
+        ]
+      },
+      "why": {
+        "es": "Los mods oficiales en consola amplían la vida de un juego que lanzó en 2020.",
+        "en": "Official console mods extend the life of a game that launched in 2020."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-edgerunners-ii-update-detailed"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026294027/cyberpunk-2077-detalla-la-actualizacion-25-mods-en-consolas-nuevas-misiones-armas-a-dos-manos-y-mas/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-free-update-2-5-arrives-this-week"
+        }
+      ]
+    },
+    {
+      "id": "stranger-than-heaven-primeras-impresiones-15-enero-2027",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/f65464e2f5e566b75133e70b66835eaa1426b346/ss_f65464e2f5e566b75133e70b66835eaa1426b346.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/3e40b76faf9a3eafb4397dd51308eb2e48ac3660/header.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4260840/"
+      },
+      "title": {
+        "es": "Stranger Than Heaven recibe sus primeras impresiones, positivas aunque con dudas en el combate",
+        "en": "Stranger Than Heaven gets first previews, mostly positive with doubts on combat"
+      },
+      "dek": {
+        "es": "El nuevo juego de RGG Studio y SEGA sale el 15 de enero de 2027.",
+        "en": "RGG Studio and SEGA's new game launches January 15, 2027."
+      },
+      "body": {
+        "es": [
+          "Los primeros avances de Stranger Than Heaven, de RGG Studio y SEGA, son en general favorables, según el resumen de Pure Xbox. Eurogamer y CGMagazine lo destacan; Metro critica el uso de celebridades en el reparto, en concreto el papel de Snoop Dogg.",
+          "Push Square, que lo ha jugado unas tres horas, espera una campaña con altibajos: elogia la ambientación histórica, pero no le convence del todo el combate. El juego sale el 15 de enero de 2027 y llegará a Xbox Series, PS5 y PC."
+        ],
+        "en": [
+          "The first previews of Stranger Than Heaven, from RGG Studio and SEGA, are broadly favorable, according to Pure Xbox's roundup. Eurogamer and CGMagazine single it out; Metro criticizes the celebrity casting, specifically Snoop Dogg's role.",
+          "Push Square, after about three hours, expects a campaign of highs and lows: it praises the historical setting but isn't fully sold on combat. The game launches January 15, 2027 on Xbox Series, PS5 and PC."
+        ]
+      },
+      "why": {
+        "es": "Es la gran apuesta de RGG tras Yakuza, con otra ambientación y otro sistema de combate.",
+        "en": "It is RGG's big bet after Yakuza, with a new setting and a different combat system."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/roundup-heres-what-the-first-previews-are-saying-about-stranger-than-heaven"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/previews/3-hours-with-stranger-than-heaven-left-me-partly-convinced-partly-concerned-and-craving-gyudon"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/"
+        }
+      ]
+    },
+    {
+      "id": "serious-sam-the-third-encounter-anunciado-croteam-devolver",
+      "category": "pc",
+      "title": {
+        "es": "Anunciado Serious Sam: The Third Encounter, secuela directa de The Second Encounter",
+        "en": "Serious Sam: The Third Encounter announced as a direct sequel to The Second Encounter"
+      },
+      "dek": {
+        "es": "Croteam y Devolver Digital lo preparan para PC, aún sin fecha.",
+        "en": "Croteam and Devolver Digital are making it for PC, with no date yet."
+      },
+      "body": {
+        "es": [
+          "Devolver Digital y Croteam han anunciado Serious Sam: The Third Encounter, un shooter en primera persona que continúa directamente Serious Sam: The Second Encounter, según Gematsu. Promete combate rápido de estilo arcade contra grandes hordas de enemigos y cooperativo.",
+          "El juego está en desarrollo temprano, se anuncia para PC a través de Steam y no tiene fecha de lanzamiento."
+        ],
+        "en": [
+          "Devolver Digital and Croteam have announced Serious Sam: The Third Encounter, a first-person shooter that continues directly from Serious Sam: The Second Encounter, per Gematsu. It promises fast, arcade-style combat against large enemy swarms and co-op.",
+          "The game is in early development, is announced for PC via Steam and has no release date."
+        ]
+      },
+      "why": {
+        "es": "Vuelve el estilo clásico de la saga sin esperar a un Serious Sam 5.",
+        "en": "The series' classic style returns without waiting for a Serious Sam 5."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/serious-sam-the-third-encounter-announced-for-pc"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/anunciado-serious-sam-the-third-encounter-secuela-directa-del-shooter-de-2002"
+        }
+      ]
+    },
+    {
+      "id": "football-manager-27-preview-gratis-29-octubre-3-noviembre",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/5aa99feabe3f860d4e52f4ae234c51195cfff1ca/ss_5aa99feabe3f860d4e52f4ae234c51195cfff1ca.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4530370/"
+      },
+      "title": {
+        "es": "Football Manager 27 se podrá probar gratis del 29 de octubre al 3 de noviembre",
+        "en": "Football Manager 27 can be tried free from October 29 to November 3"
+      },
+      "dek": {
+        "es": "SEGA responde así a las quejas por FM26; el juego sale el 10 de noviembre.",
+        "en": "SEGA responds to FM26 complaints this way; the game launches November 10."
+      },
+      "body": {
+        "es": [
+          "La versión previa de Football Manager 27 será gratuita en PC y Mac entre el 29 de octubre y el 3 de noviembre, sin registro, según VGC. Estará en Steam, Epic Games Store, Microsoft Store y Game Pass. Quien compre el juego durante la prueba obtendrá un 10 % de descuento y conservará su progreso.",
+          "El lanzamiento completo es el 10 de noviembre. VGC recuerda que FM26 fue muy criticado por errores y funciones ausentes: su valoración en Steam ronda el 38 %, y SEGA reconoció que «no cumplió las expectativas»."
+        ],
+        "en": [
+          "Football Manager 27's Launch Preview will be free on PC and Mac from October 29 to November 3 with no sign-up, per VGC. It will be on Steam, Epic Games Store, Microsoft Store and Game Pass. Buyers during the trial get 10% off and keep their progress.",
+          "The full game launches November 10. VGC notes FM26 was heavily criticized for bugs and missing features: its Steam rating sits around 38%, and the developer acknowledged it 'missed expectations'."
+        ]
+      },
+      "why": {
+        "es": "Probar antes de comprar es la forma de ganarse de nuevo a una comunidad escarmentada.",
+        "en": "Try-before-you-buy is a way to win back a wary community."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/football-manager-27-is-launching-for-free-for-a-limited-time-following-troubled-26-game/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/la-version-previa-de-football-manager-27-se-podra-jugar-gratis-durante-cinco-dias-en-pc"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026294018/football-manager-27-gratis-antes-de-su-lanzamiento-sega-quiere-convencer-a-los-jugadores-tras-las-quejas-a-fm-26/"
+        }
+      ]
+    },
+    {
+      "id": "ps5-firmware-26-07-14-20-00-parche-seguridad-rumor",
+      "category": "playstation",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/1280px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/960px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "credit": "JDC808 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:All_PlayStations_(1-5,_PSP,_%26_Vita).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Nueva actualización de PS5 (14.20): una sola nota oficial y rumores de parche de seguridad",
+        "en": "New PS5 update (14.20): one official note and rumors of a security patch"
+      },
+      "dek": {
+        "es": "Sony solo menciona mejoras en mensajes y usabilidad; la prensa especula con otros cambios.",
+        "en": "Sony only mentions improved messages and usability; press speculates about other changes."
+      },
+      "body": {
+        "es": [
+          "Sony ha lanzado el firmware 26.07-14.20.00 de PS5. Su única nota oficial, citada por Push Square, dice que se han «mejorado los mensajes y la usabilidad en algunas pantallas».",
+          "GameSpot y Kotaku apuntan que podría corregir también vulnerabilidades usadas para el jailbreak de la consola. Es una especulación: Sony no lo ha confirmado."
+        ],
+        "en": [
+          "Sony has released PS5 firmware 26.07-14.20.00. Its only official note, quoted by Push Square, says it improved 'messages and usability on some screens'.",
+          "GameSpot and Kotaku suggest it may also close holes used to jailbreak the console. That is speculation: Sony has not confirmed it."
+        ]
+      },
+      "why": {
+        "es": "Sony suele cerrar vulnerabilidades sin avisar, y más con un gran lanzamiento próximo.",
+        "en": "Sony often closes vulnerabilities without saying so, especially ahead of a big launch."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps5/noticias/juegas-ps5-entonces-te-espera-nueva-actualizacion-firmware-que-lleva-consola-sony-a-version-26-07-14-20-00"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-tienda-permanente-londres-2029-primera-fuera-asia",
+      "category": "industria",
+      "title": {
+        "es": "The Pokémon Company abrirá una tienda permanente en Londres antes de 2029",
+        "en": "The Pokémon Company will open a permanent store in London by 2029"
+      },
+      "dek": {
+        "es": "Será la primera de varias tiendas fuera de Asia y no usará el nombre Pokémon Center.",
+        "en": "It will be the first of several stores outside Asia and won't use the Pokémon Center name."
+      },
+      "body": {
+        "es": [
+          "The Pokémon Company ha anunciado que abrirá una tienda permanente en Londres «para 2029», según VGC. Será la primera de varias previstas fuera de Asia, y a diferencia de los Pokémon Center japoneses no llevará ese nombre.",
+          "No se ha desvelado la ubicación ni otras ciudades. VGC recuerda que hubo una tienda en Nueva York entre 2001 y 2005 y que el Reino Unido ya cuenta con un centro logístico y una web de Pokémon Center."
+        ],
+        "en": [
+          "The Pokémon Company has announced it will open a permanent store in London 'by 2029', per VGC. It will be the first of several planned outside Asia, and unlike Japan's Pokémon Centers it won't use that name.",
+          "The location and other cities haven't been revealed. VGC notes there was a New York store from 2001 to 2005 and that the UK already has a Pokémon Center fulfillment center and website."
+        ]
+      },
+      "why": {
+        "es": "La marca refuerza su comercio físico en Occidente.",
+        "en": "The brand is strengthening its physical retail in the West."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-permanent-pokemon-retail-store-is-coming-to-london-the-first-of-several-outside-asia/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Phantom Blade Zero estrena tráiler de lanzamiento y sus ediciones físicas para PS5 llegarán en 2027.",
+        "en": "Phantom Blade Zero gets a launch trailer, and its PS5 physical editions arrive in 2027."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "El nuevo auricular PS5 Pulse llegará el 19 de noviembre, junto con GTA 6.",
+        "en": "The revamped PS5 Pulse headset launches November 19, alongside GTA 6."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november"
+      }
+    },
+    {
+      "text": {
+        "es": "Sony ha adquirido los derechos de Kena: Scars of Kosmora, el juego de Ember Lab, según Vandal.",
+        "en": "Sony has acquired the rights to Kena: Scars of Kosmora, Ember Lab's game, Vandal reports."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026294009/sony-ha-adquirido-los-derechos-de-la-aventura-kena-scars-of-kosmora-el-juego-de-ember-lab/"
+      }
+    },
+    {
+      "text": {
+        "es": "The Apothecary Diaries: The False Imperial Brother, el juego de detectives de la serie, saldrá el 18 de marzo de 2027.",
+        "en": "The Apothecary Diaries: The False Imperial Brother, the series' detective game, launches March 18, 2027."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/the-apothecary-diaries-the-false-imperial-brother-launches-march-18-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Los miembros de PS Plus Deluxe en Corea reciben gratis la mejora con streaming en la nube.",
+        "en": "PS Plus Deluxe members in Korea get a free upgrade as cloud streaming arrives."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/all-ps-plus-deluxe-members-in-korea-get-a-free-upgrade-as-cloud-streaming-arrives"
+      }
+    },
+    {
+      "text": {
+        "es": "Palworld anuncia y pone fecha a su próxima gran actualización, Side by Side.",
+        "en": "Palworld announces and dates its next big update, Side by Side."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026294017/palworld-anuncia-y-pone-fecha-a-su-proxima-gran-actualizacion-side-by-side/"
+      }
+    },
+    {
+      "text": {
+        "es": "Monster Hunter Wilds estrena demo en Switch 2 y las primeras opiniones hablan de una versión «sorprendentemente buena».",
+        "en": "Monster Hunter Wilds gets a Switch 2 demo and early impressions call it 'surprisingly good'."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026294015/monster-hunter-wilds-estrena-demo-en-switch-2-y-las-opiniones-hablan-de-una-version-sorprendentemente-buena/"
+      }
+    },
+    {
+      "text": {
+        "es": "Crimson Desert muestra en un tráiler su primer DLC, centrado en el mar y la exploración submarina.",
+        "en": "Crimson Desert shows its first DLC in a trailer, built around the sea and underwater exploration."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026294005/crimson-desert-muestra-en-profundidad-su-primer-dlc-con-el-mar-y-la-exploracion-submarina-como-protagonistas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Zelda: Ocarina of Time para Switch 2 ya tiene tamaño estimado de descarga, en la media de otros títulos, según Vandal.",
+        "en": "The Switch 2 Zelda: Ocarina of Time remake has an estimated file size, in line with other titles, Vandal reports."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026294022/cuanto-ocupara-el-remake-de-zelda-ocarina-of-time-en-nintendo-switch-2-estara-en-la-media-de-otros-titulos/"
+      }
+    },
+    {
+      "text": {
+        "es": "Full Circle, el estudio de Skate, pierde a «muchos» empleados en los despidos de EA, según VGC.",
+        "en": "Skate studio Full Circle loses 'many' staff in EA's layoffs, VGC reports."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/many-staff-gone-from-skate-studio-full-circle-as-part-of-ea-layoffs/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Final Fantasy Resonance",
+      "platforms": "PS5, Xbox Series, Switch, Switch 2, PC",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance"
+    },
+    {
+      "title": "Nintendo Switch Sports Resort",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort"
+    },
+    {
+      "title": "Cyberpunk 2077 · actualización 2.5",
+      "platforms": "PC, PS5, Xbox Series",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-edgerunners-ii-update-detailed"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "title": "Football Manager 27 (prueba gratuita)",
+      "platforms": "PC, Mac",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.videogameschronicle.com/news/football-manager-27-is-launching-for-free-for-a-limited-time-following-troubled-26-game/"
+    },
+    {
+      "title": "Mouthwashing",
+      "platforms": "PS5, Xbox Series, PS4, Switch",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.gematsu.com/2026/10/mouthwashing-coming-to-ps5-xbox-series-ps4-and-switch-on-october-29"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La industria reacciona al cierre de BioWare con mensajes de pesar; el jefe de CD Projekt le rindió homenaje por su papel en The Witcher.",
+        "en": "The industry reacts to BioWare's closure with messages of grief; CD Projekt's boss paid tribute to its role in The Witcher."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/mass-effect-legendary-edition/noticias/industria-videojuego-reacciona-al-cierre-bioware-devastador"
+      }
+    },
+    {
+      "text": {
+        "es": "SonicFox rompe su contrato con una convención después de que usara su imagen en un cartel generado con IA.",
+        "en": "SonicFox cancels a convention contract after the event used their likeness in an AI-generated poster."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster"
+      }
+    },
+    {
+      "text": {
+        "es": "El estudio de Machinarium responde con dureza a un tributo hecho con IA: «Esto parece repugnante y no tiene nada que ver con nosotros».",
+        "en": "The Machinarium studio blasts an AI-made tribute: 'This looks disgusting and has nothing to do with us'."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/"
+      }
+    },
+    {
+      "text": {
+        "es": "Burger Shot, la hamburguesería de GTA, abrirá en la vida real en el pabellón del Miami Heat, según IGN.",
+        "en": "GTA's Burger Shot restaurant is coming to real life at the Miami Heat's arena, IGN reports."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "url": "https://store.steampowered.com/app/3259780/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
