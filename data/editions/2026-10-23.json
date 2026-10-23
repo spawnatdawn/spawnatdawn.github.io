@@ -1,0 +1,787 @@
+{
+  "date": "2026-10-23",
+  "headline": {
+    "es": "Capcom sufre una brecha de 11,7 millones de cuentas y un fallo de PHP tumba juegos online",
+    "en": "Capcom suffers an 11.7-million-account breach and a PHP flaw takes games offline"
+  },
+  "intro": {
+    "es": "Un leak de Mass Effect Universe, el supuesto HLX de Valve y el primer jailbreak de Switch 2 completan una jornada agitada.",
+    "en": "A Mass Effect Universe leak, Valve's alleged HLX and the first Switch 2 jailbreak round out a busy day."
+  },
+  "stories": [
+    {
+      "id": "capcom-brecha-capcom-id-11-millones-cuentas",
+      "category": "industria",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1280px-Capcom_Store_Tokyo_at_Shibuya_PARCO_-_Dec_2019.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/960px-Capcom_Store_Tokyo_at_Shibuya_PARCO_-_Dec_2019.jpg",
+        "credit": "Cabeza2000 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Capcom_Store_Tokyo_at_Shibuya_PARCO_-_Dec_2019.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Capcom sufre una brecha que afecta a más de 11,7 millones de cuentas Capcom ID",
+        "en": "Capcom breach hits more than 11.7 million Capcom ID accounts"
+      },
+      "dek": {
+        "es": "Se expusieron correos e IP del último acceso; la compañía asegura que no se vieron afectadas tarjetas de crédito.",
+        "en": "Emails and last-login IPs were exposed; the company says no card data was affected."
+      },
+      "body": {
+        "es": [
+          "Capcom ha informado de que una persona ajena a la empresa accedió a 11.774.247 cuentas Capcom ID, según VGC. Para todas ellas se vieron expuestos el correo electrónico, las fechas de creación y último inicio de sesión, el número de accesos y la IP del último acceso. En 43 cuentas, además, constaban fecha de nacimiento, género, país o región y apodo.",
+          "La compañía afirma que los atacantes no obtuvieron las contraseñas que habían fijado los usuarios, aunque sí cambiaron sin autorización las de 196 cuentas, que ya han sido restablecidas. Capcom indica que no hay datos de tarjetas implicados.",
+          "Capcom sigue investigando, notificará a los usuarios afectados y promete reforzar su seguridad. También advierte de posibles correos fraudulentos que suplanten a la empresa y pide no abrir enlaces ni adjuntos sospechosos."
+        ],
+        "en": [
+          "Capcom has said an outside party accessed 11,774,247 Capcom ID accounts, according to VGC. For all of them, the email address, account creation and last-login dates, login count and last-login IP were exposed. For 43 accounts, birth date, gender, country or region and nickname were also involved.",
+          "The company says the attackers did not get the passwords users had set, although they changed the passwords of 196 accounts without authorisation; those have been reset. Capcom says no card information is involved.",
+          "Capcom is still investigating, will notify affected users and promises to strengthen its security. It also warns of fraudulent emails impersonating the company and urges people not to open suspicious links or attachments."
+        ]
+      },
+      "why": {
+        "es": "Aunque no hay contraseñas ni pagos expuestos, los correos filtrados facilitan campañas de phishing contra millones de jugadores.",
+        "en": "With no passwords or payments exposed, the leaked emails still make phishing campaigns against millions of players easier."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026295014/capcom-alerta-sobre-una-brecha-de-seguridad-que-afecta-a-casi-12-millones-de-cuentas-capcom-id/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/capcom-tiene-11-millones-problemas-padres-resident-evil-han-sufrido-brecha-seguridad"
+        }
+      ]
+    },
+    {
+      "id": "fallos-php-juegos-offline-final-fantasy-xiv-pokemon-world-quest",
+      "category": "industria",
+      "title": {
+        "es": "Dos fallos críticos de PHP tumban juegos y apps: Final Fantasy XIV, Pokémon y clásicos japoneses",
+        "en": "Two critical PHP flaws knock out games and apps, from Final Fantasy XIV to Pokémon and Japanese classics"
+      },
+      "dek": {
+        "es": "Muchos servicios volvieron en un día, pero dos juegos antiguos no han sobrevivido al parche.",
+        "en": "Many services were back within a day, but two old games did not survive the patching."
+      },
+      "body": {
+        "es": [
+          "Dos vulnerabilidades críticas en PHP, que permiten ejecutar código en servidores, obligaron esta semana a desconectar webs y juegos mientras se aplicaban parches, según Vandal. Square Enix suspendió temporalmente los inicios de sesión en Final Fantasy XIV, que ya funcionan, aunque el guardado en la nube seguía sin estar disponible al publicarse la información. También se vieron afectados Umamusume: Pretty Derby y Path of Titans; este último dijo que no se había comprometido ningún dato.",
+          "Nintendo Life cuenta que Pokémon HOME, Pokémon Sleep y Pokémon Champions estuvieron caídos cerca de un día y que ya han vuelto a la normalidad.",
+          "Kotaku añade que World Quest, un juego móvil japonés de 2011, y el RPG de texto Save My Demonic World han cerrado de forma definitiva porque sus sistemas, sin actualizaciones desde hace años, no podían recibir los parches."
+        ],
+        "en": [
+          "Two critical PHP vulnerabilities that allow code execution on servers forced sites and games offline this week while patches were applied, according to Vandal. Square Enix temporarily suspended logins in Final Fantasy XIV; they are working again, although cloud saves were still unavailable when the report was published. Umamusume: Pretty Derby and Path of Titans were also hit; the latter said no data had been compromised.",
+          "Nintendo Life reports that Pokémon HOME, Pokémon Sleep and Pokémon Champions were down for roughly a day and are now back to normal.",
+          "Kotaku adds that World Quest, a Japanese mobile game from 2011, and the text RPG Save My Demonic World have shut down for good because their systems, unmaintained for years, could not take the patches."
+        ]
+      },
+      "why": {
+        "es": "Los juegos antiguos sin mantenimiento son los más vulnerables: un fallo de seguridad puede borrarlos para siempre.",
+        "en": "Unmaintained old games are the most exposed: a single security flaw can erase them for good."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026295024/una-vulnerabilidad-critica-en-php-obligo-al-cierre-de-paginas-y-juegos-online-incluyendo-final-fantasy-xiv/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/two-of-japans-oldest-mobile-games-have-been-forced-permanently-offline-because-of-the-new-exploit-ravaging-the-web-2000748511"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-universe-trailer-filtrado-schreier-real",
+      "category": "juegos",
+      "title": {
+        "es": "Se filtra el tráiler de «Mass Effect Universe», el juego que BioWare preparaba antes de su cierre",
+        "en": "Trailer for 'Mass Effect Universe', the game BioWare was making before its closure, leaks"
+      },
+      "dek": {
+        "es": "Jason Schreier, de Bloomberg, asegura que es auténtico; EA no ha comentado.",
+        "en": "Bloomberg's Jason Schreier says it is genuine; EA has not commented."
+      },
+      "body": {
+        "es": [
+          "Un tráiler del juego cancelado tras el cierre de BioWare ha aparecido en internet. Según Kotaku, la tarjeta de título lo llama «Mass Effect Universe», y el periodista Jason Schreier (Bloomberg) afirma, con fuentes propias, que es real y corresponde al proyecto en el que trabajaba el estudio. Gematsu lo etiqueta aún como rumor.",
+          "Kotaku dice haber pedido comentarios a EA sin respuesta publicada. EA anunció el día anterior el cierre del estudio y la cancelación del próximo Mass Effect. Por tratarse de material filtrado, no lo enlazamos ni describimos su contenido.",
+          "Varios exmiembros del equipo han hablado sobre lo que pudo ser el juego; 3DJuegos recoge sus declaraciones y afirma que el cierre «duele todavía más» tras verlo."
+        ],
+        "en": [
+          "A trailer for the game cancelled after BioWare's closure has surfaced online. According to Kotaku, its title card calls it 'Mass Effect Universe', and Bloomberg journalist Jason Schreier says, citing his own sources, that it is real and matches the project the studio was working on. Gematsu still labels it a rumour.",
+          "Kotaku says it asked EA for comment and no reply was published. EA announced the studio's closure and the cancellation of the next Mass Effect a day earlier. Because this is leaked material, we neither link to it nor describe its content.",
+          "Several former team members have spoken about what the game could have been; 3DJuegos gathers their comments and says the closure 'hurts even more' after the leak."
+        ]
+      },
+      "why": {
+        "es": "El material refuerza el debate sobre la decisión de EA, que cerró el estudio dos meses después de su compra.",
+        "en": "The material fuels the debate over EA's decision to close the studio two months after its buyout."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/mass-effect-5-universe-leaked-trailer-liara-bioware-2000748858"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/rumor-canceled-mass-effect-universe-trailer-leaked"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026295029/filtran-un-trailer-del-mass-effect-cancelado-tras-el-cierre-de-bioware-llevaba-meses-preparado/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/mass-effect-3/noticias/exdesarrolladores-bioware-hablan-que-podria-haber-sido-nuevo-mass-effect-ahora-cierre-estudio-duele-poco"
+        }
+      ]
+    },
+    {
+      "id": "septiembre-circana-wolverine-ps5-xbox-minimo-nba-2k27",
+      "category": "industria",
+      "title": {
+        "es": "Wolverine lidera septiembre en EE. UU., PS5 sube un 43 % y Xbox toca mínimo",
+        "en": "Wolverine tops US September, PS5 spending rises 43% and Xbox hits a low"
+      },
+      "dek": {
+        "es": "Circana también sitúa a NBA 2K27 como el juego más vendido de 2026 hasta ahora.",
+        "en": "Circana also puts NBA 2K27 as the best-selling game of 2026 so far."
+      },
+      "body": {
+        "es": [
+          "Según los datos de Circana recogidos por VGC, Marvel's Wolverine fue el juego más vendido de septiembre en Estados Unidos por ingresos y es el mejor estreno de un juego publicado por Sony desde Helldivers 2. Le siguieron NBA 2K27, EA Sports FC 27, Fire Emblem: Fortune's Weave y The Blood of Dawnwalker.",
+          "En hardware, el gasto en PS5 subió un 43 %, mientras que Xbox Series bajó un 2 % y Switch 2 un 12 %. En unidades, PS5 creció un 22 %, y Xbox registró su peor septiembre. La cuota de Sony alcanzó su máximo mensual desde mayo de 2025.",
+          "NBA 2K27 ha superado a Resident Evil Requiem como juego más vendido del año en EE. UU., según GameSpot."
+        ],
+        "en": [
+          "According to Circana data reported by VGC, Marvel's Wolverine was the best-selling game of September in the US by dollar sales, and is the biggest launch for a Sony-published game since Helldivers 2. It was followed by NBA 2K27, EA Sports FC 27, Fire Emblem: Fortune's Weave and The Blood of Dawnwalker.",
+          "On hardware, PS5 spending rose 43%, while Xbox Series fell 2% and Switch 2 fell 12%. In units, PS5 grew 22% and Xbox had its lowest September on record. Sony's share reached its best monthly level since May 2025.",
+          "NBA 2K27 has overtaken Resident Evil Requiem as the best-selling game of the year in the US, according to GameSpot."
+        ]
+      },
+      "why": {
+        "es": "Los datos reflejan el mejor momento de PlayStation frente a un mercado de consolas a la baja.",
+        "en": "The figures show PlayStation at its strongest in a softer console market."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nba-2k27-dunks-on-resident-evil-requiem-to-become-the-uss-best-selling-game-of-2026/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026295021/marvels-wolverine-triunfo-en-las-ventas-de-septiembre-en-estados-unidos-y-ps5-impulso-sus-ventas/"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-500-millones-presupuesto-ps5-cancelada",
+      "category": "xbox",
+      "title": {
+        "es": "Rumor: Gears of War: E-Day habría costado 500 millones de dólares",
+        "en": "Rumor: Gears of War: E-Day reportedly cost $500 million"
+      },
+      "dek": {
+        "es": "Kotaku y The Game Business lo apuntan; Xbox no ha desmentido la cifra.",
+        "en": "Kotaku and The Game Business report it; Xbox has not denied the figure."
+      },
+      "body": {
+        "es": [
+          "Kotaku, citando fuentes, afirma que el presupuesto de Gears of War: E-Day rondó los 500 millones de dólares, sin contar marketing. Chris Dring (The Game Business) y Jez Corden (Windows Central) han señalado que la cifra es correcta, aunque Corden discrepa en cómo se reparte entre el juego y otras partidas del estudio, según Push Square.",
+          "Push Square recuerda que Microsoft canceló a última hora la versión de PS5, que se describía como casi terminada, y admite que la información podría no ser exacta. Alinea Analytics estima unas 311.000 copias vendidas."
+        ],
+        "en": [
+          "Kotaku, citing sources, says Gears of War: E-Day's budget was around $500 million, not counting marketing. Chris Dring (The Game Business) and Jez Corden (Windows Central) have said the figure is right, though Corden disagrees on how it splits between the game and other studio costs, according to Push Square.",
+          "Push Square notes that Microsoft cancelled the PS5 version at the last minute, reportedly nearly finished, and admits the information could be inaccurate. Alinea Analytics estimates around 311,000 copies sold."
+        ]
+      },
+      "why": {
+        "es": "De confirmarse, sería uno de los juegos más caros jamás hechos y pondría en duda la estrategia de exclusividad de Xbox.",
+        "en": "If confirmed, it would be one of the most expensive games ever made and would question Xbox's exclusivity strategy."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/new-rumour-says-xbox-spent-usd500-million-on-gears-of-war-e-day-but-not-everyone-agrees"
+        }
+      ]
+    },
+    {
+      "id": "half-life-hlx-codename-mike-morasky-valve-q-and-a",
+      "category": "pc",
+      "title": {
+        "es": "Un diseñador de Valve menciona «HLX», el supuesto nombre en clave de Half-Life 3",
+        "en": "Valve designer mentions 'HLX', the rumoured codename for Half-Life 3"
+      },
+      "dek": {
+        "es": "Fue un comentario casual en una charla; Valve no ha confirmado ningún juego.",
+        "en": "It was an offhand remark in a talk; Valve has not confirmed any game."
+      },
+      "body": {
+        "es": [
+          "Mike Morasky, diseñador musical de Valve, dijo «HLX» durante un turno de preguntas mientras hablaba del HDR en el sonido de los juegos de la compañía, según Insider Gaming, que cita la frase en la que compara el HDR de Deadlock con «su propia versión» en HLX. GameSpot sitúa la charla en el evento Game Sound Con.",
+          "HLX es el nombre en clave que se atribuye a Half-Life 3; hasta ahora solo había aparecido en código extraído de otros juegos de Valve. La empresa no ha confirmado nada, y las filtraciones previas sobre el estado del proyecto no están verificadas."
+        ],
+        "en": [
+          "Mike Morasky, a Valve music designer, said 'HLX' during a Q&A while discussing HDR in the sound of Valve's games, according to Insider Gaming, which quotes him comparing Deadlock's HDR with 'its own version' in HLX. GameSpot places the talk at the Game Sound Con event.",
+          "HLX is the codename attributed to Half-Life 3; until now it had only appeared in code datamined from other Valve games. The company has confirmed nothing, and earlier leaks about the project's state remain unverified."
+        ]
+      },
+      "why": {
+        "es": "Es la primera vez que alguien de Valve pronuncia el término en público, pero sigue sin ser un anuncio.",
+        "en": "It is the first time someone at Valve has said the term in public, but it is still not an announcement."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/half-life-3-rumored-codename-mentioned-by-valve-dev-during-qa/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/"
+        }
+      ]
+    },
+    {
+      "id": "switch-2-jailbreak-ns2jb-smilebasic-4-retirado-eshop",
+      "category": "nintendo",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Presentan un supuesto jailbreak de Switch 2 y Nintendo retira SmileBASIC 4 de la eShop",
+        "en": "Alleged Switch 2 jailbreak surfaces and Nintendo pulls SmileBASIC 4 from the eShop"
+      },
+      "dek": {
+        "es": "El exploit, llamado ns2jb, es solo de software, «tethered» y funciona con el firmware 23.0.1.",
+        "en": "The exploit, called ns2jb, is software-only, tethered and works on firmware 23.0.1."
+      },
+      "body": {
+        "es": [
+          "Según Nintendo Life, el desarrollador Sammy «pepsipu» Hajhamid ha creado ns2jb, un jailbreak de Switch 2 que, según su autor, se logró con ayuda de Codex, de OpenAI. Permitiría ejecutar código nativo y homebrew; como demostración, añadió personajes a Mario Kart World. Las afirmaciones aún no están verificadas de forma independiente.",
+          "El método requiere el firmware 23.0.1 y el juego SmileBASIC 4, y es tethered: se pierde al apagar la consola. Nintendo ha retirado SmileBASIC 4 de la eShop, pero no ha hecho ninguna declaración oficial. Kotaku lo califica de «complicado» pero mala noticia para Nintendo."
+        ],
+        "en": [
+          "According to Nintendo Life, developer Sammy 'pepsipu' Hajhamid has built ns2jb, a Switch 2 jailbreak made, per its author, with help from OpenAI's Codex. It would allow native code and homebrew; as a demo, the author added characters to Mario Kart World. The claims have not been independently verified yet.",
+          "The method requires firmware 23.0.1 and the game SmileBASIC 4, and is tethered: it is lost when the console powers off. Nintendo has pulled SmileBASIC 4 from the eShop but has made no official statement. Kotaku calls it convoluted but bad news for Nintendo."
+        ]
+      },
+      "why": {
+        "es": "Es el primer intento serio de abrir la consola, aunque sus limitaciones lo alejan por ahora del uso masivo.",
+        "en": "It is the first serious attempt to open up the console, though its limits keep it from mass use for now."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784"
+        }
+      ]
+    },
+    {
+      "id": "sony-ubp-x700-ultima-reproductor-uhd-blu-ray-fin",
+      "category": "hardware",
+      "title": {
+        "es": "Según un distribuidor, Sony deja de enviar su último reproductor UHD Blu-ray",
+        "en": "Sony reportedly stops shipping its last UHD Blu-ray player"
+      },
+      "dek": {
+        "es": "Sony no ha emitido comunicado; la fuente es el blog de un distribuidor japonés.",
+        "en": "Sony has issued no statement; the source is a Japanese distributor's blog."
+      },
+      "body": {
+        "es": [
+          "Push Square recoge, a partir del blog Kunkoku (que se presenta como distribuidor oficial de Sony), que el UBP-X700/K habría dejado de enviarse y aparece agotado en la web de Sony Japón, «sin planes» de reposición. La propia web lo califica de probable, no confirmado, y Sony no se ha pronunciado.",
+          "Si se confirma, Panasonic quedaría como el único gran fabricante conocido de reproductores UHD, aunque algunas marcas chinas empiezan a cubrir el hueco. Quedan unidades en Europa y EE. UU. que podrían no reponerse."
+        ],
+        "en": [
+          "Push Square reports, based on the Kunkoku blog (which presents itself as an official Sony distributor), that the UBP-X700/K has stopped shipping and is listed as sold out on Sony Japan's site with 'no plans' for restocking. Push Square calls it likely but unconfirmed, and Sony has not commented.",
+          "If confirmed, Panasonic would be the only major known maker of UHD players, although some Chinese brands are starting to fill the gap. Units remain in Europe and the US but may not be restocked."
+        ]
+      },
+      "why": {
+        "es": "Encaja con el repliegue de Sony en electrónica y en el disco físico, aunque aquí falta confirmación oficial.",
+        "en": "It fits Sony's pullback from consumer electronics and physical media, though official confirmation is missing."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-exits-uhd-blu-ray-player-market-as-pull-back-from-physical-media-continues"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/sony-continues-its-march-towards-an-all-digital-future-as-it-reportedly-kills-off-its-last-4k-uhd-player-2000748873"
+        }
+      ]
+    },
+    {
+      "id": "beyond-good-and-evil-2-preproduccion-origami-18-anos",
+      "category": "industria",
+      "title": {
+        "es": "Rumor: Beyond Good & Evil 2 seguiría en preproducción tras 18 años",
+        "en": "Report: Beyond Good & Evil 2 is still in pre-production after 18 years"
+      },
+      "dek": {
+        "es": "El medio francés Origami cita fuentes anónimas; Ubisoft solo ha reiterado su compromiso con el juego.",
+        "en": "French outlet Origami cites anonymous sources; Ubisoft has only reiterated its commitment to the game."
+      },
+      "body": {
+        "es": [
+          "VGC se hace eco de un reportaje de Origami según el cual el juego, anunciado en 2008, sigue en preproducción con varios cientos de personas, sobre todo en Ubisoft Montpellier, pero sin un concepto definido. Entre 2019 y 2022 habría sido un multijugador con varios planetas; después pasó a cooperativo para cuatro, luego dos, y ahora a una aventura en solitario con opción cooperativa.",
+          "Las fuentes creen que podría cancelarse por la reestructuración de Ubisoft, aunque no hay señales de ello. Ubisoft no ha emitido comunicado; la directora creativa, Fawzi Mesmar, dijo que el equipo sigue «comprometido y centrado» en ofrecer un gran juego."
+        ],
+        "en": [
+          "VGC picks up an Origami report saying the game, announced in 2008, remains in pre-production with several hundred people, mostly at Ubisoft Montpellier, but without a defined concept. Between 2019 and 2022 it was reportedly a multi-planet multiplayer game; it then became four-player co-op, then two-player, and is now a solo-first adventure with co-op.",
+          "Sources believe it could be cancelled amid Ubisoft's restructuring, though there are no signs of that. Ubisoft has issued no statement; creative director Fawzi Mesmar said the team remains 'committed and focused' on delivering a remarkable game."
+        ]
+      },
+      "why": {
+        "es": "Sin fecha ni confirmación, el reportaje alimenta las dudas sobre uno de los desarrollos más largos de la industria.",
+        "en": "With no date or confirmation, the report feeds doubts about one of the industry's longest developments."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/beyond-good-evil-2-is-still-in-pre-production-after-18-years-as-its-vision-keeps-changing-report-claims/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026295017/no-esperes-a-beyond-good-and-evil-2-18-anos-despues-el-juego-de-ubisoft-aun-seguiria-en-estado-de-preproduccion/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/beyond-good-evil-2/noticias/despues-18-anos-ubisoft-habria-cambiado-completo-rpg-que-quiso-revolucionar-mundos-abiertos-espaciales"
+        }
+      ]
+    },
+    {
+      "id": "dispatch-movil-9-diciembre-modo-comentarios-storyboard",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+        "credit": "AdHoc Studio / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2592160/"
+      },
+      "title": {
+        "es": "Dispatch llegará a iOS y Android el 9 de diciembre con cuatro episodios gratis",
+        "en": "Dispatch heads to iOS and Android on December 9 with four free episodes"
+      },
+      "dek": {
+        "es": "AdHoc Studio celebra el primer aniversario con modos de comentarios y storyboard para la edición Deluxe.",
+        "en": "AdHoc Studio marks the first anniversary with commentary and storyboard modes for the Deluxe edition."
+      },
+      "body": {
+        "es": [
+          "AdHoc Studio ha anunciado que Dispatch saldrá en iOS y Android el 9 de diciembre. Según Gematsu, los cuatro primeros episodios serán gratuitos y el juego completo se desbloqueará por 19,99 dólares; el prerregistro abrirá pronto.",
+          "Con motivo de su primer aniversario, la edición Deluxe recibe gratis en todas las plataformas el Modo Comentarios, con más de 16 horas de comentarios del reparto y el equipo, y el Modo Storyboard. Quien tenga la edición estándar puede pasar a Deluxe por 10,99 dólares."
+        ],
+        "en": [
+          "AdHoc Studio has announced that Dispatch will launch on iOS and Android on December 9. According to Gematsu, the first four episodes will be free and the full game unlocks for $19.99; pre-registration opens soon.",
+          "For its first anniversary, the Deluxe edition gets the Commentary Mode, with over 16 hours of cast and crew commentary, and the Storyboard Mode, free on every platform. Standard edition owners can upgrade to Deluxe for $10.99."
+        ]
+      },
+      "why": {
+        "es": "El éxito indie del año pasado da el salto a móviles con un modelo de prueba gratuita.",
+        "en": "Last year's indie hit makes the jump to mobile with a free-trial model."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/dispatch-coming-to-ios-android-on-december-9-deluxe-edition-commentary-and-storyboard-modes-update-now-available"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/dispatch-is-coming-to-mobile-in-december-with-its-first-four-episodes-free/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/dispatch-celebrates-its-one-year-anniversary-with-new-game-modes-a-concert-and-a-mobile-launch-announcement-2000748807"
+        }
+      ]
+    },
+    {
+      "id": "katana-zero-dlc-tamano-secuela-askiisoft",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/capsule_616x353.jpg",
+        "credit": "Devolver Digital / Steam",
+        "creditUrl": "https://store.steampowered.com/app/460950/"
+      },
+      "title": {
+        "es": "El DLC de Katana ZERO sigue en marcha y ahora tiene «el tamaño de una secuela»",
+        "en": "Katana ZERO's DLC is still coming and is now 'the size of a full sequel'"
+      },
+      "dek": {
+        "es": "Askiisoft confirma que lo han ampliado y que incluirá más de 30 temas nuevos.",
+        "en": "Askiisoft confirms it has been expanded and will include over 30 new tracks."
+      },
+      "body": {
+        "es": [
+          "Askiisoft ha confirmado en redes que sigue trabajando en el DLC de Katana ZERO y que lo han hecho más grande: según Gematsu, ahora tiene el tamaño de una secuela completa e incluirá una banda sonora con más de 30 canciones nuevas.",
+          "No se han dado fecha ni plataformas. Gematsu apunta que el DLC se había anunciado como gratuito y que no está claro si seguirá siéndolo."
+        ],
+        "en": [
+          "Askiisoft has confirmed on social media that it is still working on the Katana ZERO DLC and has made it bigger: according to Gematsu, it is now the size of a full sequel and will include a soundtrack of more than 30 new songs.",
+          "No date or platforms were given. Gematsu notes the DLC had been announced as free and it is unclear whether it still will be."
+        ]
+      },
+      "why": {
+        "es": "Tras años de silencio, la confirmación calma a los fans, aunque sin calendario.",
+        "en": "After years of silence, the confirmation reassures fans, though without a schedule."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/katana-zero-dlc-still-coming-now-the-size-of-a-full-sequel"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/katana-zero-dlc-is-still-coming-and-its-apparently-freakin-huge-now/"
+        }
+      ]
+    },
+    {
+      "id": "shadow-of-the-tomb-raider-definitive-edition-switch-2-shadow-drop",
+      "category": "nintendo",
+      "title": {
+        "es": "Shadow of the Tomb Raider: Definitive Edition llega por sorpresa a Switch 2",
+        "en": "Shadow of the Tomb Raider: Definitive Edition shadow-drops on Switch 2"
+      },
+      "dek": {
+        "es": "Aspyr lo publica con los siete desafíos descargables y cooperativo en línea para dos.",
+        "en": "Aspyr releases it with all seven DLC Challenge Tombs and two-player online co-op."
+      },
+      "body": {
+        "es": [
+          "Aspyr ha lanzado sin aviso Shadow of the Tomb Raider: Definitive Edition en Switch 2, según Nintendo Life y Gematsu. Incluye el juego base, los siete desafíos descargables, cooperativo en línea para dos jugadores y todo el contenido de armas, atuendos y habilidades.",
+          "El paquete Tomb Raider: Definitive Survivor Trilogy también está disponible. Gematsu informa además de que Cult of the Lamb tiene ya su edición para Switch 2."
+        ],
+        "en": [
+          "Aspyr has released Shadow of the Tomb Raider: Definitive Edition on Switch 2 without warning, according to Nintendo Life and Gematsu. It includes the base game, all seven DLC Challenge Tombs, two-player online co-op and all weapon, outfit and skill content.",
+          "The Tomb Raider: Definitive Survivor Trilogy bundle is also available. Gematsu also reports that Cult of the Lamb now has its Switch 2 Edition."
+        ]
+      },
+      "why": {
+        "es": "Sigue el goteo de portes de catálogo reciente a Switch 2.",
+        "en": "The trickle of recent catalogue ports to Switch 2 continues."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/shadow-of-the-tomb-raider-definitive-edition-now-available-for-switch-2"
+        },
+        {
+          "name": "Gematsu (Cult of the Lamb)",
+          "url": "https://www.gematsu.com/2026/10/cult-of-the-lamb-nintendo-switch-2-edition-now-available"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Atari dejará de dar soporte a la VCS de 2021: la tienda cierra el 1 de febrero de 2027 y llegará una app homebrew para seguir añadiendo juegos.",
+        "en": "Atari is ending support for its 2021 VCS: the store closes on February 1, 2027 and a homebrew app will let players keep adding games."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/"
+      }
+    },
+    {
+      "text": {
+        "es": "Exodus, el RPG espacial de espíritu Mass Effect, muestra un nuevo aspecto de Jun, su protagonista, tras las críticas de los fans.",
+        "en": "Exodus, the Mass Effect-style space RPG, shows an updated look for its lead Jun after fan criticism."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: DICE y Respawn trabajarían juntos en Star Wars: Battlefront 3, según VGC.",
+        "en": "Rumor: DICE and Respawn are reportedly teaming up on Star Wars: Battlefront 3, VGC reports."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/"
+      }
+    },
+    {
+      "text": {
+        "es": "Black Flag Resynced recibirá Nuevo Juego+ la próxima semana.",
+        "en": "Black Flag Resynced is getting New Game+ next week."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/black-flag-resynced-is-getting-new-game-next-week/"
+      }
+    },
+    {
+      "text": {
+        "es": "Game Boy – Nintendo Classics suma Avenging Spirit, Mole Mania y Pinball: Revenge of the 'Gator el 27 de octubre.",
+        "en": "Game Boy – Nintendo Classics adds Avenging Spirit, Mole Mania and Pinball: Revenge of the 'Gator on October 27."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/game-boy-nintendo-classics-adds-avenging-spirit-mole-mania-and-pinball-revenge-of-the-gator-on-october-27"
+      }
+    },
+    {
+      "text": {
+        "es": "Luma Island llegará a PS5 y Xbox Series el 2 de diciembre.",
+        "en": "Luma Island arrives on PS5 and Xbox Series on December 2."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/luma-island-for-ps5-xbox-series-launches-december-2"
+      }
+    },
+    {
+      "text": {
+        "es": "Azur Promilia saldrá el 26 de noviembre en Japón, Corea del Sur, Taiwán y China.",
+        "en": "Azur Promilia launches November 26 in Japan, South Korea, Taiwan and China."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/azur-promilia-launches-november-26-in-japan-south-korea-taiwan-and-china"
+      }
+    },
+    {
+      "text": {
+        "es": "Next: The Portopia Serial Murder Case saldrá el 4 de marzo de 2027 en Japón.",
+        "en": "Next: The Portopia Serial Murder Case launches March 4, 2027 in Japan."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/next-the-portopia-serial-murder-case-launches-march-4-2027-in-japan"
+      }
+    },
+    {
+      "text": {
+        "es": "Saber Interactive afirma que Clive Barker's Hellraiser: Revival rinde «extremadamente bien» en PC y consolas.",
+        "en": "Saber Interactive says Clive Barker's Hellraiser: Revival is performing 'extremely well' on PC and consoles."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games"
+      }
+    },
+    {
+      "text": {
+        "es": "Epic anuncia el AI MegaJam del 12 al 15 de noviembre para crear juegos con IA en Unreal y UEFN, con subvenciones de hasta 50.000 dólares.",
+        "en": "Epic announces the AI MegaJam on November 12–15 to build AI-assisted games in Unreal and UEFN, with grants of up to $50,000."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/epic-ai-megajam-50k-grants-unreal/"
+      }
+    },
+    {
+      "text": {
+        "es": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe saldrá el 29 de octubre en PS5, PS4, Xbox One y PC.",
+        "en": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe launches October 29 on PS5, PS4, Xbox One and PC."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/hatsune-miku-connecting-puzzle-tamagotori-deluxe-coming-to-ps5-ps4-xbox-one-and-pc-on-october-29"
+      }
+    },
+    {
+      "text": {
+        "es": "Los resultados de la encuesta de la demo alfa de Wo Long 2: Wings of Ember ya están publicados.",
+        "en": "Results of the Wo Long 2: Wings of Ember alpha demo survey have been announced."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/wo-long-2-wings-of-ember-alpha-demo-survey-results-announced"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Call of Duty: Modern Warfare 4",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "title": "Shadow of the Tomb Raider: Definitive Edition",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://www.gematsu.com/2026/10/shadow-of-the-tomb-raider-definitive-edition-now-available-for-switch-2"
+    },
+    {
+      "title": "Game Boy – Nintendo Classics (3 juegos nuevos)",
+      "platforms": "Switch",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.gematsu.com/2026/10/game-boy-nintendo-classics-adds-avenging-spirit-mole-mania-and-pinball-revenge-of-the-gator-on-october-27"
+    },
+    {
+      "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe",
+      "platforms": "PS5, PS4, Xbox One, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.gematsu.com/2026/10/hatsune-miku-connecting-puzzle-tamagotori-deluxe-coming-to-ps5-ps4-xbox-one-and-pc-on-october-29"
+    },
+    {
+      "title": "Azur Promilia",
+      "platforms": "Asia",
+      "note": {
+        "es": "26 de noviembre",
+        "en": "November 26"
+      },
+      "url": "https://www.gematsu.com/2026/10/azur-promilia-launches-november-26-in-japan-south-korea-taiwan-and-china"
+    },
+    {
+      "title": "Luma Island",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "2 de diciembre",
+        "en": "December 2"
+      },
+      "url": "https://www.gematsu.com/2026/10/luma-island-for-ps5-xbox-series-launches-december-2"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los jugadores y exmiembros de BioWare reaccionan al tráiler filtrado de Mass Effect Universe: «duele todavía más» el cierre.",
+        "en": "Players and ex-BioWare staff react to the leaked Mass Effect Universe trailer: the closure 'hurts even more'."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/mass-effect-3/noticias/exdesarrolladores-bioware-hablan-que-podria-haber-sido-nuevo-mass-effect-ahora-cierre-estudio-duele-poco"
+      }
+    },
+    {
+      "text": {
+        "es": "Half-Life 3 vuelve a las redes tras mencionar un diseñador de Valve «HLX» en una charla.",
+        "en": "Half-Life 3 is trending again after a Valve designer mentioned 'HLX' in a talk."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885"
+      }
+    },
+    {
+      "text": {
+        "es": "Debate sobre el presupuesto de Gears of War: E-Day y la cancelación de su versión de PS5.",
+        "en": "Debate over Gears of War: E-Day's budget and the cancelled PS5 version."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make"
+      }
+    },
+    {
+      "text": {
+        "es": "Epic suscita críticas con un game jam centrado en IA que anuncia en pleno debate sobre su uso.",
+        "en": "Epic draws criticism with an AI-focused game jam announced amid the debate over AI use."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "url": "https://store.steampowered.com/app/3259780/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
