@@ -1,0 +1,748 @@
+{
+  "date": "2026-10-24",
+  "headline": {
+    "es": "Arkane busca comprador a contrarreloj y Modern Warfare 4 divide a críticos y jugadores",
+    "en": "Arkane races to find a buyer while Modern Warfare 4 splits critics and players"
+  },
+  "intro": {
+    "es": "Xbox pierde a su primera directora de operaciones, Miyamoto recibirá la Orden de la Cultura y el cierre de BioWare sigue generando reacciones.",
+    "en": "Xbox loses its first chief operating officer, Miyamoto is set to receive the Order of Culture and BioWare's closure keeps drawing reactions."
+  },
+  "stories": [
+    {
+      "id": "arkane-lyon-plazo-13-noviembre-comprador-blade",
+      "category": "industria",
+      "title": {
+        "es": "Arkane Lyon, a contrarreloj: tiene hasta el 13 de noviembre para encontrar comprador",
+        "en": "Arkane Lyon races the clock: it has until November 13 to find a buyer"
+      },
+      "dek": {
+        "es": "Le Monde cifra en unos 217 los empleos en juego; Microsoft dice que busca un socio para la siguiente fase de Marvel's Blade.",
+        "en": "Le Monde puts roughly 217 jobs at stake; Microsoft says it is seeking a partner for the next phase of Marvel's Blade."
+      },
+      "body": {
+        "es": [
+          "Según Le Monde, citando a un delegado sindical de Arkane Lyon, el estudio de Dishonored y Marvel's Blade tiene hasta el 13 de noviembre, fecha en que termina la consulta con su comité social y económico sobre un posible cierre. Xbox anunció en julio su intención de desprenderse del estudio y, según Gematsu, la búsqueda de comprador arrancó a mediados del verano al amparo de la ley francesa Florange.",
+          "El sindicalista afirma que Marvel's Blade está cerca del final de su producción y que dejarlo sin publicar sería «un desperdicio monumental». Microsoft ha dicho al diario que busca «activamente un socio» para la siguiente fase del desarrollo. Los datos proceden del sindicato, no de Arkane ni de Microsoft.",
+          "Push Square y Gematsu añaden una matización: Jason Schreier, de Bloomberg, dice que se están explorando varias vías para salvar el estudio y que le sorprendería un cierre."
+        ],
+        "en": [
+          "According to Le Monde, citing a union representative at Arkane Lyon, the studio behind Dishonored and Marvel's Blade has until November 13, when its consultation with the social and economic committee over a possible closure ends. Xbox announced in July that it planned to divest the studio and, per Gematsu, the search for a buyer began in mid-summer under France's Florange Law.",
+          "The union representative says Marvel's Blade is nearing the end of production and that leaving it unreleased would be \"a monumental waste\". Microsoft told the paper it is \"actively seeking a partner\" for the next phase of development. The figures come from the union, not from Arkane or Microsoft.",
+          "Push Square and Gematsu add a caveat: Bloomberg's Jason Schreier says several paths are being explored to save the studio and that he would be surprised by a shutdown."
+        ]
+      },
+      "why": {
+        "es": "Es el último de los estudios que Xbox puso en venta cuyo destino sigue abierto, y con un juego Marvel casi terminado.",
+        "en": "It is the last of the studios Xbox put up for sale whose fate is still open, and it has a nearly finished Marvel game."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/marvels-blade/noticias/arkane-esta-situacion-critica-autores-dishonored-solo-tienen-21-dias-para-salvarse-cierre-definitivo"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-lanzamiento-critica-jugadores",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      },
+      "title": {
+        "es": "Modern Warfare 4 llega con la mejor nota de la saga en años… y un multijugador que divide",
+        "en": "Modern Warfare 4 lands with the series' best score in years, and a divisive multiplayer"
+      },
+      "dek": {
+        "es": "Vandal recoge un 84 en Metacritic en PC; los fans más veteranos critican mapas, reapariciones y emparejamiento.",
+        "en": "Vandal reports an 84 on Metacritic for PC; veteran fans criticise maps, spawns and matchmaking."
+      },
+      "body": {
+        "es": [
+          "Call of Duty: Modern Warfare 4 salió el 23 de octubre en PS5, Xbox Series, Switch 2 y PC. Según Vandal, su media en Metacritic era de 84 sobre 19 análisis de la versión de PC, todos de 75 o más: la mejor de la saga desde el Modern Warfare 3 original (2011) y por encima de Black Ops 6 (82) y Modern Warfare (2019, 80). PS5 y Switch 2 tenían solo dos análisis cada una, con notas de 90 a 95.",
+          "La acogida entre jugadores es más fría. Push Square explica que el lanzamiento fue escalonado, con la campaña y el modo DMZ desbloqueados antes y el multijugador competitivo abierto antes de lo previsto. Charlie Intel lo calificó de «lío», con mapas flojos, reapariciones aún rotas desde la beta y un emparejamiento por habilidad «al máximo». Campaña y DMZ reciben, en cambio, comentarios mayoritariamente positivos.",
+          "El primer DLC ya está disponible: un pack benéfico de Call of Duty Endowment, cuyos ingresos van a ayudar a veteranos a encontrar empleo, según GameSpot."
+        ],
+        "en": [
+          "Call of Duty: Modern Warfare 4 launched on October 23 on PS5, Xbox Series, Switch 2 and PC. Per Vandal, its Metacritic average was 84 across 19 PC reviews, all 75 or higher: the series' best since the original Modern Warfare 3 (2011), ahead of Black Ops 6 (82) and Modern Warfare (2019, 80). PS5 and Switch 2 had only two reviews each, scoring 90 to 95.",
+          "Reception among players is cooler. Push Square explains the launch was staggered, with the campaign and DMZ mode unlocking early and competitive multiplayer opening ahead of schedule. Fan site Charlie Intel called it a \"mess\", citing weak maps, spawns still broken since the beta and skill-based matchmaking \"cranked up to the max\". The campaign and DMZ, by contrast, are getting mostly positive feedback.",
+          "The first DLC is already out: a charity pack for the Call of Duty Endowment, whose proceeds help veterans find jobs, according to GameSpot."
+        ]
+      },
+      "why": {
+        "es": "Críticos y comunidad miran partes distintas del juego, y los parches de las primeras semanas decidirán cuál pesa más.",
+        "en": "Critics and community are judging different parts of the game, and early patches will decide which view wins out."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026296032/que-opina-la-critica-del-nuevo-call-of-duty-nota-media-en-metacritic-de-modern-warfare-4/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/"
+        }
+      ]
+    },
+    {
+      "id": "xbox-helen-chiang-deja-cargo-coo-tres-meses",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Xbox_Series_X_and_S_with_controllers.jpg/1280px-Xbox_Series_X_and_S_with_controllers.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Xbox_Series_X_and_S_with_controllers.jpg/960px-Xbox_Series_X_and_S_with_controllers.jpg",
+        "credit": "User:AsmodeanUnderscore (Series S), Ian Hughes https://www.f / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X_and_S_with_controllers.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Helen Chiang deja el cargo de directora de operaciones de Xbox tras tres meses",
+        "en": "Helen Chiang steps down as Xbox chief operating officer after three months"
+      },
+      "dek": {
+        "es": "Era la primera COO de Xbox; no hay sucesor y Xbox no explica los motivos.",
+        "en": "She was Xbox's first-ever COO; there is no successor and Xbox gives no reason."
+      },
+      "body": {
+        "es": [
+          "Helen Chiang ha dejado el puesto de directora de operaciones (COO) de Xbox, creado en julio de 2026, según Gematsu e IGN. Antes de ese cargo pasó 21 años en Microsoft, entre ellos al frente de Mojang y Minecraft. El puesto tenía responsabilidad de pérdidas y ganancias sobre contenido, hardware, plataforma y servicios, y respondía ante la CEO de Xbox, Asha Sharma.",
+          "Kari Perez, vicepresidenta de comunicación de Xbox, se limitó a decir que «no comentamos asuntos de personal individuales». No se ha nombrado sucesor: sus funciones se repartirán entre otros directivos hasta que se defina un plan permanente."
+        ],
+        "en": [
+          "Helen Chiang has left her role as Xbox chief operating officer, a position created in July 2026, according to Gematsu and IGN. Before that she spent 21 years at Microsoft, including leading Mojang and Minecraft. The role carried profit-and-loss responsibility across content, hardware, platform and services, and reported to Xbox CEO Asha Sharma.",
+          "Xbox communications VP Kari Perez said only that \"we don't discuss individual personnel matters\". No successor has been named: her duties will be split among other leaders until a permanent plan is set."
+        ]
+      },
+      "why": {
+        "es": "Llega en plena reestructuración de Xbox, con estudios en venta y un cambio de estrategia aún en marcha.",
+        "en": "It comes amid Xbox's restructuring, with studios up for sale and a strategy shift still under way."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/xbox-chief-operating-officer-helen-chiang-steps-down-after-three-months"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-months-after-it-was-created"
+        }
+      ]
+    },
+    {
+      "id": "xbox-netflix-adaptaciones-800-millones-puck-respuesta",
+      "category": "adaptaciones",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Netflix_Logomark.png/1280px-Netflix_Logomark.png",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Netflix_Logomark.png/960px-Netflix_Logomark.png",
+        "credit": "Netflix Inc. / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Netflix_Logomark.png",
+        "license": "Public domain"
+      },
+      "title": {
+        "es": "Rumor: Netflix ofreció 500 millones por adaptar juegos de Xbox y la compañía pidió 800",
+        "en": "Report: Netflix offered $500 million to adapt Xbox games, and Xbox asked for $800 million"
+      },
+      "dek": {
+        "es": "Según Puck, el trato se enfrió tras la salida de la jefa de contenidos de Netflix; Xbox habla de «interés récord» en su propiedad intelectual.",
+        "en": "Per Puck, the deal cooled after Netflix's content chief left; Xbox cites \"record-breaking interest\" in its IP."
+      },
+      "body": {
+        "es": [
+          "Puck, con tres fuentes, asegura que Netflix ofreció 500 millones de dólares a lo largo de siete años por derechos exclusivos para adaptar títulos de Xbox al cine y la televisión, y que la CEO Asha Sharma contraofertó con 800 millones. Tras la salida a mediados de octubre de Bela Bajaria, responsable de contenido de Netflix, la oferta se habría retirado, y Xbox buscaría ahora acuerdos más pequeños con más socios. Todo ello sigue sin confirmarse.",
+          "Xbox respondió que ha recibido un «interés récord» en su propiedad intelectual, calificó a Netflix de «socio valioso» y recordó las series animadas de Minecraft y Diablo y otras adaptaciones. Netflix no ha comentado, según Pure Xbox."
+        ],
+        "en": [
+          "Puck, citing three sources, reports that Netflix offered $500 million over seven years for exclusive rights to adapt Xbox titles for film and TV, and that CEO Asha Sharma countered at $800 million. After Netflix content chief Bela Bajaria left in mid-October, the offer was reportedly withdrawn, and Xbox is now said to be pursuing smaller deals with more partners. None of this is confirmed.",
+          "Xbox responded that it has \"received record-breaking interest in our IP\", called Netflix \"a valued partner\" and pointed to the upcoming Minecraft and Diablo animated series and other adaptations. Netflix has not commented, per Pure Xbox."
+        ]
+      },
+      "why": {
+        "es": "Muestra hasta dónde quiere llegar Xbox con sus franquicias fuera de la consola, en un momento de recortes internos.",
+        "en": "It shows how far Xbox wants to take its franchises beyond the console while cutting costs internally."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-responds-to-report-claiming-netflix-offered-usd500-million-for-tv-and-film-adaptations"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-wanted-a-gargantuan-paycheck-to-partner-with-netflix-on-tv-and-movies/"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-peticion-75000-firmas-boicot-ea-battlefield-6",
+      "category": "industria",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/capsule_616x353.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1328670/"
+      },
+      "title": {
+        "es": "El cierre de BioWare sigue coleando: petición de 75.000 firmas, llamada al boicot a EA y Battlefield 6 retira su colaboración",
+        "en": "BioWare closure fallout continues: a 75,000-signature petition, calls to boycott EA and Battlefield 6 drops its collab"
+      },
+      "dek": {
+        "es": "Mientras tanto, Kotaku recoge que Battlefield 6 ha quitado cosméticos de Mass Effect que ya estaban en sus archivos.",
+        "en": "Meanwhile Kotaku reports Battlefield 6 has removed Mass Effect cosmetics that were already in its files."
+      },
+      "body": {
+        "es": [
+          "Según IGN, la petición para salvar el Mass Effect cancelado ya supera las 75.000 firmas y parte de los fans pide boicotear todos los productos y servicios de EA en protesta por el cierre de BioWare. El estudio, con sede en Edmonton, y el próximo Mass Effect fueron cancelados esta semana dentro del recorte de unos 400 empleos de EA.",
+          "En paralelo, GameSpot y Kotaku cuentan que Battlefield 6 ha retirado una colaboración con Mass Effect: los jugadores habían encontrado en los archivos del juego logotipos N7 y un amuleto de la Normandy, y el pack desapareció tras conocerse el cierre, sin explicación. Kotaku pidió comentarios a EA y no hay respuesta publicada."
+        ],
+        "en": [
+          "According to IGN, the petition to save the cancelled Mass Effect has passed 75,000 signatures and some fans are calling for a boycott of all EA products and services in protest at BioWare's closure. The Edmonton-based studio and the next Mass Effect were cancelled this week as part of EA's cut of around 400 jobs.",
+          "Separately, GameSpot and Kotaku report that Battlefield 6 has pulled a Mass Effect collaboration: players had found N7 logos and a Normandy charm in the game's files, and the pack vanished after the closure news, with no explanation. Kotaku asked EA for comment and no reply has been published."
+        ]
+      },
+      "why": {
+        "es": "La presión de la comunidad no ha frenado la decisión de EA, pero mantiene el caso en la conversación pública.",
+        "en": "Community pressure has not changed EA's decision, but it keeps the case in the public conversation."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/battlefield-6-reportedly-cancels-mass-effect-collab-in-wake-of-bioware-closure/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/battlefield-6-mass-effect-cosmetics-n7-day-store-2000749091"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/the-internet-urges-xbox-to-save-mass-effect"
+        }
+      ]
+    },
+    {
+      "id": "miyamoto-orden-cultura-japon-ia-creatividad",
+      "category": "nintendo",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Shigeru_Miyamoto_at_E3_2013_1.JPG/1280px-Shigeru_Miyamoto_at_E3_2013_1.JPG",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Shigeru_Miyamoto_at_E3_2013_1.JPG/960px-Shigeru_Miyamoto_at_E3_2013_1.JPG",
+        "credit": "Jan Graber / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shigeru_Miyamoto_at_E3_2013_1.JPG",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+      },
+      "title": {
+        "es": "Miyamoto recibirá la Orden de la Cultura de Japón y defiende que la IA no sustituirá la creatividad",
+        "en": "Miyamoto to receive Japan's Order of Culture and argues AI won't replace creativity"
+      },
+      "dek": {
+        "es": "Es el primer representante del videojuego en recibir el galardón, que se entrega el 3 de noviembre.",
+        "en": "He is the first figure from games to receive the award, presented on November 3."
+      },
+      "body": {
+        "es": [
+          "Shigeru Miyamoto recibirá la Orden de la Cultura, una de las máximas distinciones de Japón, que entrega el emperador el Día de la Cultura, el 3 de noviembre. Según Nintendo Life, es la primera vez que se concede a alguien del mundo de los videojuegos. En la rueda de prensa dijo sentirse «un poco avergonzado» y atribuyó el mérito a las muchas personas que hacen juegos juntas.",
+          "En esa misma comparecencia, recogida por VGC a partir de Game Watch, opinó sobre la IA: la comparó con el salto de la máquina de escribir al procesador de texto y sostuvo que, cuanto más sustituya tareas mecánicas, más se verá lo que de verdad importa en un creador. Advirtió que copiar y pegar rara vez perdura y concluyó que «siempre quedará un papel para nosotros». Vandal añade que dice seguir con varios proyectos para Nintendo."
+        ],
+        "en": [
+          "Shigeru Miyamoto will receive the Order of Culture, one of Japan's highest honours, presented by the Emperor on Culture Day, November 3. Per Nintendo Life, it is the first time it has gone to someone from the games world. At the press conference he said he felt \"a little embarrassed\" and credited the many people who make games together.",
+          "At the same event, as reported by VGC from Game Watch, he commented on AI: he likened it to the move from typewriters to word processors and argued that the more it replaces mechanical tasks, the more what truly matters in a creator comes through. He warned that copy-and-paste work rarely lasts and concluded that \"there will always be a role left for us to play\". Vandal adds that he says he is still working on several Nintendo projects."
+        ]
+      },
+      "why": {
+        "es": "El reconocimiento oficial al medio coincide con un debate abierto sobre IA en el que la voz de Miyamoto pesa.",
+        "en": "Official recognition of the medium coincides with an open AI debate in which Miyamoto's voice carries weight."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026296033/shigeru-miyamoto-asegura-que-seguira-trabajando-en-varios-proyectos-para-nintendo-mi-creatividad-sigue-activa/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/nintendo-switch-2/noticias/shigeru-miyamoto-tiene-73-anos-no-creas-que-esta-pensando-su-jubilacion-padre-super-mario-tiene-historias-que-contar"
+        }
+      ]
+    },
+    {
+      "id": "total-war-shogun-2-complete-edition-creative-assembly-mataboo",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/capsule_616x353.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/201270/"
+      },
+      "title": {
+        "es": "Creative Assembly da la cara por el remaster de Shogun 2: «no cumplió el nivel» y no lo desarrolló el estudio",
+        "en": "Creative Assembly addresses the Shogun 2 remaster: it \"did not meet the bar\" and was not developed in-house"
+      },
+      "dek": {
+        "es": "Sega retiró la Complete Edition tras las críticas por rendimiento, gráficos y arte reescalado con IA.",
+        "en": "Sega pulled the Complete Edition after complaints about performance, visuals and AI-upscaled art."
+      },
+      "body": {
+        "es": [
+          "Roger Collum, vicepresidente de Total War, ha publicado un mensaje sobre la Shogun 2 Complete Edition, mal recibida en Steam por sus gráficos y su rendimiento y en la que se hallaron ilustraciones de la enciclopedia reescaladas con IA. Sega retiró de la venta tanto esta edición como la original. Según Kotaku, la actualización la habría hecho el estudio polaco Mataboo, aunque Creative Assembly no lo nombra.",
+          "Collum dice que el remaster «no cumplió el nivel», que están «enfadados y decepcionados» y que «apartaron la vista» del desarrollo externo, que no pasó por sus revisiones internas ni por control de calidad. Aclara que el estudio no usa IA generativa para crear recursos y espera lo mismo de sus colaboradores; el caso está en investigación. Un grupo reducido de veteranos trabaja con Sega y Mataboo en los siguientes pasos, sin que se haya anunciado una solución ni política de reembolso."
+        ],
+        "en": [
+          "Roger Collum, Total War division VP, has posted a message about the Shogun 2 Complete Edition, which was poorly received on Steam over its visuals and performance and was found to contain AI-upscaled encyclopedia art. Sega pulled both this edition and the original from sale. According to Kotaku, the update was apparently made by Polish studio Mataboo, although Creative Assembly does not name it.",
+          "Collum says the remaster \"did not meet the bar\", that they are \"angry and disappointed\" and that they \"took our eyes off\" the external development, which did not go through internal reviews or QA. He states the studio does not use generative AI to create assets and expects the same from partners; the matter is under investigation. A small team of senior developers is working with Sega and Mataboo on next steps, with no fix or refund policy announced."
+        ]
+      },
+      "why": {
+        "es": "Varios medios señalan que el mensaje reparte la culpa fuera del estudio y deja preguntas sin responder sobre cómo se publicó.",
+        "en": "Several outlets note the message shifts blame outside the studio and leaves questions unanswered about how it shipped."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/shogun-2-total-war/noticias/cuando-nos-equivocamos-responsabilidad-mia-jefe-total-war-da-cara-su-ultima-polemica-se-olvida-importante"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-ventas-estimadas-lanzamiento-29-octubre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg",
+        "credit": "S-GAME Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4115450/"
+      },
+      "title": {
+        "es": "Phantom Blade Zero, a seis días de salir, ya suma unas 500.000 copias estimadas en Steam",
+        "en": "Phantom Blade Zero, six days from launch, is estimated at around 500,000 copies on Steam"
+      },
+      "dek": {
+        "es": "La cifra es una estimación de Alinea Analytics, no un dato oficial.",
+        "en": "The figure is an Alinea Analytics estimate, not official data."
+      },
+      "body": {
+        "es": [
+          "Phantom Blade Zero, el action RPG de S-Game, sale el 29 de octubre en PS5 y PC. Vandal recoge una estimación de Rhys Elliott, de Alinea Analytics: unas 500.000 copias vendidas ya en Steam, alrededor de 24 millones de dólares, por encima de lo estimado para Gears of War: E-Day y Control Resonant en su momento.",
+          "Según el mismo análisis, el juego acumula unos 2,5 millones de deseados y China es su mercado más fuerte, lo que lleva a compararlo con Black Myth: Wukong. Elliott advierte de que las cifras pueden crecer si reseñas y reacciones acompañan. La edición física llegará en 2027."
+        ],
+        "en": [
+          "Phantom Blade Zero, S-Game's action RPG, launches on October 29 on PS5 and PC. Vandal cites an estimate by Rhys Elliott of Alinea Analytics: about 500,000 copies already sold on Steam, around $24 million, ahead of what was estimated for Gears of War: E-Day and Control Resonant.",
+          "The same analysis puts wishlists at about 2.5 million, with China as its strongest market, prompting comparisons with Black Myth: Wukong. Elliott cautions the numbers could grow if reviews and player reactions are positive. The physical edition arrives in 2027."
+        ]
+      },
+      "why": {
+        "es": "Si se confirma, sería otra muestra del peso del mercado chino en los grandes lanzamientos de acción.",
+        "en": "If confirmed, it would be another sign of the Chinese market's weight in big action releases."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026296021/no-se-ha-lanzado-y-ya-apunta-a-ser-uno-de-los-exitos-del-ano-phantom-blade-zero-esta-sorprendiendo-por-sus-ventas/"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4115450/"
+        }
+      ]
+    },
+    {
+      "id": "epic-ai-megajam-rectifica-ia-obligatoria",
+      "category": "industria",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/1280px-Epic_Games_office.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/960px-Epic_Games_office.jpg",
+        "credit": "Sergey Galyonkin - https://galyonkin.com/ / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Epic_Games_office.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      },
+      "title": {
+        "es": "Epic rectifica: usar IA ya no es obligatorio en su AI MegaJam tras las críticas",
+        "en": "Epic backtracks: using AI is no longer mandatory in its AI MegaJam after criticism"
+      },
+      "dek": {
+        "es": "La jam, del 12 al 15 de noviembre, reparte becas de hasta 50.000 dólares.",
+        "en": "The jam, running November 12–15, offers grants of up to $50,000."
+      },
+      "body": {
+        "es": [
+          "La 2026 Epic AI MegaJam, con Unreal Engine o UEFN, exigía en su FAQ usar IA. Tras la avalancha de críticas en X, Epic admitió que fue un error: «Nuestro FAQ decía originalmente que había que usar IA», y ahora los participantes pueden usar «tan poca o tanta IA como quieran», según Vandal.",
+          "3DJuegos detalla que la jam se celebra del 12 al 15 de noviembre, con 65.000 dólares en premios totales, becas de hasta 50.000 para seguir desarrollando proyectos destacados y dos premios de 2.500 por mejor diario de desarrollo con IA y mejor juego con NPC conversacionales. El texto sitúa el revuelo en el giro de Epic hacia la IA y el desarrollo «vibe coding»."
+        ],
+        "en": [
+          "The 2026 Epic AI MegaJam, built with Unreal Engine or UEFN, required AI use in its FAQ. After a wave of criticism on X, Epic admitted it was a mistake: \"Our FAQ originally said you had to use AI\", and participants can now use \"as little or as much AI as you want\", per Vandal.",
+          "3DJuegos details that the jam runs November 12–15, with $65,000 in total prizes, grants of up to $50,000 to keep developing standout projects and two $2,500 awards for best AI-use dev diary and best game with conversational NPCs. It places the backlash in the context of Epic's shift towards AI and \"vibe coding\"."
+        ]
+      },
+      "why": {
+        "es": "Muestra lo sensible que sigue siendo la IA generativa entre desarrolladores, incluso en eventos que la promueven.",
+        "en": "It shows how sensitive generative AI remains among developers, even at events that promote it."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026296010/epic-games-cambia-las-normas-de-una-game-jam-que-obligaba-a-utilizar-ia-generativa/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/mano-6-dedos-guino-a-matrix-epic-games-quiere-pagarte-50-000-euros-demostrar-que-ia-puede-programar-juegos"
+        }
+      ]
+    },
+    {
+      "id": "half-life-hlx-valve-morasky-gamesoundcon-rumor",
+      "category": "pc",
+      "title": {
+        "es": "Rumor: un diseñador de Valve menciona «HLX», el supuesto nombre en clave del próximo Half-Life",
+        "en": "Rumor: a Valve designer mentions \"HLX\", the alleged codename for the next Half-Life"
+      },
+      "dek": {
+        "es": "Fue un comentario de pasada en una charla; Valve no ha confirmado nada.",
+        "en": "It was a passing remark in a talk; Valve has confirmed nothing."
+      },
+      "body": {
+        "es": [
+          "Mike Morasky, diseñador musical de Valve, dijo en una charla sobre audio en la GameSoundCon 2026 (Burbank, California): «Deadlock tiene su propia versión de HDR, HLX tiene la suya, y así sucesivamente», según VGC. HLX es el supuesto nombre en clave del próximo Half-Life y ya había aparecido en rumores e indicios en archivos del juego.",
+          "Fuentes internas no identificadas sostienen que el juego está en desarrollo avanzado, pero VGC subraya que no ha verificado esas afirmaciones. Valve no ha confirmado Half-Life 3, HLX ni su estado; lo último de la saga es Half-Life: Alyx (2020)."
+        ],
+        "en": [
+          "Mike Morasky, a Valve music designer, said during an audio talk at GameSoundCon 2026 (Burbank, California): \"Deadlock has its own version of HDR, HLX has its own version, and so on and so forth\", per VGC. HLX is the alleged codename for the next Half-Life and had already surfaced in rumours and reported game-file traces.",
+          "Unnamed insiders claim the game is in advanced development, but VGC stresses it has not verified those claims. Valve has not confirmed Half-Life 3, HLX or its status; the latest in the series is Half-Life: Alyx (2020)."
+        ]
+      },
+      "why": {
+        "es": "Es un indicio débil, pero basta para reavivar la especulación sobre la franquicia más esperada de Valve.",
+        "en": "It is a weak clue, but enough to rekindle speculation about Valve's most anticipated franchise."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/half-life-3/noticias/existe-half-life-3-a-empleado-steam-se-le-escapa-nombre-clave-proyecto-que-perteneceria-a-iconica-franquicia-valve"
+        }
+      ]
+    },
+    {
+      "id": "linux-fortnite-easy-anti-cheat-mandos-switch-2-kernel-7-4",
+      "category": "pc",
+      "title": {
+        "es": "Linux gana terreno: Epic prepara Fortnite con Easy Anti-Cheat y el kernel 7.4 reconocerá los mandos de Switch 2",
+        "en": "Linux gains ground: Epic prepares Fortnite with Easy Anti-Cheat and kernel 7.4 will support Switch 2 controllers"
+      },
+      "dek": {
+        "es": "Dos avances para jugar en Steam Deck y otros equipos Linux, aunque ninguno tiene fecha.",
+        "en": "Two steps forward for Steam Deck and other Linux players, though neither has a date."
+      },
+      "body": {
+        "es": [
+          "Según Vandal, Epic anunció a mediados de octubre, junto a un nuevo lanzador, que Fortnite llegará a Linux. Para ello reconstruye Easy Anti-Cheat para que funcione en distribuciones como SteamOS y colabora con sus responsables. Epic no depende solo de sí misma: las distribuciones deben permitir a EAC el acceso a nivel de kernel y arranque seguro. No hay fecha, y otros juegos solo se mencionan como posibilidad.",
+          "Por otro lado, Nintenderos informa de que el kernel Linux 7.4 incorporará un controlador para Joy-Con 2, el mando Pro de Switch 2 y el de GameCube de Switch Online, obra de Vicki Pfau por encargo de Valve tras 16 rondas de revisión. Faltan, entre otras cosas, el emparejamiento Bluetooth y una integración confirmada con Steam Deck."
+        ],
+        "en": [
+          "According to Vandal, Epic announced in mid-October, alongside a new launcher, that Fortnite is coming to Linux. To get there it is rebuilding Easy Anti-Cheat to work on distributions such as SteamOS and is working with their maintainers. Epic cannot do it alone: distributions must grant EAC kernel-level and secure-boot access. There is no date, and other games are mentioned only as possibilities.",
+          "Separately, Nintenderos reports that Linux kernel 7.4 will include a driver for the Joy-Con 2, the Switch 2 Pro Controller and the Switch Online GameCube controller, written by Vicki Pfau under contract to Valve after 16 review rounds. Bluetooth pairing and a confirmed Steam Deck integration are among the missing pieces."
+        ]
+      },
+      "why": {
+        "es": "El antitrampas ha sido el gran obstáculo de los multijugador en Linux; resolverlo abriría el catálogo a Steam Deck y Steam Machine.",
+        "en": "Anti-cheat has been the main blocker for Linux multiplayer; solving it would open the catalogue to Steam Deck and Steam Machine."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026296030/fortnite-llegara-a-linux-y-eso-es-una-buena-noticia-para-quienes-tengan-steam-deck/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/los-mandos-de-nintendo-switch-2-incorporan-compatibilidad-nativa-con-linux-gracias-a-valve/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Xbox Wire publica el tráiler oficial de lanzamiento de GTA VI, que llegará el 19 de noviembre.",
+        "en": "Xbox Wire has published the official GTA VI launch trailer; the game arrives November 19."
+      },
+      "source": {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19/"
+      }
+    },
+    {
+      "text": {
+        "es": "Cyberpunk 2: la mitad del equipo de misiones son antiguos modders de The Witcher 2 y 3, según su director asociado Paweł Sasko.",
+        "en": "Cyberpunk 2: about half the quest team are former Witcher 2 and 3 modders, says associate director Paweł Sasko."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/"
+      }
+    },
+    {
+      "text": {
+        "es": "Swen Vincke, de Larian, sobre el cierre de BioWare: «Qué pérdida para todos nosotros».",
+        "en": "Larian's Swen Vincke on BioWare's closure: \"What a loss for all of us\"."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure"
+      }
+    },
+    {
+      "text": {
+        "es": "Avi Lewis, líder del NDP canadiense, propone ayudar con fondos públicos a los empleados de BioWare a comprar el estudio; no tiene poder para ejecutarlo.",
+        "en": "Canada's NDP leader Avi Lewis proposes public funding to help BioWare staff buy the studio; he has no power to enact it."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088"
+      }
+    },
+    {
+      "text": {
+        "es": "Game Boy en Switch Online suma el 27 de octubre Avenging Spirit, Mole Mania y Pinball: Revenge of the 'Gator.",
+        "en": "Switch Online's Game Boy library adds Avenging Spirit, Mole Mania and Pinball: Revenge of the 'Gator on October 27."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles"
+      }
+    },
+    {
+      "text": {
+        "es": "Genshin Impact 7.2 «Hour of Ruin» llegará el 4 de noviembre.",
+        "en": "Genshin Impact 7.2 \"Hour of Ruin\" arrives November 4."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4"
+      }
+    },
+    {
+      "text": {
+        "es": "Romancing SaGa 2: Revenge of the Seven supera el millón entre envíos y ventas digitales.",
+        "en": "Romancing SaGa 2: Revenge of the Seven tops one million in shipments and digital sales."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/romancing-saga-2-revenge-of-the-seven-shipments-and-digital-sales-top-one-million"
+      }
+    },
+    {
+      "text": {
+        "es": "El runtime GMRT de GameMaker será gratuito para todos los desarrolladores comerciales.",
+        "en": "GameMaker's GMRT runtime will soon be free for all commercial developers."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs"
+      }
+    },
+    {
+      "text": {
+        "es": "Los «Top 10» de retrocompatibilidad de Xbox, tras 900.000 votos, ya están publicados.",
+        "en": "Xbox's top 10 backwards compatibility requests are out after 900,000 votes."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/these-are-the-top-10-xbox-backwards-compatibility-requests-after-900000-votes"
+      }
+    },
+    {
+      "text": {
+        "es": "Arrowhead sobre Helldivers 3: solo si es «muy diferente» de Helldivers 2.",
+        "en": "Arrowhead on Helldivers 3: only if it is \"very different\" from Helldivers 2."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Call of Duty: Modern Warfare 4",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "title": "Game Boy – Nintendo Classics: tres juegos",
+      "platforms": "Switch / Switch 2",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.gematsu.com/2026/10/game-boy-nintendo-classics-adds-avenging-spirit-mole-mania-and-pinball-revenge-of-the-gator-on-october-27"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "title": "Look Outside",
+      "platforms": "PS5, Switch 2, PS4, Switch",
+      "note": {
+        "es": "30 de octubre",
+        "en": "October 30"
+      },
+      "url": "https://www.gematsu.com/2026/10/look-outside-coming-to-ps5-switch-2-ps4-and-switch-on-october-30"
+    },
+    {
+      "title": "Genshin Impact 7.2 «Hour of Ruin»",
+      "platforms": "Multiplataforma",
+      "note": {
+        "es": "4 de noviembre",
+        "en": "November 4"
+      },
+      "url": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "Consolas",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Fans de Mass Effect piden boicotear a EA mientras la petición para salvar el juego cancelado supera las 75.000 firmas.",
+        "en": "Mass Effect fans call for an EA boycott as the petition to save the cancelled game tops 75,000 signatures."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures"
+      }
+    },
+    {
+      "text": {
+        "es": "El multijugador de Modern Warfare 4 divide a la comunidad: algunos lo llaman «el peor Call of Duty», mientras la crítica lo premia.",
+        "en": "Modern Warfare 4's multiplayer splits the community: some call it \"the worst CoD ever\" while critics reward it."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far"
+      }
+    },
+    {
+      "text": {
+        "es": "La AI MegaJam de Epic, entre burlas por su imagen de mano con seis dedos y críticas por exigir IA, hasta que Epic rectificó.",
+        "en": "Epic's AI MegaJam draws mockery for its six-fingered-hand image and criticism for requiring AI, until Epic backtracked."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026296010/epic-games-cambia-las-normas-de-una-game-jam-que-obligaba-a-utilizar-ia-generativa/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Shogun 2 reprochan a Creative Assembly que reparta culpas fuera del estudio.",
+        "en": "Shogun 2 players fault Creative Assembly for shifting blame outside the studio."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108"
+      }
+    },
+    {
+      "text": {
+        "es": "Especulación en torno a «HLX» y Half-Life 3 tras la mención de un diseñador de Valve.",
+        "en": "Speculation around \"HLX\" and Half-Life 3 after a Valve designer's mention."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "url": "https://store.steampowered.com/app/3259780/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "EA Sports FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
