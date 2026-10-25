@@ -1,0 +1,701 @@
+{
+  "date": "2026-10-25",
+  "headline": {
+    "es": "La película de Elden Ring cuesta casi 200 millones y SteamOS 3.9 llega a todos",
+    "en": "The Elden Ring film costs nearly $200 million and SteamOS 3.9 reaches everyone"
+  },
+  "intro": {
+    "es": "Chucky dejará Dead by Daylight, Factorio cierra su gran etapa y un congresista de EE. UU. quiere que comprar un juego digital signifique poseerlo.",
+    "en": "Chucky is leaving Dead by Daylight, Factorio closes its big chapter and a US congressman wants buying a digital game to mean owning it."
+  },
+  "stories": [
+    {
+      "id": "elden-ring-pelicula-presupuesto-200-millones-a24",
+      "category": "adaptaciones",
+      "title": {
+        "es": "La película de Elden Ring costaría casi 200 millones de dólares, la más cara de A24",
+        "en": "Elden Ring movie reportedly costs nearly $200 million, A24's most expensive"
+      },
+      "dek": {
+        "es": "Según el Wall Street Journal, multiplica casi por tres el presupuesto de Marty Supreme; A24 no ha confirmado la cifra.",
+        "en": "The Wall Street Journal reports it is nearly three times the budget of Marty Supreme; A24 has not confirmed the figure."
+      },
+      "body": {
+        "es": [
+          "El Wall Street Journal sitúa el presupuesto de la adaptación de Elden Ring en cerca de 200 millones de dólares, lo que la convertiría en la película más cara de A24. Insider Gaming recuerda que el récord anterior era Marty Supreme, con unos 70 millones.",
+          "Dirige y escribe Alex Garland, con Kit Connor, Tom Burke, Rose Liu y Nick Offerman en el reparto, y el estreno está previsto para el 3 de marzo de 2028. 3DJuegos añade que el rodaje terminó el 30 de julio tras grabar en Reino Unido e Islandia.",
+          "La cifra no está confirmada por A24. Los cálculos sobre cuánto tendría que recaudar para ser rentable son estimaciones del propio medio, no datos de la productora."
+        ],
+        "en": [
+          "The Wall Street Journal puts the budget of the Elden Ring adaptation at close to $200 million, which would make it A24's most expensive film. Insider Gaming notes the previous record was Marty Supreme, at around $70 million.",
+          "Alex Garland writes and directs, with Kit Connor, Tom Burke, Rose Liu and Nick Offerman among the cast, and the release is set for March 3, 2028. 3DJuegos adds that filming wrapped on July 30 after shooting in the UK and Iceland.",
+          "A24 has not confirmed the figure. Estimates of what the film would need to earn to turn a profit are the outlet's own calculations, not data from the studio."
+        ]
+      },
+      "why": {
+        "es": "Un presupuesto así obliga a la película a funcionar a escala de gran blockbuster para justificar una franquicia.",
+        "en": "A budget like that means the film must perform at blockbuster scale to justify a franchise."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/elden-ring-movies-budget-reportedly-200-million-almost-3x-more-expensive-than-a24s-marty-supreme"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/a24-elden-ring-movie-budget/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/tv-series/noticias/verdadero-jefe-final-pelicula-elden-ring-no-saldra-pantalla-puede-poner-jaque-futuro-franquicia-cine"
+        }
+      ]
+    },
+    {
+      "id": "dead-by-daylight-chucky-sale-24-noviembre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2656010/ss_fda3481921c9c23b590aedfb53b80673e1743215.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2656010/capsule_616x353.jpg",
+        "credit": "Behaviour Interactive Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2656010/"
+      },
+      "title": {
+        "es": "Dead by Daylight retirará a Chucky de las tiendas el 24 de noviembre",
+        "en": "Dead by Daylight will pull Chucky from its stores on November 24"
+      },
+      "dek": {
+        "es": "Es el tercer icono del terror que se va del juego tras Pinhead y Michael Myers; quien ya tenga el contenido lo conservará.",
+        "en": "He is the third horror icon to leave after Pinhead and Michael Myers; existing owners keep their content."
+      },
+      "body": {
+        "es": [
+          "Behaviour Interactive anunció el 23 de octubre en la cuenta oficial del juego que el capítulo de Chucky y su contenido asociado dejarán de estar disponibles en las tiendas dentro del juego y de primera parte el 24 de noviembre de 2026. Todo lo desbloqueado antes de esa fecha seguirá pudiéndose usar.",
+          "Desde el 26 de octubre habrá un descuento del 50 % en los objetos del capítulo hasta su retirada. Las habilidades de Chucky se quedarán en el juego, aunque cambiarán de nombre y pasarán al conjunto general, y el atuendo legendario de Tiffany también sale de la tienda.",
+          "El anuncio oficial no da ningún motivo. Algunos medios apuntan a una licencia caducada, pero otros señalan que el estudio no lo ha explicado."
+        ],
+        "en": [
+          "Behaviour Interactive announced on October 23, via the game's official account, that the Chucky chapter and its associated content will be removed from in-game and first-party stores on November 24, 2026. Anything unlocked before that date stays usable.",
+          "From October 26 there is a 50% discount on the chapter's items until removal. Chucky's perks will remain in the game, renamed and moved into the general pool, and Tiffany's legendary outfit also leaves the store.",
+          "The official post gives no reason. Some outlets point to an expired licence, while others note the studio has not explained it."
+        ]
+      },
+      "why": {
+        "es": "Las licencias de terror están rotando con rapidez en el juego, y los jugadores tienen hasta noviembre para decidir si compran.",
+        "en": "Horror licences are rotating out quickly, and players have until November to decide whether to buy."
+      },
+      "sources": [
+        {
+          "name": "DualShockers",
+          "url": "https://www.dualshockers.com/dead-by-daylight-fan-favorite-chucky-joins-the-killers-removed-via-license-loss/"
+        },
+        {
+          "name": "TheGamer",
+          "url": "https://www.thegamer.com/dead-by-daylight-chucky-license-leaving-november-confirmed/"
+        },
+        {
+          "name": "Bloody Disgusting",
+          "url": "https://bloody-disgusting.com/video-games/3973100/chucky-and-the-childs-play-chapter-leaving-dead-by-daylight-on-november-24/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
+        }
+      ]
+    },
+    {
+      "id": "factorio-2-1-estable-space-age-dos-anos",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/capsule_616x353.jpg",
+        "credit": "Wube Software LTD. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/427520/"
+      },
+      "title": {
+        "es": "Factorio publica la versión 2.1 estable, con mejoras en logística espacial y circuitos",
+        "en": "Factorio ships stable 2.1 with space logistics and circuit upgrades"
+      },
+      "dek": {
+        "es": "Llega justo dos años después de Space Age; PC Gamer la presenta como la última gran actualización tras 14 años de desarrollo.",
+        "en": "It lands exactly two years after Space Age; PC Gamer frames it as the final major update after 14 years of development."
+      },
+      "body": {
+        "es": [
+          "Wube Software publicó el 23 de octubre la versión estable 2.1 de Factorio en el Friday Facts n.º 449, justo dos años después del lanzamiento de Space Age. PC Gamer la describe como la última gran actualización del juego tras 14 años de desarrollo; la publicación oficial no lo afirma de forma expresa.",
+          "Entre las novedades figuran cohetes mixtos y traspasos entre plataformas espaciales, una bahía de descarga en la plataforma de aterrizaje, cables de entrada y salida separados en la red de circuitos, la posibilidad de jugar Space Age sin calidad y soporte nativo para Linux ARM64.",
+          "Los guardados de 2.0 cargan, pero algunos diseños pueden romperse (por ejemplo, por la separación de cables) y no se pueden volver a 2.0 una vez actualizados, así que Wube recomienda hacer copia de seguridad."
+        ],
+        "en": [
+          "Wube Software released stable Factorio 2.1 on October 23 in Friday Facts #449, exactly two years after Space Age launched. PC Gamer calls it the game's final major update after 14 years of development; the official post does not state that outright.",
+          "Highlights include mixed rockets and platform-to-platform transfers, an unloading bay on the landing pad, separate input and output wires in the circuit network, the option to play Space Age without Quality, and native ARM64 Linux support.",
+          "2.0 saves load, but some designs may break (for example because of the wire split) and upgraded saves cannot be downgraded to 2.0, so Wube recommends backing up first."
+        ]
+      },
+      "why": {
+        "es": "Cierra uno de los desarrollos más largos y queridos del PC con una actualización que obliga a revisar bases antiguas.",
+        "en": "It closes one of PC's longest and best-loved development runs with an update that may force players to revisit old bases."
+      },
+      "sources": [
+        {
+          "name": "Factorio Friday Facts #449",
+          "url": "https://factorio.com/blog/post/fff-449"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/"
+        }
+      ]
+    },
+    {
+      "id": "steamos-3-9-estable-steam-deck-steam-machine",
+      "category": "hardware",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+        "credit": "Liam Dawe/GamingOnLinux, PNG version by VulcanSphere / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Steam_Deck_(front).png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "SteamOS 3.9 llega a todos los usuarios con menor consumo en reposo en Steam Deck",
+        "en": "SteamOS 3.9 reaches all users with lower idle power draw on Steam Deck"
+      },
+      "dek": {
+        "es": "Valve lo publicó en el canal estable el 23 de octubre (versión 3.9.5), con kernel Linux 7.2 y Plasma 6.7.3.",
+        "en": "Valve pushed it to the stable channel on October 23 (build 3.9.5), with Linux 7.2 and Plasma 6.7.3."
+      },
+      "body": {
+        "es": [
+          "Valve ha movido SteamOS 3.9 al canal estable, según GamingOnLinux, en la versión 3.9.5. 3DJuegos resume los cambios: el escritorio pasa a Plasma 6.7.3, el kernel a Linux 7.2 y la base a una nueva versión de Arch Linux.",
+          "En Steam Deck baja el consumo cuando la consola está inactiva y no reproduce audio, aunque 3DJuegos aclara que no es una mejora de autonomía jugando. La tienda Discover y la organización de aplicaciones también cambian, y se corrige el uso de Remote Play en Steam Machine cuando arranca sin pantalla.",
+          "La hibernación tiene soporte preliminar, pero sigue desactivada en Steam Deck por un fallo de controlador pendiente de resolver, según Valve."
+        ],
+        "en": [
+          "Valve has moved SteamOS 3.9 to the stable channel, per GamingOnLinux, as build 3.9.5. 3DJuegos summarizes the changes: the desktop moves to Plasma 6.7.3, the kernel to Linux 7.2 and the base to a new Arch Linux release.",
+          "On Steam Deck, power draw drops when the console is idle and not playing audio, although 3DJuegos stresses this is not a battery-life gain while gaming. The Discover store and app organization also change, and Remote Play on Steam Machine is fixed when it boots without a display.",
+          "Hibernation has preliminary support but stays disabled on Steam Deck because of an outstanding driver bug, according to Valve."
+        ]
+      },
+      "why": {
+        "es": "La actualización también alcanza a Steam Machine, que figura entre lo más vendido de Steam.",
+        "en": "The update also reaches Steam Machine, which sits among Steam's top sellers."
+      },
+      "sources": [
+        {
+          "name": "GamingOnLinux",
+          "url": "https://www.gamingonlinux.com/2026/10/steamos-3-9-5-released-with-plasma-6-7-linux-7-2-security-fixes-better-steam-frame-wireless-adapter-support/"
+        },
+        {
+          "name": "Phoronix",
+          "url": "https://www.phoronix.com/news/SteamOS-3.9.5"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/steamos-3-9-esta-disponible-no-viene-solo-a-corregir-errores-valve-ha-renovado-buena-parte-sistema-que-mueve-steam-deck-machine"
+        }
+      ]
+    },
+    {
+      "id": "power-to-the-players-act-torres-propiedad-juegos-digitales",
+      "category": "industria",
+      "title": {
+        "es": "Un congresista de EE. UU. propone una ley para que comprar un juego digital sea poseerlo",
+        "en": "A US congressman proposes a law making a digital game purchase mean ownership"
+      },
+      "dek": {
+        "es": "La Power to the Players Act, de Ritchie Torres, pediría a la FTC normas contra las licencias revocables; los medios discrepan sobre su trámite.",
+        "en": "Ritchie Torres' Power to the Players Act would have the FTC set rules against revocable licences; outlets differ on its procedural status."
+      },
+      "body": {
+        "es": [
+          "El demócrata Ritchie Torres anunció el 15 de octubre la Power to the Players Act, que encargaría a la FTC fijar normas para que quien compra un juego digital tenga su propiedad y no una licencia revocable. Torres define esos juegos como «un alquiler disfrazado de venta».",
+          "Según los medios que la han detallado, los juegos con componentes online tendrían que ofrecer un modo sin conexión antes de que cierren sus servidores, y los compradores conservarían el derecho a transferir o revender lo comprado. La propuesta no obliga a mantener los servidores activos.",
+          "Vandal la presenta como introducida, pero otras fuentes dudan de si se ha registrado formalmente en la Cámara, de modo que su estado es incierto. En cualquier caso, no es ley."
+        ],
+        "en": [
+          "Democrat Ritchie Torres announced the Power to the Players Act on October 15; it would have the FTC set rules so that buying a digital game confers ownership rather than a revocable licence. Torres calls such purchases \"rentals disguised as sales\".",
+          "According to outlets that detailed it, games with online features would need an offline mode before their servers shut down, and buyers would keep the right to transfer or resell what they bought. The proposal does not require servers to stay online.",
+          "Vandal describes it as introduced, but other sources doubt whether it has been formally filed in the House, so its status is unclear. Either way, it is not law."
+        ]
+      },
+      "why": {
+        "es": "Lleva a la política federal estadounidense el debate de Stop Killing Games sobre qué se compra realmente en una tienda digital.",
+        "en": "It takes the Stop Killing Games debate over what a digital purchase really is into US federal politics."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it"
+        },
+        {
+          "name": "Shacknews",
+          "url": "https://shacknews.com/article/151038/ny-house-representative-ritchie-torres-power-to-the-players-act"
+        },
+        {
+          "name": "The Next Web",
+          "url": "https://thenextweb.com/news/power-to-the-players-act-ritchie-torres-video-game-ownership"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026297004/estados-unidos-podria-tener-una-ley-de-proteccion-a-los-gamers-que-asegure-la-propiedad-de-los-juegos-digitales/"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-garbut-filtraciones-2022-ropa-sucia-bloomberg",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar habla de las filtraciones de GTA VI: «como si hurgasen en tu ropa sucia»",
+        "en": "Rockstar on the GTA VI leaks: \"like somebody wading through your dirty washing\""
+      },
+      "dek": {
+        "es": "Aaron Garbut lo explica en un reportaje de Bloomberg firmado por Jason Schreier, a menos de un mes del lanzamiento.",
+        "en": "Aaron Garbut said it in a Bloomberg feature by Jason Schreier, less than a month before launch."
+      },
+      "body": {
+        "es": [
+          "Aaron Garbut, de Rockstar, recuerda en un extenso reportaje de Bloomberg sobre el desarrollo de GTA VI, firmado por Jason Schreier, cómo vivió la filtración de 2022. Según la cita que recogen Kotaku y Vandal, fue «como si alguien estuviera hurgando en tu ropa sucia».",
+          "Garbut calificó además de «invasivo» ver material temprano circulando por internet y dijo que fue difícil de llevar en lo emocional. Aquella filtración, causada por un ataque de phishing en septiembre de 2022, expuso decenas de clips de una versión inacabada.",
+          "GTA VI sale el 19 de noviembre de 2026 en PS5 y Xbox Series X|S."
+        ],
+        "en": [
+          "Rockstar's Aaron Garbut recalls how he experienced the 2022 leak in a lengthy Bloomberg feature on GTA VI's development by Jason Schreier. In the quote reported by Kotaku and Vandal, it felt \"like somebody's wading through your dirty washing\".",
+          "Garbut also called seeing early work circulating online \"weirdly invasive\" and said it was hard to deal with emotionally. That leak, caused by a phishing attack in September 2022, exposed dozens of clips from an unfinished build.",
+          "GTA VI launches on November 19, 2026 on PS5 and Xbox Series X|S."
+        ]
+      },
+      "why": {
+        "es": "Son de los primeros comentarios públicos de Rockstar sobre aquel episodio, justo antes del lanzamiento del juego más esperado del año.",
+        "en": "They are among Rockstar's first public remarks on that episode, just before the year's most anticipated launch."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/original-gta-6-leaks-were-weirdly-invasive/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026297002/rockstar-habla-por-primera-vez-de-las-filtraciones-de-gta-6-fue-como-si-hurgasen-en-tu-ropa-sucia/"
+        }
+      ]
+    },
+    {
+      "id": "bioware-avi-lewis-ndp-compra-trabajadores-apoyo-federal",
+      "category": "industria",
+      "title": {
+        "es": "Un líder político canadiense propone que los empleados de BioWare compren el estudio con apoyo federal",
+        "en": "A Canadian party leader proposes federal support for a BioWare employee buyout"
+      },
+      "dek": {
+        "es": "Avi Lewis, líder del NDP, plantea la idea tras el cierre anunciado por EA; por ahora es solo una propuesta.",
+        "en": "NDP leader Avi Lewis floats the idea after EA's announced closure; for now it is only a proposal."
+      },
+      "body": {
+        "es": [
+          "Avi Lewis, líder del Nuevo Partido Democrático de Canadá, propone que los trabajadores de BioWare Edmonton tengan la primera oportunidad y apoyo federal para comprar el estudio a EA. Kotaku y 3DJuegos recogen la propuesta, hecha días después de que EA anunciara el cierre del estudio de Baldur's Gate, Mass Effect y Dragon Age.",
+          "3DJuegos señala los obstáculos: no hay presupuesto ni negociaciones anunciadas, EA tendría que querer vender y el gobierno querer comprar, y la compra no incluiría necesariamente los derechos de Mass Effect o Dragon Age. La diputada liberal Eleanor Olszewski calificó el cierre de «decepcionante» pero no mostró interés en negociar.",
+          "Según el mismo medio, la reestructuración de EA dejó unos 400 despidos y canceló varios proyectos, entre ellos el próximo Mass Effect."
+        ],
+        "en": [
+          "Avi Lewis, leader of Canada's New Democratic Party, proposes that BioWare Edmonton workers get first chance and federal support to buy the studio from EA. Kotaku and 3DJuegos report the proposal, made days after EA announced the closure of the studio behind Baldur's Gate, Mass Effect and Dragon Age.",
+          "3DJuegos lists the obstacles: no budget or negotiations have been announced, EA would have to want to sell and the government to want to buy, and a purchase would not necessarily include the Mass Effect or Dragon Age rights. Liberal MP Eleanor Olszewski called the closure \"disappointing\" but showed no interest in negotiating.",
+          "According to the same outlet, EA's restructuring led to about 400 layoffs and cancelled several projects, including the next Mass Effect."
+        ]
+      },
+      "why": {
+        "es": "Lleva el cierre de BioWare al debate político canadiense, aunque nada indica que EA esté dispuesta a vender.",
+        "en": "It brings BioWare's closure into Canadian politics, although nothing suggests EA is willing to sell."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/politico-canadiense-quiere-salvar-a-bioware-dinero-publico-su-plan-tiene-problema"
+        }
+      ]
+    },
+    {
+      "id": "project-helix-precio-rumor-mike-ybarra-no-lanzaria",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Xbox_Series_X_and_S_with_controllers.jpg/1280px-Xbox_Series_X_and_S_with_controllers.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Xbox_Series_X_and_S_with_controllers.jpg/960px-Xbox_Series_X_and_S_with_controllers.jpg",
+        "credit": "User:AsmodeanUnderscore (Series S), Ian Hughes https://www.f / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X_and_S_with_controllers.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Rumor: Project Helix costaría más de 1.000 dólares y Mike Ybarra dice que «no la lanzaría»",
+        "en": "Rumor: Project Helix could top $1,000 and Mike Ybarra says he \"wouldn't launch it\""
+      },
+      "dek": {
+        "es": "Los precios circulan sin confirmar; Xbox no ha anunciado precio ni fecha, y el excargo de Xbox defiende un precio de entrada de 399–499 dólares.",
+        "en": "The prices are unconfirmed; Xbox has announced neither price nor date, and the former Xbox executive argues for a $399–499 entry price."
+      },
+      "body": {
+        "es": [
+          "Según Fortune, recogido por 3DJuegos, Microsoft barajaría para Project Helix, su próxima consola, un precio de entre 1.200 y 1.800 dólares si no subvenciona parte del coste. Otros medios citan rangos distintos, como 999 a 1.200 dólares, y todos coinciden en que no hay precio oficial.",
+          "Mike Ybarra, exdirectivo de Xbox y expresidente de Blizzard, respondió en X el 20 de octubre que le cuesta creer esas cifras y que «no la lanzaría en absoluto». Defiende que una consola es un producto de masas que necesita un precio de entrada de 399 a 499 dólares.",
+          "3DJuegos enlaza el debate con el encarecimiento de la memoria RAM. El lanzamiento se espera hacia las Navidades de 2028."
+        ],
+        "en": [
+          "According to Fortune, as relayed by 3DJuegos, Microsoft is weighing a price of $1,200 to $1,800 for Project Helix, its next console, if it does not subsidize part of the cost. Other outlets cite different ranges, such as $999 to $1,200, and all agree there is no official price.",
+          "Mike Ybarra, a former Xbox executive and ex-Blizzard president, replied on X on October 20 that he finds those figures hard to believe and that he \"wouldn't launch it at all\". He argues a console is a mass-market product that needs an entry price of $399 to $499.",
+          "3DJuegos links the debate to rising RAM costs. Launch is expected around the 2028 holidays."
+        ]
+      },
+      "why": {
+        "es": "Con Xbox en plena reorganización, el precio de su próxima consola se ha convertido en tema de debate antes de existir oficialmente.",
+        "en": "With Xbox in the middle of a reorganization, its next console's price is being debated before it officially exists."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/mike-ybarra-exdirectivo-xbox-rumoreado-precio-project-helix-no-lanzaria-absoluto"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-project-helix-could-cost-999-to-1200-report-suggests/"
+        },
+        {
+          "name": "TechRadar",
+          "url": "https://www.techradar.com/gaming/xbox/xboxs-next-gen-project-helix-may-cost-over-usd1-000-despite-microsofts-reassurance-that-it-will-always-invest-in-gaming"
+        }
+      ]
+    },
+    {
+      "id": "switch-sports-resort-switch-2-lanzamiento-resenas",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo Switch Sports Resort ya está en Switch 2 con críticas mayormente positivas",
+        "en": "Nintendo Switch Sports Resort is out on Switch 2 to mostly positive reviews"
+      },
+      "dek": {
+        "es": "Sale a 49 euros e incluye 12 deportes; el análisis de TechRadar lo ve como una mejora clara, aunque faltan algunos deportes anteriores.",
+        "en": "It costs €49 and includes 12 sports; TechRadar sees a clear improvement, although some earlier sports were cut."
+      },
+      "body": {
+        "es": [
+          "Nintendo Switch Sports Resort salió en exclusiva para Switch 2 el 22 de octubre. Nintenderos indica un precio digital de 49 euros y un pack con la consola a 529,99 euros, 20 euros menos que comprarlos por separado.",
+          "Las primeras críticas son en general favorables. TechRadar lo considera una gran mejora sobre la entrega anterior, con más pruebas y más profundidad en solitario, pero con algunos deportes recortados. TheSixthAxis es más severa con el boxeo, aunque ve sólidos el resto de deportes.",
+          "My Nintendo News señala que Chambara, fútbol y bádminton de Switch Sports no han vuelto, mientras que los deportes que se mantienen lucen y se juegan mejor."
+        ],
+        "en": [
+          "Nintendo Switch Sports Resort launched exclusively on Switch 2 on October 22. Nintenderos lists a €49 digital price and a €529.99 console bundle, €20 less than buying both separately.",
+          "Early reviews are generally favorable. TechRadar calls it a considerable improvement on its predecessor, with more events and more single-player depth, but with some sports cut. TheSixthAxis is harsher on boxing while finding the other sports solid.",
+          "My Nintendo News notes that Chambara, soccer and badminton from Switch Sports did not make the cut, while the sports that carried over look and play better."
+        ]
+      },
+      "why": {
+        "es": "Refuerza el catálogo familiar de Switch 2 con una de las franquicias de movimiento más reconocibles de Nintendo.",
+        "en": "It bolsters Switch 2's family lineup with one of Nintendo's best-known motion franchises."
+      },
+      "sources": [
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/nintendo-repasa-toda-la-serie-de-nintendo-switch-sports-resort-en-esta-nueva-imagen/"
+        },
+        {
+          "name": "TechRadar",
+          "url": "https://www.techradar.com/gaming/nintendo-switch-sports-resort-review"
+        },
+        {
+          "name": "Siliconera",
+          "url": "https://www.siliconera.com/review-nintendo-switch-sports-resort-marks-the-return-of-a-staple/"
+        },
+        {
+          "name": "TheSixthAxis",
+          "url": "https://www.thesixthaxis.com/2026/10/20/nintendo-switch-sports-resort-review/"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-switch-2-parche-39-gb",
+      "category": "nintendo",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      },
+      "title": {
+        "es": "Modern Warfare 4 recibe en Switch 2 un parche de entre 30 y 39 GB al segundo día",
+        "en": "Modern Warfare 4 gets a 30–39 GB patch on Switch 2 on day two"
+      },
+      "dek": {
+        "es": "Activision no ha detallado el contenido del parche; la versión de Switch 2 salió el 23 de octubre a 69,99 dólares.",
+        "en": "Activision has not detailed the patch contents; the Switch 2 version launched October 23 at $69.99."
+      },
+      "body": {
+        "es": [
+          "Modern Warfare 4, el primer Call of Duty de la saga en Switch 2, ha recibido una actualización de gran tamaño un día después del lanzamiento. Nintendo Life cuenta unos 30 GB según los jugadores, y Nintenderos cita 39 GB, de modo que la cifra exacta varía según la fuente.",
+          "Activision no ha publicado ninguna nota oficial sobre lo que incluye. Nintendo Life recuerda que la versión ocupa unos 91 GB e incluye multijugador, campaña y DMZ, y que conviene una tarjeta microSD Express porque la consola tiene 256 GB internos.",
+          "Algunos comentarios de lectores en Nintendo Life consideran el tamaño excesivo, mientras que otros dicen que el juego funciona bien."
+        ],
+        "en": [
+          "Modern Warfare 4, the first Call of Duty on Switch 2, received a large update one day after launch. Nintendo Life puts it at about 30 GB according to players, while Nintenderos cites 39 GB, so the exact figure varies by source.",
+          "Activision has published no official note on what it contains. Nintendo Life adds that the game takes around 91 GB and includes Multiplayer, Campaign and DMZ, and recommends a microSD Express card since the console has 256 GB of internal storage.",
+          "Some reader comments on Nintendo Life call the size excessive, while others say the game runs well."
+        ]
+      },
+      "why": {
+        "es": "El peso del juego pone a prueba el almacenamiento de Switch 2 desde su primera semana.",
+        "en": "The game's weight tests Switch 2's storage from its first week."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/call-of-duty-modern-warfare-4-recibe-una-actualizacion-de-39-gb-en-nintendo-switch-2/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Eiji Aonuma, productor de Zelda, ha recibido en París la distinción de caballero de la Orden de las Artes y las Letras de Francia, según Kotaku.",
+        "en": "Zelda producer Eiji Aonuma has received France's Knight of the Order of Arts and Letters in Paris, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331"
+      }
+    },
+    {
+      "text": {
+        "es": "Fortnite confirma un tráiler teaser de una colaboración con One Piece; según Insider Gaming, el teaser apunta al 1 de noviembre.",
+        "en": "Fortnite has confirmed a One Piece collaboration teaser; per Insider Gaming, it points to November 1."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/fortnite-x-one-piece-confirmed/"
+      }
+    },
+    {
+      "text": {
+        "es": "Knightmare tendrá un juego gratuito con licencia oficial: una aventura gráfica de PC de una o dos horas prevista para 2027 con el reparto original.",
+        "en": "Knightmare is getting a free officially licensed game: a one-to-two-hour PC point-and-click adventure planned for 2027 with the original cast."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/"
+      }
+    },
+    {
+      "text": {
+        "es": "Tomb Raider cumple 30 años desde su estreno en 1996, de la mano de Core Design.",
+        "en": "Tomb Raider turns 30 after its 1996 debut from Core Design."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026297001/tomb-raider-cumple-30-anos-de-saga-que-casi-sucumbe-al-survival-horror-a-marcar-el-camino-de-las-aventuras-en-3d/"
+      }
+    },
+    {
+      "text": {
+        "es": "El sindicato japonés de actores pide restricciones estrictas al uso de IA para copiar a actores fallecidos, dentro de unas pautas más amplias.",
+        "en": "Japan's actors union is pushing for strict limits on using AI to copy dead actors, as part of broader guidelines."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/"
+      }
+    },
+    {
+      "text": {
+        "es": "Cyberpunk: Edgerunners 2 ya está en Netflix; 3DJuegos analiza su opening, con «10:15 Saturday Night» de The Cure.",
+        "en": "Cyberpunk: Edgerunners 2 is now on Netflix; 3DJuegos looks at its opening, set to The Cure's \"10:15 Saturday Night\"."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/cyberpunk-2077/noticias/grifo-goteando-clave-opening-cyberpunk-edgerunners-2"
+      }
+    },
+    {
+      "text": {
+        "es": "Saber Interactive dice que Hellraiser: Revival funciona «extremadamente bien» en PC y consolas, según su CEO Matthew Karch.",
+        "en": "Saber Interactive says Hellraiser: Revival is performing \"extremely well\" on PC and consoles, per CEO Matthew Karch."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/hellraiser-revival-esta-funcionando-extremadamente-bien-en-pc-y-consolas-segun-saber-interactive/"
+      }
+    },
+    {
+      "text": {
+        "es": "Bloober Team, autores de Silent Hill 2 Remake, quieren seguir haciendo juegos físicos «durante el mayor tiempo posible».",
+        "en": "Bloober Team, makers of the Silent Hill 2 remake, want to keep making physical games \"for as long as possible\"."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026297007/el-estudio-de-silent-hill-remake-quiere-hacer-videojuegos-fisicos-durante-el-mayor-tiempo-posible/"
+      }
+    },
+    {
+      "text": {
+        "es": "Zelda: Ocarina of Time para Switch 2 ya tiene publicado su resumen de clasificación ESRB: E10+, por sangre animada y violencia de fantasía.",
+        "en": "Zelda: Ocarina of Time for Switch 2 now has its ESRB rating summary published: E10+, for animated blood and fantasy violence."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published"
+      }
+    },
+    {
+      "text": {
+        "es": "Insider Gaming informa de que PlayStation adelantó en redes la actualización 2.1 de STALKER 2, «The Zone Lookout».",
+        "en": "Insider Gaming reports PlayStation previewed STALKER 2's 2.1 update, \"The Zone Lookout\", on social media."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/stalker-update-leak-2-1-the-zone-lookout/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Nintendo Switch Sports Resort",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "22 de octubre",
+        "en": "October 22"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/nintendo-repasa-toda-la-serie-de-nintendo-switch-sports-resort-en-esta-nueva-imagen/"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "23 de octubre",
+        "en": "October 23"
+      },
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "title": "Game Boy – Nintendo Classics: tres juegos",
+      "platforms": "Switch / Switch 2",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.gematsu.com/2026/10/game-boy-nintendo-classics-adds-avenging-spirit-mole-mania-and-pinball-revenge-of-the-gator-on-october-27"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "title": "Look Outside",
+      "platforms": "PS5, Switch 2, PS4, Switch",
+      "note": {
+        "es": "30 de octubre",
+        "en": "October 30"
+      },
+      "url": "https://www.gematsu.com/2026/10/look-outside-coming-to-ps5-switch-2-ps4-and-switch-on-october-30"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "Consolas",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los fans de Dead by Daylight reaccionan con enfado a la retirada de Chucky, según IGN.",
+        "en": "Dead by Daylight fans are reacting angrily to Chucky's removal, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
+      }
+    },
+    {
+      "text": {
+        "es": "Un desarrollador indie retira las voces generadas con IA de su juego tras llamar antes a esa tecnología «antihumana»; ofrece reembolsos a quien se sienta traicionado.",
+        "en": "An indie developer scrubs AI-generated voice lines from his game after calling the tech \"anti-human\"; he offers refunds to players who feel betrayed."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/"
+      }
+    },
+    {
+      "text": {
+        "es": "El tamaño del parche de Modern Warfare 4 en Switch 2 provoca quejas entre los lectores de Nintendo Life.",
+        "en": "The size of Modern Warfare 4's Switch 2 patch draws complaints from Nintendo Life readers."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live"
+      }
+    },
+    {
+      "text": {
+        "es": "Mike Ybarra sobre el rumoreado precio de Project Helix: «No la lanzaría en absoluto».",
+        "en": "Mike Ybarra on Project Helix's rumored price: \"I wouldn't launch it at all\"."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/xbox-series-xs/noticias/mike-ybarra-exdirectivo-xbox-rumoreado-precio-project-helix-no-lanzaria-absoluto"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "url": "https://store.steampowered.com/app/3259780/"
+    },
+    {
+      "name": "EA Sports FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
