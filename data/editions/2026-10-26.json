@@ -1,0 +1,638 @@
+{
+  "date": "2026-10-26",
+  "headline": {
+    "es": "Phantom Blade Zero llega con reseñas brillantes y la petición por Mass Effect pasa de 200.000 firmas",
+    "en": "Phantom Blade Zero arrives to glowing reviews as the Mass Effect petition tops 200,000 signatures"
+  },
+  "intro": {
+    "es": "Además, GTA 6 se anuncia en El Clásico, Tomb Raider celebra sus 30 años y Xbox asegura que no está a la venta.",
+    "en": "Also: GTA 6 advertises at El Clásico, Tomb Raider turns 30 and Xbox says it is not for sale."
+  },
+  "stories": [
+    {
+      "id": "phantom-blade-zero-resenas-sale-29-octubre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg",
+        "credit": "S-GAME Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4115450/"
+      },
+      "title": {
+        "es": "Phantom Blade Zero llega con críticas muy positivas por su combate y reparos en la historia",
+        "en": "Phantom Blade Zero arrives with strong reviews for its combat and reservations about the story"
+      },
+      "dek": {
+        "es": "Las primeras reseñas coinciden en elogiar un sistema de combate rápido y vistoso; la narrativa es el punto débil.",
+        "en": "Early reviews agree on praise for fast, flashy combat; the story is the weak spot."
+      },
+      "body": {
+        "es": [
+          "Se levantó el embargo de las reseñas de Phantom Blade Zero, el juego de acción de S-Game que sale el 29 de octubre en PS5 y PC. VGC le da 4 sobre 5 y destaca unos combates ágiles, jefes con patrones propios y una ambientación «kungfupunk» con Unreal Engine; Push Square lo puntúa con 9 sobre 10.",
+          "Los reparos se repiten: VGC critica niveles muy lineales, con muros invisibles, y una historia y unos personajes poco memorables. Push Square coincide en que los flashbacks resultan confusos, y señala que no es un soulslike: no se pierde progreso al morir y los enemigos no reaparecen.",
+          "Según Push Square, la campaña dura entre 25 y 30 horas y cerca de 45 si se completa todo lo opcional. En PS5 Pro el modo rendimiento va casi siempre a 60 fps, con caídas en algunos combates contra jefes."
+        ],
+        "en": [
+          "Embargoed reviews for Phantom Blade Zero, S-Game's action title due October 29 on PS5 and PC, are now out. VGC gives it 4 out of 5, praising nimble combat, bosses with distinct patterns and a 'kungfupunk' setting built in Unreal Engine; Push Square scores it 9 out of 10.",
+          "The criticisms repeat: VGC faults very linear levels with invisible walls and a forgettable story and cast. Push Square agrees the flashbacks are confusing, and notes it is not a soulslike: no progress is lost on death and enemies do not respawn.",
+          "Per Push Square, the campaign runs 25 to 30 hours, about 45 with all optional content. On PS5 Pro, performance mode is mostly 60 fps, with drops in some boss fights."
+        ]
+      },
+      "why": {
+        "es": "Con el lanzamiento a tres días, el consenso apunta a un gran juego de acción con una narrativa floja.",
+        "en": "With launch three days away, the consensus points to a great action game with a weak narrative."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/review/phantom-blade-zero-review/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/phantom-blade-zero/analisis/phantom-blade-zero-facilmente-uno-juegos-espectaculares-2016-no-que-esperaba-analisis"
+        }
+      ]
+    },
+    {
+      "id": "save-mass-effect-peticion-200000-firmas",
+      "category": "industria",
+      "title": {
+        "es": "La petición #SaveMassEffect supera las 200.000 firmas tras el cierre de BioWare",
+        "en": "The #SaveMassEffect petition passes 200,000 signatures after BioWare's closure"
+      },
+      "dek": {
+        "es": "Los actores de Shepard y la comunidad de Destiny se suman, mientras un veterano admite que EA podría vender las sagas.",
+        "en": "Shepard's actors and the Destiny community join in, while a veteran says EA could sell the franchises."
+      },
+      "body": {
+        "es": [
+          "EA anunció el 21 de octubre el cierre de BioWare y la cancelación del próximo Mass Effect, con unos 400 despidos en total, según la prensa. Desde entonces la petición #SaveMassEffect ha pasado de las 180.000 firmas, que citaba PC Gamer, a superar las 200.000, según IGN, con vídeos de los dos actores de Commander Shepard y apoyo de la comunidad de Destiny.",
+          "En 3DJuegos, Mark Darrah, antiguo productor ejecutivo de BioWare, opina que sin equipo EA podría vender Mass Effect y Dragon Age, aunque también podría «enterrarlas»; cree que habría que esperar un tiempo antes de decidir y recomienda no hacerse ilusiones.",
+          "EA no ha aclarado qué pasará con las propiedades intelectuales de BioWare."
+        ],
+        "en": [
+          "EA announced on October 21 that it is closing BioWare and cancelling the next Mass Effect, with roughly 400 layoffs overall, according to press reports. Since then the #SaveMassEffect petition has gone from the 180,000 signatures PC Gamer cited to more than 200,000, per IGN, with videos from both Commander Shepard actors and support from the Destiny community.",
+          "In 3DJuegos, Mark Darrah, BioWare's former executive producer, says that without a team EA could sell Mass Effect and Dragon Age, though it might also 'bury them in a vault'; he thinks EA would wait a while before deciding and advises against getting hopes up.",
+          "EA has not clarified what will happen to BioWare's intellectual properties."
+        ]
+      },
+      "why": {
+        "es": "Una petición masiva no obliga a EA a nada, pero mantiene la presión sobre el futuro de dos sagas.",
+        "en": "A mass petition does not oblige EA to anything, but it keeps pressure on the future of two franchises."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/ea-podria-vender-mass-effect-dragon-age-cerrar-bioware-veterano-estudio-cree-que-podria-ocurrir-mejor-no-hacerse-ilusiones"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-clasico-publicidad-rockstar-crunch",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 se anuncia en El Clásico y Rockstar asegura que no hubo «crunch» al uso",
+        "en": "GTA 6 advertises at El Clásico and Rockstar says there was no typical crunch"
+      },
+      "dek": {
+        "es": "A tres semanas del 19 de noviembre, campaña publicitaria en España y declaraciones sobre cómo se ha desarrollado.",
+        "en": "Three weeks before November 19, an ad push in Spain and statements on how it was developed."
+      },
+      "body": {
+        "es": [
+          "Grand Theft Auto VI apareció en las vallas LED del Barcelona-Real Madrid del domingo con el mensaje «Coming November 19». Vandal lo presenta como la mayor acción de Rockstar en España y recuerda que antes hubo promociones en partidos de los Miami Heat y murales en Miami, Nueva York y París. El juego sale en PS5 y Xbox Series X|S; no hay versión de PC anunciada.",
+          "Por otro lado, Jennifer Kolbe, directora de publicación de Rockstar, dijo a Bloomberg que el estudio cambió sus procesos para evitar el crunch de Red Dead Redemption 2: más plantilla (de unos 2.400 empleados en 2018 a más de 4.700), estimaciones revisadas y pago de horas extra. Admite que algunos desarrolladores pudieron tener jornadas largas.",
+          "Kolbe también justificó el fin del teletrabajo, vigente desde 2024 tras la filtración de 2022, aunque algunos empleados dicen que no ha frenado nuevas filtraciones."
+        ],
+        "en": [
+          "Grand Theft Auto VI showed up on the LED boards of Sunday's Barcelona-Real Madrid match with the message 'Coming November 19'. Vandal calls it Rockstar's biggest push in Spain and notes earlier promotions at Miami Heat games and murals in Miami, New York and Paris. The game launches on PS5 and Xbox Series X|S; no PC version has been announced.",
+          "Separately, Jennifer Kolbe, Rockstar's head of publishing, told Bloomberg the studio changed its processes to avoid Red Dead Redemption 2-style crunch: more staff (from about 2,400 employees in 2018 to over 4,700), revised estimates and paid overtime. She admits some developers may still have had long days.",
+          "Kolbe also defended ending remote work, in force since 2024 after the 2022 leak, though some employees say it has not stopped later leaks."
+        ]
+      },
+      "why": {
+        "es": "Con el lanzamiento cerca, Rockstar combina marketing masivo con la defensa de sus condiciones de trabajo.",
+        "en": "With launch near, Rockstar pairs mass marketing with a defence of its working conditions."
+      },
+      "sources": [
+        {
+          "name": "Vandal (El Clásico)",
+          "url": "https://vandal.elespanol.com/noticia/2026298011/gta-6-se-estrena-en-espana-durante-el-clasico-rockstar-anuncia-su-juego-en-el-fc-barcelona-real-madrid/"
+        },
+        {
+          "name": "Vandal (crunch)",
+          "url": "https://vandal.elespanol.com/noticia/2026298001/rockstar-afirma-haber-erradicado-el-crunch-en-gta-6-pero-confiesan-que-eliminaron-el-teletrabajo-por-miedo/"
+        }
+      ]
+    },
+    {
+      "id": "tomb-raider-legacy-of-atlantis-30-aniversario",
+      "category": "juegos",
+      "title": {
+        "es": "Tomb Raider: Legacy of Atlantis celebra los 30 años de la saga con un teaser",
+        "en": "Tomb Raider: Legacy of Atlantis marks the series' 30th anniversary with a teaser"
+      },
+      "dek": {
+        "es": "Amazon Games, Crystal Dynamics y Flying Wild Hog reafirman el estreno del 12 de febrero de 2027.",
+        "en": "Amazon Games, Crystal Dynamics and Flying Wild Hog reaffirm the February 12, 2027 launch."
+      },
+      "body": {
+        "es": [
+          "Con motivo del 30.º aniversario de Tomb Raider, la editora Amazon Games y los estudios Crystal Dynamics y Flying Wild Hog han publicado un teaser de Legacy of Atlantis, según Gematsu. Insider Gaming añade un avance de jugabilidad y confirma que el juego llegará el 12 de febrero de 2027.",
+          "Gematsu lista PS5, Xbox Series, Switch 2 y PC a través de Steam, mientras que Insider Gaming menciona PS5, Xbox y PC."
+        ],
+        "en": [
+          "To mark Tomb Raider's 30th anniversary, publisher Amazon Games and developers Crystal Dynamics and Flying Wild Hog have released a Legacy of Atlantis teaser, per Gematsu. Insider Gaming adds a gameplay sneak peek and confirms a February 12, 2027 launch.",
+          "Gematsu lists PS5, Xbox Series, Switch 2 and PC via Steam, while Insider Gaming mentions PS5, Xbox and PC."
+        ]
+      },
+      "why": {
+        "es": "Los materiales de aniversario consolidan la fecha de febrero de 2027.",
+        "en": "The anniversary material cements the February 2027 date."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/tomb-raider-legacy-of-atlantis-30th-anniversary-teaser-trailer"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/tomb-raider-legacy-of-atlantis-sneak-peek/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/tomb-raider-legacy-of-atlantis-presenta-nuevo-trailer-por-el-30o-aniversario-de-la-serie/"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-project-hadar-mayor-proyecto",
+      "category": "industria",
+      "title": {
+        "es": "CD Projekt: Project Hadar es el «mayor proyecto» del estudio hasta la fecha",
+        "en": "CD Projekt: Project Hadar is the studio's 'biggest project' to date"
+      },
+      "dek": {
+        "es": "La nueva propiedad intelectual sigue en preproducción y sin ventana de lanzamiento.",
+        "en": "The new IP is still in preproduction with no release window."
+      },
+      "body": {
+        "es": [
+          "Michał Nowakowski, codirector ejecutivo de CD Projekt RED, dijo al medio polaco Biznes, según Insider Gaming y Vandal, que Project Hadar es el mayor proyecto del equipo hasta la fecha, más ambicioso que The Witcher 4 y la secuela de Cyberpunk.",
+          "El juego sigue en preproducción: en marzo la compañía lo situó en la fase conceptual y ahora habla de una visión coherente del mundo. No hay ventana de lanzamiento. Antes llegarán The Witcher 3: Songs of the Past (2027), The Witcher 4 y Cyberpunk 2; también hay un remake de The Witcher en desarrollo.",
+          "Nowakowski añadió que el equipo del multijugador Project Sirius se redujo porque había crecido más de lo que requería la fase actual."
+        ],
+        "en": [
+          "Michał Nowakowski, co-executive director at CD Projekt RED, told Polish outlet Biznes, per Insider Gaming and Vandal, that Project Hadar is the team's biggest project to date, more ambitious than The Witcher 4 and the Cyberpunk sequel.",
+          "The game remains in preproduction: in March the company placed it in the concept phase and now speaks of a coherent vision for the world. There is no release window. The Witcher 3: Songs of the Past (2027), The Witcher 4 and Cyberpunk 2 come first; a Witcher remake is also in development.",
+          "Nowakowski added that the Project Sirius multiplayer team was scaled down because it had grown beyond what the current stage required."
+        ]
+      },
+      "why": {
+        "es": "Confirma que el estudio polaco tiene el calendario ocupado durante años.",
+        "en": "It confirms the Polish studio has its schedule full for years."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026298010/cd-projekt-habla-de-su-nueva-saga-admiten-que-project-hadar-es-su-mayor-proyecto-hasta-la-fecha/"
+        }
+      ]
+    },
+    {
+      "id": "xbox-asha-sharma-nuevas-ip-no-esta-a-la-venta",
+      "category": "xbox",
+      "title": {
+        "es": "Asha Sharma: Xbox seguirá creando nuevas IP y «no está a la venta»",
+        "en": "Asha Sharma: Xbox will keep making new IP and 'is not for sale'"
+      },
+      "dek": {
+        "es": "La responsable de Xbox responde a los rumores sobre una venta tras recortes y cancelaciones.",
+        "en": "Xbox's head responds to sale rumours after cuts and cancellations."
+      },
+      "body": {
+        "es": [
+          "Asha Sharma, al frente de Xbox, aseguró según VGC (vía Vandal) que la división quiere crear nuevas sagas para llegar a más público y reforzar las más fuertes. «No sobreviviremos si solo miramos al pasado», afirmó.",
+          "Sharma negó que Xbox esté en venta («Xbox no está a la venta») y dijo que la compañía buscará los acuerdos y el modelo de negocio que mejor sirvan a sus objetivos. Llega tras una reestructuración con recortes, despidos y la cancelación de varios juegos en desarrollo."
+        ],
+        "en": [
+          "Asha Sharma, who leads Xbox, said per VGC (via Vandal) that the division wants to create new franchises to reach wider audiences and strengthen its strongest ones. 'We won't survive if we only look to the past,' she said.",
+          "Sharma denied Xbox is up for sale ('Xbox is not for sale') and said the company will pursue the deals and business model that best serve its goals. It follows a restructuring with cuts, layoffs and the cancellation of several games in development."
+        ]
+      },
+      "why": {
+        "es": "Es una respuesta directa a la incertidumbre sobre el rumbo de la marca tras los recortes.",
+        "en": "It is a direct answer to uncertainty over the brand's direction after the cuts."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026298004/xbox-insiste-en-que-no-se-rendiran-con-las-nuevas-ip-no-sobreviviremos-si-solo-miramos-al-pasado/"
+        }
+      ]
+    },
+    {
+      "id": "subnautica-2-early-access-2-0-actualizacion",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/capsule_616x353.jpg",
+        "credit": "Unknown Worlds Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1962700/"
+      },
+      "title": {
+        "es": "Subnautica 2 prepara «Early Access 2.0», su mayor actualización desde el lanzamiento",
+        "en": "Subnautica 2 readies 'Early Access 2.0', its biggest update since launch"
+      },
+      "dek": {
+        "es": "Nueva región con varios biomas, más historia, chasis Frog y un Reaper Leviathan más amenazante.",
+        "en": "A new region with several biomes, more story, the Frog chassis and a more menacing Reaper Leviathan."
+      },
+      "body": {
+        "es": [
+          "Unknown Worlds anunció en vídeo el 15 de octubre «Early Access 2.0», que su director creativo, Anthony Gallegos, describe como la actualización más sustancial desde el lanzamiento en mayo. Todavía no tiene fecha.",
+          "Incluye una región jugable con varios biomas que Gallegos define como una de las más aterradoras del estudio, más trama sobre el pasado de los colonos y los Axum, nuevas criaturas y un Reaper Leviathan con un comportamiento más amenazante.",
+          "También llega el chasis Frog, que añade brazos y piernas al vehículo Tadpole, la propulsión pasa a las aletas para liberar un hueco de mejora y se suman biomods y opciones de construcción, como una sala de base circular."
+        ],
+        "en": [
+          "Unknown Worlds announced 'Early Access 2.0' in a video on October 15, which creative director Anthony Gallegos describes as the most substantial update since the May launch. It has no date yet.",
+          "It includes a playable region with several biomes that Gallegos calls one of the studio's scariest, more story about the colonists' past and the Axum, new creatures and a Reaper Leviathan that behaves more menacingly.",
+          "The Frog chassis also arrives, adding arms and legs to the Tadpole vehicle; propulsion moves into the fins to free an upgrade slot, and new biomods and building options are added, such as a round base room."
+        ]
+      },
+      "why": {
+        "es": "Marca un segundo gran paso del acceso anticipado sin fecha confirmada todavía.",
+        "en": "It marks a second major step for early access, with no confirmed date yet."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/subnautica-2/noticias/subnautica-2-quiere-que-te-miedo-volver-al-agua-sus-creadores-preparan-actualizacion-enorme-catalogan-como-early-access-2-0"
+        }
+      ]
+    },
+    {
+      "id": "shenmue-3-enhanced-ps5-retrasado-2027",
+      "category": "playstation",
+      "title": {
+        "es": "Shenmue 3 Enhanced para PS5 se retrasa a principios de 2027",
+        "en": "Shenmue 3 Enhanced for PS5 slips to early 2027"
+      },
+      "dek": {
+        "es": "La reedición de Ys Net, editada por ININ, ya no saldrá en 2026.",
+        "en": "Ys Net's re-release, published by ININ, will no longer arrive in 2026."
+      },
+      "body": {
+        "es": [
+          "La reedición para PS5 de Shenmue 3, desarrollada por Ys Net y editada por ININ Games, se retrasa a principios de 2027; estaba prevista para 2026, según Push Square. El aplazamiento se comunicó en un boletín recogido por la web Shenmue Dojo.",
+          "El comunicado dice que el desarrollo «está tardando» en dejarlo todo bien y que el equipo avanza en los detalles finales."
+        ],
+        "en": [
+          "The PS5 re-release of Shenmue 3, developed by Ys Net and published by ININ Games, slips to early 2027; it had been planned for 2026, per Push Square. The delay was announced in a newsletter picked up by fansite Shenmue Dojo.",
+          "The statement says development 'is taking time' to get everything right and that the team is working on final details."
+        ]
+      },
+      "why": {
+        "es": "Otro lanzamiento de 2026 que pasa al año siguiente.",
+        "en": "Another 2026 release that moves to next year."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027"
+        }
+      ]
+    },
+    {
+      "id": "dragon-ball-xenoverse-2-actualizacion-10-aniversario",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/capsule_616x353.jpg",
+        "credit": "Bandai Namco Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/454650/"
+      },
+      "title": {
+        "es": "Dragon Ball Xenoverse 2 recibe el 27 de octubre su actualización del 10.º aniversario",
+        "en": "Dragon Ball Xenoverse 2 gets its 10th-anniversary update on October 27"
+      },
+      "dek": {
+        "es": "Objetos, eventos y recompensas vinculadas a Xenoverse 3, previsto para 2027.",
+        "en": "Items, events and rewards tied to Xenoverse 3, due in 2027."
+      },
+      "body": {
+        "es": [
+          "Bandai Namco y Dimps lanzarán el 27 de octubre una actualización gratuita por el 10.º aniversario de Dragon Ball Xenoverse 2, según Gematsu, en PS5, Xbox Series, PS4, Xbox One, Switch y PC.",
+          "Incluye el regreso de objetos difíciles de conseguir, bonificaciones de afinidad con Trunks, el Supremo Kaioh del Tiempo y Fu, nuevas recompensas de inicio de sesión y trajes, y el evento Final Festival desde el 30 de octubre, con monedas estrella multiplicadas por 25.",
+          "Gematsu también menciona objetos especiales que dan recompensas en Dragon Ball Xenoverse 3, que saldrá en 2027, vinculando un Bandai Namco ID."
+        ],
+        "en": [
+          "Bandai Namco and Dimps will release a free 10th-anniversary update for Dragon Ball Xenoverse 2 on October 27, per Gematsu, on PS5, Xbox Series, PS4, Xbox One, Switch and PC.",
+          "It brings back hard-to-find items, affinity boosts with Trunks, the Supreme Kai of Time and Fu, new login rewards and costumes, and the Final Festival event from October 30 with Star Coin earnings at 25 times.",
+          "Gematsu also mentions special items that grant rewards in Dragon Ball Xenoverse 3, launching in 2027, by linking a Bandai Namco ID."
+        ]
+      },
+      "why": {
+        "es": "La actualización sirve de puente hacia la próxima entrega.",
+        "en": "The update acts as a bridge to the next entry."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/dragon-ball-xenoverse-2-10th-anniversary-update-launches-october-27"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/10/dragon-ball-xenoverse-2-presenta-su-actualizacion-de-10o-aniversario/"
+        }
+      ]
+    },
+    {
+      "id": "darkest-dungeon-2-switch-2-edition",
+      "category": "nintendo",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/capsule_616x353.jpg",
+        "credit": "Red Hook Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1940340/"
+      },
+      "title": {
+        "es": "Darkest Dungeon II estrena edición Switch 2 con 1440p y 60 fps",
+        "en": "Darkest Dungeon II gets a Switch 2 Edition with 1440p and 60 fps"
+      },
+      "dek": {
+        "es": "Cuesta 42,98 dólares, o 2,99 si ya se tiene la versión de Switch.",
+        "en": "It costs $42.98, or $2.99 if you own the Switch version."
+      },
+      "body": {
+        "es": [
+          "Darkest Dungeon II ya tiene Switch 2 Edition, según Nintendo Life. Cuesta 42,98 dólares (36,24 libras) y quienes tengan la versión de Switch pueden pagar un paquete de mejora de 2,99 dólares.",
+          "La edición ofrece 1080p en modo portátil y 1440p en el televisor a 60 fps, además de compatibilidad con el ratón de los Joy-Con 2 y opciones de conducción y combate rápidos."
+        ],
+        "en": [
+          "Darkest Dungeon II now has a Switch 2 Edition, per Nintendo Life. It costs $42.98 (£36.24) and owners of the Switch version can pay a $2.99 upgrade pack.",
+          "The edition offers 1080p in handheld mode and 1440p on TV at 60 fps, plus Joy-Con 2 mouse support and fast driving and fast combat options."
+        ]
+      },
+      "why": {
+        "es": "Suma otro título a la oleada de ediciones mejoradas para Switch 2.",
+        "en": "It adds another title to the wave of Switch 2 enhanced editions."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition"
+        }
+      ]
+    },
+    {
+      "id": "sonic-x-shadow-generations-tres-millones",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2513280/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2513280/capsule_616x353.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2513280/"
+      },
+      "title": {
+        "es": "Sonic X Shadow Generations supera los tres millones de unidades vendidas",
+        "en": "Sonic X Shadow Generations tops three million sold"
+      },
+      "dek": {
+        "es": "SEGA anuncia la cifra dos años después del lanzamiento original.",
+        "en": "SEGA announces the figure two years after the original launch."
+      },
+      "body": {
+        "es": [
+          "SEGA ha anunciado que Sonic X Shadow Generations ha superado los tres millones de unidades en todo el mundo, según Gematsu. En enero de 2025 había pasado los dos millones.",
+          "El juego salió el 25 de octubre de 2024 en consolas y PC, y llegó a Switch 2 el 5 de junio de 2025."
+        ],
+        "en": [
+          "SEGA has announced that Sonic X Shadow Generations has passed three million units worldwide, per Gematsu. It had crossed two million in January 2025.",
+          "The game launched on October 25, 2024 on consoles and PC, and reached Switch 2 on June 5, 2025."
+        ]
+      },
+      "why": {
+        "es": "Confirma el buen momento de la franquicia en su recopilación más reciente.",
+        "en": "It confirms the franchise's momentum with its latest compilation."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/sonic-x-shadow-generations-sales-top-three-million"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Sony exige el firmware más reciente para jugar a algunos juegos físicos nuevos de PS5, lo que reaviva las críticas en redes frente a la lucha contra el jailbreak, según Push Square.",
+        "en": "Sony requires the latest firmware to play some new physical PS5 games, reviving online criticism over its fight against jailbreaks, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism"
+      }
+    },
+    {
+      "text": {
+        "es": "Justin Stander, creador de Katana Zero, dice que su DLC tiene «el tamaño de una secuela» y más de 30 canciones nuevas; sigue sin fecha y se mantiene gratuito, según Insider Gaming.",
+        "en": "Katana Zero creator Justin Stander says the DLC is 'the size of a full sequel' with over 30 new songs; still no date and still planned as free, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/katana-zero-dlc-update/"
+      }
+    },
+    {
+      "text": {
+        "es": "Game Pass cierra octubre con Final Fantasy VII Remake Intergrade, Mouthwashing, Plants vs. Zombies: Replanted y Terrible Lizards el 29 de octubre, según Pure Xbox.",
+        "en": "Game Pass closes October with Final Fantasy VII Remake Intergrade, Mouthwashing, Plants vs. Zombies: Replanted and Terrible Lizards on October 29, per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/six-xbox-game-pass-titles-are-confirmed-for-the-final-few-days-of-october"
+      }
+    },
+    {
+      "text": {
+        "es": "Casi diez millones de jugadores de Elden Ring superan las 100 horas, según un informe de Alinea Analytics recogido por Nintenderos.",
+        "en": "Almost ten million Elden Ring players have passed 100 hours, per an Alinea Analytics report cited by Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/10/casi-10-millones-de-jugadores-superan-las-100-horas-en-elden-ring/"
+      }
+    },
+    {
+      "text": {
+        "es": "Amazon Luna incluirá más lanzamientos de día uno sin coste extra para los miembros de Prime, según Nintenderos.",
+        "en": "Amazon Luna will include more day-one launches at no extra cost for Prime members, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/10/amazon-luna-ofrecera-mas-lanzamientos-dia-uno-incluidos-en-la-suscripcion-de-prime/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un simulador de conducción por voz con IA publicado en Steam le cuesta a un estudio indie unos 1.000 dólares al día solo por mantener la demo, según Vandal.",
+        "en": "A voice-controlled AI driving sim on Steam is costing an indie studio about $1,000 a day just to keep its demo running, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026298002/publican-un-juego-con-ia-en-steam-y-se-meten-en-un-lio-solo-mantener-la-demo-les-cuesta-1000-dolares-al-dia/"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintenderos asegura que el polémico anuncio de Super Mario Sunshine con el lema «WET YOURSELF…» es auténtico.",
+        "en": "Nintenderos reports that the controversial Super Mario Sunshine ad with the 'WET YOURSELF…' slogan is genuine."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/10/el-polemico-poster-de-super-mario-sunshine-que-muchos-creen-falso-es-completamente-real/"
+      }
+    },
+    {
+      "text": {
+        "es": "Descubren un truco en F-Zero GX tras 23 años: códigos con cuatro mandos a la vez desbloquean vehículos exclusivos de Japón, según Vandal.",
+        "en": "A trick has been found in F-Zero GX after 23 years: codes entered on four controllers at once unlock Japan-exclusive vehicles, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026298005/descubren-un-nuevo-truco-en-fzero-gx-despues-de-23-anos-permite-desbloquear-vehiculos-exclusivos-de-japon/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Dragon Ball Xenoverse 2 · actualización 10.º aniversario",
+      "platforms": "PS5, Xbox, Switch, PC",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.gematsu.com/2026/10/dragon-ball-xenoverse-2-10th-anniversary-update-launches-october-27"
+    },
+    {
+      "title": "The Seance of Blake Manor",
+      "platforms": "Game Pass (Xbox, PC)",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.purexbox.com/news/2026/10/six-xbox-game-pass-titles-are-confirmed-for-the-final-few-days-of-october"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero"
+    },
+    {
+      "title": "Final Fantasy VII Remake Intergrade",
+      "platforms": "Game Pass (Xbox, PC)",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.purexbox.com/news/2026/10/six-xbox-game-pass-titles-are-confirmed-for-the-final-few-days-of-october"
+    },
+    {
+      "title": "Mouthwashing",
+      "platforms": "Game Pass (Xbox, PC)",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.purexbox.com/news/2026/10/six-xbox-game-pass-titles-are-confirmed-for-the-final-few-days-of-october"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La comunidad #SaveMassEffect sigue creciendo y supera las 200.000 firmas, según IGN.",
+        "en": "The #SaveMassEffect community keeps growing, passing 200,000 signatures, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures"
+      }
+    },
+    {
+      "text": {
+        "es": "Tim Sweeney, de Epic, compara las etiquetas de IA de Steam con «ensayos políticos obligatorios» y reaviva el debate, según PC Gamer.",
+        "en": "Epic's Tim Sweeney compares Steam's AI disclosures to 'mandatory political essays', reigniting the debate, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/"
+      }
+    },
+    {
+      "text": {
+        "es": "Críticas en redes a Sony por exigir firmware reciente en juegos físicos, mientras otros defienden que responde a la piratería, según Push Square.",
+        "en": "Online criticism of Sony for requiring recent firmware on physical games, while others defend it as a response to piracy, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "url": "https://store.steampowered.com/app/3259780/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
