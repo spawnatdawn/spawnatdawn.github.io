@@ -1,0 +1,662 @@
+{
+  "date": "2026-10-27",
+  "headline": {
+    "es": "Microsoft ofrece la salida voluntaria a 60.000 empleados y Arkane gana un mes para sobrevivir",
+    "en": "Microsoft offers voluntary exit to 60,000 employees and Arkane gains a month to survive"
+  },
+  "intro": {
+    "es": "Además, Xbox pierde a su primera directora de operaciones, Sucker Punch despide a 26 personas y Ubisoft prepara su balance de Assassin's Creed.",
+    "en": "Also: Xbox loses its first COO, Sucker Punch lays off 26 people and Ubisoft readies its Assassin's Creed update."
+  },
+  "stories": [
+    {
+      "id": "microsoft-salida-voluntaria-60000-empleados-xbox",
+      "category": "industria",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Microsoft_Redmond_Campus_redevelopment_aerial_view%2C_Sept._2021.jpg/1280px-Microsoft_Redmond_Campus_redevelopment_aerial_view%2C_Sept._2021.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Microsoft_Redmond_Campus_redevelopment_aerial_view%2C_Sept._2021.jpg/960px-Microsoft_Redmond_Campus_redevelopment_aerial_view%2C_Sept._2021.jpg",
+        "credit": "Atomic Taco / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_Redmond_Campus_redevelopment_aerial_view,_Sept._2021.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      },
+      "title": {
+        "es": "Microsoft ofrece una salida voluntaria a unos 60.000 empleados, con Xbox entre los equipos elegibles",
+        "en": "Microsoft offers voluntary exit to around 60,000 employees, with Xbox among eligible teams"
+      },
+      "dek": {
+        "es": "No es un despido formal: los trabajadores pueden quedarse o aceptar una indemnización y marcharse.",
+        "en": "It is not a formal layoff: workers can stay or accept a payout and leave."
+      },
+      "body": {
+        "es": [
+          "Microsoft ofrece una salida voluntaria a unos 60.000 empleados, más del 25 % de su plantilla, según los medios que citan un informe de Reuters. La oferta llegaría a trabajadores de EE. UU., Reino Unido, India y Canadá, según PC Gamer, y no se trata técnicamente de despidos: cada empleado decide si acepta.",
+          "Entre los equipos elegibles figuran IA, Copilot, finanzas, recursos humanos, Xbox y Windows + Devices; marketing, ventas y seguridad quedarían fuera, según 3DJuegos. Es la segunda oferta de este tipo este año: en julio se propuso a unos 9.000 empleados en EE. UU.",
+          "Microsoft no ha emitido un comunicado oficial; la directora de personal, Amy Coleman, habría descrito la oferta como «una nueva opción» para la transición que vive la empresa. Los resultados trimestrales se publican el 28 de octubre."
+        ],
+        "en": [
+          "Microsoft is offering voluntary exit packages to around 60,000 employees, more than 25% of its workforce, according to outlets citing a Reuters report. Per PC Gamer, the offer reaches staff in the US, UK, India and Canada, and it is technically not a layoff: each employee decides whether to accept.",
+          "Eligible teams include AI, Copilot, finance, HR, Xbox and Windows + Devices; marketing, sales and security are reportedly excluded, per 3DJuegos. It is the second such offer this year: in July about 9,000 US employees were approached.",
+          "Microsoft has issued no official statement; HR chief Amy Coleman reportedly described the offer as 'a new option' for the transition the company is going through. Quarterly earnings are due on October 28."
+        ]
+      },
+      "why": {
+        "es": "Llega mientras Xbox reorganiza su estructura y con los resultados trimestrales a un día vista.",
+        "en": "It lands as Xbox reshuffles its structure, one day before quarterly earnings."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/tecnologia/noticias/microsoft-prepara-exodo-masivo-trabajadores-e-invita-a-irse-a-60-000-personas-salida-voluntaria-gigantesca"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/microsoft-gives-voluntary-exit-offer-to-60000-employees-roughly-a-25-percent-of-its-total-workforce-2000749790"
+        }
+      ]
+    },
+    {
+      "id": "arkane-lyon-plazo-13-diciembre-blade-socio",
+      "category": "industria",
+      "title": {
+        "es": "Microsoft amplía hasta el 13 de diciembre el plazo para encontrar comprador a Arkane Lyon",
+        "en": "Microsoft extends Arkane Lyon's search for a buyer to December 13"
+      },
+      "dek": {
+        "es": "El estudio de Dishonored y Deathloop gana un mes; Xbox también busca un socio para terminar Marvel's Blade.",
+        "en": "The Dishonored and Deathloop studio gains a month; Xbox is also seeking a partner to finish Marvel's Blade."
+      },
+      "body": {
+        "es": [
+          "Microsoft ha prorrogado un mes el periodo de consulta sobre el futuro de Arkane Lyon: el plazo pasa del 13 de noviembre al 13 de diciembre de 2026. La compañía lo describe como «una prórroga definida» y asegura que explora opciones mientras mantiene informado al comité de empresa.",
+          "Según VGC, la ley francesa Florange obliga a las empresas de más de 1.000 empleados a buscar comprador antes de cerrar un centro, y Le Monde cifra en más de 200 los empleos en riesgo. Entre las opciones, Microsoft menciona encontrar un socio que ayude a completar el desarrollo de Marvel's Blade.",
+          "Del juego solo se ha mostrado un tráiler, hace casi tres años. Un sindicato del estudio calificaría un cierre de «derroche monumental»."
+        ],
+        "en": [
+          "Microsoft has extended the consultation period over Arkane Lyon's future by a month: the deadline moves from November 13 to December 13, 2026. The company calls it 'a defined extension' and says it is exploring options while keeping the works council informed.",
+          "Per VGC, France's Florange law requires companies with over 1,000 employees to seek a buyer before closing a site, and Le Monde puts more than 200 jobs at risk. Among the options, Microsoft mentions finding a partner to help complete development of Marvel's Blade.",
+          "Only one trailer for the game has been shown, almost three years ago. A union at the studio called a closure a 'monumental waste'."
+        ]
+      },
+      "why": {
+        "es": "El estudio sigue sin comprador y Marvel's Blade, sin fecha, depende de que aparezca un socio.",
+        "en": "The studio still has no buyer and the undated Marvel's Blade depends on a partner emerging."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/arkane-now-has-until-mid-december-to-find-a-buyer-as-microsoft-extends-its-deadline/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/microsoft-announces-extended-deadline-to-find-a-solution-for-xbox-studio-arkane"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/arkane-lyon-dishonored-se-enfrenta-a-semanas-decisivas-para-encontrar-un-comprador-o-sera-cerrada-por-xbox"
+        }
+      ]
+    },
+    {
+      "id": "sucker-punch-despidos-26-ghost-of-yotei",
+      "category": "playstation",
+      "title": {
+        "es": "Sucker Punch, el estudio de Ghost of Yotei, despide al menos a 26 personas",
+        "en": "Ghost of Yotei studio Sucker Punch lays off at least 26 people"
+      },
+      "dek": {
+        "es": "Según Aftermath, los recortes responden a las necesidades de su próximo proyecto.",
+        "en": "Per Aftermath, the cuts follow the needs of its next project."
+      },
+      "body": {
+        "es": [
+          "Sucker Punch Productions, filial de Sony y responsable de Ghost of Tsushima y Ghost of Yotei, ha despedido al menos a 26 empleados, según Aftermath, que cita a un extrabajador y un correo interno. Push Square estima la plantilla en unas 230 personas, mientras que Gematsu habla de menos de 200; Sony no ha confirmado la cifra.",
+          "El correo atribuye los recortes a «los desafíos del mercado» y a una revisión de las necesidades del equipo para su próximo proyecto, aún sin anunciar, y promete más información la semana que viene.",
+          "Ghost of Yotei salió en PS5 el 2 de octubre de 2025 y su Complete Edition, con la expansión Echoes of Sekigahara, el 1 de octubre de 2026."
+        ],
+        "en": [
+          "Sucker Punch Productions, the Sony-owned studio behind Ghost of Tsushima and Ghost of Yotei, has laid off at least 26 employees, according to Aftermath, citing a former employee and an internal email. Push Square estimates headcount at around 230, while Gematsu says fewer than 200; Sony has not confirmed the figure.",
+          "The email blames 'challenges in the market' and a review of team needs for its next, unannounced project, and promises more details next week.",
+          "Ghost of Yotei launched on PS5 on October 2, 2025, and its Complete Edition, with the Echoes of Sekigahara expansion, on October 1, 2026."
+        ]
+      },
+      "why": {
+        "es": "Otro recorte en un estudio first party de PlayStation que acaba de publicar un gran éxito.",
+        "en": "Another cut at a PlayStation first-party studio that recently shipped a major hit."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/report-sucker-punch-productions-lays-off-26-staff"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ghost-of-yotei-studio-sucker-punch-reportedly-lays-off-more-than-two-dozen-staff-as-it-prepares-for-its-next-project/"
+        }
+      ]
+    },
+    {
+      "id": "helen-chiang-coo-xbox-deja-microsoft-tres-meses",
+      "category": "xbox",
+      "title": {
+        "es": "Helen Chiang, primera directora de operaciones de Xbox, deja Microsoft a los tres meses de asumir el cargo",
+        "en": "Helen Chiang, Xbox's first COO, leaves Microsoft three months into the role"
+      },
+      "dek": {
+        "es": "Asha Sharma agradece sus 21 años en la compañía, pero Microsoft no explica los motivos.",
+        "en": "Asha Sharma thanks her for 21 years at the company, but Microsoft gives no reason."
+      },
+      "body": {
+        "es": [
+          "Helen Chiang, nombrada en julio primera COO de Xbox dentro del llamado «Xbox Reset», abandona Microsoft tras 21 años, según informó The Verge y recogen Pure Xbox y Game Developer. Antes había supervisado Minecraft durante buena parte de su carrera.",
+          "En un memorando interno, la CEO de Xbox, Asha Sharma, dijo agradecer «sus años de servicio» y desearle lo mejor. Sharma había defendido el puesto como necesario para que Xbox estuviera menos fragmentada, con responsabilidad sobre contenido, hardware, plataforma y servicios.",
+          "Microsoft se negó a hablar de cuestiones de personal y no ha anunciado sucesor; Sharma indicó que compartirá más sobre el liderazgo de operaciones cuando los planes estén cerrados."
+        ],
+        "en": [
+          "Helen Chiang, named Xbox's first COO in July as part of the 'Xbox Reset', is leaving Microsoft after 21 years, as first reported by The Verge and covered by Pure Xbox and Game Developer. She had previously overseen Minecraft for much of her career.",
+          "In an internal memo, Xbox CEO Asha Sharma said she was grateful for Chiang's 'years of service' and wished her well. Sharma had championed the role as necessary to make Xbox less fragmented, covering content, hardware, platform and services.",
+          "Microsoft declined to discuss personnel matters and has named no successor; Sharma said more on operations leadership would follow once plans are finalized."
+        ]
+      },
+      "why": {
+        "es": "La salida abre un interrogante sobre la estructura con la que Xbox quiere unificar su negocio.",
+        "en": "The exit raises questions about the structure Xbox wanted to unify its business."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/xboxs-newly-announced-coo-is-leaving-microsoft-after-21-years"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026299004/la-directora-de-operaciones-de-xbox-abandona-microsoft-apenas-tres-meses-despues-de-asumir-el-cargo/"
+        }
+      ]
+    },
+    {
+      "id": "austin-wintory-mass-effect-5-musica-times-square",
+      "category": "juegos",
+      "title": {
+        "es": "Austin Wintory publica 22 minutos de música para Mass Effect 5 y los fans compran una valla en Times Square",
+        "en": "Austin Wintory releases 22 minutes of Mass Effect 5 music as fans buy a Times Square billboard"
+      },
+      "dek": {
+        "es": "La campaña para salvar la saga sigue creciendo tras la cancelación del juego y el cierre de BioWare.",
+        "en": "The campaign to save the series keeps growing after the game's cancellation and BioWare's closure."
+      },
+      "body": {
+        "es": [
+          "El compositor Austin Wintory (Journey) ha subido a su canal de YouTube unos 22 minutos de la música que escribió en 2025 como propuesta para Mass Effect 5, tras la cancelación del juego y el cierre de BioWare por parte de EA, según VGC. Wintory la define como una «carta de amor» a la saga y dice que estaba en conversaciones serias para sumarse al proyecto.",
+          "Mientras, un grupo de fans ha pagado una valla publicitaria en Times Square para promocionar la petición «Save Mass Effect», que ha superado las 200.000 firmas, según PC Gamer y Kotaku.",
+          "IGN recoge además que actores de la saga han apoyado la campaña."
+        ],
+        "en": [
+          "Composer Austin Wintory (Journey) has uploaded about 22 minutes of music he wrote in 2025 as a pitch for Mass Effect 5 to his YouTube channel, after EA cancelled the game and shut down BioWare, per VGC. Wintory calls it a 'love letter' to the series and says he was in serious talks to join the project.",
+          "Meanwhile, a fan group has paid for a Times Square billboard promoting the 'Save Mass Effect' petition, which has passed 200,000 signatures, per PC Gamer and Kotaku.",
+          "IGN also reports that actors from the series have backed the campaign."
+        ]
+      },
+      "why": {
+        "es": "La música descartada y la presión de los fans mantienen viva la conversación sobre el futuro de la saga.",
+        "en": "The discarded score and fan pressure keep the conversation about the series' future alive."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/grammy-winning-composer-uploads-mass-effect-5-music-following-cancellation-news/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-fan-group-buys-billboard-in-times-square-promoting-petition-to-save-series/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/mass-effect-save-petition-change-org-times-square-billboard-2000749767"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures"
+        }
+      ]
+    },
+    {
+      "id": "assassins-creed-futuro-jueves-black-flag-resynced-nueva-partida-mas",
+      "category": "juegos",
+      "title": {
+        "es": "Ubisoft hablará del futuro de Assassin's Creed el jueves, pero avisa de que no habrá grandes anuncios",
+        "en": "Ubisoft to discuss Assassin's Creed's future on Thursday, but warns of no major reveals"
+      },
+      "dek": {
+        "es": "Antes, este martes llega la actualización con Nueva Partida+ a Black Flag Resynced.",
+        "en": "Before that, Tuesday brings the New Game+ update to Black Flag Resynced."
+      },
+      "body": {
+        "es": [
+          "Ubisoft ha confirmado, según Vandal, que el jueves 29 de octubre Jean Guesdon, responsable de contenido, ofrecerá una actualización sobre el futuro de la saga. La editora aclara que no revelará un juego nuevo: «no habrá grandes anuncios», pero quiere informar del progreso de la franquicia.",
+          "Antes, el martes 27, llega la última gran actualización de contenido de Assassin's Creed Black Flag Resynced, que añade Nueva Partida+, según Gematsu. Vandal señala además un modo Pesadilla y nuevos tesoros.",
+          "El juego del que menos se ha mostrado oficialmente es Codename HEXE, ambientado en los juicios de brujas del siglo XVI."
+        ],
+        "en": [
+          "Ubisoft has confirmed, per Vandal, that on Thursday, October 29, content chief Jean Guesdon will give an update on the franchise's future. The publisher stresses it will not reveal a new game: 'there won't be any major reveals', but it wants to keep fans informed on progress.",
+          "Before that, on Tuesday the 27th, the final major content update for Assassin's Creed Black Flag Resynced arrives, adding New Game+, per Gematsu. Vandal also mentions a Nightmare Mode and new treasure.",
+          "The title shown least officially is Codename HEXE, set during the 16th-century witch trials."
+        ]
+      },
+      "why": {
+        "es": "Conviene moderar expectativas: la compañía presenta el jueves como un balance, no como una presentación.",
+        "en": "Expectations should be modest: the company frames Thursday as a status update, not a showcase."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026299032/ubisoft-desvelara-este-jueves-el-futuro-de-assassins-creed-pero-avisa-no-esperes-grandes-anuncios/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/assassins-creed-black-flag-resynced-new-game-update-launches-october-27"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hear-about-assassins-creeds-future-this-week-in-franchise-update"
+        }
+      ]
+    },
+    {
+      "id": "game-pass-t-mobile-t-mix-noviembre",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/1280px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/960px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "credit": "Kyu3a / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Xbox Game Pass llegará incluido en los planes T-Mix de T-Mobile en EE. UU. a partir de noviembre",
+        "en": "Xbox Game Pass will come bundled with T-Mobile's T-Mix plans in the US from November"
+      },
+      "dek": {
+        "es": "Es la primera vez que Game Pass se ofrece a través de una tarifa móvil en el país.",
+        "en": "It is the first time Game Pass is offered through a wireless plan in the country."
+      },
+      "body": {
+        "es": [
+          "Xbox y T-Mobile han anunciado que Game Pass Ultimate o Premium podrán elegirse como ventaja dentro de T-Mix, la nueva modalidad de plan de la operadora en Estados Unidos. Será, según Xbox, la primera vez que Game Pass está disponible mediante una tarifa móvil en el país.",
+          "El acceso arranca en noviembre para clientes elegibles de T-Mix, y la biblioteca se podrá jugar en dispositivos que ya posean, como consolas Xbox, televisores inteligentes y PC. El anuncio no detalla precios ni condiciones; remite a la información de T-Mobile."
+        ],
+        "en": [
+          "Xbox and T-Mobile have announced that Game Pass Ultimate or Premium can be chosen as a perk within T-Mix, the carrier's new plan format in the United States. Per Xbox, it is the first time Game Pass is available through a wireless plan in the country.",
+          "Access starts in November for eligible T-Mix customers, and the library can be played on devices they already own, such as Xbox consoles, smart TVs and PCs. The announcement gives no pricing or conditions and points to T-Mobile's information."
+        ]
+      },
+      "why": {
+        "es": "Es un nuevo canal de captación para Game Pass fuera de la suscripción directa.",
+        "en": "It is a new acquisition channel for Game Pass beyond direct subscriptions."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-partners-with-t-mobile-for-first-time-deal-involving-game-pass"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-now-included-with-a-phone-plan/"
+        }
+      ]
+    },
+    {
+      "id": "marvel-cosmic-invasion-siege-castle-doom-10-noviembre",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032670/e0adf79d4bee58c06323896eb22a651f41217160/ss_e0adf79d4bee58c06323896eb22a651f41217160.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032670/c015c4ee7561287d015133dc8c0940aeae82bc6e/header.jpg",
+        "credit": "Dotemu / Steam",
+        "creditUrl": "https://store.steampowered.com/app/5032670/"
+      },
+      "title": {
+        "es": "Marvel Cosmic Invasion detalla el modo de The Siege of Castle Doom, su DLC del 10 de noviembre",
+        "en": "Marvel Cosmic Invasion details The Siege of Castle Doom mode, its November 10 DLC"
+      },
+      "dek": {
+        "es": "El segundo DLC suma a Doctor Doom y la Mujer Invisible, y un nuevo modo de combate por salas.",
+        "en": "The second DLC adds Doctor Doom and the Invisible Woman, plus a new room-by-room combat mode."
+      },
+      "body": {
+        "es": [
+          "Tribute Games y Dotemu han mostrado nuevos detalles de The Siege of Castle Doom, el segundo DLC de Marvel Cosmic Invasion, que llega el 10 de noviembre. Incluye a la Mujer Invisible y a Doctor Doom como personajes jugables, según la entrada de PlayStation Blog.",
+          "El nuevo modo se desarrolla en el castillo de Doomstadt: los jugadores avanzan por salas con trampas y peligros y eligen puertas temáticas que llevan a equipo, eventos, curación o mejoras. Un indicador de asedio sube cuando caen los héroes y las baterías recogidas refuerzan los estabilizadores de Reed Richards, que desbloquean ventajas de ataque, defensa y táctica.",
+          "En multijugador hay un sistema de MVP con estadísticas por jugador. El artículo no menciona precio ni plataformas concretas."
+        ],
+        "en": [
+          "Tribute Games and Dotemu have shown new details of The Siege of Castle Doom, the second DLC for Marvel Cosmic Invasion, arriving November 10. It adds the Invisible Woman and Doctor Doom as playable characters, per the PlayStation Blog post.",
+          "The new mode takes place in Doomstadt castle: players push through rooms full of traps and hazards and pick themed doors leading to gear, events, healing or power-ups. A Siege Gauge rises as heroes fall, and collected batteries build Reed Richards' Stabilizers, which unlock offense, defense and tactical perks.",
+          "Multiplayer adds an MVP system with per-player stats. The article does not mention price or specific platforms."
+        ]
+      },
+      "why": {
+        "es": "Añade variedad al beat 'em up con una estructura de partida más próxima al roguelike.",
+        "en": "It adds variety to the beat 'em up with a run structure closer to a roguelike."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/marvel-cosmic-invasion-dlc-the-siege-of-castle-doom-reveals-new-game-mode"
+        }
+      ]
+    },
+    {
+      "id": "golden-joystick-2026-ultimate-game-of-the-year-nominados",
+      "category": "industria",
+      "title": {
+        "es": "Los Golden Joystick 2026 abren la votación al Juego del Año con 12 nominados",
+        "en": "Golden Joystick 2026 opens Ultimate Game of the Year voting with 12 nominees"
+      },
+      "dek": {
+        "es": "Crimson Desert, Phantom Blade Zero, Resident Evil Requiem y Forza Horizon 6 compiten; la gala es el 11 de noviembre.",
+        "en": "Crimson Desert, Phantom Blade Zero, Resident Evil Requiem and Forza Horizon 6 compete; the ceremony is on November 11."
+      },
+      "body": {
+        "es": [
+          "La 44.ª edición de los Golden Joystick Awards ha abierto la votación del premio Ultimate Game of the Year. Los nominados son 007 First Light, Big Walk, CONTROL Resonant, Crimson Desert, Dispatch, Forza Horizon 6, Phantom Blade Zero, Pokémon Pokopia, PRAGMATA, Resident Evil Requiem, Star Wars: Galactic Racer y The Blood of Dawnwalker, según Insider Gaming.",
+          "La votación cierra el 30 de octubre y la ceremonia se celebra el 11 de noviembre de 2026."
+        ],
+        "en": [
+          "The 44th Golden Joystick Awards has opened voting for Ultimate Game of the Year. The nominees are 007 First Light, Big Walk, CONTROL Resonant, Crimson Desert, Dispatch, Forza Horizon 6, Phantom Blade Zero, Pokémon Pokopia, PRAGMATA, Resident Evil Requiem, Star Wars: Galactic Racer and The Blood of Dawnwalker, per Insider Gaming.",
+          "Voting closes on October 30 and the ceremony takes place on November 11, 2026."
+        ]
+      },
+      "why": {
+        "es": "Es el premio votado por el público, así que la campaña de los próximos días puede decidirlo.",
+        "en": "It is the fan-voted award, so campaigning over the next few days could decide it."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/golden-joystick-awards-2026-goty-nominees-revealed/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-ultimate-game-of-the-year-voting-is-a-go-with-games-like-crimson-desert-the-blood-of-dawnwalker-and-big-walk-all-on-the-docket/"
+        }
+      ]
+    },
+    {
+      "id": "playden-steam-ps5-jailbreak-wine-alpha",
+      "category": "pc",
+      "title": {
+        "es": "Playden permite ejecutar juegos de Steam en una PS5 con jailbreak",
+        "en": "Playden lets jailbroken PS5s run Steam games"
+      },
+      "dek": {
+        "es": "El lanzador experimental, en fase alfa, usa un port de Wine; requiere una consola modificada.",
+        "en": "The experimental launcher, in alpha, uses a Wine port; it requires a modified console."
+      },
+      "body": {
+        "es": [
+          "Playden es un lanzador para PS5 con jailbreak que permite iniciar sesión en Steam, explorar la biblioteca, descargar juegos y jugarlos mediante un port de Wine, según Insider Gaming. Su desarrollador lo describe como un proyecto experimental en alfa alojado en GitHub.",
+          "Ofrece lectura y escritura de guardados de Steam Cloud, cola de descargas, ajustes por juego y soporte de mando, además de importar carpetas de juegos de Windows por USB, SSD o FTP sin cuenta de Steam. PC Gamer destaca que ya funcionan títulos como Portal o Left 4 Dead 2.",
+          "Se planean soporte para GOG, Epic y otros lanzadores. Los artículos no recogen la postura de Sony."
+        ],
+        "en": [
+          "Playden is a launcher for jailbroken PS5s that lets users sign in to Steam, browse their library, download games and play them through a Wine port, per Insider Gaming. Its developer describes it as an experimental alpha project hosted on GitHub.",
+          "It offers Steam Cloud save read/write, a download queue, per-game settings and controller support, plus importing Windows game folders via USB, SSD or FTP without a Steam account. PC Gamer highlights that titles such as Portal and Left 4 Dead 2 already run.",
+          "Support for GOG, Epic and other launchers is planned. The articles do not cover Sony's stance."
+        ]
+      },
+      "why": {
+        "es": "Muestra hasta dónde llega la comunidad de jailbreak, un asunto sensible para Sony y para el uso de licencias de terceros.",
+        "en": "It shows how far the jailbreak scene has come, a sensitive issue for Sony and for third-party licensing."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/playden-lets-players-run-their-steam-games-on-a-jailbroken-ps5/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/a-whole-host-of-steam-pc-games-can-now-run-locally-on-a-jailbroken-playstation-5-including-portal-left-4-dead-2-and-many-more/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Xbox habría rechazado una oferta de 500 millones de dólares de Netflix por siete años de derechos de adaptación de su catálogo (Halo, Gears of War, Fable) y habría pedido 800 millones, según Puck vía Game Developer; Xbox no ha comentado.",
+        "en": "Xbox reportedly turned down a $500 million Netflix offer for seven years of adaptation rights to its catalog (Halo, Gears of War, Fable) and asked for $800 million, per Puck via Game Developer; Xbox has not commented."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties"
+      }
+    },
+    {
+      "text": {
+        "es": "Auroch Digital (Warhammer 40,000: Boltgun, Warhammer Survivors), de Sumo Group, despedirá a cerca del 25 % de su plantilla; seguirá el soporte posterior de Boltgun II y Warhammer Survivors, según Gematsu.",
+        "en": "Auroch Digital (Warhammer 40,000: Boltgun, Warhammer Survivors), part of Sumo Group, will cut about 25% of its staff; post-launch support for Boltgun II and Warhammer Survivors continues, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/auroch-digital-to-lay-off-25-percent-of-staff"
+      }
+    },
+    {
+      "text": {
+        "es": "Varios usuarios de Steam informan de problemas para iniciar sesión pese a que el servicio sigue operativo, según Vandal y PC Gamer.",
+        "en": "Several Steam users report login problems even though the service remains up, per Vandal and PC Gamer."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026299033/problemas-en-steam-multiples-usuarios-informan-de-que-un-extrano-error-les-impide-acceder-a-sus-cuentas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Valve lanza para todos los usuarios el calendario personal de Steam, que muestra los próximos estrenos según los gustos de cada jugador, tras un año de pruebas, según Vandal.",
+        "en": "Valve rolls out Steam's personal calendar to all users, showing upcoming releases based on each player's tastes after a year of testing, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026299028/steam-inaugura-para-todos-los-jugadores-una-de-sus-funciones-mas-esperadas-tras-un-ano-en-pruebas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Cyberpunk 2077 alcanza su mayor pico de jugadores en Steam desde Phantom Liberty, impulsado por la segunda temporada de Edgerunners y una gran actualización, según GameSpot.",
+        "en": "Cyberpunk 2077 hits its biggest Steam player peak since Phantom Liberty, driven by Edgerunners season two and a large update, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/"
+      }
+    },
+    {
+      "text": {
+        "es": "Arrowhead no ve un Helldivers 3 próximo: su director creativo, Johan Pilestedt, dice a Rock Paper Shotgun que una secuela obligaría a los jugadores a empezar de cero, según GameSpot.",
+        "en": "Arrowhead sees no Helldivers 3 soon: creative chief Johan Pilestedt told Rock Paper Shotgun a sequel would force players to start over, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/"
+      }
+    },
+    {
+      "text": {
+        "es": "Phantom Blade Zero necesitará 300 GB libres durante la precarga en PC, según sus desarrolladores, que han actualizado además los requisitos, informa PC Gamer.",
+        "en": "Phantom Blade Zero will need 300 GB of free space during the PC pre-load, its developers say, alongside updated system requirements, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/phantom-blade-zero-devs-say-the-game-needs-300-gb-of-free-space-for-the-pre-load-process-alongside-updated-system-requirements/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: el remake de Silent Hill 1 apuntaría a un lanzamiento en PS5 en 2027, según MP1st, recogido por Push Square; ni Konami ni Bloober lo han confirmado.",
+        "en": "Rumor: the Silent Hill 1 remake is reportedly aiming for a 2027 PS5 release, per MP1st via Push Square; neither Konami nor Bloober has confirmed it."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/rumour-silent-hill-1-remake-aiming-for-2027-ps5-release"
+      }
+    },
+    {
+      "text": {
+        "es": "Active Matter supera las 500.000 copias vendidas, según Gaijin, que señala que la mayor parte de sus jugadores está en Xbox, informa Vandal.",
+        "en": "Active Matter tops 500,000 copies sold, Gaijin says, with most of its players on Xbox, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026299026/active-matter-confirma-su-exito-el-exigente-shooter-hardcore-ya-ha-vendido-500000-copias/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Assassin's Creed Black Flag Resynced · actualización Nueva Partida+",
+      "platforms": "PS5, Xbox, PC",
+      "note": {
+        "es": "27 de octubre",
+        "en": "October 27"
+      },
+      "url": "https://www.gematsu.com/2026/10/assassins-creed-black-flag-resynced-new-game-update-launches-october-27"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero"
+    },
+    {
+      "title": "Look Outside (consolas)",
+      "platforms": "PlayStation, Switch",
+      "note": {
+        "es": "Esta semana",
+        "en": "This week"
+      },
+      "url": "https://www.eurogamer.es/el-rpg-de-terror-look-outside-dara-el-salto-a-consolas-playstation-y-switch-esta-semana"
+    },
+    {
+      "title": "Marvel Cosmic Invasion · The Siege of Castle Doom",
+      "platforms": "DLC",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/"
+    },
+    {
+      "title": "Playable Archive (juego gratuito)",
+      "platforms": "PC",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://www.gematsu.com/2026/10/the-mortuary-assistant-developer-releases-free-micro-horror-game-playable-archive-for-pc"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La petición #SaveMassEffect supera las 200.000 firmas y los fans pagan una valla en Times Square, según Kotaku.",
+        "en": "The #SaveMassEffect petition tops 200,000 signatures and fans pay for a Times Square billboard, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/mass-effect-save-petition-change-org-times-square-billboard-2000749767"
+      }
+    },
+    {
+      "text": {
+        "es": "Los asistentes a un concierto oficial de música electrónica de Pokémon se sienten engañados por incluir muy pocas canciones de la saga, según Kotaku.",
+        "en": "Attendees of an official Pokémon electronic music concert feel misled by how few songs from the series it included, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/official-pokemon-rave-missing-pokemon-music-2000749796"
+      }
+    },
+    {
+      "text": {
+        "es": "Kotaku señala que Microsoft y Epic critican ahora la IA generativa por el uso de contenido, mientras sigue el debate sobre las etiquetas de IA de Steam.",
+        "en": "Kotaku notes Microsoft and Epic now voice concerns about generative AI over content use, as the debate over Steam's AI disclosures continues."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans especulan con el papel de Lucia en GTA 6 tras la actitud de la actriz rumoreada en un directo; es solo rumor, según VGC.",
+        "en": "Fans speculate about Lucia's role in GTA 6 after the rumored actor's behavior in a livestream; it is only a rumor, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-actor-rumoured-to-be-playing-lucia-in-gta-6-actively-ignored-questions-about-it-during-an-introductory-livestream/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    }
+  ]
+}
