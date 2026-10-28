@@ -1,0 +1,780 @@
+{
+  "date": "2026-10-28",
+  "headline": {
+    "es": "GTA 6 pide 210 GB mientras sus empleados en el Reino Unido votan sobre el sindicato",
+    "en": "GTA 6 asks for 210 GB as its UK staff vote on a union"
+  },
+  "intro": {
+    "es": "Además, Pokémon Unite anuncia su cierre, Capcom retira Street Fighter 5 por un fallo de seguridad y Warhorse sufre un ciberataque.",
+    "en": "Also: Pokémon Unite announces its shutdown, Capcom pulls Street Fighter 5 over a security flaw and Warhorse suffers a cyberattack."
+  },
+  "stories": [
+    {
+      "id": "gta-6-210-gb-precarga-12-noviembre",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 ocupará unos 210 GB, según datos de la tienda de PlayStation",
+        "en": "GTA 6 will take up around 210 GB, according to PlayStation store data"
+      },
+      "dek": {
+        "es": "La cifra corresponde a la edición estándar; la precarga empezaría el 12 de noviembre.",
+        "en": "The figure is for the standard edition; preload reportedly starts on November 12."
+      },
+      "body": {
+        "es": [
+          "Grand Theft Auto 6 ocupará unos 210 GB en consola, según la cuenta PlayStation Game Size recogida por GameSpot e Insider Gaming. La cifra corresponde a la edición estándar, de 79,99 dólares; no se ha publicado el tamaño de la edición Ultimate.",
+          "Insider Gaming sitúa el lanzamiento el 19 de noviembre, con precarga desde el 12 y salida a medianoche. Advierte de que el tamaño podría variar y de que un parche del primer día añadiría más datos.",
+          "Además, la revista Edge publicará el jueves 29 de octubre un reportaje tras visitar Rockstar para ver el juego, según PC Gamer."
+        ],
+        "en": [
+          "Grand Theft Auto 6 will take up about 210 GB on console, according to the PlayStation Game Size account cited by GameSpot and Insider Gaming. The figure is for the $79.99 standard edition; no size has been published for the Ultimate Edition.",
+          "Insider Gaming puts the launch on November 19, with preload from the 12th and a midnight release. It cautions that the size could change and that a day-one patch would add more data.",
+          "Edge magazine will also publish a feature on Thursday, October 29 after visiting Rockstar to see the game, per PC Gamer."
+        ]
+      },
+      "why": {
+        "es": "Quien quiera jugar a medianoche necesitará espacio libre en el disco antes de que abra la precarga.",
+        "en": "Anyone planning a midnight start will need free disk space before preload opens."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-install-size-revealed-210-gb/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-ps5-file-size-has-been-reported-and-its-an-absolute-monster"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026300042/desvelan-el-tamano-de-gta-6-en-ps5-estos-son-los-gb-que-ocupara-en-tu-ssd/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/"
+        }
+      ]
+    },
+    {
+      "id": "rockstar-voto-sindicato-iwgb-12-26-noviembre",
+      "category": "industria",
+      "title": {
+        "es": "Los empleados de Rockstar en el Reino Unido votarán sobre el sindicato en plena salida de GTA 6",
+        "en": "Rockstar's UK staff will vote on a union as GTA 6 launches"
+      },
+      "dek": {
+        "es": "La votación se celebra del 12 al 26 de noviembre; el juego sale el día 19.",
+        "en": "Voting runs from November 12 to 26; the game launches on the 19th."
+      },
+      "body": {
+        "es": [
+          "Los empleados de Rockstar Games en el Reino Unido votarán entre el 12 y el 26 de noviembre si reconocen al sindicato IWGB Rockstar Game Workers Union, vinculado al sindicato británico IWGB, según Game Developer y Kotaku. GTA 6 sale el 19 de noviembre, en mitad del periodo de votación.",
+          "Jennifer Koble, responsable de publicación de Rockstar, afirmó: «vamos donde va el equipo. Si quieren un sindicato, tendrán un sindicato», según Game Developer.",
+          "La votación es independiente del tribunal laboral por los despidos de más de 30 empleados sindicalizados en 2025, cuyas conclusiones finales se oirán el 17 y el 18 de noviembre."
+        ],
+        "en": [
+          "Rockstar Games employees in the UK will vote between November 12 and 26 on whether to recognise the IWGB Rockstar Game Workers Union, affiliated with the Independent Workers' Union of Great Britain, per Game Developer and Kotaku. GTA 6 launches on November 19, in the middle of the voting window.",
+          "Rockstar head of publishing Jennifer Koble said: 'we go where the team goes. If they want a union, they will have a union', per Game Developer.",
+          "The vote is separate from the tribunal over the 2025 firing of more than 30 unionised employees, with closing arguments on November 17 and 18."
+        ]
+      },
+      "why": {
+        "es": "El resultado llega justo después del mayor lanzamiento del año y de un conflicto laboral aún abierto.",
+        "en": "The result lands right after the year's biggest launch, with a labour dispute still open."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/rockstar-se-juega-algo-que-exito-gta-6-millones-estrenan-juego-muchos-sus-trabajadores-votaran-su-futuro"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-supera-40000-millones-modern-warfare-4",
+      "category": "xbox",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      },
+      "title": {
+        "es": "Call of Duty supera los 40.000 millones de dólares de ingresos acumulados",
+        "en": "Call of Duty passes $40 billion in lifetime revenue"
+      },
+      "dek": {
+        "es": "Asha Sharma, consejera delegada de Xbox, confirma la cifra tras el estreno de Modern Warfare 4.",
+        "en": "Xbox CEO Asha Sharma confirmed the figure after the launch of Modern Warfare 4."
+      },
+      "body": {
+        "es": [
+          "La franquicia Call of Duty ha superado los 40.000 millones de dólares en ingresos acumulados, según confirmó la consejera delegada de Xbox, Asha Sharma, tras el lanzamiento de Call of Duty: Modern Warfare 4 el 23 de octubre, recogen GameSpot y PC Gamer.",
+          "Sharma felicitó al equipo y dio las gracias a los jugadores. Pure Xbox añade que celebró varios hitos del juego.",
+          "En Steam, Modern Warfare 4 encabeza la lista de más vendidos de hoy."
+        ],
+        "en": [
+          "The Call of Duty franchise has passed $40 billion in lifetime revenue, Xbox CEO Asha Sharma confirmed after the launch of Call of Duty: Modern Warfare 4 on October 23, per GameSpot and PC Gamer.",
+          "Sharma congratulated the team and thanked players. Pure Xbox adds that she celebrated several milestones for the game.",
+          "On Steam, Modern Warfare 4 tops today's best-seller list."
+        ]
+      },
+      "why": {
+        "es": "Es un respaldo para Xbox en una semana marcada por la oferta de salida voluntaria en Microsoft.",
+        "en": "It is a boost for Xbox in a week dominated by Microsoft's voluntary exit offer."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/call-of-duty-lifetime-revenue-surges-past-40-billion-microsoft-confirms/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-ceo-celebrates-incredible-milestones-for-call-of-duty-modern-warfare-4"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-unite-cierre-servidores-23-marzo-2027",
+      "category": "nintendo",
+      "title": {
+        "es": "Pokémon Unite cerrará sus servidores el 23 de marzo de 2027",
+        "en": "Pokémon Unite will shut down on March 23, 2027"
+      },
+      "dek": {
+        "es": "El MOBA gratuito deja de vender gemas y membresías, pero mantiene su último gran torneo.",
+        "en": "The free-to-play MOBA stops selling gems and memberships but keeps its final big tournament."
+      },
+      "body": {
+        "es": [
+          "The Pokémon Company y TiMi Studio Group cerrarán Pokémon Unite el 23 de marzo de 2027 a las 00:00 UTC, según Gematsu. El juego salió en Switch el 21 de julio de 2021 y en móviles el 22 de septiembre del mismo año.",
+          "La venta de gemas Aeos y de nuevas membresías UNITE Club terminó el 27 de octubre; quienes ya son miembros conservan sus ventajas y las gemas sin gastar pueden usarse hasta el cierre. Una última actualización el 12 de noviembre incluirá un evento para conseguir objetos pasados.",
+          "El torneo Aeos Crown 2027 en Tokio sigue adelante, con clasificatorios desde el 5 de diciembre, y Insider Gaming lo presenta como el último del juego, con 1 millón de dólares en premios."
+        ],
+        "en": [
+          "The Pokémon Company and TiMi Studio Group will shut down Pokémon Unite on March 23, 2027 at 00:00 UTC, per Gematsu. The game launched on Switch on July 21, 2021 and on mobile on September 22 that year.",
+          "Sales of Aeos gems and new UNITE Club memberships ended on October 27; existing members keep their benefits and unspent gems can be used until shutdown. A final update on November 12 will include an event to obtain past items.",
+          "The Aeos Crown 2027 tournament in Tokyo is still going ahead, with qualifiers from December 5, and Insider Gaming presents it as the game's last, with a $1 million prize pool."
+        ]
+      },
+      "why": {
+        "es": "Es otro juego como servicio que se despide a menos de seis años de su estreno.",
+        "en": "It is another live-service game closing less than six years after launch."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/pokemon-unite-to-end-service-on-march-23-2027"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/pokemon-unite-is-shutting-down-after-nearly-six-years/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/pokemon-unite-shut-down-after-biggest-tournament/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/el-moba-pokemon-unite-cerrara-sus-servidores-en-marzo-de-2027"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-indie-world-28-octubre-15-minutos",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo emite hoy un Indie World de unos 15 minutos para Switch y Switch 2",
+        "en": "Nintendo airs a roughly 15-minute Indie World today for Switch and Switch 2"
+      },
+      "dek": {
+        "es": "La presentación empieza a las 15:00 hora peninsular española y se verá en YouTube y Twitch.",
+        "en": "The showcase starts at 2:00 pm UK time and streams on YouTube and Twitch."
+      },
+      "body": {
+        "es": [
+          "Nintendo emite hoy, 28 de octubre, un Indie World Showcase dedicado a juegos independientes de Switch 2 y Switch. Empieza a las 7:00 PT / 10:00 ET, es decir, las 14:00 en el Reino Unido y las 15:00 en la España peninsular, y durará unos 15 minutos, según Gematsu y GameSpot.",
+          "Como en ediciones anteriores, se podrá ver en el canal oficial de Nintendo en YouTube y en Twitch. No se ha avanzado qué títulos aparecerán."
+        ],
+        "en": [
+          "Nintendo airs an Indie World Showcase today, October 28, focused on independent games for Switch 2 and Switch. It starts at 7:00 am PT / 10:00 am ET, which is 2:00 pm in the UK and 3:00 pm in mainland Spain, and runs for about 15 minutes, per Gematsu and GameSpot.",
+          "As in previous editions, it can be watched on Nintendo's official YouTube channel and on Twitch. The games to be featured have not been announced."
+        ]
+      },
+      "why": {
+        "es": "Estas emisiones suelen traer anuncios y lanzamientos sorpresa de estudios independientes.",
+        "en": "These streams often bring announcements and shadow-drops from indie studios."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/nintendo-emitira-manana-un-nuevo-indie-world-de-15-minutos-dedicado-a-switch-y-switch-2"
+        }
+      ]
+    },
+    {
+      "id": "street-fighter-5-retirado-servidores-fallo-php",
+      "category": "juegos",
+      "title": {
+        "es": "Capcom retira Street Fighter 5 y apaga sus servidores por un fallo de seguridad en PHP",
+        "en": "Capcom pulls Street Fighter 5 and shuts down servers over a PHP security flaw"
+      },
+      "dek": {
+        "es": "El juego sigue funcionando sin conexión; Capcom no ha dado fecha para el regreso del online.",
+        "en": "The game still works offline; Capcom has given no date for online's return."
+      },
+      "body": {
+        "es": [
+          "Capcom ha desactivado las funciones online de Street Fighter V y ha suspendido su venta en PlayStation Store y Steam mientras corrige un problema de seguridad relacionado con PHP, según VGC. Las versiones de PS4 y PC se consideran potencialmente vulnerables.",
+          "Quienes ya tienen el juego pueden seguir jugando a sus modos sin conexión. VGC explica que a principios de semana se informó de dos vulnerabilidades graves de PHP, detectadas con ayuda de IA, y que varios servicios cayeron mientras se aplicaban parches.",
+          "Capcom no ha indicado cuándo volverán el online ni la venta."
+        ],
+        "en": [
+          "Capcom has switched off Street Fighter V's online features and suspended sales on the PlayStation Store and Steam while it fixes a PHP-related security issue, per VGC. The PS4 and PC versions are considered potentially vulnerable.",
+          "Owners can keep playing the offline modes. VGC explains that two major PHP vulnerabilities, found with the help of AI, were reported earlier this week and several services went down while patches were applied.",
+          "Capcom has not said when online play or sales will return."
+        ]
+      },
+      "why": {
+        "es": "Muestra cómo un fallo en una tecnología web común puede dejar fuera de línea a un juego de lucha.",
+        "en": "It shows how a flaw in a common web technology can take a fighting game offline."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-has-temporarily-delisted-street-fighter-5-and-turned-off-its-servers-as-it-works-on-php-security-issue/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026300039/capcom-retira-street-fighter-5-de-las-tiendas-digitales-y-cierra-sus-servidores-por-un-problema-de-seguridad/"
+        }
+      ]
+    },
+    {
+      "id": "warhorse-studios-ciberataque-serio-kingdom-come",
+      "category": "industria",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/capsule_616x353.jpg",
+        "credit": "Deep Silver / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1771300/"
+      },
+      "title": {
+        "es": "Warhorse Studios, creadores de Kingdom Come, sufre un «serio» ciberataque",
+        "en": "Warhorse Studios, maker of Kingdom Come, hit by a 'serious' cyberattack"
+      },
+      "dek": {
+        "es": "El estudio aún evalúa el alcance y no ha detallado qué datos se vieron afectados.",
+        "en": "The studio is still assessing the scope and has not said what data was affected."
+      },
+      "body": {
+        "es": [
+          "Warhorse Studios, desarrolladora de Kingdom Come: Deliverance, anunció en su web que ha sufrido un ciberataque que permitió el acceso no autorizado a sistemas y datos de la empresa, según Game Developer. Su consejero delegado, Martin Frývaldský, lo calificó de «incidente serio».",
+          "El estudio dice que sus prioridades son asegurar los sistemas, determinar el alcance de la brecha y proteger a empleados, socios y comunidad, y que trabaja con expertos en ciberseguridad.",
+          "No se sabe si se expuso información de empleados o archivos internos de proyectos, entre ellos el RPG de El Señor de los Anillos en el que trabaja el estudio. Warhorse pertenece a Fellowship Entertainment, escisión de Embracer."
+        ],
+        "en": [
+          "Warhorse Studios, developer of Kingdom Come: Deliverance, announced on its website that it suffered a cyberattack that gave unauthorised access to company systems and data, per Game Developer. CEO Martin Frývaldský called it 'a serious incident'.",
+          "The studio says its priorities are securing systems, establishing the breach's full extent and protecting employees, partners and the community, and that it is working with cybersecurity experts.",
+          "It is not known whether employee data or internal project files were exposed, including those of the Lord of the Rings RPG the studio is working on. Warhorse is owned by Fellowship Entertainment, a spin-off of Embracer."
+        ]
+      },
+      "why": {
+        "es": "Hasta que no se conozca el alcance, no está claro si hay riesgo para empleados o para proyectos en desarrollo.",
+        "en": "Until the scope is known, it is unclear whether staff or projects in development are at risk."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/warhorse-studios-los-creadores-de-kingdom-come-denuncian-haber-sufrido-un-serio-ciberataque"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/lord-of-the-rings-rpg-game-studio-hit-by-serious-cyberattack-as-the-internet-continues-breaking-2000750137"
+        }
+      ]
+    },
+    {
+      "id": "capcom-resultados-semestre-ventas-digitales-onimusha",
+      "category": "industria",
+      "title": {
+        "es": "Capcom presume de catálogo: Onimusha vende 1,78 millones y lo digital domina",
+        "en": "Capcom leans on its catalog: Onimusha sells 1.78 million and digital dominates"
+      },
+      "dek": {
+        "es": "Su informe del segundo trimestre fiscal destaca el peso del PC y de los juegos antiguos.",
+        "en": "Its Q2 report highlights the weight of PC and older games."
+      },
+      "body": {
+        "es": [
+          "Capcom ha publicado sus resultados del segundo trimestre del año fiscal 2026. Onimusha: Way of the Sword vendió 1,78 millones de copias en su primer mes, según Nintendo Life. Resident Evil Requiem sumó 450.000 unidades en el trimestre (8,51 millones en total) y Pragmata, 229.000 (2,73 millones en total).",
+          "Push Square señala que las ventas digitales supusieron un 92,4 % y que Capcom prevé llegar al 95,4 % al cierre del siguiente trimestre; Nintendo Life cita un 94,2 %, así que las fuentes difieren en la cifra exacta. Ambas coinciden en que el PC pesa un 57,1 % del total.",
+          "Capcom destaca su mejor primer semestre en ventas totales y de catálogo; Devil May Cry 5 superó en el trimestre al recién llegado Onimusha, según Push Square."
+        ],
+        "en": [
+          "Capcom has published its Q2 fiscal 2026 results. Onimusha: Way of the Sword sold 1.78 million copies in its first month, per Nintendo Life. Resident Evil Requiem added 450,000 units in the quarter (8.51 million lifetime) and Pragmata 229,000 (2.73 million lifetime).",
+          "Push Square reports digital at 92.4% of sales, with Capcom expecting 95.4% by the end of next quarter; Nintendo Life cites 94.2%, so the sources differ on the exact figure. Both agree PC accounts for 57.1% of the total.",
+          "Capcom highlights its best-ever first half for total and catalog unit sales; Devil May Cry 5 outsold newcomer Onimusha in the quarter, per Push Square."
+        ]
+      },
+      "why": {
+        "es": "Confirma el peso del catálogo y de lo digital en una de las editoras más rentables del momento.",
+        "en": "It confirms the weight of catalog and digital sales at one of the industry's strongest publishers."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcoms-2026-bangers-continue-to-shine-in-latest-financial-report"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/physical-copies-barely-register-for-capcom-plans-for-95percent-digital-sales"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026300015/mas-del-92-de-los-juegos-que-vende-capcom-ya-son-digitales/"
+        }
+      ]
+    },
+    {
+      "id": "dont-nod-life-is-strange-insolvencia-despidos",
+      "category": "industria",
+      "title": {
+        "es": "Don't Nod, creadora de Life is Strange, afronta despidos y riesgo de insolvencia",
+        "en": "Don't Nod, maker of Life is Strange, faces layoffs and risk of insolvency"
+      },
+      "dek": {
+        "es": "El sindicato STJV advierte de recortes inevitables; la plantilla tiene hasta el 3 de noviembre.",
+        "en": "Union STJV warns cuts are unavoidable; staff have until November 3."
+      },
+      "body": {
+        "es": [
+          "Don't Nod, el estudio parisino de Life is Strange, atraviesa un procedimiento de salvaguarda y corre el riesgo de insolvencia, según un comunicado de trabajadores del 27 de octubre que recogen IGN y Vandal (que cita a Rock Paper Shotgun y al sindicato STJV).",
+          "Según el sindicato, los despidos serían inevitables y afectarían a animadores, artistas, la mayoría de diseñadores y programadores y a los testers; un proyecto interno, P14, podría cancelarse. Los escenarios son buscar financiación externa, que también implicaría recortes, o liquidar la empresa.",
+          "El consejero delegado, Oskar Guilbert, explicó que el proceso busca anticiparse a un escenario potencialmente muy grave. Los empleados acusan además a la dirección de prácticas «ilegales», según IGN. Dicho plazo de consultas termina el 3 de noviembre."
+        ],
+        "en": [
+          "Don't Nod, the Paris studio behind Life is Strange, is in a safeguard procedure and at risk of insolvency, according to an October 27 statement from employees reported by IGN and Vandal (which cites Rock Paper Shotgun and the STJV union).",
+          "The union says layoffs are unavoidable and would hit animators, artists, most designers and programmers, and testers; an internal project, P14, could be cancelled. The options are to find outside funding, which would also mean cuts, or to liquidate the company.",
+          "CEO Oskar Guilbert said the process aims to get ahead of a potentially very serious scenario. Employees also accuse management of 'illegal' practices, per IGN. The consultation period ends on November 3."
+        ]
+      },
+      "why": {
+        "es": "Es otro estudio europeo con un catálogo reconocido que se tambalea tras un año de recortes en el sector.",
+        "en": "It is another well-known European studio wobbling after a year of industry cuts."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026300025/los-creadores-de-life-is-strange-en-peligro-los-despidos-seran-inevitables-aunque-el-cierre-aun-podria-evitarse/"
+        }
+      ]
+    },
+    {
+      "id": "discord-mensajes-buscadores-diciembre-servidores-publicos",
+      "category": "pc",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Discord_booth_%2843507601795%29.jpg/1280px-Discord_booth_%2843507601795%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Discord_booth_%2843507601795%29.jpg/960px-Discord_booth_%2843507601795%29.jpg",
+        "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Discord_booth_(43507601795).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      },
+      "title": {
+        "es": "Los mensajes de grandes servidores públicos de Discord aparecerán en Google desde diciembre",
+        "en": "Messages from large public Discord servers will show up in web search from December"
+      },
+      "dek": {
+        "es": "Solo afecta a servidores detectables de más de 1.000 miembros; hay ajustes de exclusión.",
+        "en": "It only covers discoverable servers with over 1,000 members; there are opt-out controls."
+      },
+      "body": {
+        "es": [
+          "Discord permitirá que los mensajes de ciertos servidores públicos grandes aparezcan en buscadores a partir de mediados de diciembre, según Kotaku y PC Gamer. Solo se aplica a servidores «detectables», públicos, con más de 1.000 miembros y a los que se puede entrar sin invitación.",
+          "Los administradores podrán elegir qué canales se indexan antes de que arranque la función. Los miembros que no quieran que se muestren sus mensajes podrán excluirse en sus ajustes de privacidad, y solo se mostrarán mensajes de cuentas adultas.",
+          "Los mensajes directos, los servidores privados y los grupos de mensajes quedan fuera. Discord dice que busca que las comunidades grandes sean más fáciles de encontrar y que las preguntas frecuentes de un juego se respondan desde su servidor oficial."
+        ],
+        "en": [
+          "Discord will let messages from certain large public servers appear in web search from mid-December, per Kotaku and PC Gamer. It only applies to 'discoverable' servers: public, with over 1,000 members and joinable without an invite.",
+          "Admins will be able to choose which channels are indexed before the feature goes live. Members who don't want their messages shown can opt out in their privacy settings, and only messages from adult accounts will appear.",
+          "Direct messages, private servers and group DMs are excluded. Discord says it wants large communities to be easier to find and a game's frequent questions to be answered from its official server."
+        ]
+      },
+      "why": {
+        "es": "Cambia la expectativa de privacidad en comunidades de juegos que muchos usuarios veían como espacios cerrados.",
+        "en": "It changes privacy expectations in game communities many users saw as closed spaces."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/some-discord-server-messages-are-about-to-show-up-in-web-search-results-2000750261"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-cazatesoros-one-piece-1-noviembre",
+      "category": "juegos",
+      "title": {
+        "es": "Fortnite estrena el 1 de noviembre la minitemporada Cazatesoros con One Piece",
+        "en": "Fortnite launches the One Piece-themed Treasure Hunters mini-season on November 1"
+      },
+      "dek": {
+        "es": "Luffy, Zoro, Nami, Sanji y Usopp aparecen en el tráiler; el autobús de batalla se convierte en el Going Merry.",
+        "en": "Luffy, Zoro, Nami, Sanji and Usopp appear in the trailer; the battle bus becomes the Going Merry."
+      },
+      "body": {
+        "es": [
+          "Epic Games ha publicado el tráiler de Fortnite: Cazatesoros, una minitemporada de temática pirata que arranca el domingo 1 de noviembre, entre la temporada actual del Capítulo 7 y la siguiente etapa del juego, según Vandal.",
+          "El tráiler muestra a Monkey D. Luffy, Roronoa Zoro, Nami, Sanji, Usopp y Buggy el Payaso, y el autobús de batalla pasa a ser el Going Merry. Hay cambios en el mapa, con una zona occidental que los fans relacionan con Arlong Park, una escopeta pirata y un arma mítica ligada a Luffy.",
+          "Aún no se conocen el contenido del pase de batalla, los precios de los cosméticos ni si todos los personajes estarán desde el primer día."
+        ],
+        "en": [
+          "Epic Games has released the trailer for Fortnite: Treasure Hunters, a pirate-themed mini-season starting Sunday, November 1, between the current Chapter 7 season and the game's next stage, per Vandal.",
+          "The trailer shows Monkey D. Luffy, Roronoa Zoro, Nami, Sanji, Usopp and Buggy the Clown, and the battle bus becomes the Going Merry. There are map changes, including a western area fans link to Arlong Park, a pirate-themed shotgun and a mythic weapon tied to Luffy.",
+          "The battle pass contents, cosmetic prices and whether all characters will be available on day one are not yet known."
+        ]
+      },
+      "why": {
+        "es": "Es la última colaboración antes de una nueva etapa del juego, con una de las licencias más populares del manga.",
+        "en": "It is the last collaboration before a new stage of the game, using one of manga's most popular licences."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026300030/fortnite-muestra-en-un-espectacular-trailer-su-nueva-temporada-que-llega-el-1-de-noviembre-con-one-piece/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/fortnite-cazatesoros-avanza-la-llegada-de-contenidos-de-one-piece-y-mas-con-este-trailer/"
+        }
+      ]
+    },
+    {
+      "id": "elden-ring-pelicula-a24-duracion-amazon-mgm",
+      "category": "adaptaciones",
+      "title": {
+        "es": "La película de Elden Ring podría rondar las tres horas, según los primeros detalles",
+        "en": "The Elden Ring movie could run close to three hours, early details suggest"
+      },
+      "dek": {
+        "es": "Amazon MGM compraría derechos de streaming en varios mercados internacionales, según Deadline.",
+        "en": "Amazon MGM is reportedly buying streaming rights in several international markets, per Deadline."
+      },
+      "body": {
+        "es": [
+          "La película de Elden Ring de A24 podría acercarse a las tres horas de duración, según IGN y GameSpot, que recogen nuevos detalles publicados por Deadline. Es una cifra reportada, no confirmada oficialmente por el estudio.",
+          "Según Deadline, Amazon MGM compra los derechos de streaming de primera ventana en numerosos mercados internacionales, en un acuerdo que podría valer «decenas de millones de dólares». GameSpot menciona además una posible integración con Twitch en el futuro."
+        ],
+        "en": [
+          "A24's Elden Ring movie could run close to three hours, according to IGN and GameSpot, which relay new details from Deadline. The figure is reported, not officially confirmed by the studio.",
+          "Per Deadline, Amazon MGM is buying first-window streaming rights in numerous international markets in a deal that could be worth 'tens of millions of dollars'. GameSpot also mentions possible Twitch integration down the line."
+        ]
+      },
+      "why": {
+        "es": "Indica que el estudio apuesta por una producción de gran escala y por el mercado internacional.",
+        "en": "It suggests the studio is betting on a large-scale production and the international market."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/elden-ring-movie-runtime-could-reach-nearly-3-hours"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/elden-ring-movie-might-be-extremely-long-and-it-could-have-twitch-integration-eventually/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Epic prepara cambiar el EULA de Unreal Engine y MetaHuman para eliminar la prohibición de entrenar IA con sus resultados; cada desarrollador podrá restringirlo en su juego, según Game Developer.",
+        "en": "Epic plans to change the Unreal Engine and MetaHuman EULA to drop the ban on training AI on their outputs; each developer can still restrict it for their own game, per Game Developer."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman"
+      }
+    },
+    {
+      "text": {
+        "es": "El director Francis Lawrence confirma que la película de BioShock de Netflix sigue en desarrollo, pero admite que es «complicada» y no garantiza que se ruede, según GameSpot.",
+        "en": "Director Francis Lawrence confirms Netflix's BioShock movie is still in development but admits it is 'tricky' and gives no guarantee it will be made, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/"
+      }
+    },
+    {
+      "text": {
+        "es": "El consejero delegado de Pocketpair dice que le gustaría hablar con Nintendo para llevar Palworld a Switch 2, aunque la demanda de Nintendo sigue en curso, según VGC.",
+        "en": "Pocketpair's CEO says he would 'love to have conversations' to bring Palworld to Switch 2, although Nintendo's lawsuit is ongoing, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/"
+      }
+    },
+    {
+      "text": {
+        "es": "Matt Hall, cocreador de Crossy Road, pasa a dirigir la división de juegos móviles de Atari como vicepresidente ejecutivo.",
+        "en": "Matt Hall, co-creator of Crossy Road, now leads Atari's mobile games division as executive vice president."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/"
+      }
+    },
+    {
+      "text": {
+        "es": "Dan Ayoub, antiguo responsable de Halo, pasa a dirigir Wizards of the Coast y Hasbro Digital Games; llegó a WotC en 2024 como vicepresidente sénior de juegos digitales.",
+        "en": "Dan Ayoub, formerly of Halo, now runs Wizards of the Coast and Hasbro Digital Games; he joined WotC in 2024 as SVP of digital games."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/"
+      }
+    },
+    {
+      "text": {
+        "es": "The Outlast Trials ya está disponible por sorpresa en Switch 2, a 38,99 euros en la eShop.",
+        "en": "The Outlast Trials has shadow-dropped on Switch 2, priced at €38.99 on the eShop."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026300041/el-terror-cooperativo-de-the-outlast-trials-llega-por-sorpresa-a-nintendo-switch-2-donde-ya-esta-disponible/"
+      }
+    },
+    {
+      "text": {
+        "es": "Dean Hall, creador de DayZ, presenta Gruntz, un juego cooperativo de supervivencia contra hordas de zombis y alienígenas que ya se puede probar gratis, según Vandal.",
+        "en": "DayZ creator Dean Hall unveils Gruntz, a co-op survival game against zombie and alien hordes that can already be tried for free, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026300033/el-creador-de-dayz-presenta-su-nuevo-juego-de-supervivencia-multijugador-y-ya-puedes-probarlo-gratis/"
+      }
+    },
+    {
+      "text": {
+        "es": "Massive Entertainment asegura que más de 50 millones de personas han jugado a algún título de The Division, según Vandal.",
+        "en": "Massive Entertainment says more than 50 million people have played a The Division game, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026300023/un-exito-para-ubisoft-the-division-ha-superado-un-nuevo-hito-de-jugadores/"
+      }
+    },
+    {
+      "text": {
+        "es": "Call of Duty: Modern Warfare 4 lidera las ventas físicas en el Reino Unido, con Nintendo Switch Sports Resort pisándole los talones, según Vandal.",
+        "en": "Call of Duty: Modern Warfare 4 tops UK physical sales, with Nintendo Switch Sports Resort close behind, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026300027/call-of-duty-modern-warfare-4-se-disputa-el-primer-lugar-con-nintendo-switch-sports-resort-en-reino-unido/"
+      }
+    },
+    {
+      "text": {
+        "es": "Sony Network Communications confirma una filtración en la base de datos de socios de So-net, su proveedor de internet en Japón, con más de 2,5 millones de registros, según 3DJuegos.",
+        "en": "Sony Network Communications confirms a breach of the member database of So-net, its Japanese ISP, involving over 2.5 million records, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/tecnologia/noticias/sony-confirma-hackeo-masivo-a-uno-sus-servicios-robo-2-5-millones-datos-usuarios-probable-que-a-ti-no-te-haya-afectado"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/"
+    },
+    {
+      "title": "Terrible Lizards",
+      "platforms": "PS5",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://blog.playstation.com/2026/10/27/terrible-lizards-dev-discusses-twisting-familiar-dinosaur-designs-out-oct-29/"
+    },
+    {
+      "title": "ArcheAge Chronicles (acceso anticipado)",
+      "platforms": "PC",
+      "note": {
+        "es": "3 de noviembre",
+        "en": "November 3"
+      },
+      "url": "https://www.gematsu.com/2026/10/archeage-chronicles-launches-in-early-access-for-pc-on-november-3"
+    },
+    {
+      "title": "Where Winds Meet · arco de Hutuo",
+      "platforms": "PS5",
+      "note": {
+        "es": "13 de noviembre",
+        "en": "November 13"
+      },
+      "url": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/"
+    },
+    {
+      "title": "Moonlight Peaks",
+      "platforms": "PS5",
+      "note": {
+        "es": "17 de noviembre",
+        "en": "November 17"
+      },
+      "url": "https://www.gematsu.com/2026/10/moonlight-peaks-coming-to-ps5-on-november-17"
+    },
+    {
+      "title": "Bleach Mirrors High",
+      "platforms": {
+        "es": "Móvil",
+        "en": "Mobile"
+      },
+      "note": {
+        "es": "28 de octubre",
+        "en": "October 28"
+      },
+      "url": "https://www.gematsu.com/2026/10/bleach-mirrors-high-launches-october-28"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los fans de Mass Effect reúnen en menos de 15 minutos el dinero para vallas frente a las oficinas de EA y The Game Awards, según Kotaku.",
+        "en": "Mass Effect fans crowdfunded billboards outside EA's offices and The Game Awards in under 15 minutes, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/savemasseffect-mass-effect-billboard-ea-hq-game-awards-2000750281"
+      }
+    },
+    {
+      "text": {
+        "es": "El compositor Sam Hulick prepara una versión «reorquestada» del tráiler filtrado de Mass Effect 5 para el N7 Day, según PC Gamer.",
+        "en": "Composer Sam Hulick is preparing a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/"
+      }
+    },
+    {
+      "text": {
+        "es": "Peter Molyneux afirma que la industria «finge» no usar IA aunque es casi imposible programar sin ella, y reabre el debate, según PC Gamer.",
+        "en": "Peter Molyneux says the industry is 'pretending' not to use AI although coding without it is nearly impossible, reopening the debate, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/"
+      }
+    },
+    {
+      "text": {
+        "es": "Dos creadores del Doom original, John Romero y otro miembro del equipo, discuten en redes sobre la historia del juego, según IGN.",
+        "en": "Two creators of the original Doom, John Romero and another team member, are arguing on social media about the game's history, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/two-creators-of-the-original-doom-are-arguing-about-its-history-on-social-media"
+      }
+    },
+    {
+      "text": {
+        "es": "Guías falsas generadas con IA de Fire Emblem: Fortune's Weave inundan Amazon Japón, según Nintenderos.",
+        "en": "AI-generated fake guides for Fire Emblem: Fortune's Weave are flooding Amazon Japan, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/falsas-guias-generadas-con-ia-de-fire-emblem-fortunes-weave-inundan-amazon-japon/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "url": "https://store.steampowered.com/app/3259780/"
+    },
+    {
+      "name": "DayZ",
+      "url": "https://store.steampowered.com/app/221100/"
+    },
+    {
+      "name": "CRACK",
+      "url": "https://store.steampowered.com/app/4312190/"
+    },
+    {
+      "name": "Crimson Desert Enhanced: Charting the Unknown",
+      "url": "https://store.steampowered.com/app/5001840/"
+    }
+  ]
+}
