@@ -1,0 +1,761 @@
+{
+  "date": "2026-10-29",
+  "headline": {
+    "es": "GTA 6 presume de un mapa el doble de grande que el de GTA 5 y Phantom Blade Zero llega con un 88 en Metacritic",
+    "en": "GTA 6 touts a map twice the size of GTA 5, and Phantom Blade Zero arrives with an 88 on Metacritic"
+  },
+  "intro": {
+    "es": "Además, el cofundador de BioWare habla del cierre del estudio, Valve responde por la «basura» de IA en Steam Next Fest y Xbox admite que debe arreglar su sistema de códigos de análisis.",
+    "en": "Also: a BioWare co-founder speaks on the studio closure, Valve answers complaints about AI \"slop\" at Steam Next Fest, and Xbox admits its review-code system needs fixing."
+  },
+  "stories": [
+    {
+      "id": "gta-6-mapa-doble-gta-5-edge",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 tendrá un mapa unas dos veces mayor que el de GTA 5, según Rockstar",
+        "en": "GTA 6 will have a map about twice the size of GTA 5, Rockstar says"
+      },
+      "dek": {
+        "es": "Un reportaje de Edge recoge cifras del mapa, los interiores y los PNJ del juego, que sale el 19 de noviembre.",
+        "en": "An Edge feature gathers figures on the map, interiors and NPCs of the game, out on November 19."
+      },
+      "body": {
+        "es": [
+          "Según Insider Gaming, que cita el reportaje de la revista Edge, Rockstar sitúa el mapa de GTA 6 en aproximadamente el doble del de GTA 5, y su superficie total sería casi tan grande como las zonas jugables de GTA 4, GTA 5 y Red Dead Redemption 2 juntas. Insider Gaming no da medidas exactas.",
+          "PC Gamer titula que el juego contiene «un orden de magnitud más» de interiores que anteriores títulos del estudio y atribuye a Aaron Garbut, codirector del estudio, la idea de que se puede ir a cualquier lugar y alguien ha pensado en él. PC Gamer añade que los PNJ tienen unas 600.000 animaciones y rasgos de personalidad, y IGN recoge que el mapa no estará bloqueado por la historia, sino que se abrirá relativamente pronto.",
+          "Todo procede de declaraciones de la propia Rockstar reproducidas por la prensa; el juego no ha podido analizarse todavía."
+        ],
+        "en": [
+          "According to Insider Gaming, citing Edge magazine's feature, Rockstar puts GTA 6's map at roughly twice the size of GTA 5's, with a total landmass nearly as large as the playable areas of GTA 4, GTA 5 and Red Dead Redemption 2. Insider Gaming gives no exact measurements.",
+          "PC Gamer's headline says the game has \"an order of magnitude more\" interiors than the studio's earlier titles and attributes to co-studio head Aaron Garbut the idea that you can go to any location and someone has thought about it. PC Gamer adds that NPCs have around 600,000 animations and personality traits, and IGN reports the map will not be locked behind the story but opens up relatively early.",
+          "All of this comes from Rockstar's own statements as relayed by the press; the game has not yet been reviewed."
+        ]
+      },
+      "why": {
+        "es": "Es el primer retrato detallado de la escala del juego a tres semanas de su estreno.",
+        "en": "It is the first detailed picture of the game's scale, three weeks before launch."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-map-size/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/"
+        },
+        {
+          "name": "PC Gamer (PNJ)",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-lanzamiento-88-metacritic",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg",
+        "credit": "S-GAME Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4115450/"
+      },
+      "title": {
+        "es": "Phantom Blade Zero sale hoy con un 88 en Metacritic, la mejor nota de un juego chino",
+        "en": "Phantom Blade Zero launches today with an 88 on Metacritic, the best score for a Chinese game"
+      },
+      "dek": {
+        "es": "El juego de acción de S-Game llega a PS5 y PC y encabeza las ventas de Steam.",
+        "en": "S-Game's action RPG arrives on PS5 and PC and tops the Steam sales chart."
+      },
+      "body": {
+        "es": [
+          "Phantom Blade Zero se lanza hoy, 29 de octubre, en PS5 y PC. Vandal informa de que acumula un 88 sobre 100 en Metacritic con 42 análisis, por encima de Genshin Impact (86), Black Myth: Wukong (81) y Honkai: Star Rail (80) en la comparación que hace el medio.",
+          "Es un juego de acción con combate de espadas ambientado en una fantasía oscura que sus creadores llaman «kungfupunk». Vandal apunta una edición física prevista para 2027.",
+          "En Steam figura el primero de los más vendidos en el momento de redactar esta edición. Push Square publica una guía sobre su dificultad y el blog de PlayStation detalla cómo las armas de los jefes cambian el combate."
+        ],
+        "en": [
+          "Phantom Blade Zero launches today, October 29, on PS5 and PC. Vandal reports it holds an 88 out of 100 on Metacritic across 42 reviews, ahead of Genshin Impact (86), Black Myth: Wukong (81) and Honkai: Star Rail (80) in the outlet's comparison.",
+          "It is an action game with sword combat set in a dark fantasy that its creators call \"kungfupunk\". Vandal notes a physical edition is planned for 2027.",
+          "It sits first on Steam's top sellers as this edition is written. Push Square runs a guide to its difficulty and the PlayStation Blog details how boss weapons change combat."
+        ]
+      },
+      "why": {
+        "es": "El debut de una gran producción china en consola y PC se mide ya con los referentes del género.",
+        "en": "A major Chinese production's console and PC debut is already measured against the genre's benchmarks."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301020/phantom-blade-zero-ya-es-la-produccion-china-mejor-valorada-superando-a-black-myth-wukong-y-genshin-impact/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero"
+        },
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/28/phantom-blade-zero-how-boss-weapons-transform-combat-and-exploration/"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4115450/"
+        }
+      ]
+    },
+    {
+      "id": "zeschuk-bioware-cierre-ea-ultimo-clavo",
+      "category": "industria",
+      "title": {
+        "es": "El cofundador de BioWare: la compra de EA fue «el último clavo en el ataúd» del estudio",
+        "en": "BioWare co-founder: EA's acquisition was \"the final nail in the coffin\" for the studio"
+      },
+      "dek": {
+        "es": "Greg Zeschuk opina sobre el cierre de BioWare y la cancelación de Mass Effect: Universe.",
+        "en": "Greg Zeschuk weighs in on BioWare's closure and the cancellation of Mass Effect: Universe."
+      },
+      "body": {
+        "es": [
+          "Greg Zeschuk, que dejó BioWare en 2012, calificó la adquisición de EA por parte del fondo saudí PIF, Silver Lake y Affinity Partners como «el último clavo en el ataúd» del estudio, según Kotaku, que cita a 80.lv. Sostiene que BioWare «estaba en buena forma» y tenía otras opciones, y que EA es hoy una compañía «completamente distinta» de la que compró el estudio en 2007.",
+          "IGN cifra el cierre de la semana pasada en 50 empleos dentro de unos 400 recortes en EA, y explica que el proyecto cancelado, a través de un tráiler interno filtrado, se llamaba Mass Effect: Universe. Zeschuk afirma que no piensa volver al desarrollo ni buscar los derechos de la saga.",
+          "Por separado, Kotaku y Vandal recogen el testimonio de un antiguo empleado que asegura que EA pidió retirar una bandera LGTBQ+ de una demo; se trata de una afirmación no confirmada por EA en las fuentes consultadas."
+        ],
+        "en": [
+          "Greg Zeschuk, who left BioWare in 2012, called the acquisition of EA by Saudi Arabia's PIF, Silver Lake and Affinity Partners \"the final nail in the coffin\" for the studio, per Kotaku citing 80.lv. He says BioWare \"was in good shape\" and had other options, and that EA is now a \"completely different\" company from the one that bought the studio in 2007.",
+          "IGN puts last week's closure at 50 jobs within about 400 cuts across EA, and says the cancelled project, known through a leaked internal trailer, was called Mass Effect: Universe. Zeschuk says he has no plans to return to development or to pursue the franchise rights.",
+          "Separately, Kotaku and Vandal report a former employee's claim that EA asked for an LGBTQ+ flag to be removed from a demo; the claim is unconfirmed by EA in the sources consulted."
+        ]
+      },
+      "why": {
+        "es": "Las voces del propio sector sitúan el cierre en el cambio de propietarios y no solo en la marcha del estudio.",
+        "en": "Industry voices tie the closure to the change of ownership rather than to the studio's own performance."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301033/ea-pidio-a-bioware-que-eliminase-una-bandera-lgbtqia-de-mass-effect-universe-para-no-ofender-a-la-nueva-gestion/"
+        },
+        {
+          "name": "Kotaku (informe)",
+          "url": "https://kotaku.com/mass-effect-5-universe-pride-flag-cancel-ea-saudi-arabia-2000750314"
+        }
+      ]
+    },
+    {
+      "id": "xbox-ingresos-hardware-14-codigos-analisis",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox: el hardware cae un 14 % y su CTO promete simplificar los códigos de análisis",
+        "en": "Xbox: hardware revenue falls 14% and its CTO promises easier review codes"
+      },
+      "dek": {
+        "es": "Los resultados del primer trimestre fiscal llegan junto a la polémica por las pocas notas de Modern Warfare 4 en Xbox.",
+        "en": "First-quarter results arrive alongside the row over the few Modern Warfare 4 scores on Xbox."
+      },
+      "body": {
+        "es": [
+          "Según Insider Gaming, los ingresos de hardware de Xbox cayeron un 14 % interanual en el primer trimestre del año fiscal 2027, y los de contenido y servicios bajaron un 2 % por el descenso de Game Pass y de contenido de terceros, parcialmente compensado por el crecimiento de contenido propio. Satya Nadella espera que Xbox vuelva a crecer antes de que acabe el año fiscal.",
+          "Por otro lado, Scott Van Vliet, director de tecnología de Xbox, escribió en X que analizar un juego en Xbox requiere demasiados pasos y que «las primeras mejoras llegan pronto», según Kotaku y Vandal.",
+          "El detonante es Call of Duty: Modern Warfare 4: Kotaku explica que su cuenta oficial citó medias de Metacritic de 89 en Switch 2, 88 en PS5 y 87 en PC, pero omitió Xbox porque había muy pocos análisis para calcular una media."
+        ],
+        "en": [
+          "According to Insider Gaming, Xbox hardware revenue fell 14% year over year in the first quarter of fiscal 2027, while content and services dropped 2% on lower Game Pass and third-party content revenue, partly offset by first-party growth. Satya Nadella expects Xbox to return to growth by the end of the fiscal year.",
+          "Separately, Xbox CTO Scott Van Vliet wrote on X that reviewing a game on Xbox takes too many steps and that \"the first updates are coming soon\", per Kotaku and Vandal.",
+          "The trigger is Call of Duty: Modern Warfare 4: Kotaku explains its official account cited Metacritic averages of 89 on Switch 2, 88 on PS5 and 87 on PC but left out Xbox because there were too few reviews to compute an average."
+        ]
+      },
+      "why": {
+        "es": "Microsoft reconoce un problema de acceso para la prensa justo cuando su división busca remontar.",
+        "en": "Microsoft concedes a press-access problem just as its division tries to turn around."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-q1-fy2027-hardware-services-results/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/xbox-says-it-has-to-fix-its-review-code-system-after-missing-modern-warfare-4-metacritic-score-2000750474"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301019/xbox-tomara-medidas-para-que-se-analicen-mas-juegos-en-sus-consolas-tras-el-caso-de-cod-modern-warfare-4/"
+        },
+        {
+          "name": "Kotaku (resultados)",
+          "url": "https://kotaku.com/xboxs-first-report-card-following-its-big-reset-looks-a-lot-like-all-the-others-2000750607"
+        }
+      ]
+    },
+    {
+      "id": "modern-warfare-4-imagenes-itaewon-familias",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      },
+      "title": {
+        "es": "Familias de Itaewon piden a Activision retirar unas imágenes de Modern Warfare 4",
+        "en": "Itaewon families urge Activision to remove footage from Modern Warfare 4"
+      },
+      "dek": {
+        "es": "Un plano de la intro sería metraje de archivo de la tragedia de Seúl de 2022.",
+        "en": "A shot in the intro is reportedly archive footage of the 2022 Seoul tragedy."
+      },
+      "body": {
+        "es": [
+          "Según VGC, un breve plano de la secuencia de títulos de Call of Duty: Modern Warfare 4, con un sanitario haciendo una reanimación, fue identificado por jugadores surcoreanos como metraje de archivo de la avalancha humana de Itaewon (Seúl, Halloween de 2022), en la que murieron 159 personas.",
+          "La Asociación de Familiares de las Víctimas de Itaewon calificó el uso de «muy inapropiado e insensible», y la Asociación Coreana de Usuarios de Videojuegos pidió editar las imágenes, una explicación y una disculpa.",
+          "Activision reconoció que las imágenes se usan como un elemento de la narrativa ficticia y dijo que no pretende tratar el desastre a la ligera. 3DJuegos añade que un político surcoreano ha reclamado que el presidente del país juegue al título."
+        ],
+        "en": [
+          "According to VGC, a brief shot in the title sequence of Call of Duty: Modern Warfare 4, showing a paramedic performing CPR, was identified by South Korean players as archive footage of the Itaewon crowd crush (Seoul, Halloween 2022), which killed 159 people.",
+          "The Itaewon Disaster Bereaved Families Association called its use \"highly inappropriate and insensitive\", and the Korea Game Users Association asked for the footage to be edited out, plus an explanation and an apology.",
+          "Activision acknowledged the footage is used as an element of the fictional story and said it has no intention of treating the disaster lightly. 3DJuegos adds that a South Korean politician has demanded the country's president play the game."
+        ]
+      },
+      "why": {
+        "es": "El caso llega con el juego recién lanzado y puede acabar en un parche o en una disculpa pública.",
+        "en": "The row comes with the game freshly released and could end in a patch or a public apology."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-uses-real-news-footage-from-south-korean-tragedy-is-urged-by-families-to-remove-it/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301023/call-of-duty-modern-warfare-4-incluye-imagenes-de-un-accidente-en-seul-y-los-afectados-piden-su-retirada/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/call-of-duty-modern-warfare-4/noticias/politico-surcoreano-ve-nuevo-call-of-duty-como-advertencia-exige-que-su-presidente-juegue-ver-seul-arrasada"
+        }
+      ]
+    },
+    {
+      "id": "valve-steam-next-fest-ia-clones-visibilidad",
+      "category": "pc",
+      "title": {
+        "es": "Valve admite el problema de visibilidad en Steam, pero no vetará juegos hechos con IA",
+        "en": "Valve admits Steam's visibility problem but won't gatekeep AI-made games"
+      },
+      "dek": {
+        "es": "La compañía responde a las quejas por los juegos de baja calidad y los clones en Steam Next Fest.",
+        "en": "The company answers complaints about low-quality games and clones at Steam Next Fest."
+      },
+      "body": {
+        "es": [
+          "Representantes de Valve, en un evento de Steam Indie Connect en Corea del Sur recogido por Inven y citado por VGC, dijeron que «un número significativo de personas» piensa cómo resolver la visibilidad de los juegos nuevos. Reconocieron que el reparto aleatorio de los dos primeros días de Next Fest tiene un coste: «algunos juegos de baja calidad quedan expuestos».",
+          "Sobre la IA, el mensaje fue que Valve no quiere ser «guardián» que diga a los desarrolladores qué herramientas usar. Sobre los clones, la empresa prefiere impulsar la visibilidad del juego original antes que retirar copias, y remitió los casos de extorsión a las fuerzas de seguridad."
+        ],
+        "en": [
+          "Valve representatives, at a Steam Indie Connect event in South Korea reported by Inven and cited by VGC, said \"a significant number of people\" are thinking about how to solve visibility for new games. They acknowledged that the random exposure in the first two days of Next Fest has a cost: \"some low-quality games get exposed\".",
+          "On AI, the message was that Valve does not want to be a gatekeeper telling developers which tools to use. On clones, the company prefers to boost the original game's visibility rather than remove copies, and pointed reported extortion cases to law enforcement."
+        ]
+      },
+      "why": {
+        "es": "Valve descarta filtros y deja a los desarrolladores buscar la forma de destacar.",
+        "en": "Valve rules out filters and leaves developers to find ways to stand out."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/no-creemos-que-seamos-perfectos-valve-reconoce-que-steam-necesita-cambios-juegos-hechos-ia-su-plan-no-pasa-meter-filtros-bloqueos"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301022/valve-responde-a-las-quejas-por-la-basura-de-ia-en-steam-next-fest-hay-mucho-margen-de-mejora/"
+        }
+      ]
+    },
+    {
+      "id": "epic-ia-codigo-unreal-engine-6-fortnite",
+      "category": "industria",
+      "title": {
+        "es": "Epic confirma que usa IA para programar Unreal Engine, Fortnite y su launcher",
+        "en": "Epic confirms it uses AI to code Unreal Engine, Fortnite and its launcher"
+      },
+      "dek": {
+        "es": "Marcus Wassmer sostiene que la IA eliminó errores que Epic perseguía desde hacía una década.",
+        "en": "Marcus Wassmer says AI wiped out bugs Epic had chased for about a decade."
+      },
+      "body": {
+        "es": [
+          "Marcus Wassmer, vicepresidente ejecutivo de desarrollo de Epic, dijo en el pódcast This Week in Video Games que la compañía usa IA para desarrollar código y funciones de Unreal Engine, según Game Developer. Citó herramientas como Claude y Codex, que según él acabaron con los «errores no deterministas de cocinado» que Epic arrastraba desde hacía unos diez años.",
+          "Wassmer añadió que Epic reconstruyó su launcher mediante «vibe coding» y que le preocupa más ir demasiado lento que el escepticismo hacia la IA. Eurogamer.es resume que los ingenieros «ya no escriben la mayoría del código»; el artículo de Game Developer no da cifras del porcentaje de código generado."
+        ],
+        "en": [
+          "Marcus Wassmer, Epic's executive vice president of development, said on the This Week in Video Games podcast that the company is using AI to develop code and features for Unreal Engine, per Game Developer. He named tools such as Claude and Codex, which he says eliminated \"non-deterministic cooking bugs\" Epic had chased for about ten years.",
+          "Wassmer added that Epic rebuilt its launcher through \"vibe coding\" and that it worries more about moving too slowly than about AI skepticism. Eurogamer.es summarises that engineers \"no longer write most of the code\"; Game Developer's article gives no figure for the share of AI-generated code."
+        ]
+      },
+      "why": {
+        "es": "Es una de las confirmaciones más claras de que un gran motor y su juego estrella se desarrollan con ayuda de IA.",
+        "en": "It is among the clearest confirmations that a major engine and its flagship game are built with AI help."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/epic-games-redobla-su-apuesta-por-la-ia-generativa-y-admite-que-sus-ingenieros-ya-no-escriben-la-mayoria-del-codigo"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/unreal-engine-domina-industria-ahora-ceo-epic-games-ha-confirmado-como-usara-eso-para-su-plan-maestro-ia"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-noviembre-2026-dead-island-2-tomb-raider",
+      "category": "playstation",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/capsule_616x353.jpg",
+        "credit": "Deep Silver / Steam",
+        "creditUrl": "https://store.steampowered.com/app/934700/"
+      },
+      "title": {
+        "es": "PS Plus de noviembre: Dead Island 2, Tomb Raider IV-VI Remastered y Monster Train 2",
+        "en": "November PS Plus: Dead Island 2, Tomb Raider IV-VI Remastered and Monster Train 2"
+      },
+      "dek": {
+        "es": "Los tres juegos estarán disponibles del 3 al 30 de noviembre.",
+        "en": "The three games will be available from November 3 to 30."
+      },
+      "body": {
+        "es": [
+          "Sony ha anunciado los juegos mensuales de PlayStation Plus Essential para noviembre: Dead Island 2 (PS5 y PS4), Tomb Raider IV-VI Remastered (PS5 y PS4) y Monster Train 2 (solo PS5). Se podrán reclamar del martes 3 al lunes 30 de noviembre.",
+          "Según el blog de PlayStation, Dead Island 2 es un RPG de zombis en una Los Ángeles infestada, con cooperativo para hasta tres jugadores; la colección de Tomb Raider permite alternar entre los modelos originales y los remasterizados; y Monster Train 2 es un roguelite de cartas con cinco clanes nuevos.",
+          "Los miembros tienen hasta el 2 de noviembre para añadir los juegos de octubre: F1 25, Hunt: Showdown 1896 y Earth Defense Force: World Brothers 2."
+        ],
+        "en": [
+          "Sony has announced the PlayStation Plus Essential monthly games for November: Dead Island 2 (PS5 and PS4), Tomb Raider IV-VI Remastered (PS5 and PS4) and Monster Train 2 (PS5 only). They can be claimed from Tuesday, November 3 to Monday, November 30.",
+          "According to the PlayStation Blog, Dead Island 2 is a zombie RPG set in an infested Los Angeles with co-op for up to three players; the Tomb Raider collection lets you switch between original and remastered models; and Monster Train 2 is a deckbuilding roguelite with five new clans.",
+          "Members have until November 2 to add October's games: F1 25, Hunt: Showdown 1896 and Earth Defense Force: World Brothers 2."
+        ]
+      },
+      "why": {
+        "es": "Quien no reclame los de octubre antes del día 2 los pierde.",
+        "en": "Anyone who hasn't claimed October's games by the 2nd will lose them."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/playstation-plus-free-games-for-november-2026-include-tomb-raider-classics-and-a-superb-deckbuilder-2000750542"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301035/anunciados-los-juegos-de-ps-plus-essential-del-mes-de-noviembre-que-podras-reclamar-a-partir-de-la-semana-que-viene/"
+        }
+      ]
+    },
+    {
+      "id": "sony-prism-collection-dualsense-transparente-febrero",
+      "category": "hardware",
+      "title": {
+        "es": "Sony lanza la Prism Collection: mandos y cubiertas transparentes para PS5",
+        "en": "Sony unveils the Prism Collection: transparent PS5 controllers and covers"
+      },
+      "dek": {
+        "es": "Tres colores, reservas el 10 de noviembre y salida el 4 de febrero de 2027.",
+        "en": "Three colours, pre-orders on November 10 and launch on February 4, 2027."
+      },
+      "body": {
+        "es": [
+          "PlayStation presenta la Prism Collection, con mandos DualSense y cubiertas para PS5 de acabado brillante y transparente en tres colores: Flare Orange, Emerald Green y Graphite Gray. Sony la enmarca en el interés por mostrar el interior y la fabricación del hardware, y VGC e IGN la vinculan con la moda transparente de los noventa.",
+          "Los precios recomendados son 84,99 € por el mando y 74,99 € por la cubierta (84,99 $ y 74,99 $ en EE. UU.). Las reservas empiezan el 10 de noviembre a las 10:00 hora local y el lanzamiento arranca el 4 de febrero de 2027, con fechas que pueden variar por país. Las cubiertas se venden en PlayStation Direct y, en otros sitios, en cantidades limitadas."
+        ],
+        "en": [
+          "PlayStation introduces the Prism Collection, with glossy transparent DualSense controllers and PS5 console covers in three colours: Flare Orange, Emerald Green and Graphite Gray. Sony frames it around showing off the hardware's internals and craftsmanship, while VGC and IGN tie it to the '90s transparent trend.",
+          "Recommended prices are €84.99 for the controller and €74.99 for the cover ($84.99 and $74.99 in the US). Pre-orders open on November 10 at 10 a.m. local time and launch starts February 4, 2027, with dates that may vary by country. Covers are sold direct from PlayStation and elsewhere in limited quantities."
+        ]
+      },
+      "why": {
+        "es": "Las reservas abren en menos de dos semanas para un producto que no llega hasta febrero.",
+        "en": "Pre-orders open in under two weeks for a product that doesn't arrive until February."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/playstation-channels-90s-transparent-trend-with-new-prism-collection-of-dualsense-controllers-and-ps5-covers"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301036/sony-recupera-los-mandos-transparentes-de-los-90-con-tres-nuevos-disenos-para-ps5-fecha-y-precios/"
+        }
+      ]
+    },
+    {
+      "id": "witchbrook-fecha-28-enero-2027",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846700/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846700/capsule_616x353.jpg",
+        "credit": "Chucklefish / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1846700/"
+      },
+      "title": {
+        "es": "Witchbrook, tras una década de espera, saldrá el 28 de enero de 2027",
+        "en": "Witchbrook, after a decade of waiting, will launch on January 28, 2027"
+      },
+      "dek": {
+        "es": "Chucklefish lo anunció en el Indie World de Nintendo; PC Gamer informa de otro retraso.",
+        "en": "Chucklefish announced it at Nintendo's Indie World; PC Gamer reports another delay."
+      },
+      "body": {
+        "es": [
+          "El juego de vida mágica de Chucklefish, comparado con Stardew Valley, tiene por fin fecha: 28 de enero de 2027, según Kotaku y Eurogamer.es. Se anunció durante el Indie World de Nintendo de esta semana y Nintendo Life y Push Square confirman versiones para Switch y PS5.",
+          "Kotaku recuerda que lleva diez años en desarrollo (las primeras imágenes son de 2017) y atribuye la espera a la política sin crunch del estudio. PC Gamer lo presenta como un nuevo retraso, ahora a 2027."
+        ],
+        "en": [
+          "Chucklefish's magical life sim, compared to Stardew Valley, finally has a date: January 28, 2027, per Kotaku and Eurogamer.es. It was announced during this week's Nintendo Indie World, and Nintendo Life and Push Square confirm Switch and PS5 versions.",
+          "Kotaku notes it has been in development for ten years (first images date from 2017) and attributes the wait to the studio's no-crunch policy. PC Gamer frames it as another delay, now into 2027."
+        ]
+      },
+      "why": {
+        "es": "Pone fecha a uno de los indies más esperados de los últimos años.",
+        "en": "It puts a date on one of the most awaited indies of recent years."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/after-10-years-of-teasing-witchbrook-finally-has-a-release-date-2000750543"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/tras-sufrir-numerosos-retrasos-witchbrook-confirma-que-se-publicara-el-dia-28-de-enero-de-2027"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/nearly-a-decade-in-the-making-magical-life-sim-witchbrook-finally-has-a-ps5-release-date"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date"
+        }
+      ]
+    },
+    {
+      "id": "alien-isolation-2-edicion-fisica-sega",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665290/86a80a6dfe3c12d2ebdcb5a143259850a5e56018/ss_86a80a6dfe3c12d2ebdcb5a143259850a5e56018.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665290/21eb5925869fb99fccbc24e682b0db22b9494543/header.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4665290/"
+      },
+      "title": {
+        "es": "Alien: Isolation 2 tendrá edición física, lo que alimenta las quinielas sobre su fecha",
+        "en": "Alien: Isolation 2 will get a physical edition, fuelling release-date guesses"
+      },
+      "dek": {
+        "es": "SEGA lo justifica por la «naturaleza analógica» de la saga.",
+        "en": "SEGA says it's down to the series' \"analogue nature\"."
+      },
+      "body": {
+        "es": [
+          "Alien: Isolation 2 contará con una edición física, anunciado el 28 de octubre desde la cuenta oficial del juego en X. El equipo dice que mantener la naturaleza analógica de Alien es uno de sus pilares, según Push Square y Vandal.",
+          "Push Square especula —es opinión de su redactor— con que, como Sony dejará de fabricar discos en enero de 2028, un lanzamiento en PS5 durante 2027 sería factible. La fecha sigue sin anunciarse."
+        ],
+        "en": [
+          "Alien: Isolation 2 will get a physical edition, announced on October 28 from the game's official X account. The team says staying true to the analogue nature of Alien is one of its core pillars, per Push Square and Vandal.",
+          "Push Square speculates — it is the writer's opinion — that because Sony will stop manufacturing discs in January 2028, a PS5 launch in 2027 could be on the table. The release date is still unannounced."
+        ]
+      },
+      "why": {
+        "es": "No hay fecha, pero el formato físico acota el calendario posible en PS5.",
+        "en": "There's no date, but the physical format narrows the possible PS5 timetable."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026301040/sega-da-la-mejor-noticia-y-confirma-que-alien-isolation-2-tendra-una-edicion-fisica-para-ser-fiel-a-la-saga/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Cronos: Lazarus, contenido de historia de Cronos: The New Dawn, sale el 3 de diciembre en PC, PS5 y Xbox Series por 9,99 dólares; la versión de Switch 2 llegará en el primer trimestre de 2027, según Insider Gaming.",
+        "en": "Cronos: Lazarus, story DLC for Cronos: The New Dawn, launches December 3 on PC, PS5 and Xbox Series for $9.99; the Switch 2 version follows in Q1 2027, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/cronos-lazarus-dlc-release-date-price/"
+      }
+    },
+    {
+      "text": {
+        "es": "Conan Exiles Enhanced llegará a PS5 y Xbox Series como actualización gratuita para quienes ya tengan el juego, con mejoras visuales por Unreal Engine 5, según Vandal.",
+        "en": "Conan Exiles Enhanced is coming to PS5 and Xbox Series as a free update for existing owners, with Unreal Engine 5 visual upgrades, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026301016/conan-exiles-enhanced-tambien-llegara-a-consolas-sera-una-actualizacion-gratuita-en-ps5-y-xbox-series/"
+      }
+    },
+    {
+      "text": {
+        "es": "Bandai Namco anuncia Mobile Suit Gundam: Battle Operation 3, un juego gratuito de acción multijugador para PS5 y PC con batallas de hasta 18 jugadores y juego cruzado, según Vandal.",
+        "en": "Bandai Namco announces Mobile Suit Gundam: Battle Operation 3, a free-to-play multiplayer action game for PS5 and PC with up to 18 players per battle and crossplay, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026301032/los-gigantescos-robots-de-gundam-vuelven-con-un-nuevo-juego-gratuito-para-ps5-y-pc-asi-es-battle-operation-3/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rayman Legends Retold sale el 3 de diciembre en PS5 y PS5 Pro, con un disfraz de Astro Bot exclusivo de PlayStation, según el blog de PlayStation.",
+        "en": "Rayman Legends Retold launches December 3 on PS5 and PS5 Pro with a PlayStation-exclusive Astro Bot costume, per the PlayStation Blog."
+      },
+      "source": {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/28/suit-up-as-astro-bot-in-rayman-legends-retold/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un minorista canadiense afirma que Nintendo tiene una política que impide reeditar en cartucho completo los juegos de Switch 2 lanzados en tarjeta llave; es una afirmación sin confirmar por Nintendo, según Nintendo Life.",
+        "en": "A Canadian retailer claims Nintendo has a policy preventing full-cart reprints of Switch 2 games released as Game-Key Cards; Nintendo has not confirmed it, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint"
+      }
+    },
+    {
+      "text": {
+        "es": "World of Warcraft: Forever recibirá contenido nuevo «cada cuatro meses», según el diseñador principal Kris Zierhut en una entrevista con IGN recogida por GameSpot.",
+        "en": "World of Warcraft: Forever will get content updates \"every four months\", principal game designer Kris Zierhut told IGN, as reported by GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/"
+      }
+    },
+    {
+      "text": {
+        "es": "Circana cifra en un 29 % la intención de compra de GTA 6 entre los jugadores de consola y PC de EE. UU., según GameSpot.",
+        "en": "Circana puts GTA 6 purchase intent at 29% among US console and PC gamers, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/"
+      }
+    },
+    {
+      "text": {
+        "es": "La banda sonora original de GTA 6 tendrá 50 temas y se publicará el 11 de diciembre, según Apple Music recogido por Vandal.",
+        "en": "GTA 6's original soundtrack will have 50 tracks and be released on December 11, per Apple Music as reported by Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026301030/gta-6-tendra-una-extensa-banda-sonora-original-que-contara-con-50-temas-musicales/"
+      }
+    },
+    {
+      "text": {
+        "es": "Auroch Digital, desarrolladora de Warhammer 40,000: Boltgun 2, borró y volvió a publicar el anuncio de despidos dos semanas después de lograr un 96 % de reseñas positivas en Steam, según Kotaku.",
+        "en": "Auroch Digital, developer of Warhammer 40,000: Boltgun 2, deleted and reposted its layoff announcement two weeks after reaching 96% positive reviews on Steam, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/warhammer-40000-boltgun-2-deletes-layoff-announcement-and-then-reposts-it-just-two-weeks-after-scoring-96-percent-review-rating-on-steam-2000750552"
+      }
+    },
+    {
+      "text": {
+        "es": "Everything is Crab llegará a iOS y Android el 24 de noviembre y a PS5, Xbox Series, Switch 2 y Switch el 26 de enero de 2027, según Gematsu.",
+        "en": "Everything is Crab is coming to iOS and Android on November 24 and to PS5, Xbox Series, Switch 2 and Switch on January 26, 2027, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/everything-is-crab-coming-to-ios-and-android-on-november-24-ps5-xbox-series-switch-2-and-switch-on-january-26-2027"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Phantom Blade Zero",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "29 de octubre",
+        "en": "October 29"
+      },
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "title": "Solo Leveling: ARISE OVERDRIVE",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "3 de noviembre",
+        "en": "November 3"
+      },
+      "url": "https://www.gematsu.com/2026/10/solo-leveling-arise-overdrive-for-ps5-xbox-series-launches-november-3"
+    },
+    {
+      "title": "ArcheAge Chronicles",
+      "platforms": "PC (Steam, acceso anticipado)",
+      "note": {
+        "es": "3 de noviembre",
+        "en": "November 3"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026301015/el-mmorpg-archeage-chronicles-anuncia-su-fecha-de-lanzamiento-llegara-antes-que-world-of-warcraft-forever/"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release"
+    },
+    {
+      "title": "Lilac",
+      "platforms": "Switch",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.gematsu.com/2026/10/lilac-coming-to-switch-on-november-5"
+    },
+    {
+      "title": "Cronos: Lazarus (DLC)",
+      "platforms": "PC, PS5, Xbox Series",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://insider-gaming.com/cronos-lazarus-dlc-release-date-price/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los fans de Modern Warfare 4 en Corea del Sur y las familias de Itaewon exigen retirar un plano de archivo de la intro; un político surcoreano llegó a pedir que el presidente juegue al título, según 3DJuegos.",
+        "en": "South Korean Modern Warfare 4 players and Itaewon families demand removal of an archive shot from the intro; a politician even asked the president to play the game, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/call-of-duty-modern-warfare-4/noticias/politico-surcoreano-ve-nuevo-call-of-duty-como-advertencia-exige-que-su-presidente-juegue-ver-seul-arrasada"
+      }
+    },
+    {
+      "text": {
+        "es": "Los desarrolladores critican que Steam Next Fest esté lleno de «basura» de IA y clones tras la respuesta de Valve, según Kotaku.",
+        "en": "Developers complain Steam Next Fest is full of AI \"slop\" and clones following Valve's response, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496"
+      }
+    },
+    {
+      "text": {
+        "es": "Fans irritados porque Walmart canceló pedidos anticipados de la Switch 2 edición Zelda un día antes de la entrega, alegando exceso de ventas, según Kotaku y Nintendo Life.",
+        "en": "Fans are angry that Walmart cancelled pre-orders for the Zelda-themed Switch 2 a day before delivery, reportedly citing overselling, per Kotaku and Nintendo Life."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/fans-cant-believe-walmart-canceled-zelda-ocarina-of-time-switch-2-pre-orders-the-day-before-they-were-meant-to-arrive-2000750478"
+      }
+    },
+    {
+      "text": {
+        "es": "Trabajadores actuales y antiguos de EA describen una moral «terrible» tras los últimos despidos, según Nintendo Life.",
+        "en": "Current and former EA workers describe \"terrible\" morale after the latest layoffs, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/morale-has-been-terrible-ea-workers-criticise-publishers-cost-cutting-after-latest-layoffs"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Crimson Desert Enhanced: Charting the Unknown",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    }
+  ]
+}
