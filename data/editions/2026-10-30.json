@@ -1,0 +1,714 @@
+{
+  "date": "2026-10-30",
+  "headline": {
+    "es": "The Duskbloods se retrasa a 2027 y Netflix prepara una serie de PUBG con Donald Glover",
+    "en": "The Duskbloods slips to 2027 and Netflix plans a PUBG series with Donald Glover"
+  },
+  "intro": {
+    "es": "Además, el rumor de «Sentinel» para The Elder Scrolls VI, el boicot de Celeste a Xbox y los resultados trimestrales de la consola de Microsoft.",
+    "en": "Also: the \"Sentinel\" rumor for The Elder Scrolls VI, Celeste's Xbox boycott, and the quarterly results for Microsoft's console business."
+  },
+  "stories": [
+    {
+      "id": "duskbloods-retraso-2027-fromsoftware",
+      "category": "nintendo",
+      "title": {
+        "es": "The Duskbloods se retrasa a 2027 y no saldrá este año en Switch 2",
+        "en": "The Duskbloods slips to 2027 and will not launch this year on Switch 2"
+      },
+      "dek": {
+        "es": "FromSoftware dice que necesita tiempo para ajustar las reglas y el equilibrio del juego.",
+        "en": "FromSoftware says it needs time to tune the game's rules and balance."
+      },
+      "body": {
+        "es": [
+          "FromSoftware ha anunciado que The Duskbloods, su juego de acción multijugador PvPvE exclusivo de Switch 2, pasa de la ventana de 2026 a 2027. Por ahora no hay mes ni día concretos, según Gematsu.",
+          "El estudio explica en su comunicado, recogido por Nintendo Life, que el retraso sirve para «ajustes finales de las reglas del juego y el equilibrio», aprovechando las impresiones de la prueba de red. Afirma que vio «un interés activo» por el combate, la profundidad estratégica y la expresión del jugador, y pide disculpas a quienes esperaban el lanzamiento."
+        ],
+        "en": [
+          "FromSoftware has announced that The Duskbloods, its Switch 2-exclusive PvPvE multiplayer action game, moves from a 2026 window to 2027. There is no specific month or day yet, according to Gematsu.",
+          "In its statement, reported by Nintendo Life, the studio says the delay is for \"final adjustments to game rules and balancing\", building on feedback from the network test. It says it saw \"active interest\" in the combat, strategic depth and player expression, and apologises to those waiting."
+        ]
+      },
+      "why": {
+        "es": "Deja a Switch 2 sin uno de sus grandes exclusivos del cierre de año.",
+        "en": "It leaves Switch 2 without one of its big year-end exclusives."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/the-duskbloods-delayed-to-2027"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/fromsoftware-ha-retrasado-el-lanzamiento-de-the-duskbloods-a-2027"
+        }
+      ]
+    },
+    {
+      "id": "pubg-serie-netflix-donald-glover",
+      "category": "adaptaciones",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/capsule_616x353.jpg",
+        "credit": "KRAFTON, Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/578080/"
+      },
+      "title": {
+        "es": "Netflix prepara una serie de PUBG con Donald Glover como guionista y protagonista",
+        "en": "Netflix is developing a PUBG series with Donald Glover writing and starring"
+      },
+      "dek": {
+        "es": "Krafton anuncia la adaptación en imagen real del battle royale.",
+        "en": "Krafton announces the live-action adaptation of the battle royale."
+      },
+      "body": {
+        "es": [
+          "Krafton ha anunciado que Netflix desarrolla una serie de imagen real basada en PUBG. Según Gematsu, Donald Glover dirigirá, escribirá, producirá en ejecutivo y protagonizará la serie; su hermano Stephen Glover se suma como guionista y productor ejecutivo. Game Developer, en cambio, solo menciona que Glover escribe, produce y actúa, por lo que su labor como director figura únicamente en parte de las fuentes.",
+          "Entre los productores ejecutivos también aparecen Michael Schaefer (NEON TV), Fam Udeorji (Gilga) y representantes de LV3H, la filial de entretenimiento de Krafton. No se ha dado fecha de estreno ni reparto más allá de Glover."
+        ],
+        "en": [
+          "Krafton has announced that Netflix is developing a live-action series based on PUBG. According to Gematsu, Donald Glover will direct, write, executive produce and star; his brother Stephen Glover joins as writer and executive producer. Game Developer only mentions that Glover writes, produces and stars, so his directing role appears in only some of the sources.",
+          "Executive producers also include Michael Schaefer (NEON TV), Fam Udeorji (Gilga) and people from LV3H, Krafton's entertainment subsidiary. No release date or cast beyond Glover has been given."
+        ]
+      },
+      "why": {
+        "es": "Suma otro videojuego a la ola de adaptaciones de Netflix, aún sin calendario.",
+        "en": "It adds another game to the wave of streaming adaptations, with no schedule yet."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/netflix-esta-preparando-una-serie-de-imagen-real-de-pubg"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover"
+        }
+      ]
+    },
+    {
+      "id": "elder-scrolls-6-sentinel-rumor-noviembre",
+      "category": "xbox",
+      "title": {
+        "es": "Rumor: Bethesda daría el nombre de The Elder Scrolls VI, «Sentinel», en noviembre",
+        "en": "Rumor: Bethesda to name The Elder Scrolls VI \"Sentinel\" in November"
+      },
+      "dek": {
+        "es": "Según The Verge, solo se mostraría el título, sin más novedades.",
+        "en": "The Verge reports only the title would be shown, with nothing more."
+      },
+      "body": {
+        "es": [
+          "Rumor sin confirmar: Tom Warren, de The Verge, asegura citando fuentes cercanas a los planes de Bethesda que el subtítulo de The Elder Scrolls VI sería «Sentinel» y que Xbox podría anunciar el nombre completo ya en noviembre, quizá cerca del 15.º aniversario de Skyrim, el 11 de noviembre. Ni Microsoft ni Bethesda lo han confirmado.",
+          "Según Push Square, Warren espera solo el nombre, «nada más», en esa fecha. El juego se anunció en el E3 de 2018 y no ha vuelto a enseñarse; en julio Bethesda dijo que avanzaba bien. Push Square recuerda además que una versión de PS5 no está garantizada, porque Xbox ha preguntado a los jugadores por la exclusividad."
+        ],
+        "en": [
+          "Unconfirmed rumor: The Verge's Tom Warren, citing sources familiar with Bethesda's plans, says the subtitle of The Elder Scrolls VI will be \"Sentinel\" and that Xbox could announce the full name as soon as November, possibly around Skyrim's 15th anniversary on November 11. Neither Microsoft nor Bethesda has confirmed it.",
+          "According to Push Square, Warren expects only the name, \"nothing more\", at that point. The game was announced at E3 2018 and has not been shown since; in July Bethesda said it was progressing well. Push Square also notes a PS5 version is not guaranteed, as Xbox has been polling players about exclusivity."
+        ]
+      },
+      "why": {
+        "es": "Sería la primera señal pública del juego en ocho años, si el rumor se cumple.",
+        "en": "It would be the game's first public sign in eight years, if the rumor holds."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/report-the-elder-scrolls-6-gets-named-ahead-of-xbox-announcement-plus-extra-details"
+        }
+      ]
+    },
+    {
+      "id": "xbox-resultados-hardware-14-demanda-suministro",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/X_Xbox_Series_X_S_black.png/1280px-X_Xbox_Series_X_S_black.png",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/X_Xbox_Series_X_S_black.png/960px-X_Xbox_Series_X_S_black.png",
+        "credit": "Microsoft / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:X_Xbox_Series_X_S_black.png",
+        "license": "Public domain"
+      },
+      "title": {
+        "es": "Xbox cae un 14 % en hardware y su jefa culpa a la falta de consolas",
+        "en": "Xbox hardware falls 14% and its CEO blames limited console supply"
+      },
+      "dek": {
+        "es": "Los ingresos de contenido y servicios bajan un 2 %, menos que el trimestre anterior.",
+        "en": "Content and services revenue is down 2%, a smaller drop than last quarter."
+      },
+      "body": {
+        "es": [
+          "En el primer trimestre fiscal de 2027 de Microsoft (hasta el 30 de septiembre), los ingresos de hardware de Xbox cayeron un 14 % interanual y los de contenido y servicios un 2 %, frente al descenso del 10 % del trimestre anterior, según Pure Xbox. La caída se atribuye a contenido de terceros y a Game Pass. Hood, la directora financiera, prevé que contenido y servicios crezcan entre un 5 % y un 10 % el próximo trimestre, mientras que el hardware volverá a bajar.",
+          "La CEO de Xbox, Asha Sharma, dijo que la demanda supera a la oferta y que hay jugadores que no encuentran consolas. Game Developer señala que las cifras no reflejan ese supuesto exceso de demanda y que las consolas no resultan especialmente difíciles de encontrar. GameSpot añade que Sharma fijó como objetivo superar los márgenes de beneficio de Sony y Nintendo a mediados de 2030."
+        ],
+        "en": [
+          "In Microsoft's fiscal Q1 2027 (to September 30), Xbox hardware revenue fell 14% year over year and content and services fell 2%, compared with a 10% drop the previous quarter, according to Pure Xbox. The decline is attributed to third-party content and Game Pass. CFO Amy Hood expects content and services to grow 5–10% next quarter, with hardware declining again.",
+          "Xbox CEO Asha Sharma said demand exceeds supply and that players cannot find consoles. Game Developer notes the figures do not show that kind of excess demand and that consoles are not particularly hard to find. GameSpot adds that Sharma set a goal of surpassing Sony's and Nintendo's profit margins by mid-2030."
+        ]
+      },
+      "why": {
+        "es": "Muestra una división de servicios que mejora mientras las ventas de consolas siguen cayendo.",
+        "en": "It shows a services business improving while console sales keep falling."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-ceo-reacts-to-latest-revenue-figures-with-official-statement"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-wants-to-be-more-profitable-than-playstation-and-nintendo-by-2030/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/venta-xbox-series-sigue-remontar-asha-sharma-hay-explicacion-varios-motivos-para-alegrarse-ultimos-resultados-compania"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-700000-jugadores-steam",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg",
+        "credit": "S-GAME Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4115450/"
+      },
+      "title": {
+        "es": "Phantom Blade Zero supera los 700.000 jugadores simultáneos en Steam",
+        "en": "Phantom Blade Zero tops 700,000 concurrent players on Steam"
+      },
+      "dek": {
+        "es": "El juego de S-Game alcanza el pico en menos de un día desde su lanzamiento.",
+        "en": "S-Game's action RPG hit its peak less than a day after launch."
+      },
+      "body": {
+        "es": [
+          "Kotaku informa de que Phantom Blade Zero superó los 700.000 jugadores simultáneos en Steam en menos de 24 horas desde su lanzamiento, lo que lo sitúa, según el medio, como el decimoquinto mejor estreno de la plataforma. Kotaku no cita el origen exacto del dato.",
+          "Como referencia, el medio recuerda que Black Myth: Wukong tiene el segundo mayor pico de lanzamiento en Steam, con 2.415.714 jugadores. El consultor Daniel Camilo opina que Phantom Blade Zero no seguirá la trayectoria de Wukong porque carece de su alcance cultural. En esta edición, el juego sigue siendo el más vendido de Steam."
+        ],
+        "en": [
+          "Kotaku reports that Phantom Blade Zero passed 700,000 concurrent players on Steam less than 24 hours after launch, which it ranks as the 15th biggest launch on the platform. Kotaku does not name the exact source of the figure.",
+          "For reference, the outlet notes Black Myth: Wukong holds the second-highest launch peak on Steam at 2,415,714 players. Consultant Daniel Camilo argues Phantom Blade Zero will not follow Wukong's trajectory because it lacks that game's cultural reach. As of this edition, the game remains Steam's top seller."
+        ]
+      },
+      "why": {
+        "es": "Confirma el tirón comercial de un lanzamiento que llegó con buenas críticas.",
+        "en": "It confirms the commercial pull of a launch that arrived with strong reviews."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/phantom-blade-zero-just-rocketed-onto-steam-with-700000-concurrent-players-2000751005"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4115450/"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-charting-the-unknown-dlc",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/57272b446751f2349f32d4bf5bc6d849ef5fb94b/ss_57272b446751f2349f32d4bf5bc6d849ef5fb94b.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/ed9f91c5529b5e043f58b5fa99de414c3c007772/header.jpg",
+        "credit": "Pearl Abyss / Steam",
+        "creditUrl": "https://store.steampowered.com/app/5001840/"
+      },
+      "title": {
+        "es": "Crimson Desert estrena Charting the Unknown, su gran expansión con océano y casas",
+        "en": "Crimson Desert launches Charting the Unknown, a big expansion with ocean and housing"
+      },
+      "dek": {
+        "es": "La ampliación ya está disponible en consolas y PC.",
+        "en": "The expansion is now out on consoles and PC."
+      },
+      "body": {
+        "es": [
+          "Pearl Abyss ha lanzado Charting the Unknown, expansión de Crimson Desert. Según Xbox Wire, añade tres historias, una por cada protagonista (Kliff, Oongka y Damiane), exploración del océano con ruinas submarinas y barcos, y relaciones con habitantes que pueden llegar al romance y el matrimonio.",
+          "También incluye un sistema de vivienda ampliado, castillos que se pueden reclamar y decorar, instalaciones arrendables como restaurantes o herrerías y el Garden of Trials, un desafío contra jefes ya vistos. En PS5 cuesta 19,99 libras o 24,99 dólares, según Push Square. En Xbox hay una prueba gratuita de cinco horas del juego base."
+        ],
+        "en": [
+          "Pearl Abyss has released Charting the Unknown, an expansion for Crimson Desert. According to Xbox Wire, it adds three storylines, one each for Kliff, Oongka and Damiane, ocean exploration with underwater ruins and ships, and relationships with locals that can grow into romance and marriage.",
+          "It also includes an expanded housing system, castles you can claim and decorate, leasable facilities such as a restaurant or smithy, and the Garden of Trials, a challenge against previously met bosses. On PS5 it costs £19.99 or $24.99, per Push Square. Xbox players get a five-hour free trial of the base game."
+        ]
+      },
+      "why": {
+        "es": "Es el mayor contenido añadido al juego desde su estreno en marzo.",
+        "en": "It is the biggest addition to the game since its March launch."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-banda-sonora-justice-11-diciembre",
+      "category": "juegos",
+      "title": {
+        "es": "La banda sonora de GTA 6, obra de Justice, saldrá el 11 de diciembre",
+        "en": "The GTA 6 original score by Justice arrives on December 11"
+      },
+      "dek": {
+        "es": "Rockstar abre las reservas de CD y vinilo; el juego sale el 19 de noviembre.",
+        "en": "Rockstar opens CD and vinyl pre-orders; the game launches November 19."
+      },
+      "body": {
+        "es": [
+          "Rockstar publicará «Grand Theft Auto VI: Original Score by Justice» el 11 de diciembre, según VGC y Gematsu. Son 30 temas más pistas extra digitales, y estará en plataformas de streaming ese día. Las ediciones físicas, un doble CD y un triple vinilo (con una versión limitada en vinilo «crystal clear»), ya admiten reservas. El tema «Pusher (feat. Gesaffelstein)» está disponible desde hoy.",
+          "Aparte, VGC indica que un álbum con 34 canciones de varios artistas saldrá junto al juego el 19 de noviembre. Además, un episodio de South Park emitido el miércoles en EE. UU. incluyó imágenes exclusivas de GTA 6 en las que se golpea a un personaje con excrementos de perro, según VGC."
+        ],
+        "en": [
+          "Rockstar will release \"Grand Theft Auto VI: Original Score by Justice\" on December 11, per VGC and Gematsu. It has 30 tracks plus digital bonus tracks and will be on streaming services that day. Physical editions, a two-CD set and a three-LP vinyl (with a limited \"crystal clear\" vinyl version), are open for pre-order. The track \"Pusher (feat. Gesaffelstein)\" is out now.",
+          "Separately, VGC says a 34-track album with various artists releases alongside the game on November 19. A South Park episode aired Wednesday in the US also included exclusive GTA 6 footage in which a character is hit with dog poo, per VGC."
+        ]
+      },
+      "why": {
+        "es": "Con tres semanas para el estreno, Rockstar sigue soltando material del juego en canales poco habituales.",
+        "en": "Three weeks from launch, Rockstar keeps releasing game material through unusual channels."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/grand-theft-auto-vi-original-score-launches-december-11"
+        },
+        {
+          "name": "VGC (South Park)",
+          "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/"
+        }
+      ]
+    },
+    {
+      "id": "celeste-towerfall-retirados-xbox-boicot-bds",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/capsule_616x353.jpg",
+        "credit": "Maddy Makes Games Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/504230/"
+      },
+      "title": {
+        "es": "Celeste y TowerFall desaparecen de la tienda de Xbox por el boicot BDS",
+        "en": "Celeste and TowerFall pulled from the Xbox store over the BDS boycott"
+      },
+      "dek": {
+        "es": "Maddy Thorson confirma que fue una decisión propia para apoyar el movimiento.",
+        "en": "Maddy Thorson confirms it was their own decision to support the movement."
+      },
+      "body": {
+        "es": [
+          "Los juegos Celeste y TowerFall, de Maddy Thorson, se han retirado de la tienda de Xbox. Según Kotaku, Thorson lo confirmó en Bluesky y explicó que lo hizo en apoyo del movimiento BDS (boicot, desinversión y sanciones), en protesta por las aportaciones tecnológicas de Microsoft al conflicto de Gaza.",
+          "Pure Xbox recoge que es el segundo caso reciente: House House ya había dicho que no lanzaría Big Walk en la plataforma por motivos parecidos. Ni Kotaku ni las fuentes consultadas aclaran si Microsoft ha respondido ni en qué otras tiendas siguen a la venta."
+        ],
+        "en": [
+          "Maddy Thorson's games Celeste and TowerFall have been removed from the Xbox store. According to Kotaku, Thorson confirmed it on Bluesky and said they did it to support the BDS (boycott, divestment, sanctions) movement, protesting Microsoft's technology contributions to the conflict in Gaza.",
+          "Pure Xbox notes this is the second recent case: House House had already said it would not release Big Walk on the platform for similar reasons. Neither Kotaku nor the other sources consulted say whether Microsoft has responded or where else the games remain on sale."
+        ]
+      },
+      "why": {
+        "es": "Amplía un pulso entre estudios independientes y Microsoft que ya afecta a su catálogo.",
+        "en": "It widens a standoff between indie studios and Microsoft that now touches its catalog."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/indie-game-of-the-year-winner-pulled-from-xbox-over-bds-boycott-2000751041"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/we-did-this-to-support-the-bds-boycott-two-xbox-games-delisted-as-celeste-developer-issues-statement"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/celeste-and-towerfall-developer-explains-why-games-were-abruptly-delisted-from-xbox"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-assassins-creed-sin-remakes-hexe-2027",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/5de8c44752bdbc724b905b76bc5023bbff57547f/ss_5de8c44752bdbc724b905b76bc5023bbff57547f.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg",
+        "credit": "Ubisoft / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3751950/"
+      },
+      "title": {
+        "es": "Ubisoft: no hay más remakes de Assassin's Creed en desarrollo y Hexe llegará en 2027",
+        "en": "Ubisoft: no more Assassin's Creed remakes in development, and Hexe news in 2027"
+      },
+      "dek": {
+        "es": "La compañía actualiza la hoja de ruta de la saga tras el éxito de Black Flag Resynced.",
+        "en": "The company updates the series' roadmap after Black Flag Resynced's success."
+      },
+      "body": {
+        "es": [
+          "En su actualización de otoño sobre la saga, Ubisoft ha dicho, según Insider Gaming, que «actualmente no tiene otro remake de Assassin's Creed en desarrollo activo». Sus equipos se centran en próximos títulos con nuevos escenarios e historias, aunque la puerta a futuros remakes «sigue abierta».",
+          "La compañía también indicó que la próxima gran actualización de Assassin's Creed Codename Hexe llegará en 2027, con «progreso constante» pero sin más detalles, por lo que no habrá novedades este año. Vandal recoge además que el proyecto multijugador Invictus sigue evolucionando."
+        ],
+        "en": [
+          "In its fall update on the franchise, Ubisoft said, per Insider Gaming, that it \"currently has no other Assassin's Creed remake actively in development\". Its teams are focused on upcoming titles with new settings and stories, though the door to future remakes \"remains open\".",
+          "The company also said the next major update on Assassin's Creed Codename Hexe will come in 2027, with \"steady progress\" but no further details, so there will be no news this year. Vandal also reports that the multiplayer project Invictus continues to evolve."
+        ]
+      },
+      "why": {
+        "es": "Frena las expectativas de nuevos remakes mientras la saga mira a Hexe.",
+        "en": "It tempers hopes for more remakes while the series looks to Hexe."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/ubisoft-assassins-creed-remakes-development/"
+        },
+        {
+          "name": "Insider Gaming (Hexe)",
+          "url": "https://insider-gaming.com/ubisoft-gives-update-on-assassins-creed-hexe/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026302041/ubisoft-lo-confirma-no-habra-noticias-de-assassins-creed-codename-hexe-este-ano-y-tendremos-que-esperar-a-2027/"
+        }
+      ]
+    },
+    {
+      "id": "destiny-2-recuperar-contenido-2028-destiny-legacy",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/capsule_616x353.jpg",
+        "credit": "Bungie / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1085660/"
+      },
+      "title": {
+        "es": "Bungie tardará hasta 2028 en recuperar contenido de Destiny 2 y anuncia Destiny Legacy",
+        "en": "Bungie needs until 2028 to bring back Destiny 2 content and teases Destiny Legacy"
+      },
+      "dek": {
+        "es": "Más detalles sobre el proyecto Legacy llegarán en febrero de 2027.",
+        "en": "More details on Destiny Legacy are due in February 2027."
+      },
+      "body": {
+        "es": [
+          "Según Push Square, Bungie calcula que terminará de recuperar el contenido archivado de Destiny 2 en los primeros meses de 2028. Ahora está en preproducción, hasta enero o febrero de 2027, y después necesitará unos 12 meses de producción. Volverán las campañas Guerra Roja, Forsaken, Maldición de Osiris y Mente Bélica, con sus asaltos, incursiones y la Menagería.",
+          "Bungie menciona además Destiny Legacy, una iniciativa de la que no concreta nada; Vandal la describe como un proyecto para recuperar la experiencia de la saga en las plataformas actuales. Push Square señala que parte de los fans especula con una versión clásica, algo no confirmado. En febrero llegará más información sobre Legacy, una celebración de Destiny 2 y un evento teaser."
+        ],
+        "en": [
+          "According to Push Square, Bungie estimates it will finish bringing back vaulted Destiny 2 content in the first few months of 2028. It is in pre-production until January or February 2027, then needs about 12 months of production. Campaigns including Red War, Forsaken, Curse of Osiris and Warmind will return, with their strikes, raids and the Menagerie.",
+          "Bungie also mentions Destiny Legacy without defining it; Vandal describes it as an initiative to bring the franchise's full experience to current platforms. Push Square notes some fans speculate about a classic version, which is unconfirmed. More information on Legacy, a Destiny 2 celebration and a teased event is due in February."
+        ]
+      },
+      "why": {
+        "es": "Fija por primera vez un calendario largo para una promesa que los jugadores llevaban meses pidiendo.",
+        "en": "It sets, for the first time, a long timeline for something players have asked about for months."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026302035/bungie-anuncia-destiny-legacy-un-misterioso-proyecto-con-el-que-quiere-recuperar-los-origenes-de-la-saga/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/destiny-2-unvaulting-update-it-sure-sounds-like-the-original-destiny-is-finally-coming-to-pc/"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-mando-xbox-helix-blizzard",
+      "category": "pc",
+      "title": {
+        "es": "World of Warcraft: Forever añade mando y Blizzard habla de jugar «en cualquier sitio»",
+        "en": "World of Warcraft: Forever adds controller support as Blizzard talks about playing \"anywhere\""
+      },
+      "dek": {
+        "es": "La compañía alude a Project Helix, pero no confirma versión de consola.",
+        "en": "The company points to Project Helix but confirms no console version."
+      },
+      "body": {
+        "es": [
+          "Blizzard ha añadido soporte nativo de mando a World of Warcraft: Forever, que sale el 4 de noviembre en PC. Según VGC, la productora ejecutiva Holly Longdale lo describe como el primer paso para jugar en más dispositivos, con la idea de que los jugadores usen el hardware que prefieran. Ya hay quien lo ha probado en una ROG Ally X.",
+          "Longdale citó Project Helix, la próxima plataforma de Xbox que VGC describe como un híbrido de consola y PC, aunque eso es una expectativa y no un dato confirmado. Blizzard dice ser consciente de la posibilidad de una versión de consola, pero no la ha anunciado."
+        ],
+        "en": [
+          "Blizzard has added native controller support to World of Warcraft: Forever, which launches November 4 on PC. According to VGC, executive producer Holly Longdale describes it as the first step toward playing on more devices, with players using whatever hardware they choose. Some have already run it on a ROG Ally X.",
+          "Longdale cited Project Helix, Xbox's upcoming platform that VGC describes as a console-PC hybrid, though that is an expectation rather than a confirmed detail. Blizzard says it is aware of a possible console version but has not announced one."
+        ]
+      },
+      "why": {
+        "es": "Es la señal más clara hasta ahora de que Blizzard piensa en dispositivos más allá del PC.",
+        "en": "It is the clearest sign yet that Blizzard is thinking beyond PC."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026302034/blizzard-quiere-que-world-of-warcraft-forever-se-juegue-en-todos-lados-y-habla-de-xbox-helix/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "El sindicato IWGB y Rockstar han acordado los términos de una votación de reconocimiento sindical del 12 al 26 de noviembre; según Insider Gaming, podría cubrir a más de 1.600 trabajadores en el Reino Unido.",
+        "en": "The IWGB union and Rockstar have agreed terms for a recognition vote running November 12–26; per Insider Gaming, it could cover over 1,600 UK workers."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/rockstar-uk-union-vote-1600-workers/"
+      }
+    },
+    {
+      "text": {
+        "es": "Mouthwashing, el juego de terror indie, tendrá una película de imagen real a cargo de la directora de Jennifer's Body, según IGN.",
+        "en": "Indie horror game Mouthwashing is getting a live-action film from the director of Jennifer's Body, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body"
+      }
+    },
+    {
+      "text": {
+        "es": "Gears of War: E-Day habría vendido más de 400.000 copias entre consola y PC un mes después de su estreno en Game Pass, según fuentes de The Verge citadas por IGN; es una cifra no confirmada.",
+        "en": "Gears of War: E-Day has reportedly sold over 400,000 copies across console and PC a month after its Game Pass launch, per sources cited by IGN from The Verge; the figure is unconfirmed."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch"
+      }
+    },
+    {
+      "text": {
+        "es": "Metro 2033 Redux y Metro: Last Light Redux reciben mejoras gratuitas a 4K y 60 fps en Xbox Series X|S para quienes los tengan en digital, según Pure Xbox.",
+        "en": "Metro 2033 Redux and Metro: Last Light Redux get free 4K/60 fps upgrades on Xbox Series X|S for digital owners, per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/two-metro-redux-games-receive-free-4k60fps-upgrades-for-xbox-series-xs-full-patch-notes-revealed"
+      }
+    },
+    {
+      "text": {
+        "es": "Assassin's Creed Valhalla recibe un modo Nueva Partida+ seis años después de su estreno de noviembre de 2020, según IGN.",
+        "en": "Assassin's Creed Valhalla is getting a New Game+ mode six years after its November 2020 launch, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release"
+      }
+    },
+    {
+      "text": {
+        "es": "Kojima Productions publica un tráiler teaser y los primeros detalles de Death Stranding Isolations, según Gematsu.",
+        "en": "Kojima Productions has released a teaser trailer and first details for Death Stranding Isolations, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/death-stranding-isolations-teaser-trailer-first-details"
+      }
+    },
+    {
+      "text": {
+        "es": "Bethesda rinde homenaje a Patrick Stewart, fallecido a los 86 años, por su papel en The Elder Scrolls IV: Oblivion, según IGN.",
+        "en": "Bethesda pays tribute to Patrick Stewart, who died aged 86, for his role in The Elder Scrolls IV: Oblivion, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: el próximo mando Xbox Elite tendría una pantalla LED capaz de mostrar animaciones, según una filtración recogida por Vandal; Microsoft no lo ha anunciado.",
+        "en": "Rumor: the next Xbox Elite controller would have an LED display capable of showing animations, per a leak reported by Vandal; Microsoft has not announced it."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026302024/el-nuevo-mando-de-xbox-tendria-pantalla-led-y-filtran-la-primera-animacion-que-veremos-en-ella/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "World of Warcraft: Forever",
+      "platforms": "PC",
+      "note": {
+        "es": "4 de noviembre",
+        "en": "November 4"
+      },
+      "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release"
+    },
+    {
+      "title": "Adorable Adventures",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "12 de noviembre",
+        "en": "November 12"
+      },
+      "url": "https://www.gematsu.com/2026/10/adorable-adventures-coming-to-switch-2-on-november-12"
+    },
+    {
+      "title": "Leaf Blower Co.",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "13 de noviembre",
+        "en": "November 13"
+      },
+      "url": "https://www.gematsu.com/2026/10/leaf-blower-co-for-ps5-xbox-series-launches-november-13"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/"
+    },
+    {
+      "title": "The Dark Queen of Mortholme",
+      "platforms": "PS5, Xbox Series, Switch",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/10/the-dark-queen-of-mortholme-coming-to-ps5-xbox-series-and-switch-on-december-3"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los jugadores de Helldivers 2 responden con reseñas negativas masivas después de que el nuevo sistema antitrampas de Arrowhead dejara de funcionar con los mods, según Vandal.",
+        "en": "Helldivers 2 players are review-bombing the game after Arrowhead's new anti-cheat system broke mod compatibility, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026302037/nueva-polemica-con-helldivers-2-arrowhead-se-carga-los-mods-y-la-comunidad-reacciona-con-review-bombing/"
+      }
+    },
+    {
+      "text": {
+        "es": "Compradores enfadados porque Walmart canceló reservas de la Switch 2 edición Zelda un día antes del lanzamiento por haber «sobrevendido», según Nintendo Life.",
+        "en": "Buyers are angry that Walmart cancelled Zelda-edition Switch 2 pre-orders a day before launch after reportedly overselling, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release"
+      }
+    },
+    {
+      "text": {
+        "es": "La afirmación de Xbox de que hay más demanda que consolas choca con sus cifras de ventas, señala Game Developer.",
+        "en": "Xbox's claim of more demand than consoles clashes with its sales figures, notes Game Developer."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop"
+      }
+    },
+    {
+      "text": {
+        "es": "El episodio de South Park con imágenes de GTA 6 se ha convertido en conversación en redes por el uso del juego como gag, según VGC.",
+        "en": "The South Park episode featuring GTA 6 footage has become a social-media talking point for using the game as a gag, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Crimson Desert Enhanced: Charting the Unknown",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    }
+  ]
+}
