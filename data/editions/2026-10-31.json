@@ -1,0 +1,689 @@
+{
+  "date": "2026-10-31",
+  "headline": {
+    "es": "EA cierra BioWare por Star Wars Battlefront 3, según Bloomberg, y Activision retirará de Modern Warfare 4 las imágenes de Itaewon",
+    "en": "EA shut BioWare to make Star Wars Battlefront 3, Bloomberg reports, and Activision will pull the Itaewon footage from Modern Warfare 4"
+  },
+  "intro": {
+    "es": "Además, Final Fantasy XIV Evercold fija fecha, el anime de Death Stranding enseña su primer teaser y Bungie despeja el futuro de Destiny 2.",
+    "en": "Also: Final Fantasy XIV Evercold gets a date, the Death Stranding anime shows its first teaser and Bungie lays out Destiny 2's future."
+  },
+  "stories": [
+    {
+      "id": "ea-bioware-mass-effect-star-wars-battlefront-3",
+      "category": "industria",
+      "title": {
+        "es": "Bloomberg: EA cerró BioWare para apostar por Star Wars Battlefront 3 y no por Mass Effect",
+        "en": "Bloomberg: EA shut BioWare to back Star Wars Battlefront 3 over Mass Effect"
+      },
+      "dek": {
+        "es": "Según el informe, la editora tenía que elegir entre dos juegos de acción de ciencia ficción de coste muy alto.",
+        "en": "Per the report, the publisher had to choose between two very expensive sci-fi action games."
+      },
+      "body": {
+        "es": [
+          "Bloomberg informa, con fuentes anónimas, de que la decisión de EA de cerrar BioWare y cancelar el nuevo Mass Effect, anunciada la semana pasada, se debió sobre todo a la oportunidad de hacer un nuevo Star Wars Battlefront. Según VGC, que recoge el informe, EA revisó su cartera de proyectos con una deuda de unos 18.000 millones de dólares y debía decidir entre Mass Effect y Battlefront 3, cada uno con un coste previsto de cientos de millones.",
+          "El informe sostiene que la dirección consideró más probable el éxito de un Star Wars nuevo. También cita como factores los resultados más flojos de los últimos juegos de BioWare y la política interna. EA solo ha dicho que la decisión llegó tras «meses de planificación, revisión y análisis», sin dar detalles. Variety había publicado que DICE y Respawn colaborarán en un «proyecto futuro», que se cree que es Battlefront 3."
+        ],
+        "en": [
+          "Bloomberg reports, citing anonymous sources, that EA's decision to close BioWare and cancel the new Mass Effect, announced last week, was driven mainly by the chance to make a new Star Wars Battlefront. According to VGC, which covers the report, EA reviewed its project portfolio while carrying around $18 billion in debt and had to choose between Mass Effect and Battlefront 3, each expected to cost hundreds of millions.",
+          "The report says executives judged a new Star Wars game more likely to succeed. It also cites weaker reviews for BioWare's recent games and internal politics as factors. EA has only said the decision followed \"months of planning, review, and analysis\", without specifics. Variety had reported that DICE and Respawn will work together on a \"future project\", believed to be Battlefront 3."
+        ]
+      },
+      "why": {
+        "es": "Si es cierto, explica el cierre por dinero y no por una sola mala racha creativa; EA no ha confirmado los motivos.",
+        "en": "If accurate, it frames the closure as a financial call rather than a creative slump; EA has not confirmed the reasons."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ea-chose-to-shut-down-bioware-so-it-could-make-star-wars-battlefront-3-instead-its-claimed/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-ea-shut-down-bioware-in-favor-of-star-wars-battlefront-sequel-after-previously-decrying-licensed-games"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026303021/ea-cancelo-el-nuevo-mass-effect-para-dar-prioridad-a-star-wars-battlefront-3-segun-informaciones/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/star-wars-battlefront-2/noticias/sale-a-luz-verdadero-motivo-cierre-bioware-ahora-star-wars-tiene-gran-peso-sus-espaldas"
+        }
+      ]
+    },
+    {
+      "id": "modern-warfare-4-itaewon-retirada-12-noviembre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4435490/"
+      },
+      "title": {
+        "es": "Activision pide perdón y retirará de Modern Warfare 4 las imágenes de la tragedia de Itaewon",
+        "en": "Activision apologises and will remove the Itaewon tragedy footage from Modern Warfare 4"
+      },
+      "dek": {
+        "es": "La retirada llegará con una actualización el 12 de noviembre.",
+        "en": "The removal will arrive in an update on November 12."
+      },
+      "body": {
+        "es": [
+          "Activision ha pedido disculpas por usar en la introducción de Call of Duty: Modern Warfare 4 imágenes de noticiario de la avalancha humana de Itaewon (Seúl, 2022), tras las quejas de las familias de las víctimas. Según VGC, el plano es un breve fragmento del montaje inicial en el que un paramédico practica una reanimación, y los jugadores lo identificaron como material del lugar de la tragedia.",
+          "La compañía asegura que lo eliminará por completo con una actualización prevista para el 12 de noviembre. En su comunicado, citado por VGC, describe el juego como «una obra de ficción creada para ofrecer inmersión realista». El suceso dejó 159 muertos y 196 heridos."
+        ],
+        "en": [
+          "Activision has apologised for using news footage of the 2022 Itaewon crowd crush in Seoul in the intro of Call of Duty: Modern Warfare 4, after complaints from victims' families. According to VGC, the shot is a brief part of the opening montage showing a paramedic performing CPR, which players identified as aftermath footage from the site.",
+          "The company says it will remove it entirely in an update scheduled for November 12. Its statement, quoted by VGC, calls the game \"a work of fiction created to provide realistic immersion\". The disaster left 159 dead and 196 injured."
+        ]
+      },
+      "why": {
+        "es": "Hasta el 12 de noviembre el material seguirá en el juego.",
+        "en": "Until November 12 the footage remains in the game."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026303029/activision-pide-perdon-por-incluir-imagenes-de-una-tragedia-real-con-159-muertos-en-call-of-duty-modern-warfare-4/"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-xiv-evercold-23-febrero-2027",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/capsule_616x353.jpg",
+        "credit": "Square Enix / Steam",
+        "creditUrl": "https://store.steampowered.com/app/39210/"
+      },
+      "title": {
+        "es": "Final Fantasy XIV: Evercold se retrasa al 23 de febrero de 2027",
+        "en": "Final Fantasy XIV: Evercold slips to February 23, 2027"
+      },
+      "dek": {
+        "es": "Square Enix anunció la nueva fecha en el Fan Fest de Tokio.",
+        "en": "Square Enix announced the new date at the Tokyo Fan Fest."
+      },
+      "body": {
+        "es": [
+          "Square Enix ha fijado el lanzamiento de Evercold, la sexta expansión de Final Fantasy XIV, para el 23 de febrero de 2027, según Nintendo Life. Hasta ahora se hablaba de enero de 2027. El acceso anticipado empezará el 19 de febrero y las reservas, el 4 de noviembre.",
+          "La compañía lo anunció en el Fan Fest de Tokio. La expansión añade nuevos trabajos (entre ellos Zephyr, un DPS físico a distancia), ciudades, zonas, mazmorras y pruebas, además de una subida del nivel máximo. El juego base está disponible en Switch 2 desde el 4 de agosto."
+        ],
+        "en": [
+          "Square Enix has set Evercold, Final Fantasy XIV's sixth expansion, for February 23, 2027, according to Nintendo Life. It had previously been slated for January 2027. Early access begins February 19 and pre-orders open November 4.",
+          "The company announced it at the FFXIV Fan Fest in Tokyo. The expansion adds new jobs (including Zephyr, a physical ranged DPS), cities, areas, dungeons and trials, plus a level cap increase. The base game has been on Switch 2 since August 4."
+        ]
+      },
+      "why": {
+        "es": "Son unas semanas de espera más para una expansión ya anunciada para el invierno.",
+        "en": "It is a few more weeks of waiting for an expansion already promised for the winter."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest"
+        }
+      ]
+    },
+    {
+      "id": "death-stranding-isolations-teaser-disney-2027",
+      "category": "adaptaciones",
+      "title": {
+        "es": "Death Stranding Isolations, el anime de Disney+, estrena su primer teaser",
+        "en": "Death Stranding Isolations, the Disney+ anime, debuts its first teaser"
+      },
+      "dek": {
+        "es": "Llegará en 2027 con Kojima Productions como productora.",
+        "en": "It arrives in 2027 with Kojima Productions producing."
+      },
+      "body": {
+        "es": [
+          "Kojima Productions ha publicado el primer teaser de Death Stranding Isolations, serie de animación de Disney+ ambientada en el universo de la saga. El tráiler usa el lema «Mi madre se convirtió en un cráter» y la serie llegará en 2027, sin fecha concreta, según Push Square.",
+          "La historia transcurre justo después de que Sam Bridges conecte Norteamérica a la Red Quiral, y sigue a varios personajes: un anciano que conecta a la gente de forma peculiar, una soldado atrapada en un ciclo de guerra, un chico furioso y una joven que cortó lazos con el exterior. Hideo Kojima es productor ejecutivo, Takayuki Sano dirige y la animación es de E&H Production."
+        ],
+        "en": [
+          "Kojima Productions has released the first teaser for Death Stranding Isolations, a Disney+ animated series set in the franchise's universe. The trailer carries the tagline \"My mom became a crater\" and the show arrives in 2027, with no specific date, according to Push Square.",
+          "The story takes place just after Sam Bridges connects North America to the Chiral Network and follows several characters: an old man who connects people in an unusual way, a female soldier caught in a cycle of war, an angry boy and a girl who cut ties with the outside world. Hideo Kojima is executive producer, Takayuki Sano directs and E&H Production handles the animation."
+        ]
+      },
+      "why": {
+        "es": "Es una de las adaptaciones animadas de videojuegos previstas para 2027.",
+        "en": "It is one of the animated game adaptations expected in 2027."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/death-stranding-isolations-teaser-trailer-first-details"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/death-stranding/noticias/death-stranding-no-ha-terminado-contar-sus-historias-kojima-anime-exclusivo-disney-tenemos-su-primer-adelanto-detras-hay-responsables-jujutsu-kaisen"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/primer-teaser-del-anime-death-stranding-isolations"
+        }
+      ]
+    },
+    {
+      "id": "destiny-2-contenido-legado-2028-sin-destiny-3-game-awards",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/capsule_616x353.jpg",
+        "credit": "Bungie / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1085660/"
+      },
+      "title": {
+        "es": "Bungie sitúa en 2028 el regreso de campañas antiguas a Destiny 2 y descarta Destiny 3 en los Game Awards",
+        "en": "Bungie puts old campaigns' return to Destiny 2 in 2028 and rules out Destiny 3 at The Game Awards"
+      },
+      "dek": {
+        "es": "El estudio habla de un «momento de reinicio» tras sus despidos recientes.",
+        "en": "The studio calls it a \"true reset moment\" after recent layoffs."
+      },
+      "body": {
+        "es": [
+          "En su último comunicado a la comunidad, Bungie explica que está en preproducción para recuperar contenido antiguo de Destiny 2 y que espera entrar en producción completa en febrero de 2027. Después, el trabajo de adaptación llevaría unos 12 meses, de modo que buena parte del contenido no llegaría hasta 2028, según Kotaku y GameSpot. Entre las campañas confirmadas figuran Guerra Roja, Forsaken, Maldición de Osiris y Warmind, con sus asaltos e incursiones.",
+          "El responsable de producto, Josh Deane, habló de «un verdadero momento de reinicio» para Bungie, Marathon y Destiny. GameSpot recoge que no habrá anuncio de Destiny 3 en los Game Awards de este año y Bungie prevé dar plazos actualizados hacia febrero de 2027. Además, Deane aclaró, según IGN, que los jugadores no necesitan «comprar Marathon como donación» para apoyar los planes del estudio."
+        ],
+        "en": [
+          "In its latest community update, Bungie says it is in pre-production on restoring older Destiny 2 content and aims to reach full production by February 2027. Porting would then take about 12 months, so much of it would not arrive until 2028, per Kotaku and GameSpot. Confirmed campaigns include Red War, Forsaken, Curse of Osiris and Warmind, with their strikes and raids.",
+          "Head of product Josh Deane called it \"a true reset moment\" for Bungie, Marathon and Destiny. GameSpot reports there will be no Destiny 3 announcement at this year's Game Awards, and Bungie expects to share updated timelines around February 2027. Deane also clarified, per IGN, that players do not need to \"buy Marathon as a donation\" to support the studio's plans."
+        ]
+      },
+      "why": {
+        "es": "Los jugadores de Destiny 2 tendrán que esperar largo para ver el contenido recuperado.",
+        "en": "Destiny 2 players face a long wait for the restored content."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/bungie-outlines-the-road-to-a-new-forever-destiny-given-the-cards-its-been-dealt-after-a-true-reset-moment-2000751609"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/dont-expect-destiny-3-at-the-game-awards-bungie-says/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/destiny-2/noticias/reconstruccion-destiny-2-ha-comenzado-bungie-bungie-quiere-recuperar-su-pasado-prepara-su-futuro"
+        }
+      ]
+    },
+    {
+      "id": "forza-turn-10-playground-games-redmond-greenawalt",
+      "category": "xbox",
+      "title": {
+        "es": "Turn 10 se integra en Playground Games y Dan Greenawalt se jubila tras 27 años en Microsoft",
+        "en": "Turn 10 merges into Playground Games as Dan Greenawalt retires after 27 years at Microsoft"
+      },
+      "dek": {
+        "es": "El estudio de Forza Motorsport pasa a llamarse Playground Games Redmond.",
+        "en": "The Forza Motorsport studio is renamed Playground Games Redmond."
+      },
+      "body": {
+        "es": [
+          "Turn 10 Studios, desarrollador de Forza Motorsport, se fusiona con Playground Games y pasa a denominarse oficialmente Playground Games Redmond, según Pure Xbox. Dan Greenawalt, que llevaba 27 años en Microsoft, se jubila; el jefe de Playground, Trevor Williams, lo comunicó en una nota interna citada por Pure Xbox a partir de The Verge.",
+          "El equipo colabora ya en Forza Horizon y Fable. Pure Xbox apunta que el reinicio de Forza Motorsport de 2023 podría ser el último de la serie, aunque no hay ningún anuncio al respecto."
+        ],
+        "en": [
+          "Turn 10 Studios, developer of Forza Motorsport, is merging into Playground Games and officially renamed Playground Games Redmond, according to Pure Xbox. Dan Greenawalt, who spent 27 years at Microsoft, is retiring; Playground head Trevor Williams shared the news in an internal memo cited by Pure Xbox from The Verge.",
+          "The team already helps develop Forza Horizon and Fable. Pure Xbox suggests the 2023 Forza Motorsport reboot could be the last in the series, though nothing has been announced."
+        ]
+      },
+      "why": {
+        "es": "Reduce a una sola marca los estudios de coches de Xbox.",
+        "en": "It folds Xbox's racing studios into a single brand."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/turn-10-director-departs-microsoft-as-forza-studio-merges-with-playground-games"
+        }
+      ]
+    },
+    {
+      "id": "john-romero-juego-cancelado-xbox-nuevo-editor",
+      "category": "indie",
+      "title": {
+        "es": "El juego de Romero cancelado por Xbox encuentra nuevo editor, con un equipo de unas 16 personas",
+        "en": "Romero's game cancelled by Xbox finds a new publisher, with a team of about 16"
+      },
+      "dek": {
+        "es": "El proyecto se ha rediseñado para un estudio mucho más pequeño.",
+        "en": "The project has been redesigned for a much smaller studio."
+      },
+      "body": {
+        "es": [
+          "John Romero ha confirmado que el juego que Xbox canceló tiene nuevo editor, aunque dice que no puede revelar quién es ni cuándo se anunciará, según VGC. Romero Games pasó de 110 personas a cinco y ha recuperado a 10 responsables de los equipos, por lo que ahora suma entre 15 y 16.",
+          "Game Developer añade que el juego original de 110 personas no se terminará: se trata de un diseño distinto, ajustado al equipo actual, que reutiliza arte, armas y código. Romero afirma que el estudio conserva el nombre, la propiedad intelectual y el código, y que el editor actual tiene «cero objetivos creativos» para el juego."
+        ],
+        "en": [
+          "John Romero has confirmed that the game Xbox cancelled has a new publisher, though he says he cannot reveal who or when it will be announced, per VGC. Romero Games went from 110 people to five and has brought back 10 team leads, so it now has around 15–16.",
+          "Game Developer adds that the original 110-person game will not be finished: this is a different design scoped to the current team, reusing art, weapons and code. Romero says the studio keeps the name, IP and code, and that the current publisher has \"zero creative goals\" for the game."
+        ]
+      },
+      "why": {
+        "es": "Un estudio casi desmantelado vuelve a tener proyecto, a escala reducida.",
+        "en": "A studio that was nearly dismantled has a project again, at a smaller scale."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change"
+        }
+      ]
+    },
+    {
+      "id": "kirby-air-riders-evento-halloween-cancelado",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo cancela el evento de Halloween de Kirby Air Riders por congelaciones de pantalla",
+        "en": "Nintendo cancels the Kirby Air Riders Halloween event over screen freezes"
+      },
+      "dek": {
+        "es": "El evento debía durar del 28 de octubre al 4 de noviembre.",
+        "en": "The event was due to run from October 28 to November 4."
+      },
+      "body": {
+        "es": [
+          "Nintendo ha cancelado el evento «Trick or Treat!» de Kirby Air Riders, previsto del 28 de octubre al 4 de noviembre, después de que muchos jugadores notificaran congelaciones de pantalla en las primeras partidas, según Nintendo Life.",
+          "La cuenta de soporte de Nintendo en Japón confirmó el problema, pidió disculpas y dijo que volverá a celebrar el evento para que todos puedan conseguir la recompensa, un casco temático. No ha dado fecha ni mencionado compensaciones."
+        ],
+        "en": [
+          "Nintendo has cancelled the \"Trick or Treat!\" event in Kirby Air Riders, which was due to run from October 28 to November 4, after many players reported screen freezes in early matches, per Nintendo Life.",
+          "Nintendo's Japanese support account confirmed the issue, apologised and said it will hold the event again so everyone can earn the themed headwear reward. It gave no date and mentioned no compensation."
+        ]
+      },
+      "why": {
+        "es": "Nintendo antepone arreglar el fallo a mantener el calendario del evento.",
+        "en": "Nintendo is putting the fix ahead of keeping the event on schedule."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/kirby-air-riders-halloween-event-cancelled-nintendo-switch-2-2000751573"
+        }
+      ]
+    },
+    {
+      "id": "roblox-resultados-usuarios-9-por-ciento-ia",
+      "category": "industria",
+      "title": {
+        "es": "Roblox pierde usuarios diarios y apuesta por la IA para crear contenido",
+        "en": "Roblox loses daily users and bets on AI for content creation"
+      },
+      "dek": {
+        "es": "La compañía no cumplió sus objetivos de usuarios activos diarios.",
+        "en": "The company missed its daily active user goals."
+      },
+      "body": {
+        "es": [
+          "Los resultados trimestrales de Roblox mostraron 138 millones de usuarios activos diarios, un 9 % menos que hace un año y por debajo de los 145 millones esperados, según Game Developer. Las horas de uso, 34.000 millones, superaron las previsiones pero bajaron un 15 % interanual.",
+          "La empresa asegura que más del 80 % de los 100 juegos principales del trimestre se hicieron con herramientas de IA y planea invertir mucho en creación generativa. PC Gamer destaca que presume de unos 70.000 juegos publicados en cinco meses, y Kotaku critica esa «explosión de contenido». Roblox también confirmó que un agente de IA descargó por error 145,5 GB de recursos 3D, incluido contenido adulto, de Open3DLab, y dice que no se usarán para entrenamiento."
+        ],
+        "en": [
+          "Roblox's quarterly results showed 138 million daily active users, down 9% year on year and below the 145 million expected, according to Game Developer. Hours engaged, at 34 billion, beat estimates but fell 15% year on year.",
+          "The company says over 80% of the quarter's top 100 games were made with AI tools and plans to invest heavily in generative creation. PC Gamer highlights its boast of around 70,000 games published in five months, while Kotaku criticises that \"explosion of content\". Roblox also confirmed that an AI agent mistakenly scraped 145.5 GB of 3D assets, including adult content, from Open3DLab, and says they will not be used for training."
+        ]
+      },
+      "why": {
+        "es": "Muestra la tensión entre crecer con IA y la calidad y el origen de los contenidos.",
+        "en": "It shows the tension between growing with AI and the quality and provenance of content."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/no-thank-you-roblox-i-do-not-want-an-ai-driven-explosion-of-content-2000751567"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-prueba-gratuita-cinco-horas",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/57272b446751f2349f32d4bf5bc6d849ef5fb94b/ss_57272b446751f2349f32d4bf5bc6d849ef5fb94b.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/ed9f91c5529b5e043f58b5fa99de414c3c007772/header.jpg",
+        "credit": "Pearl Abyss / Steam",
+        "creditUrl": "https://store.steampowered.com/app/5001840/"
+      },
+      "title": {
+        "es": "Crimson Desert Enhanced estrena una prueba gratuita de cinco horas con el DLC Charting the Unknown",
+        "en": "Crimson Desert Enhanced gets a five-hour free trial alongside the Charting the Unknown DLC"
+      },
+      "dek": {
+        "es": "Disponible para todos en Xbox Series X|S y para suscriptores de PS Plus Premium y Deluxe.",
+        "en": "Available to all on Xbox Series X|S and to PS Plus Premium and Deluxe subscribers."
+      },
+      "body": {
+        "es": [
+          "Crimson Desert Enhanced ha recibido una prueba gratuita de cinco horas. En Xbox Series X|S está abierta a todos los jugadores; en PlayStation, según Pure Xbox, se limita a suscriptores de PS Plus Premium y Deluxe. Se puede descargar hasta el 7 de enero y el progreso se conserva si se compra el juego.",
+          "Llega junto a Charting the Unknown, una gran ampliación de 24,99 dólares (19,99 libras) en la tienda de Xbox. Push Square señala que, con ella instalada, el juego base queda como un rincón del mapa. El título salió en Xbox Series X|S el 19 de marzo de 2026."
+        ],
+        "en": [
+          "Crimson Desert Enhanced has received a five-hour free trial. On Xbox Series X|S it is open to all players; on PlayStation, per Pure Xbox, it is limited to PS Plus Premium and Deluxe subscribers. It can be downloaded until January 7 and progress carries over if you buy the game.",
+          "It arrives alongside Charting the Unknown, a large expansion priced at $24.99 (£19.99) on the Xbox Store. Push Square notes that with it installed, the base game becomes just a corner of the map. The game launched on Xbox Series X|S on March 19, 2026."
+        ]
+      },
+      "why": {
+        "es": "El DLC ya figura entre los más vendidos de Steam.",
+        "en": "The DLC is already among Steam's top sellers."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/crimson-desert-enhanced-adds-surprise-free-trial-for-all-xbox-series-xs-owners"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026303028/ya-puedes-jugar-gratis-a-crimson-desert-durante-cinco-horas-en-ps5-y-xbox-series-asi-puedes-conseguirlo/"
+        }
+      ]
+    },
+    {
+      "id": "resonance-of-fate-enhanced-remaster-ps5-pc",
+      "category": "playstation",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996080/ee0382fee03616940ff122739368dffaaabda556/ss_ee0382fee03616940ff122739368dffaaabda556.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996080/cfaa15a2fd591b54fe049a35dce6cf6618b0e222/header.jpg",
+        "credit": "tri-Ace / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4996080/"
+      },
+      "title": {
+        "es": "Resonance of Fate vuelve con una remasterización mejorada para PS5 y PC",
+        "en": "Resonance of Fate returns with an enhanced remaster for PS5 and PC"
+      },
+      "dek": {
+        "es": "tri-Ace lo lanza ya a 34,99 dólares, con mejora de 9,99 para quien tenga la edición 4K/HD.",
+        "en": "tri-Ace launches it now at $34.99, with a $9.99 upgrade for 4K/HD Edition owners."
+      },
+      "body": {
+        "es": [
+          "tri-Ace ha lanzado Resonance of Fate Enhanced Remaster para PS5 y PC (Steam). Cuesta 34,99 dólares, y quienes tengan la 4K/HD Edition en PS4 o PC pueden actualizar por 9,99 dólares; en PC hay que comprar primero esa edición y después el DLC de mejora, según Gematsu.",
+          "Incluye texturas escaladas y mejoras de renderizado, un filtro de decimación para detalles como el pelo y una opción de velocidad 2x para exploración, combates y eventos. Mantiene la banda sonora de Kohei Tanaka y Motoi Sakuraba. El original salió en 2010 y la edición 4K/HD en 2018."
+        ],
+        "en": [
+          "tri-Ace has launched Resonance of Fate Enhanced Remaster for PS5 and PC (Steam). It costs $34.99, and owners of the 4K/HD Edition on PS4 or PC can upgrade for $9.99; on PC you must first buy that edition and then the upgrade DLC, per Gematsu.",
+          "It includes upscaled textures and rendering improvements, a decimation filter for fine details like hair, and a 2x game speed option for exploration, battles and events. It keeps the soundtrack by Kohei Tanaka and Motoi Sakuraba. The original came out in 2010 and the 4K/HD Edition in 2018."
+        ]
+      },
+      "why": {
+        "es": "Es la segunda remasterización del JRPG de 2010.",
+        "en": "It is the second remaster of the 2010 JRPG."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/resonance-of-fate-enhanced-remaster-now-available-for-ps5-pc"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026303016/regresa-por-sorpresa-uno-de-los-jrpg-mas-originales-de-ps3-y-xbox-360-con-una-nueva-remasterizacion-para-ps5-y-pc/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Chronicles: Medieval corre «un riesgo real» de cierre antes de su acceso anticipado: su estudio, Raw Power Games, dice que la financiación ya no está asegurada, según IGN.",
+        "en": "Chronicles: Medieval developer Raw Power Games warns it is at real risk of closing before its Early Access launch because funding is no longer in place, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place"
+      }
+    },
+    {
+      "text": {
+        "es": "Los responsables de VRChat no incluirán etiquetas de contenido generado con IA, pese a que alrededor del 95 % de los usuarios las pedía en una encuesta, según IGN.",
+        "en": "VRChat's developers will not add labels for AI-generated content despite around 95% of users asking for them in a survey, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it"
+      }
+    },
+    {
+      "text": {
+        "es": "Ubisoft dice que no hay más remakes de Assassin's Creed previstos: Black Flag Resynced será el único por ahora, según VGC.",
+        "en": "Ubisoft says no further Assassin's Creed remakes are planned; Black Flag Resynced will be the only one for now, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/"
+      }
+    },
+    {
+      "text": {
+        "es": "Muere Patrick Stewart a los 86 años; Vandal recuerda su trabajo de voz en videojuegos como The Elder Scrolls IV: Oblivion, y Bethesda le ha rendido homenaje.",
+        "en": "Patrick Stewart has died aged 86; Vandal recalls his video game voice work including The Elder Scrolls IV: Oblivion, and Bethesda has paid tribute."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026303005/muere-patrick-stewart-a-los-86-anos-asi-fue-su-legado-en-oblivion-castlevania-y-otros-videojuegos/"
+      }
+    },
+    {
+      "text": {
+        "es": "Anthropic ha confirmado una actualización de Opus 5.5 para que Claude Code evite «recrear el juego concreto de otra persona», según Game Developer.",
+        "en": "Anthropic has confirmed an update to Opus 5.5 to steer Claude Code away from \"recreating someone else's specific game\", per Game Developer."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
+      }
+    },
+    {
+      "text": {
+        "es": "HoYoverse lanzará Petit Planet, un simulador de vida cósmico gratuito, el 4 de diciembre en PC, iOS y Android, según Gematsu.",
+        "en": "HoYoverse will launch Petit Planet, a free cosmic life simulator, on December 4 on PC, iOS and Android, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4"
+      }
+    },
+    {
+      "text": {
+        "es": "Queen's Domain, aventura inspirada en la FromSoftware clásica, ya está a la venta y figura entre los más vendidos de Steam, según Push Square y Xbox Wire.",
+        "en": "Queen's Domain, an adventure inspired by classic FromSoftware, is out and among Steam's top sellers, per Push Square and Xbox Wire."
+      },
+      "source": {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/30/queens-domain-launch-tips/"
+      }
+    },
+    {
+      "text": {
+        "es": "Seeker Eye añade versión para Switch 2 y saldrá el 25 de febrero de 2027 en Japón, según Gematsu.",
+        "en": "Seeker Eye adds a Switch 2 version and launches February 25, 2027 in Japan, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/seeker-eye-adds-switch-2-version-launches-february-25-2027-in-japan"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "World of Warcraft: Forever",
+      "platforms": "PC",
+      "note": {
+        "es": "4 de noviembre",
+        "en": "November 4"
+      },
+      "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release"
+    },
+    {
+      "title": "Honkai: Star Rail 4.7",
+      "platforms": "PC / Mobile",
+      "note": {
+        "es": "Actualización, 11 de noviembre",
+        "en": "Update, November 11"
+      },
+      "url": "https://www.gematsu.com/2026/10/honkai-star-rail-version-4-7-update-now-lay-laughter-to-all-stars-launches-november-11"
+    },
+    {
+      "title": "Petit Planet",
+      "platforms": "PC / iOS / Android",
+      "note": {
+        "es": "4 de diciembre",
+        "en": "December 4"
+      },
+      "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4"
+    },
+    {
+      "title": "Final Fantasy XIV: Evercold",
+      "platforms": "FFXIV",
+      "note": {
+        "es": "23 de febrero de 2027",
+        "en": "February 23, 2027"
+      },
+      "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027"
+    },
+    {
+      "title": "Resonance of Fate Enhanced Remaster",
+      "platforms": "PS5 / PC",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://www.gematsu.com/2026/10/resonance-of-fate-enhanced-remaster-now-available-for-ps5-pc"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Las familias de las víctimas de Itaewon y los jugadores presionan a Activision por las imágenes de Modern Warfare 4, que se retirarán el 12 de noviembre, según VGC.",
+        "en": "Itaewon victims' families and players pressed Activision over the Modern Warfare 4 footage, which will be removed November 12, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/"
+      }
+    },
+    {
+      "text": {
+        "es": "La comunidad de VRChat se divide tras negarse el estudio a etiquetar el contenido de IA, según IGN.",
+        "en": "The VRChat community is split after the studio refused to label AI content, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Destiny piden apoyar a Bungie y el estudio responde que no hace falta «comprar Marathon como donación», según IGN.",
+        "en": "Destiny players want to support Bungie, and the studio replies there is no need to \"buy Marathon as a donation\", per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future"
+      }
+    },
+    {
+      "text": {
+        "es": "Kotaku critica la «explosión de contenido» con IA que celebra Roblox.",
+        "en": "Kotaku pushes back on the AI-driven \"explosion of content\" Roblox is celebrating."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/no-thank-you-roblox-i-do-not-want-an-ai-driven-explosion-of-content-2000751567"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Crimson Desert Enhanced: Charting the Unknown",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "Queen's Domain",
+      "url": "https://store.steampowered.com/app/1799840/"
+    },
+    {
+      "name": "Can 'Em All",
+      "url": "https://store.steampowered.com/app/5133900/"
+    }
+  ]
+}
