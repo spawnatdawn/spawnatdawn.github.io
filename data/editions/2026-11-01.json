@@ -1,0 +1,646 @@
+{
+  "date": "2026-11-01",
+  "headline": {
+    "es": "Nintendo estrena el Día de Pikmin y id Software defiende su rumbo tras perder a la mitad de su plantilla",
+    "en": "Nintendo launches Pikmin Day while id Software defends its course after losing half its staff"
+  },
+  "intro": {
+    "es": "Además, Helldivers 2 se hunde en Steam por su nuevo antitrampas, aparece una pintada de «Save Mass Effect» en Madrid y circulan rumores de Persona 1 y Bend Studio.",
+    "en": "Also: Helldivers 2 sinks on Steam over its new anti-cheat, \"Save Mass Effect\" graffiti shows up in Madrid, and Persona 1 and Bend Studio rumors circulate."
+  },
+  "stories": [
+    {
+      "id": "pikmin-day-direct-pikmin-4-switch-2-12-noviembre",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo estrena el Día de Pikmin con un Direct sorpresa: Pikmin 4 llega a Switch 2 el 12 de noviembre",
+        "en": "Nintendo kicks off Pikmin Day with a surprise Direct: Pikmin 4 reaches Switch 2 on November 12"
+      },
+      "dek": {
+        "es": "No hubo juegos nuevos, pero sí fecha, un modo inédito y un corto mensual.",
+        "en": "No new games, but a date, a new mode and a monthly short."
+      },
+      "body": {
+        "es": [
+          "Nintendo emitió el 31 de octubre un Nintendo Direct por sorpresa para estrenar el «Día de Pikmin», que a partir de este año se celebrará cada 1 de noviembre. Según Kotaku, Shigeru Miyamoto explicó que el nombre sale de ver tres Pikmin en fila, como el «11.1» de la fecha. No se anunció ningún juego nuevo.",
+          "La novedad principal es Pikmin 4 – Nintendo Switch 2 Edition, que sale el 12 de noviembre e incluye el modo Dandori Academy, una prueba contrarreloj de tesoros, y órdenes de voz a Oatchi mediante el micrófono de la consola. Una demo estará disponible el 2 de noviembre. El Direct también mostró cuevas en Pikmin Bloom y un nuevo corto animado; Nintendo prevé publicar uno al mes."
+        ],
+        "en": [
+          "Nintendo shadow-dropped a Nintendo Direct on October 31 to launch \"Pikmin Day\", which will be marked every November 1 from now on. Per Kotaku, Shigeru Miyamoto said the name comes from three Pikmin standing in a row, like the \"11.1\" in the date. No new games were announced.",
+          "The headline item is Pikmin 4 – Nintendo Switch 2 Edition, out November 12, which includes the Dandori Academy timed treasure mode and voice commands for Oatchi through the console's microphone. A demo arrives November 2. The Direct also showed caves coming to Pikmin Bloom and a new animated short; Nintendo plans one a month."
+        ]
+      },
+      "why": {
+        "es": "Sirve de escaparate para la edición de Switch 2 de Pikmin 4 y para ampliar la franquicia con animación mensual.",
+        "en": "It showcases the Switch 2 edition of Pikmin 4 and expands the franchise with monthly animation."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/pikmin-4-switch-2-edition-release-date/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct"
+        }
+      ]
+    },
+    {
+      "id": "walmart-cancela-reservas-zelda-switch-2-tarjeta-519",
+      "category": "nintendo",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Walmart cancela reservas de la Switch 2 de Zelda y ofrece 48 horas para repetir el pedido",
+        "en": "Walmart cancels Zelda Switch 2 console pre-orders and gives customers 48 hours to reorder"
+      },
+      "dek": {
+        "es": "La cadena habla de un error y, a algunos clientes, les da una tarjeta regalo de 519 dólares.",
+        "en": "The retailer calls it an error and is giving some customers a $519 gift card."
+      },
+      "body": {
+        "es": [
+          "Walmart canceló reservas de la consola Switch 2 temática de The Legend of Zelda: Ocarina of Time un día antes de la fecha prevista de entrega, según Kotaku. Los correos del servicio de atención dicen que fue «un error» y dan 48 horas para reservar de nuevo mediante un artículo «Exclusive Reservation» en el carrito.",
+          "Nintenderos añade que algunos afectados reciben además una tarjeta regalo de 519 dólares, el precio original de la consola. El juego llega a Switch 2 el 5 de noviembre."
+        ],
+        "en": [
+          "Walmart canceled pre-orders for the Legend of Zelda: Ocarina of Time Switch 2 console a day before they were due to arrive, per Kotaku. Customer service emails call it \"an error\" and give 48 hours to reserve again through an \"Exclusive Reservation\" item in the cart.",
+          "Nintenderos adds that some affected customers also get a $519 gift card, the console's original price. The game launches on Switch 2 on November 5."
+        ]
+      },
+      "why": {
+        "es": "Muestra problemas de distribución en la consola temática justo antes del lanzamiento del juego.",
+        "en": "It points to distribution trouble for the themed console right before the game's launch."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/walmart-compensa-a-los-afectados-por-las-cancelaciones-de-la-switch-2-edicion-40o-aniversario-de-zelda-con-tarjetas-regalo-de-519-dolares/"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-2-easy-anti-cheat-resenas-negativas-mods",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/capsule_616x353.jpg",
+        "credit": "PlayStation Publishing LLC / Steam",
+        "creditUrl": "https://store.steampowered.com/app/553850/"
+      },
+      "title": {
+        "es": "Helldivers 2 cae a reseñas «mayormente negativas» en Steam tras cambiar de antitrampas",
+        "en": "Helldivers 2 slides to \"Mostly Negative\" on Steam after switching anti-cheat"
+      },
+      "dek": {
+        "es": "El paso a Easy Anti-Cheat ha dejado sin funcionar mods populares.",
+        "en": "The move to Easy Anti-Cheat has broken popular mods."
+      },
+      "body": {
+        "es": [
+          "La actualización 7.20 de Helldivers 2 sustituyó GameGuard por Easy Anti-Cheat para frenar a los tramposos. Según 3DJuegos, desde el 20 de octubre las reseñas recientes en Steam han ido cayendo hasta «mayormente negativas», con solo un 36 % de valoraciones positivas.",
+          "La queja principal es que algunos mods han dejado de funcionar; el de Custom Galactic War es un ejemplo y sus creadores estudian alternativas. Hay además jugadores que reportan bajadas de rendimiento y cierres inesperados incluso sin mods. Las cifras exactas varían según el momento en que se midan."
+        ],
+        "en": [
+          "Helldivers 2 update 7.20 replaced GameGuard with Easy Anti-Cheat to curb cheaters. According to 3DJuegos, recent Steam reviews have fallen since October 20 to \"Mostly Negative\", with only 36% positive.",
+          "The main complaint is that some mods no longer work; Custom Galactic War is one example and its authors are exploring alternatives. Some players also report lower performance and crashes even without mods. Exact figures vary depending on when they are measured."
+        ]
+      },
+      "why": {
+        "es": "Un cambio pensado contra las trampas ha enfadado a la comunidad que más contenido aporta al juego.",
+        "en": "A change aimed at cheaters has angered the community that supplies much of the game's extra content."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/helldivers-2/noticias/helldivers-2-queria-frenar-a-tramposos-ha-acabado-haciendose-dano-a"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/"
+        },
+        {
+          "name": "GamingOnLinux",
+          "url": "https://www.gamingonlinux.com/2026/10/helldivers-2-switches-over-from-gameguard-to-easy-anti-cheat/"
+        }
+      ]
+    },
+    {
+      "id": "id-software-mitad-plantilla-doom-machinegames",
+      "category": "industria",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/capsule_616x353.jpg",
+        "credit": "Bethesda Softworks / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3017860/"
+      },
+      "title": {
+        "es": "El codirector de id Software dice que «va todo bien» tras perder a la mitad del estudio",
+        "en": "id Software co-director says \"we're doing great\" after losing half the studio"
+      },
+      "dek": {
+        "es": "Marty Stratton asegura que id colabora con MachineGames más que nunca.",
+        "en": "Marty Stratton says id is working with MachineGames more closely than ever."
+      },
+      "body": {
+        "es": [
+          "Marty Stratton, codirector de id Software, afirmó ante la prensa que «lo estamos haciendo genial» y reconoció que alrededor de la mitad del estudio se marchó en la reestructuración de Xbox, según Kotaku. Los recortes llegaron unas 24 horas antes de la gran expansión de Doom: The Dark Ages.",
+          "Stratton añadió que id y MachineGames trabajan juntos más estrechamente que nunca, una colaboración que según él empezó antes de los despidos. MachineGames, cuenta Kotaku, trabaja en un tercer Wolfenstein sin anunciar. Kotaku señala que se habla de nuevos recortes en Xbox en noviembre y enero, y que no está claro qué planea Microsoft para la franquicia."
+        ],
+        "en": [
+          "Marty Stratton, id Software co-director, told press \"we're doing great\" and acknowledged that around half the studio left in Xbox's reset, per Kotaku. The cuts came about 24 hours before the big Doom: The Dark Ages expansion.",
+          "Stratton added that id and MachineGames are working together more closely than ever, a collaboration he says began before the layoffs. MachineGames, Kotaku notes, is making an unannounced third Wolfenstein. Kotaku says further Xbox cuts are reportedly planned for November and January, and it is unclear what Microsoft plans for the franchise."
+        ]
+      },
+      "why": {
+        "es": "Hay dudas sobre cómo afecta la pérdida de plantilla a futuros Doom, algo que id niega.",
+        "en": "Questions remain about how the lost staff affect future Doom games, which id denies."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/"
+        }
+      ]
+    },
+    {
+      "id": "save-mass-effect-pintada-oficinas-ea-madrid",
+      "category": "industria",
+      "title": {
+        "es": "Aparece una pintada «Save Mass Effect» en la oficina de EA en Madrid",
+        "en": "\"Save Mass Effect\" graffiti appears at EA's Madrid office"
+      },
+      "dek": {
+        "es": "La protesta de los fans por el cierre de BioWare llega a la puerta de la editora.",
+        "en": "Fans' protest over BioWare's closure reaches the publisher's gates."
+      },
+      "body": {
+        "es": [
+          "Un usuario de Reddit encontró la pintada «SAVE MASS EFFECT» en la puerta y un muro de la oficina de EA en Madrid, según Kotaku, que indica que esa sede trabaja sobre todo en títulos de EA Sports. IGN recoge el mismo suceso. Kotaku no cita ninguna respuesta de EA.",
+          "Es la última protesta tras el anuncio del cierre de BioWare y la cancelación del próximo Mass Effect. Kotaku menciona un anuncio de 15 segundos en Times Square y una petición en Change.org con más de 250.000 firmas."
+        ],
+        "en": [
+          "A Reddit user found \"SAVE MASS EFFECT\" spray-painted on the gate and a wall of EA's Madrid office, per Kotaku, which notes that the site mostly works on EA Sports titles. IGN reports the same incident. Kotaku cites no response from EA.",
+          "It is the latest protest after the announced closure of BioWare and cancellation of the next Mass Effect. Kotaku mentions a 15-second Times Square ad and a Change.org petition with over 250,000 signatures."
+        ]
+      },
+      "why": {
+        "es": "Refleja que la reacción de los fans al cierre sigue creciendo semanas después.",
+        "en": "It shows fan reaction to the closure is still growing weeks later."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2-mitad-equipo-misiones-exmodders",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1091500/"
+      },
+      "title": {
+        "es": "CD Projekt: la mitad del equipo de misiones de Cyberpunk 2 son antiguos modders",
+        "en": "CD Projekt: half of Cyberpunk 2's quest team are former modders"
+      },
+      "dek": {
+        "es": "Paweł Sasko lo explicó en un directo sobre la actualización 2.5 de Cyberpunk 2077.",
+        "en": "Paweł Sasko said so on a stream about Cyberpunk 2077's 2.5 update."
+      },
+      "body": {
+        "es": [
+          "Paweł Sasko, director asociado de Cyberpunk 2, dijo en un directo de REDstreams que cerca del 50 % del equipo de misiones de la secuela viene de la comunidad de mods, según Vandal. Trabajaron antes en mods de The Witcher 2 y The Witcher 3, y «los contratamos y ahora forman parte de nuestra empresa».",
+          "La charla giraba en torno a la actualización 2.5 de Cyberpunk 2077, que lleva los mods a consolas. Vandal recuerda que Cyberpunk 2 llegará después de The Witcher 4."
+        ],
+        "en": [
+          "Paweł Sasko, associate director on Cyberpunk 2, said on a REDstreams broadcast that about 50% of the sequel's quest team come from the modding community, per Vandal. They previously worked on The Witcher 2 and The Witcher 3 mods, and \"we hired them and now they are part of our company\".",
+          "The talk centered on Cyberpunk 2077's 2.5 update, which brings mods to consoles. Vandal notes Cyberpunk 2 arrives after The Witcher 4."
+        ]
+      },
+      "why": {
+        "es": "CD Projekt presenta a los modders como cantera de talento para su próxima gran producción.",
+        "en": "CD Projekt is presenting modders as a talent pool for its next big production."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026304002/cd-projekt-revela-su-arma-secreta-para-cyberpunk-2-la-mitad-del-equipo-son-modders-fichados-de-la-comunidad/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/"
+        }
+      ]
+    },
+    {
+      "id": "playstation-oferta-empleo-precios-dinamicos",
+      "category": "playstation",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/1280px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/960px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "credit": "JDC808 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:All_PlayStations_(1-5,_PSP,_%26_Vita).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Una oferta de empleo de Sony reaviva el temor a los precios dinámicos en PS Store",
+        "en": "Sony job listing revives fears of dynamic pricing on PS Store"
+      },
+      "dek": {
+        "es": "El puesto habla de «precios inteligentes» y ofertas dirigidas; Sony no ha comentado.",
+        "en": "The role mentions \"intelligent pricing\" and targeted offers; Sony has not commented."
+      },
+      "body": {
+        "es": [
+          "Una vacante de Senior Director of Digital Games Monetisation en Sony Interactive Entertainment, detectada por The Game Post, menciona «impulsar la adopción y evolución de los precios inteligentes» y ampliar el programa de ofertas dirigidas, según Push Square.",
+          "Push Square recuerda que en marzo se vio que Sony ofrecía descuentos mayores a ciertos usuarios, sin subidas de precio reportadas. El medio cree que el anuncio es demasiado vago para enfadarse y pide transparencia si se amplía la práctica. Sony no ha dicho nada sobre la oferta."
+        ],
+        "en": [
+          "A Senior Director of Digital Games Monetisation vacancy at Sony Interactive Entertainment, spotted by The Game Post, mentions \"driving the adoption and evolution of intelligent pricing\" and expanding the targeted offers program, per Push Square.",
+          "Push Square recalls that in March Sony was seen giving deeper discounts to some users, with no price increases reported. It thinks the listing is too vague to be angry about and asks for transparency if the practice expands. Sony has not commented on the listing."
+        ]
+      },
+      "why": {
+        "es": "Lo que preocupa es que haya precios distintos según el usuario, aunque de momento no hay indicios de ello.",
+        "en": "The worry is users paying different prices, though there is no sign of that yet."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing"
+        },
+        {
+          "name": "Sony Interactive (oferta)",
+          "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5863238004"
+        }
+      ]
+    },
+    {
+      "id": "rumor-persona-1-remake-metraje-filtrado",
+      "category": "juegos",
+      "title": {
+        "es": "Rumor: aparece en internet un supuesto metraje de un remake de Persona 1",
+        "en": "Rumor: alleged Persona 1 remake footage appears online"
+      },
+      "dek": {
+        "es": "Atlus no ha dicho nada y los medios piden cautela.",
+        "en": "Atlus has said nothing and outlets urge caution."
+      },
+      "body": {
+        "es": [
+          "Push Square, Gematsu e IGN informan de que circula en internet un vídeo que supuestamente muestra un remake de Revelations: Persona. Se trata de un rumor sin confirmar: Push Square admite que, con tanto contenido generado por IA, es difícil saber si es auténtico, y aconseja tomarlo «con pinzas».",
+          "Atlus no ha confirmado ni desmentido nada. Push Square recuerda que el productor Kazuhisa Wada ha dicho que la compañía debería «hacer algún día» remakes de Persona 1 y 2, y que Persona 4 Revival sale el 17 de febrero, por lo que no espera un lanzamiento cercano. Aquí no se describe ni enlaza el material."
+        ],
+        "en": [
+          "Push Square, Gematsu and IGN report that a video allegedly showing a remake of Revelations: Persona is circulating online. It is an unconfirmed rumor: Push Square admits that with so much AI-generated content it is hard to tell whether it is genuine, and advises taking it \"with a pinch of salt\".",
+          "Atlus has neither confirmed nor denied anything. Push Square recalls that series producer Kazuhisa Wada has said the company should \"eventually do\" Persona 1 and 2 remakes, and that Persona 4 Revival launches February 17, so it does not expect a near-term release. The material is neither described nor linked here."
+        ]
+      },
+      "why": {
+        "es": "Un remake encaja con las palabras de Atlus, pero hasta que no haya anuncio oficial es solo un rumor.",
+        "en": "A remake fits Atlus's own comments, but until an official announcement it remains a rumor."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/rumor-persona-remake-footage-appears-online"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/un-video-de-un-supuesto-remake-de-persona-parece-haberse-filtrado/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online"
+        }
+      ]
+    },
+    {
+      "id": "rumor-bend-studio-nuevo-juego-ps5-2027",
+      "category": "playstation",
+      "title": {
+        "es": "Rumor: Bend Studio anunciaría y lanzaría un nuevo juego de PS5 en 2027",
+        "en": "Rumor: Bend Studio to announce and launch a new PS5 game in 2027"
+      },
+      "dek": {
+        "es": "Según MP1st, sería un juego en tercera persona con cooperativo que no es Days Gone 2.",
+        "en": "Per MP1st, it would be a third-person co-op game and not Days Gone 2."
+      },
+      "body": {
+        "es": [
+          "Push Square recoge un rumor de MP1st: Bend Studio, creadora de Days Gone, anunciará su próximo juego en 2027 y podría lanzarlo ese mismo año. Según el informe, está «mucho más avanzado de lo que se espera», es en tercera persona con cooperativo, no es un juego como servicio y no es una secuela de Days Gone.",
+          "Ni Sony ni el estudio lo han confirmado y Push Square no lo verifica por su cuenta. En 2022 Bend sí dijo oficialmente que preparaba una nueva IP con multijugador basada en los sistemas de mundo abierto de Days Gone."
+        ],
+        "en": [
+          "Push Square relays an MP1st rumor: Bend Studio, maker of Days Gone, will reveal its next game in 2027 and may release it the same year. The report says it is \"much further along\" than expected, is third-person with co-op, is not a live service game and is not a Days Gone sequel.",
+          "Neither Sony nor the studio has confirmed it and Push Square does not verify it independently. In 2022 Bend did officially say it was working on a new multiplayer IP building on Days Gone's open-world systems."
+        ]
+      },
+      "why": {
+        "es": "Encaja con lo que Bend adelantó, pero la fecha y los detalles dependen de una sola filtración.",
+        "en": "It matches what Bend has hinted, but the date and details rest on a single leak."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027"
+        },
+        {
+          "name": "VGC (2022)",
+          "url": "https://videogameschronicle.com/news/sonys-bend-studio-reveals-multiplayer-plans-for-its-new-ip-alongside-a-fresh-logo"
+        }
+      ]
+    },
+    {
+      "id": "silver-palace-14-diciembre-ps5-pc-movil",
+      "category": "movil",
+      "title": {
+        "es": "Silver Palace, el RPG gratuito de misterio, saldrá el 14 de diciembre en PS5, PC y móviles",
+        "en": "Free-to-play mystery RPG Silver Palace launches December 14 on PS5, PC and mobile"
+      },
+      "dek": {
+        "es": "Es un juego de acción y rol de mundo abierto ambientado en una Inglaterra victoriana.",
+        "en": "It is a Victorian-inspired open-world action RPG."
+      },
+      "body": {
+        "es": [
+          "Silver Palace llegará el 14 de diciembre a PlayStation 5, PC (por cliente propio y Epic Games Store), iOS y Android, según Gematsu. Es un RPG de acción gratuito con elementos de mundo abierto centrado en misterios detectivescos; lo desarrolla Silver Studio y lo publica Elementa, ambos de Happy Elements.",
+          "Push Square, que lo probó en la Gamescom, lo describe como un juego de mundo abierto de inspiración victoriana y reconoce que la fecha le sorprendió. Insider Gaming indica que hay preregistro con recompensas, como un personaje de cuatro estrellas."
+        ],
+        "en": [
+          "Silver Palace launches December 14 on PlayStation 5, PC (via its own client and the Epic Games Store), iOS and Android, per Gematsu. It is a free-to-play action RPG with open-world elements built around detective mysteries; Silver Studio develops it and Elementa publishes, both part of Happy Elements.",
+          "Push Square, which played it at Gamescom, calls it a Victorian-inspired open-world game and says the date surprised it. Insider Gaming notes pre-registration is open with rewards, including a four-star character."
+        ]
+      },
+      "why": {
+        "es": "Suma otro free-to-play de mundo abierto a PS5 en diciembre.",
+        "en": "It adds another open-world free-to-play game to PS5 in December."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/silver-palace-release-date/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Masahiro Sakurai cree que la IA generativa saturará el mercado de juegos poco viables y que la originalidad humana pesará más, según dijo a Denfaminico Gamer y recoge Vandal.",
+        "en": "Masahiro Sakurai believes generative AI will flood the market with commercially unviable games and make human originality matter more, he told Denfaminico Gamer, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026304010/sakurai-lanza-un-aviso-ante-la-avalancha-de-juegos-con-ia-los-creativos-de-verdad-seran-aun-mas-importantes/"
+      }
+    },
+    {
+      "text": {
+        "es": "«Refund this Game», de Cactile Games y dofhouse, se completa en menos de dos horas para poder devolverlo en Steam con logro incluido; defiende la política de reembolsos, según Vandal.",
+        "en": "\"Refund this Game\", from Cactile Games and dofhouse, can be finished in under two hours so it can be refunded on Steam with an achievement, defending the refund policy, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026304009/crean-un-juego-de-dos-horas-llamado-reembolsa-este-juego-para-defender-las-politicas-de-devolucion-en-steam/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rudolph the Red-Nosed Reindeer – Holiday Play Edition salió en Switch 2 sin subirse entero a los servidores y fue injugable cuatro días; GameMill ya lo ha arreglado, según Vandal.",
+        "en": "Rudolph the Red-Nosed Reindeer – Holiday Play Edition launched on Switch 2 without being fully uploaded to servers and was unplayable for four days; GameMill has fixed it, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026304006/un-nuevo-juego-de-switch-llego-tan-roto-que-era-imposible-jugar-se-les-olvido-incluir-el-archivo-de-descarga/"
+      }
+    },
+    {
+      "text": {
+        "es": "Yacht Club dice que la edición física de Mina the Hollower «sigue en marcha», busca distribuidor y prepara ajustes de accesibilidad y más opciones del randomizador, según Nintendo Life.",
+        "en": "Yacht Club says Mina the Hollower's physical edition is \"still in progress\", it is seeking a distribution partner and is working on accessibility tweaks and more randomizer options, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release"
+      }
+    },
+    {
+      "text": {
+        "es": "El cartucho de Zelda: Ocarina of Time para Switch 2 será rojo, como los habituales, y no dorado, según Nintenderos; el juego sale el 5 de noviembre.",
+        "en": "The Zelda: Ocarina of Time cartridge for Switch 2 will be red like usual ones, not gold, per Nintenderos; the game launches November 5."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/no-el-cartucho-de-zelda-ocarina-of-time-para-nintendo-switch-2-no-sera-dorado/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Modern Warfare 4 en Switch 2 sufren una latencia de entrada muy superior a la de otras plataformas, según IGN.",
+        "en": "Modern Warfare 4 players on Switch 2 face input lag much worse than on other platforms, according to IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage"
+      }
+    },
+    {
+      "text": {
+        "es": "Las herramientas de mods de Alien: Isolation llegan a la versión 1.0 tras casi una década de trabajo, según PC Gamer.",
+        "en": "Alien: Isolation's mod tools reach version 1.0 after almost a decade of work, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/"
+      }
+    },
+    {
+      "text": {
+        "es": "Final Fantasy VII Revelation sale el 8 de abril de 2027 en Switch 2 y ya circula un vídeo de su juego en la consola, según Nintenderos.",
+        "en": "Final Fantasy VII Revelation launches April 8, 2027 on Switch 2 and gameplay video of it on the console is circulating, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/este-video-nos-muestra-gameplay-de-final-fantasy-vii-revelation-en-nintendo-switch-2/"
+      }
+    },
+    {
+      "text": {
+        "es": "Mundial de LoL 2026: Karmine Corp, LYON y BLG cierran los cuartos de final, con Dplus KIA, T1, Gen.G, TES e Invictus Gaming; Movistar KOI quedó eliminado, según Insider Gaming.",
+        "en": "LoL Worlds 2026: Karmine Corp, LYON and BLG fill the final knockout spots alongside Dplus KIA, T1, Gen.G, TES and Invictus Gaming; Movistar KOI was eliminated, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/kcorp-lyon-blg-secure-lol-worlds-knockouts/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/no-el-cartucho-de-zelda-ocarina-of-time-para-nintendo-switch-2-no-sera-dorado/"
+    },
+    {
+      "title": "Pikmin 4 – Nintendo Switch 2 Edition",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "12 de noviembre (demo el 2)",
+        "en": "November 12 (demo on the 2nd)"
+      },
+      "url": "https://insider-gaming.com/pikmin-4-switch-2-edition-release-date/"
+    },
+    {
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "platforms": "Xbox",
+      "note": {
+        "es": "Semana del 2 al 6 de noviembre",
+        "en": "Week of November 2–6"
+      },
+      "url": "https://www.purexbox.com/news/2026/10/these-30plus-games-are-coming-to-xbox-next-week-november-2-6"
+    },
+    {
+      "title": "Silver Palace",
+      "platforms": "PS5 / PC / Mobile",
+      "note": {
+        "es": "14 de diciembre",
+        "en": "December 14"
+      },
+      "url": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14"
+    },
+    {
+      "title": "Final Fantasy VII Revelation",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "8 de abril de 2027",
+        "en": "April 8, 2027"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/este-video-nos-muestra-gameplay-de-final-fantasy-vii-revelation-en-nintendo-switch-2/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Fans de Mass Effect llevan la protesta a la oficina de EA en Madrid con una pintada «Save Mass Effect», según Kotaku.",
+        "en": "Mass Effect fans take their protest to EA's Madrid office with \"Save Mass Effect\" graffiti, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962"
+      }
+    },
+    {
+      "text": {
+        "es": "La comunidad de Helldivers 2 responde con reseñas negativas al cambio de antitrampas que rompe mods, según 3DJuegos.",
+        "en": "The Helldivers 2 community answers the anti-cheat change that breaks mods with negative reviews, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/helldivers-2/noticias/helldivers-2-queria-frenar-a-tramposos-ha-acabado-haciendose-dano-a"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de PlayStation vuelven a debatir sobre precios dinámicos tras una oferta de empleo de Sony, según Push Square.",
+        "en": "PlayStation fans are debating dynamic pricing again after a Sony job listing, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Switch 2 se quejan del retraso de control en Modern Warfare 4 frente a otras plataformas, según IGN.",
+        "en": "Switch 2 players complain about Modern Warfare 4 input lag compared with other platforms, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Can 'Em All",
+      "url": "https://store.steampowered.com/app/5133900/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    }
+  ]
+}
