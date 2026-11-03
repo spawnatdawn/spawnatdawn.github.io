@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-03",
+  "headline": {
+    "es": "Rehacer Ocarina of Time: Nintendo desvela quién lo hizo mientras Xbox suma polémicas",
+    "en": "Remaking Ocarina of Time: Nintendo reveals who built it as Xbox piles up controversies"
+  },
+  "intro": {
+    "es": "Además, Anthropic frena los clones de juegos con Claude, Sony ofrece comprar tu PS5 y Pokémon abre una cuenta atrás hacia el 30 de noviembre.",
+    "en": "Also: Anthropic curbs game clones in Claude, Sony offers to buy back your PS5 and Pokémon starts a countdown to November 30."
+  },
+  "stories": [
+    {
+      "id": "zelda-ocarina-of-time-remake-equipo-aonuma-switch-2",
+      "category": "nintendo",
+      "title": {
+        "es": "El remake de Ocarina of Time lo ha hecho el equipo interno de Zelda de Nintendo",
+        "en": "The Ocarina of Time remake was built by Nintendo's in-house Zelda team"
+      },
+      "dek": {
+        "es": "La serie «Ask the Developer» desvela el equipo y Aonuma explica por qué quiso rehacerlo.",
+        "en": "Nintendo's «Ask the Developer» series reveals the team, and Aonuma explains why he wanted the remake."
+      },
+      "body": {
+        "es": [
+          "Nintendo ha publicado las dos primeras partes de una entrevista con los desarrolladores del remake de The Legend of Zelda: Ocarina of Time para Switch 2, que sale el 5 de noviembre. Según Nintendo Life, el juego es obra del equipo EPD Production Group n.º 3, responsable de la mayoría de entregas de Zelda desde principios de los 2000. HokWai Ng dirige por primera vez, Aya Shida es directora de arte y Eiji Aonuma y Hidemaro Fujibayashi producen.",
+          "Aonuma cuenta que quiso rehacer el juego, coincidiendo con el 40.º aniversario de la saga, para que los desarrolladores jóvenes que no trabajaron en la versión de N64 aprendieran de su estructura y «desencadenaran nuevas ideas» para futuros juegos. Dio libertad al equipo para decidir qué cambiar y se sorprendió de lo pocos cambios que hicieron: el equipo respetaba el original más de lo que esperaba."
+        ],
+        "en": [
+          "Nintendo has published the first two parts of an interview with the developers of The Legend of Zelda: Ocarina of Time on Switch 2, out on November 5. According to Nintendo Life, the game comes from EPD Production Group No. 3, behind most Zelda entries since the early 2000s. HokWai Ng directs for the first time, Aya Shida is art director, and Eiji Aonuma and Hidemaro Fujibayashi produce.",
+          "Aonuma says he wanted the remake, timed with the series' 40th anniversary, so that younger developers who did not work on the N64 original could learn from its structure and \"trigger new insights\" for future games. He gave the team freedom to decide what to change and was surprised by how little they altered: they cared about the original more than he expected."
+        ]
+      },
+      "why": {
+        "es": "Despeja una incógnita de años y apunta a que el remake también sirve de escuela para el próximo Zelda.",
+        "en": "It settles a long-running question and suggests the remake doubles as a training ground for the next Zelda."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-development-team-has-been-revealed"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/zelda-producer-aonuma-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-in-the-teams-younger-developers/"
+        }
+      ]
+    },
+    {
+      "id": "helen-chiang-xbox-coo-comunicado-linkedin",
+      "category": "xbox",
+      "title": {
+        "es": "Helen Chiang, exdirectora de operaciones de Xbox, niega haber sido despedida por faltas graves",
+        "en": "Former Xbox COO Helen Chiang denies being let go for serious misconduct"
+      },
+      "dek": {
+        "es": "En un comunicado en LinkedIn dice tener «serias preocupaciones» sobre cómo se aplicaron los criterios en su caso.",
+        "en": "In a LinkedIn statement she says she has \"serious concerns\" about how standards were applied to her."
+      },
+      "body": {
+        "es": [
+          "Helen Chiang, ascendida en julio a primera directora de operaciones (COO) de Xbox, dejó Microsoft de forma repentina tras 21 años en la compañía. Hace una semana circuló que podría haber sido despedida por infringir políticas internas. Ahora ha publicado en LinkedIn un largo texto titulado «Clarity is Kindness».",
+          "En él asegura que no filtró información confidencial a la prensa, que no se va a la competencia y que no hubo discriminación, acoso, abuso de información privilegiada ni fraude. Tampoco dice haberse ido por no obtener un cargo mayor. Afirma tener «serias preocupaciones» sobre cómo se aplicaron los estándares en su caso, pero no detalla qué ocurrió, según Pure Xbox. Microsoft no ha explicado públicamente las razones."
+        ],
+        "en": [
+          "Helen Chiang, promoted in July to Xbox's first chief operating officer, left Microsoft abruptly after 21 years. A week ago it was suggested she may have been dismissed for policy violations. She has now posted a long LinkedIn statement titled \"Clarity is Kindness\".",
+          "In it she says she did not leak confidential information to the press, is not joining a competitor, and that there was no discrimination, harassment, insider trading or fraud. She also says she did not leave over missing out on a bigger role. She says she has \"serious concerns\" about how standards were applied in her case but gives no specifics, per Pure Xbox. Microsoft has not publicly explained the reasons."
+        ]
+      },
+      "why": {
+        "es": "Añade incertidumbre a la cúpula de Xbox en plena reestructuración del negocio.",
+        "en": "It adds uncertainty at the top of Xbox amid a wider restructuring."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/former-xbox-coo-issues-lengthy-departure-statement-to-set-the-record-straight"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/"
+        }
+      ]
+    },
+    {
+      "id": "claude-bloquea-clonar-videojuegos-anthropic",
+      "category": "industria",
+      "title": {
+        "es": "Anthropic limita a Claude para que no recree videojuegos existentes",
+        "en": "Anthropic restricts Claude from recreating existing video games"
+      },
+      "dek": {
+        "es": "La medida responde a la preocupación de estudios indies por los clones hechos con IA.",
+        "en": "The move answers indie studios' worries about AI-built clones."
+      },
+      "body": {
+        "es": [
+          "Anthropic ha cambiado las instrucciones de su modelo para que no recree videojuegos ya existentes, sobre todo para evitar infracciones de propiedad intelectual, según 3DJuegos, que cita a Addy Osmani, del equipo técnico de la compañía. Seguirá permitido desarrollar juegos originales y usar los propios diseños y recursos; el bloqueo se aplica aunque el clon se renombre o se presente como original.",
+          "El debate crece porque la ingeniería inversa y la IA aceleran la copia. Digital Sun retiró de Steam una demo pública de ReVamp y Drunken Goddess Reflux canceló su demo del Steam Next Fest por miedo a los clones. Algunos usuarios legítimos ya reportan trabajo interrumpido y Anthropic pide avisar de rechazos injustificados. GameSpot añade que el ajuste figura en las reglas de Claude Code y que los usuarios no pueden desactivarlo."
+        ],
+        "en": [
+          "Anthropic has changed its model's instructions so it does not recreate existing video games, mainly to avoid intellectual property infringement, according to 3DJuegos, which cites Addy Osmani of the company's technical team. Original game development and the use of one's own designs and assets remain allowed; the block applies even if the clone is renamed or presented as original.",
+          "The debate has grown because reverse engineering and AI make copying faster. Digital Sun pulled a public ReVamp demo from Steam and Drunken Goddess Reflux cancelled its Steam Next Fest demo over cloning fears. Some legitimate users already report interrupted work, and Anthropic asks them to report unjustified refusals. GameSpot adds that the tweak appears in Claude Code's rules and cannot be disabled by users."
+        ]
+      },
+      "why": {
+        "es": "Muestra cómo la presión de los estudios pequeños empieza a moldear los límites de las herramientas de IA.",
+        "en": "It shows how small studios' pressure is starting to shape the limits of AI tools."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/anthropic-cede-cambia-forma-usar-claude-para-evitar-que-se-sigan-clonando-juegos-asi-no-todos-estan-contentos-idea"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-presupuesto-500-millones-the-coalition",
+      "category": "xbox",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/capsule_616x353.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3010850/"
+      },
+      "title": {
+        "es": "El supuesto coste de 500 millones de Gears of War: E-Day no cuenta toda la historia",
+        "en": "The reported $500M cost of Gears of War: E-Day does not tell the whole story"
+      },
+      "dek": {
+        "es": "Fuentes y un exdirectivo apuntan a que The Coalition carga con trabajo técnico para todo Xbox.",
+        "en": "Sources and a former manager say The Coalition carries technical work for all of Xbox."
+      },
+      "body": {
+        "es": [
+          "Desde hace semanas circula la cifra de 500 millones de dólares como coste de Gears of War: E-Day, lanzado el 6 de octubre como exclusivo de consola de Xbox. Jez Corden, de Windows Central, sostiene que la cifra parece legítima pero que es difícil atribuirla solo al juego, porque The Coalition es «el pegamento tecnológico» de Xbox y trabajó también en un prototipo cancelado, Avowed, Hellblade 2 y demos de Unreal Engine.",
+          "Derek Reese, antiguo responsable de producto de Xbox Game Services, afirma que buena parte del gasto viene de mantener la rama de Unreal Engine de Microsoft y que intentó que otros estudios la adoptaran. Cree que The Coalition cumplió bien sus objetivos con E-Day. Según Pure Xbox, no se conocen ventas ni rendimiento comercial del juego."
+        ],
+        "en": [
+          "The figure of $500 million has circulated for weeks as the cost of Gears of War: E-Day, released on October 6 as an Xbox console exclusive. Windows Central's Jez Corden argues the number seems legitimate but is hard to pin on the game alone, since The Coalition is \"the technological glue\" of Xbox and also worked on a cancelled prototype, Avowed, Hellblade 2 and Unreal Engine demos.",
+          "Derek Reese, a former senior product manager at Xbox Game Services, says much of the spend comes from supporting Microsoft's Unreal Engine branch, and that he tried to get other studios to adopt it. He believes The Coalition met its goals with E-Day. Per Pure Xbox, sales and commercial performance remain unknown."
+        ]
+      },
+      "why": {
+        "es": "Alimenta el debate sobre la rentabilidad de las superproducciones exclusivas en plena reducción de costes.",
+        "en": "It feeds the debate on whether exclusive blockbusters pay off during a cost-cutting period."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/former-xbox-manager-explains-why-usd500m-cost-for-gears-e-day-doesnt-tell-the-whole-story"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/"
+        }
+      ]
+    },
+    {
+      "id": "thief-dark-project-remastered-3-diciembre-expansion-black-parade",
+      "category": "pc",
+      "title": {
+        "es": "Thief: The Dark Project Remastered sale el 3 de diciembre y tendrá expansión de la comunidad",
+        "en": "Thief: The Dark Project Remastered arrives December 3 with a community-made expansion"
+      },
+      "dek": {
+        "es": "Llegará a PC y consolas, con las 15 misiones del clásico de 1998 y soporte para campañas propias.",
+        "en": "It lands on PC and consoles with 15 missions from the 1998 classic and custom campaign support."
+      },
+      "body": {
+        "es": [
+          "Atari, Nightdive Studios y Eidos Montréal publicarán el 3 de diciembre Thief: The Dark Project Remastered en PS5, PS4, Xbox Series, Switch 2, Switch y PC (Steam, Epic y GOG), según Gematsu. Incluye las 12 misiones originales y las tres de Thief Gold, usa el motor KEX de Nightdive con hasta 4K y 120 fps, y añade selector de misiones, trofeos y soporte integrado para campañas personalizadas. La edición estándar cuesta 29,99 dólares y la Digital Deluxe, 34,99.",
+          "PC Gamer informa además de que el equipo de modding Black Parade, muy conocido en la comunidad, trabaja en una expansión que saldrá el próximo mes; el resto de detalles no estaban disponibles al redactar esta noticia."
+        ],
+        "en": [
+          "Atari, Nightdive Studios and Eidos Montréal will release Thief: The Dark Project Remastered on December 3 on PS5, PS4, Xbox Series, Switch 2, Switch and PC (Steam, Epic and GOG), per Gematsu. It includes the 12 original missions and the three from Thief Gold, runs on Nightdive's KEX engine with up to 4K and 120 fps, and adds a mission selector, trophies and built-in support for custom campaigns. The Standard Edition costs $29.99 and the Digital Deluxe $34.99.",
+          "PC Gamer also reports that the well-known modding team Black Parade is working on an expansion due next month; further details were not available at the time of writing."
+        ]
+      },
+      "why": {
+        "es": "Recupera un pilar del sigilo en primera persona y apuesta por la comunidad de mods que lo mantuvo vivo.",
+        "en": "It revives a pillar of first-person stealth and leans on the modding scene that kept it alive."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/thief-the-dark-project-remastered-launches-december-3"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/thief-remastereds-new-expansion-is-being-made-by-the-legendary-black-parade-mod-team-and-its-out-next-month/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200960/fadb7495cbc2ab667cf14a7476bbc0d8dbbe47c5/ss_fadb7495cbc2ab667cf14a7476bbc0d8dbbe47c5.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200960/20321014a4a5a0b71c8c70648eb37eef249466b1/header.jpg",
+        "credit": "Atari / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4200960/"
+      }
+    },
+    {
+      "id": "sony-recompra-ps5-400-dolares-firmware-26-07",
+      "category": "playstation",
+      "title": {
+        "es": "Sony anima a vender la PS5 por hasta 400 dólares y lanza otro parche de seguridad",
+        "en": "Sony nudges owners to trade in their PS5 for up to $400 and ships another security patch"
+      },
+      "dek": {
+        "es": "El programa funciona con Back Market en EE. UU.; el firmware 26.07-14.22.00 solo menciona «correcciones de seguridad».",
+        "en": "The programme runs through Back Market in the US; firmware 26.07-14.22.00 only cites \"security fixes\"."
+      },
+      "body": {
+        "es": [
+          "Sony envía notificaciones a usuarios de PS5 en EE. UU. para que vendan la consola si no la usan. El programa lo gestiona Back Market y ofrece hasta 400 dólares por una PS5 básica con dos mandos DualSense, según su estado, informa Push Square. El medio no confirma que exista una oferta equivalente fuera de EE. UU.",
+          "Por otro lado, Sony ha publicado el firmware 26.07-14.22.00, menos de dos semanas después del anterior. Su única nota oficial habla de «correcciones de seguridad en el software del sistema»; Push Square y otros medios lo interpretan como una medida contra el jailbreak, aunque Sony no lo dice. Se espera que afecte solo a una pequeña minoría de usuarios."
+        ],
+        "en": [
+          "Sony is sending notifications to US PS5 owners encouraging them to sell consoles they are not using. The programme is run by Back Market and offers up to $400 for a base PS5 with two DualSense controllers, depending on condition, Push Square reports. The outlet does not confirm an equivalent offer outside the US.",
+          "Separately, Sony has released firmware 26.07-14.22.00, less than two weeks after the previous one. Its only official note mentions \"security fixes to the system software\"; Push Square and others read it as a move against jailbreaking, though Sony does not say so. It is expected to affect only a small minority of users."
+        ]
+      },
+      "why": {
+        "es": "Sony intenta rentabilizar consolas paradas y cerrar vías de piratería justo antes de GTA 6.",
+        "en": "Sony is trying to monetise idle consoles and close piracy routes just before GTA 6."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it"
+        },
+        {
+          "name": "Push Square (firmware)",
+          "url": "https://www.pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks"
+        }
+      ]
+    },
+    {
+      "id": "gog-dune-ii-pesadilla-licencias",
+      "category": "pc",
+      "title": {
+        "es": "GOG quiere reeditar Dune II, pero admite que los derechos son «una pesadilla»",
+        "en": "GOG wants to re-release Dune II but admits the rights are a nightmare"
+      },
+      "dek": {
+        "es": "Marcin Paczynski explica por qué un clásico de 1992 sigue sin tienda digital.",
+        "en": "Marcin Paczynski explains why a 1992 classic is still absent from digital stores."
+      },
+      "body": {
+        "es": [
+          "Marcin Paczynski, responsable de desarrollo de negocio de GOG, cuenta que Dune II (Westwood Studios, 1992) es uno de los títulos que más les gustaría reeditar, un «santo grial», pero que la situación de licencias lo complica. Según VGC, EA posee el código y los recursos desde que compró Westwood en 1998, pero no la propiedad intelectual.",
+          "Esa IP se reparte entre varias partes: la herencia de Dino De Laurentiis por la película de 1984, la Herbert Foundation y Legendary Pictures, que licenció a Funcom el desarrollo de juegos como Dune: Awakening, con un acuerdo de exclusividad cuyo efecto Paczynski no pudo precisar. Calcula que una reedición vendería entre 50.000 y 100.000 unidades a 5,99–9,99 dólares."
+        ],
+        "en": [
+          "Marcin Paczynski, GOG's senior business development manager, says Dune II (Westwood Studios, 1992) is among the titles they most want to re-release, a \"holy grail\", but that licensing complicates it. According to VGC, EA holds the code and assets since buying Westwood in 1998, but not the underlying IP.",
+          "That IP is split across several parties: the successor of producer Dino De Laurentiis for the 1984 film, the Herbert Foundation and Legendary Pictures, which licensed game development to Funcom for titles like Dune: Awakening under an exclusivity arrangement whose effect Paczynski could not specify. He estimates a re-release would sell 50,000 to 100,000 units at $5.99–$9.99."
+        ]
+      },
+      "why": {
+        "es": "Ilustra por qué muchos clásicos siguen sin poder comprarse: los derechos pesan más que la demanda.",
+        "en": "It illustrates why many classics remain unbuyable: rights outweigh demand."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/classic-pc-strategy-game-dune-2-is-a-holy-grail-re-release-but-its-a-licensing-nightmare-gog-says/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/gog-quiere-recuperar-el-clasico-dune-ii-battle-for-arrakis-pero-admite-que-es-una-pesadilla-a-nivel-de-derechos"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-cuenta-atras-30-noviembre-aniversario",
+      "category": "nintendo",
+      "title": {
+        "es": "The Pokémon Company inicia una cuenta atrás hacia el 30 de noviembre",
+        "en": "The Pokémon Company starts a countdown to November 30"
+      },
+      "dek": {
+        "es": "Nadie ha confirmado qué se anunciará; los rumores apuntan a un juego llamado Wind and Waves.",
+        "en": "Nothing has been confirmed; speculation points to a game called Wind and Waves."
+      },
+      "body": {
+        "es": [
+          "La cuenta japonesa de The Pokémon Company (@Pokemon_cojp) publica mensajes con el icono del 30.º aniversario y un contador de horas que termina el 30 de noviembre de 2026 a las 14:00 UTC, según Nintendo Life.",
+          "La compañía no ha dicho de qué se trata. Kotaku recoge la especulación de que podría ser la presentación de Pokémon Wind and Waves, pero es solo una hipótesis a partir de las pistas en redes."
+        ],
+        "en": [
+          "The Pokémon Company's Japanese account (@Pokemon_cojp) is posting messages with the 30th anniversary icon and an hour counter that ends on November 30, 2026 at 2 pm UTC, according to Nintendo Life.",
+          "The company has not said what it is for. Kotaku relays speculation that it could be the reveal of Pokémon Wind and Waves, but that is only a guess based on social media hints."
+        ]
+      },
+      "why": {
+        "es": "Con la saga cumpliendo treinta años, se espera algún anuncio importante, aunque sin confirmar.",
+        "en": "With the series turning thirty, a major announcement is expected, though unconfirmed."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-counting-down-to-a-mysterious-date-on-social-media"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/pokemon-wind-and-waves-nintendo-gamefreak-release-date-countdown-2000752328"
+        }
+      ]
+    },
+    {
+      "id": "south-of-midnight-director-compulsion-xbox-no-deberia-financiar",
+      "category": "xbox",
+      "title": {
+        "es": "El director de South of Midnight cree que Xbox no debería haberlo financiado",
+        "en": "South of Midnight's director says Xbox should not have funded it"
+      },
+      "dek": {
+        "es": "David Sears, de Compulsion Games, habla de un modelo de financiación «insostenible».",
+        "en": "David Sears of Compulsion Games calls the funding model \"unsustainable\"."
+      },
+      "body": {
+        "es": [
+          "David Sears, director creativo de Compulsion Games, ha dicho en una entrevista con MinnMax que no cree que Xbox debiera haber financiado South of Midnight ni Keeper, de Double Fine. Según él, Xbox sabía que probablemente no darían mucho dinero, aunque aportaban prestigio a la marca. En retrospectiva, afirma, el modelo era «insostenible», y dice que avisó de que el grifo acabaría cerrándose.",
+          "South of Midnight salió en 2025 y ganó varios premios, entre ellos un BAFTA. Compulsion, adquirida por Microsoft poco antes de We Happy Few (2018), fue escindida por Xbox en su reciente reestructuración y se llevó su propiedad intelectual; no se sabe si ya tiene un nuevo proyecto, según Kotaku."
+        ],
+        "en": [
+          "David Sears, creative director at Compulsion Games, told MinnMax he does not think Xbox should have funded South of Midnight or Double Fine's Keeper. In his view Xbox knew they would likely not make much money, though they added prestige to the brand. In hindsight, he says, the model was \"unsustainable\", and he says he warned that the money tap would eventually close.",
+          "South of Midnight launched in 2025 and won several awards, including a BAFTA. Compulsion, acquired by Microsoft shortly before We Happy Few (2018), was spun off by Xbox in its recent restructuring and kept its IP; it is unknown whether it has a new project yet, per Kotaku."
+        ]
+      },
+      "why": {
+        "es": "Resume el dilema de los estudios de prestigio dentro de una Xbox que ahora recorta y reordena.",
+        "en": "It sums up the dilemma of prestige studios inside an Xbox that is now cutting and reorganising."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/south-of-midnight-creative-director-wouldnt-have-funded/"
+        }
+      ]
+    },
+    {
+      "id": "xbox-game-pass-catorce-juegos-salen-noviembre",
+      "category": "xbox",
+      "title": {
+        "es": "Catorce juegos abandonan Xbox Game Pass en noviembre",
+        "en": "Fourteen games leave Xbox Game Pass in November"
+      },
+      "dek": {
+        "es": "Wreckfest, Moonlighter, GoldenEye 007 o Dragon Ball Xenoverse 2 están entre las bajas.",
+        "en": "Wreckfest, Moonlighter, GoldenEye 007 and Dragon Ball Xenoverse 2 are among the departures."
+      },
+      "body": {
+        "es": [
+          "Microsoft retirará catorce juegos del catálogo de Xbox Game Pass: Football Manager 26 el 10 de noviembre y otros trece el 15, según Pure Xbox. Entre ellos están 1000xRESIST, Barbie Horse Trails, Dragon Ball Xenoverse 2, Firefighting Simulator – The Squad, GoldenEye 007, Great God Grove, Moonlighter, Pigeon Simulator, Police Simulator: Patrol Officers, Relic Hunters Legend, Total Chaos, Winter Burrow y Wreckfest.",
+          "Eurogamer.es sitúa la retirada el día 15, y GameSpot comenta que noviembre llega además con varios lanzamientos el mismo día en el servicio, sobre todo antes del 19 de noviembre."
+        ],
+        "en": [
+          "Microsoft will remove fourteen games from the Xbox Game Pass catalogue: Football Manager 26 on November 10 and thirteen others on November 15, per Pure Xbox. They include 1000xRESIST, Barbie Horse Trails, Dragon Ball Xenoverse 2, Firefighting Simulator – The Squad, GoldenEye 007, Great God Grove, Moonlighter, Pigeon Simulator, Police Simulator: Patrol Officers, Relic Hunters Legend, Total Chaos, Winter Burrow and Wreckfest.",
+          "Eurogamer.es also dates the removal to the 15th, and GameSpot notes that November is also front-loaded with several day-one launches on the service, mostly before November 19."
+        ]
+      },
+      "why": {
+        "es": "Recuerda que el catálogo rota cada mes: quien quiera estos juegos tiene hasta mediados de mes.",
+        "en": "A reminder that the catalogue rotates monthly: anyone wanting these games has until mid-month."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/14-games-are-leaving-xbox-game-pass-in-early-november-2026"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/microsoft-retirara-catorce-juegos-de-xbox-game-pass-el-dia-15-de-noviembre"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Borderlands supera los 100 millones de unidades vendidas, según un comunicado oficial recogido por Insider Gaming; otros recuentos previos sitúan la cifra algo por debajo.",
+        "en": "Borderlands passes 100 million units sold, per an official statement cited by Insider Gaming; earlier tallies put the figure somewhat lower."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/borderlands-100-million-sales-randy-pitchford-promise/"
+      }
+    },
+    {
+      "text": {
+        "es": "La expansión Evercold de Final Fantasy XIV se retrasa hasta el 23 de febrero de 2027, según Square Enix.",
+        "en": "Final Fantasy XIV's Evercold expansion is delayed to February 23, 2027, per Square Enix."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/la-expansion-evercold-de-final-fantasy-xiv-se-retrasa-hasta-23-de-febrero-de-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Funcom publicará el 1 de diciembre «Blood and Ice», una expansión gratuita de Dune: Awakening con unas 35 horas de progresión.",
+        "en": "Funcom will release \"Blood and Ice\", a free Dune: Awakening expansion with about 35 hours of progression, on December 1."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/dune-awakening-recibira-una-expansion-gratuita-con-35-horas-de-progresion-el-1-de-diciembre"
+      }
+    },
+    {
+      "text": {
+        "es": "Nagoshi Studio cierra tras el recorte de fondos de NetEase, según VGC.",
+        "en": "Nagoshi Studio closes after NetEase cuts funding, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: material filtrado parece apuntar a un remake de Persona 1; Atlus no lo ha confirmado.",
+        "en": "Rumor: leaked footage appears to point to a Persona 1 remake; Atlus has not confirmed it."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/"
+      }
+    },
+    {
+      "text": {
+        "es": "Yoshi-P dice que la historia de Evercold tendrá un ritmo más rápido y más worldbuilding en misiones secundarias.",
+        "en": "Yoshi-P says Evercold's story will have a faster tempo, with worldbuilding in side quests."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14-evercolds-story-will-have-a-faster-tempo-with-worldbuilding-in-side-quests-says-yoshi-p-but-im-not-sure-that-was-the-problem-with-dawntrail/"
+      }
+    },
+    {
+      "text": {
+        "es": "Until Dawn 2 mostrará nuevo gameplay en PS5 en una retransmisión en Alamo Drafthouse.",
+        "en": "Until Dawn 2 will show new PS5 gameplay in an Alamo Drafthouse livestream."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/until-dawn-2-to-showcase-new-ps5-gameplay-and-more-in-alamo-drafthouse-livestream"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintendo celebra un lanzamiento a medianoche del remake de Ocarina of Time en el Reino Unido, con cajas de N64 gratuitas.",
+        "en": "Nintendo is holding a UK midnight launch for the Ocarina of Time remake, with free N64 boxes."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/nintendo-announces-zelda-ocarina-of-time-uk-midnight-launch-with-free-n64-boxes-up-for-grabs/"
+      }
+    },
+    {
+      "text": {
+        "es": "Steam Frame, el visor de Valve, ya figura entre los diez visores de realidad virtual más usados en Steam, aunque Quest 3 mantiene una ventaja notable, según PC Gamer.",
+        "en": "Valve's Steam Frame has entered the top ten most popular VR headsets on Steam, though Quest 3 keeps a significant lead, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/valves-steam-frame-has-taken-a-spot-in-the-top-ten-most-popular-vr-headsets-on-steam/"
+      }
+    },
+    {
+      "text": {
+        "es": "Una actualización de DirectX podría reducir hasta un 90 % la memoria que usa el trazado de rayos, según PC Gamer.",
+        "en": "A DirectX update could cut ray tracing memory usage by up to 90%, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-development-team-has-been-revealed"
+    },
+    {
+      "title": "Ova Magica",
+      "platforms": "PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.gematsu.com/2026/11/ova-magica-for-ps5-xbox-series-switch-2-ps4-xbox-one-and-switch-launches-november-10"
+    },
+    {
+      "title": "Derelikt",
+      "platforms": "PS5",
+      "note": {
+        "es": "13 de noviembre",
+        "en": "November 13"
+      },
+      "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/"
+    },
+    {
+      "title": "HARMA",
+      "platforms": "PC",
+      "note": {
+        "es": "17 de noviembre (acceso anticipado)",
+        "en": "November 17 (Early Access)"
+      },
+      "url": "https://www.gematsu.com/2026/11/harma-launches-in-early-access-on-november-17"
+    },
+    {
+      "title": "Thief: The Dark Project Remastered",
+      "platforms": "PC, PS5, PS4, Xbox Series, Switch 2, Switch",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/11/thief-the-dark-project-remastered-launches-december-3"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Helen Chiang, exCOO de Xbox, rebate en LinkedIn los rumores sobre su salida y habla de «serias preocupaciones», según Pure Xbox.",
+        "en": "Former Xbox COO Helen Chiang pushes back on LinkedIn against rumours about her exit and cites \"serious concerns\", per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/former-xbox-coo-issues-lengthy-departure-statement-to-set-the-record-straight"
+      }
+    },
+    {
+      "text": {
+        "es": "Las restricciones de Claude contra la clonación de juegos dividen a la comunidad: hay quien teme rechazos a proyectos legítimos, según 3DJuegos.",
+        "en": "Claude's anti-cloning restrictions divide the community: some fear refusals on legitimate projects, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/pc/noticias/anthropic-cede-cambia-forma-usar-claude-para-evitar-que-se-sigan-clonando-juegos-asi-no-todos-estan-contentos-idea"
+      }
+    },
+    {
+      "text": {
+        "es": "El supuesto coste de 500 millones de Gears of War: E-Day reabre el debate sobre la rentabilidad de los exclusivos, según Pure Xbox.",
+        "en": "The reported $500M cost of Gears of War: E-Day reopens the debate on exclusives' profitability, per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/former-xbox-manager-explains-why-usd500m-cost-for-gears-e-day-doesnt-tell-the-whole-story"
+      }
+    },
+    {
+      "text": {
+        "es": "La cuenta atrás de The Pokémon Company hacia el 30 de noviembre dispara las quinielas, según Kotaku.",
+        "en": "The Pokémon Company's countdown to November 30 sparks guessing, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/pokemon-wind-and-waves-nintendo-gamefreak-release-date-countdown-2000752328"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200/"
+    },
+    {
+      "name": "Can 'Em All",
+      "url": "https://store.steampowered.com/app/5133900/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
