@@ -1,0 +1,687 @@
+{
+  "date": "2026-11-04",
+  "headline": {
+    "es": "The Elder Scrolls VI se llama Sentinel y GTA 6 fija su predescarga",
+    "en": "The Elder Scrolls VI is called Sentinel and GTA 6 sets its pre-download"
+  },
+  "intro": {
+    "es": "Además, Ubisoft puja por Arkane, Remedy triplica ingresos con Control Resonant e Itch.io declara la guerra a la basura de IA.",
+    "en": "Also: Ubisoft bids for Arkane, Remedy triples revenue with Control Resonant and Itch.io goes to war on AI spam."
+  },
+  "stories": [
+    {
+      "id": "elder-scrolls-6-sentinel-nombre-oficial",
+      "category": "juegos",
+      "title": {
+        "es": "The Elder Scrolls VI ya es oficial: se llama «Sentinel»",
+        "en": "The Elder Scrolls VI is now official: it is called \"Sentinel\""
+      },
+      "dek": {
+        "es": "Bethesda revela el subtítulo en su 40.º aniversario, pero Schreier avisa de que el juego sigue lejos.",
+        "en": "Bethesda reveals the subtitle during its 40th anniversary, but Schreier says the game is still far off."
+      },
+      "body": {
+        "es": [
+          "Bethesda ha desvelado el nombre completo de la sexta entrega de su saga de rol: The Elder Scrolls VI: Sentinel. El anuncio llegó con un tráiler dentro de las celebraciones del 40.º aniversario del estudio, y el jefe de Xbox felicitó públicamente a Bethesda, según Pure Xbox. La ficha de la tienda sigue sin fecha de lanzamiento.",
+          "El periodista de Bloomberg Jason Schreier recordó en Bluesky que el juego está todavía a más de dos años vista, algo que ya había adelantado en julio. Las reacciones han sido de cierta decepción por lo poco que se enseña de un título anunciado en 2018."
+        ],
+        "en": [
+          "Bethesda has revealed the full name of the sixth Elder Scrolls game: The Elder Scrolls VI: Sentinel. The announcement came with a trailer as part of the studio's 40th anniversary celebrations, and Xbox's chief publicly congratulated Bethesda, per Pure Xbox. The store listing still has no release date.",
+          "Bloomberg's Jason Schreier reminded fans on Bluesky that the game is still more than two years away, as he had already reported in July. Reactions have been somewhat disappointed given how little is shown of a game first announced in 2018."
+        ]
+      },
+      "why": {
+        "es": "Pone nombre a uno de los juegos más esperados, pero rebaja las expectativas de calendario.",
+        "en": "It names one of the most awaited games while tempering hopes for the schedule."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-congratulates-bethesda-as-the-elder-scrolls-6-gets-official-name-reveal-trailer"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/03/the-elder-scrolls-vi-official-name-reveal/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026307034/avisan-de-que-no-lo-esperemos-pronto-a-the-elder-scrolls-vi-todavia-le-quedarian-varios-anos-de-desarrollo/"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-predescarga-10-noviembre-212gb",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6: la predescarga arranca el 10 de noviembre y ocupa 212 GB en PS5",
+        "en": "GTA 6: pre-download starts November 10 and takes 212 GB on PS5"
+      },
+      "dek": {
+        "es": "Sony y Microsoft confirman la fecha de instalación anticipada nueve días antes del estreno del 19.",
+        "en": "Sony and Microsoft confirm early install nine days before the November 19 launch."
+      },
+      "body": {
+        "es": [
+          "Grand Theft Auto VI sale el 19 de noviembre y quienes lo hayan reservado podrán predescargarlo desde la medianoche local del 10 de noviembre, según el blog de PlayStation. Rockstar anuncia la misma fecha para la predescarga también en Xbox Series. PlayStation recomienda liberar al menos 212 GB, cifra que Push Square confirma como tamaño del juego en PS5.",
+          "Rockstar añadió que publicará un póster y un mapa imprimible gratuitos el día del estreno, y que el mapa físico se podrá comprar en su tienda por 0,99 dólares, según Vandal; Push Square precisa que no vendrá dentro de las ediciones en caja."
+        ],
+        "en": [
+          "Grand Theft Auto VI launches on November 19 and pre-order customers can pre-download from local midnight on November 10, per the PlayStation Blog. Rockstar announces the same pre-load date, also on Xbox Series. PlayStation advises clearing at least 212 GB, a figure Push Square confirms as the PS5 install size.",
+          "Rockstar will also release a free poster and printable map on launch day, and a physical map will be sold in its store for $0.99, per Vandal; Push Square notes it will not be included in boxed editions."
+        ]
+      },
+      "why": {
+        "es": "Con la fecha de instalación fijada, el lanzamiento más grande del año entra en su recta final.",
+        "en": "With the install date set, the year's biggest launch enters its final stretch."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies"
+        },
+        {
+          "name": "Rockstar Games",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026307027/rockstar-lo-confirma-el-mapa-fisico-de-gta-6-se-podra-comprar-en-su-tienda-oficial-por-099-dolares/"
+        }
+      ]
+    },
+    {
+      "id": "arkane-ofertas-ubisoft-bloomberg",
+      "category": "industria",
+      "title": {
+        "es": "Ubisoft, entre los interesados en comprar Arkane, según Bloomberg",
+        "en": "Ubisoft among suitors for Arkane, Bloomberg reports"
+      },
+      "dek": {
+        "es": "Al menos tres ofertas por el estudio de Dishonored; Xbox lo estudia ante un plazo en diciembre.",
+        "en": "At least three bids for the Dishonored studio; Xbox weighs options ahead of a December deadline."
+      },
+      "body": {
+        "es": [
+          "Según Jason Schreier (Bloomberg), Ubisoft es una de al menos tres empresas que han presentado ofertas por Arkane, el estudio de Dishonored y Marvel's Blade. Xbox no ha cerrado ningún acuerdo y también habría valorado venderlo a su propia dirección. Un portavoz de Xbox dijo que «explora opciones» antes de un plazo en diciembre.",
+          "Push Square añade que el plazo se ha movido del 13 de noviembre al 13 de diciembre y que Schreier confía en que Arkane siga operando con otro propietario. Blade podría salir en uno o dos años, pero su futuro peligra si el estudio cierra."
+        ],
+        "en": [
+          "According to Bloomberg's Jason Schreier, Ubisoft is one of at least three companies to bid for Arkane, the studio behind Dishonored and Marvel's Blade. Xbox has not agreed a deal and has reportedly also considered selling to the studio's management. An Xbox spokesperson said it is \"exploring options\" ahead of a December deadline.",
+          "Push Square adds that the deadline moved from November 13 to December 13 and that Schreier is confident Arkane will keep operating under a new owner. Blade could ship within one to two years, but its future is at risk if the studio closes."
+        ]
+      },
+      "why": {
+        "es": "El destino de Arkane y de Blade se decidirá en las próximas semanas.",
+        "en": "Arkane's and Blade's fate will be decided in the coming weeks."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/report-xbox-has-had-multiple-offers-for-arkane-studios-marvels-blade-close-to-completion"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/dishonored/noticias/xbox-quiere-desprenderse-creadores-dishonored-su-futuro-podria-estar-lejos-cierre"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-remedy-ingresos-226",
+      "category": "industria",
+      "title": {
+        "es": "Control Resonant dispara los ingresos de Remedy un 226 %",
+        "en": "Control Resonant lifts Remedy's revenue by 226%"
+      },
+      "dek": {
+        "es": "Supera el millón de copias en tres semanas y la mitad de los compradores no jugó al primer Control.",
+        "en": "It passes one million copies in three weeks and half of buyers had not played the first Control."
+      },
+      "body": {
+        "es": [
+          "Remedy ha presentado los resultados del tercer trimestre: 39,6 millones de euros de ingresos, frente a unos 12,2 millones del mismo periodo de 2025, un aumento del 226 %. El EBITDA fue de 6,8 millones y el beneficio operativo, de 0,6 millones, según Game Developer.",
+          "Control Resonant superó el millón de unidades en unas tres semanas, el lanzamiento más rápido de la compañía, y aproximadamente la mitad de las compras corresponde a jugadores nuevos en la franquicia. El juego acumulaba unos 2,4 millones de deseados."
+        ],
+        "en": [
+          "Remedy has published its third-quarter results: revenue of €39.6 million versus about €12.2 million in the same period of 2025, a 226% increase. EBITDA was €6.8 million and operating profit €0.6 million, per Game Developer.",
+          "Control Resonant passed one million units in roughly three weeks, the company's fastest launch, and about half of purchases came from players new to the franchise. The game had around 2.4 million wishlists."
+        ]
+      },
+      "why": {
+        "es": "Alivia años de pérdidas del estudio y refuerza su apuesta por la franquicia.",
+        "en": "It eases years of losses and strengthens the studio's bet on the franchise."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/control-resonant-is-remedys-fastest-selling-game-ever-led-to-a-massive-boost-in-revenue"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/los-ingresos-de-remedy-crecen-un-226-tras-el-lanzamiento-de-control-resonant"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026307022/los-ingresos-de-remedy-aumentan-un-226-tras-el-exito-de-control-resonant/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/capsule_616x353.jpg",
+        "credit": "Remedy Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3669870/"
+      }
+    },
+    {
+      "id": "itch-io-borra-ia-filtro-steam-retrasos",
+      "category": "pc",
+      "title": {
+        "es": "Itch.io borra «terabytes» de basura de IA y Steam admite retrasos en aprobaciones",
+        "en": "Itch.io deletes \"terabytes\" of AI spam as Steam admits approval delays"
+      },
+      "dek": {
+        "es": "Las tiendas de PC reaccionan a la avalancha de juegos generados con IA.",
+        "en": "PC storefronts react to the flood of AI-generated games."
+      },
+      "body": {
+        "es": [
+          "Itch.io anunció en Bluesky que ha eliminado «un par de terabytes» de contenido generado con IA y amplía los filtros: los usuarios pueden ocultar juegos que declaran usar IA generativa, y los desarrolladores deben explicar cómo la han empleado. La tienda aclara que persigue el spam masivo, no todos los juegos asistidos por IA, según VGC.",
+          "En paralelo, PC Gamer informa de que Valve reconoce ir «con retraso» en aprobar juegos en Steam por tener que revisarlos de nuevo, y ha creado una lista de comprobación para los desarrolladores. Además, VGC cuenta que Nexus Mods descarta prohibir por completo los mods con IA pese a las quejas de la comunidad."
+        ],
+        "en": [
+          "Itch.io said on Bluesky it has removed \"a couple terabytes\" of AI-generated content and is widening its filters: users can hide games that disclose generative AI use, and developers must explain how they used it. The store says it targets mass spam, not every AI-assisted game, per VGC.",
+          "Meanwhile, PC Gamer reports Valve admits it is \"running behind\" approving Steam games because it must re-review them, and has created a checklist for developers. VGC also reports Nexus Mods has ruled out banning AI mods outright despite community backlash."
+        ]
+      },
+      "why": {
+        "es": "La IA generativa obliga a las plataformas a decidir dónde trazar la línea.",
+        "en": "Generative AI is forcing platforms to decide where to draw the line."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/"
+        },
+        {
+          "name": "PC Gamer (Valve)",
+          "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/"
+        },
+        {
+          "name": "VGC (Nexus Mods)",
+          "url": "https://www.videogameschronicle.com/news/nexus-mods-rules-out-full-ai-ban-despite-community-backlash/"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-switch-2-famitsu-37-40",
+      "category": "nintendo",
+      "title": {
+        "es": "Famitsu da un 37/40 al remake de Ocarina of Time, que sale el 5 de noviembre",
+        "en": "Famitsu scores the Ocarina of Time remake 37/40 ahead of its November 5 launch"
+      },
+      "dek": {
+        "es": "Primera reseña del remake para Switch 2: tres 9 y un 10.",
+        "en": "First review of the Switch 2 remake: three 9s and a 10."
+      },
+      "body": {
+        "es": [
+          "La revista japonesa Famitsu ha publicado la primera reseña de The Legend of Zelda: Ocarina of Time para Switch 2: cuatro críticos puntúan 9, 9, 9 y 10, un total de 37 sobre 40, según Nintendo Life. El original de N64 obtuvo 40/40 y la versión de 3DS, 37/40.",
+          "El juego llega el 5 de noviembre. Nintendo Life lo lista a 69,99 dólares en físico y 59,99 en la eShop, y sus responsables han explicado ajustes en el Templo del Agua, que el director del original llama «deberes pendientes»."
+        ],
+        "en": [
+          "Japan's Famitsu has published the first review of The Legend of Zelda: Ocarina of Time for Switch 2: four critics score 9, 9, 9 and 10, for 37 out of 40, per Nintendo Life. The N64 original earned 40/40 and the 3DS version 37/40.",
+          "The game launches on November 5. Nintendo Life lists it at $69.99 physical and $59.99 on the eShop, and the team has explained tweaks to the Water Temple, which the original's director calls \"overdue homework\"."
+        ]
+      },
+      "why": {
+        "es": "Marca el tono crítico de un lanzamiento clave para Switch 2.",
+        "en": "It sets the critical tone for a key Switch 2 release."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-first-review-for-zelda-ocarina-of-time-switch-2-is-in"
+        },
+        {
+          "name": "Nintendo Life (Templo del Agua)",
+          "url": "https://www.nintendolife.com/news/2026/11/i-had-some-overdue-homework-ocarina-of-time-remake-features-more-water-temple-tweaks"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026307032/nintendo-explica-como-ha-cambiado-el-temido-templo-del-agua-en-zelda-ocarina-of-time-remake-para-facilitarlo/"
+        }
+      ]
+    },
+    {
+      "id": "dark-souls-2-3-servidores-cerrados-vulnerabilidad",
+      "category": "juegos",
+      "title": {
+        "es": "FromSoftware mantiene cerrados los servidores de Dark Souls II y III por una vulnerabilidad",
+        "en": "FromSoftware keeps Dark Souls II and III servers down over a vulnerability"
+      },
+      "dek": {
+        "es": "El online está caído desde el 30 de octubre y no hay fecha de regreso.",
+        "en": "Online play has been down since October 30 with no return date."
+      },
+      "body": {
+        "es": [
+          "Según Vandal, el juego en línea de Dark Souls II: Scholar of the First Sin y Dark Souls III está inoperativo desde el 30 de octubre en PC, PS4 y Xbox One. FromSoftware, que al principio habló de un «problema del servidor», ahora cita una vulnerabilidad de seguridad y dice que la suspensión es temporal, sin fecha.",
+          "El modo para un jugador sigue disponible; no funcionan fantasmas, invocaciones, invasiones ni duelos. Elden Ring, Nightreign y Bloodborne no se ven afectados. En 2022 un fallo parecido en PC mantuvo cerrados los servidores de siete a nueve meses."
+        ],
+        "en": [
+          "According to Vandal, online play for Dark Souls II: Scholar of the First Sin and Dark Souls III has been down since October 30 on PC, PS4 and Xbox One. FromSoftware, which first spoke of a \"server problem\", now cites a security vulnerability and says the suspension is temporary, with no date.",
+          "Single-player remains available; ghosts, summons, invasions and duels do not work. Elden Ring, Nightreign and Bloodborne are unaffected. In 2022 a similar flaw on PC kept servers shut for seven to nine months."
+        ]
+      },
+      "why": {
+        "es": "El precedente de 2022 sugiere que la espera podría ser larga.",
+        "en": "The 2022 precedent suggests the wait could be long."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026307023/los-servidores-de-dark-souls-2-y-dark-souls-3-cierran-indefinidamente-por-un-fallo-de-seguridad/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/dark-souls-ii/noticias/malas-noticias-para-quienes-jueguen-a-dark-souls-2-3-olvidate-funciones-online-durante-tiempo-porque-fromsoftware-tiene-problemas-que-resolver"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_616x353.jpg",
+        "credit": "FromSoftware, Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/374320/"
+      }
+    },
+    {
+      "id": "game-pass-noviembre-primera-oleada",
+      "category": "xbox",
+      "title": {
+        "es": "Game Pass de noviembre: Vampire Crawlers, Warhammer Survivors y Toxic Commando",
+        "en": "November Game Pass: Vampire Crawlers, Warhammer Survivors and Toxic Commando"
+      },
+      "dek": {
+        "es": "Xbox detalla la primera oleada del mes y las bajas del 15 de noviembre.",
+        "en": "Xbox details the first wave of the month and the November 15 departures."
+      },
+      "body": {
+        "es": [
+          "Xbox Wire anuncia para esta primera mitad de noviembre juegos como Football Manager 27 (ya disponible en PC), Vampire Crawlers y Void/Breaker (4 de noviembre), Escape Academy 2 (5), Warhammer Survivors (10), Thronefall (11), John Carpenter's Toxic Commando (12) y Aphelion (17). Football Manager 2027 llega a consolas el 10 de noviembre.",
+          "El 15 de noviembre se suman a Game Pass Essential títulos como Banjo-Kazooie, Perfect Dark y Gears of War: Judgment, y salen del catálogo 1000xResist, GoldenEye 007, Moonlighter o Wreckfest, entre otros 13 juegos."
+        ],
+        "en": [
+          "Xbox Wire announces games for the first half of November including Football Manager 27 (available now on PC), Vampire Crawlers and Void/Breaker (November 4), Escape Academy 2 (5), Warhammer Survivors (10), Thronefall (11), John Carpenter's Toxic Commando (12) and Aphelion (17). Football Manager 2027 reaches console on November 10.",
+          "On November 15, titles such as Banjo-Kazooie, Perfect Dark and Gears of War: Judgment join Game Pass Essential, while 13 games including 1000xResist, GoldenEye 007, Moonlighter and Wreckfest leave the catalogue."
+        ]
+      },
+      "why": {
+        "es": "Un mes con mucho indie y estrategia antes de la llegada de GTA 6 al resto de plataformas.",
+        "en": "A month heavy on indie and strategy games as GTA 6 approaches."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/microsoft-anuncia-los-juegos-de-game-pass-para-la-primera-mitad-de-noviembre"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026307036/xbox-game-pass-anuncia-sus-juegos-de-noviembre-warhammer-survivors-escape-academy-2-y-otras-novedades/"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-switch-2-analisis",
+      "category": "nintendo",
+      "title": {
+        "es": "Stellar Blade llega a Switch 2 con críticas favorables pero con peros técnicos",
+        "en": "Stellar Blade hits Switch 2 with favourable but qualified reviews"
+      },
+      "dek": {
+        "es": "Nintendo Life le da un 7/10; otros medios lo califican de buen port.",
+        "en": "Nintendo Life gives it 7/10; other outlets call it a solid port."
+      },
+      "body": {
+        "es": [
+          "El port de Stellar Blade para Switch 2 sale el 5 de noviembre, el mismo día que Ocarina of Time. Nintendo Life lo puntúa con 7/10 y lo describe como perfectamente jugable pese a sus inconvenientes; Nintendo Everything le da 4/5 y COGconnected, 80/100.",
+          "Las críticas elogian el combate y su rendimiento en modo portátil, pero señalan recortes visuales y de animación. Nintendo Everything advierte de que no es jugable con la generación de fotogramas activada."
+        ],
+        "en": [
+          "The Switch 2 port of Stellar Blade launches on November 5, the same day as Ocarina of Time. Nintendo Life scores it 7/10, calling it perfectly playable despite drawbacks; Nintendo Everything gives 4/5 and COGconnected 80/100.",
+          "Reviews praise the combat and handheld performance but point to visual and animation cuts. Nintendo Everything warns it is unplayable with frame generation enabled."
+        ]
+      },
+      "why": {
+        "es": "Un test para ver si Switch 2 puede con grandes juegos de acción de otras plataformas.",
+        "en": "A test of whether Switch 2 can handle big action games from other platforms."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/capsule_616x353.jpg",
+        "credit": "Shift Up / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3489700/"
+      }
+    },
+    {
+      "id": "dragons-dogma-2-delicious-in-dungeon",
+      "category": "juegos",
+      "title": {
+        "es": "Dragon's Dogma 2 recibe el crossover con Delicious in Dungeon",
+        "en": "Dragon's Dogma 2 gets its Delicious in Dungeon crossover"
+      },
+      "dek": {
+        "es": "Dos atuendos de Laios y Marcille con mochila, reclamables hasta el 29 de enero de 2027.",
+        "en": "Two Laios and Marcille outfits with backpacks, claimable until January 29, 2027."
+      },
+      "body": {
+        "es": [
+          "Capcom ha lanzado una actualización de unos 7,8 GB para Dragon's Dogma 2 que añade el crossover con el anime Delicious in Dungeon (Dungeon Meshi). Incluye dos atuendos basados en Laios y Marcille, cada uno con su mochila de aventurero, que aparecen en el almacén tras cargar la partida, según Push Square.",
+          "Los objetos se pueden reclamar hasta el 29 de enero de 2027. Nintendo Life y Eurogamer.es también recogen la colaboración, que llega tras la expansión Dark Arisen de octubre."
+        ],
+        "en": [
+          "Capcom has released an update of around 7.8 GB for Dragon's Dogma 2 adding the Delicious in Dungeon (Dungeon Meshi) anime crossover. It includes two outfits based on Laios and Marcille, each with an adventurer's backpack, which appear in storage after loading a save, per Push Square.",
+          "The items can be claimed until January 29, 2027. Nintendo Life and Eurogamer.es also cover the collaboration, which follows October's Dark Arisen expansion."
+        ]
+      },
+      "why": {
+        "es": "Capcom sigue dando cuerda al juego tras su expansión.",
+        "en": "Capcom keeps supporting the game after its expansion."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/dragons-dogma-2-is-getting-anime-crossover-updates-now-so-start-praying-for-berserk"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/dragons-dogma-2-dark-arisen-new-update-and-anime-collab-announced-here-are-the-full-patch-notes"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/dragons-dogma-2-presenta-una-colaboracion-con-tragones-y-mazmorras"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_616x353.jpg",
+        "credit": "CAPCOM Co., Ltd. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2054970/"
+      }
+    },
+    {
+      "id": "psvr2-sony-retira-ventas-tienda-eeuu",
+      "category": "hardware",
+      "title": {
+        "es": "Sony parece retirar PSVR2 de sus tiendas oficiales",
+        "en": "Sony appears to be pulling PSVR2 from its official stores"
+      },
+      "dek": {
+        "es": "El visor ya no aparece en PlayStation Direct de EE. UU.; Sony no ha dicho nada.",
+        "en": "The headset is no longer listed on US PlayStation Direct; Sony has not commented."
+      },
+      "body": {
+        "es": [
+          "Push Square señala que PSVR2 ha desaparecido de PlayStation Direct en EE. UU., donde solo quedan accesorios. Según Road to VR, la retirada de páginas regionales empezó a mediados de octubre. En Amazon, Best Buy y Walmart solo hay vendedores externos, con precios en torno a 750 dólares en Best Buy; en la tienda británica sigue a la venta.",
+          "Sony no ha emitido ninguna declaración. El medio recuerda que la compañía dejó el desarrollo propio tras Horizon Call of the Mountain y que en octubre vendió sus patentes de VR a Meta."
+        ],
+        "en": [
+          "Push Square notes PSVR2 has vanished from US PlayStation Direct, where only accessories remain. Per Road to VR, removal from regional pages began in mid-October. Amazon, Best Buy and Walmart list it only via third-party sellers, at around $750 at Best Buy; the UK store still sells it.",
+          "Sony has made no statement. The outlet recalls the company stopped first-party development after Horizon Call of the Mountain and sold its VR patents to Meta in October."
+        ]
+      },
+      "why": {
+        "es": "Todo apunta a que Sony da por cerrada su apuesta de realidad virtual, aunque no lo confirme.",
+        "en": "Everything suggests Sony is winding down its VR push, though it has not confirmed it."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-seemingly-winding-down-psvr2-sales-gone-from-usa-store"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/PlayStation_VR2_Sense_Controllers.jpg/1280px-PlayStation_VR2_Sense_Controllers.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/PlayStation_VR2_Sense_Controllers.jpg/960px-PlayStation_VR2_Sense_Controllers.jpg",
+        "credit": "GeorgeM2011 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:PlayStation_VR2_Sense_Controllers.jpg",
+        "license": "Public domain"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Stronghold 4 retrasa su acceso anticipado al 20 de abril de 2027.",
+        "en": "Stronghold 4 delays its Early Access to April 20, 2027."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/stronghold-4-early-access-delayed-to-april-20-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Bill & Ted's Excellent Adventure Arcade, un juego de acción lateral para dos jugadores, se anuncia para PS5, Xbox Series, Switch y PC.",
+        "en": "Bill & Ted's Excellent Adventure Arcade, a two-player side-scrolling action game, is announced for PS5, Xbox Series, Switch and PC."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-announced-for-ps5-xbox-series-switch-and-pc"
+      }
+    },
+    {
+      "text": {
+        "es": "El Black Friday de PlayStation Store arranca hoy, 4 de noviembre, con más de 2.200 descuentos en PS5 y se extiende todo el mes.",
+        "en": "PlayStation Store's Black Friday sale starts today, November 4, with 2,200+ PS5 discounts and runs all month."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts"
+      }
+    },
+    {
+      "text": {
+        "es": "Sonic Racing: CrossWorlds inicia su segundo año con la versión 2.0.0 y DLC de Godzilla, según Push Square.",
+        "en": "Sonic Racing: CrossWorlds begins year two with update 2.0.0 and Godzilla DLC, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/sonic-racing-crossworlds-gets-massive-update-godzilla-dlc-today-as-year-two-begins"
+      }
+    },
+    {
+      "text": {
+        "es": "Helldivers 2 suma nuevos tipos de Terminids venenosos y más cuevas de bichos.",
+        "en": "Helldivers 2 adds new poisonous Terminid types and more bug caves."
+      },
+      "source": {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/03/helldivers-2-new-poisonous-terminid-types-more-bug-caves-spawn-across-the-galaxy-today/"
+      }
+    },
+    {
+      "text": {
+        "es": "Lords of the Fallen 2 se autopublicará gracias a un préstamo de 32 millones de dólares a CI Games, según Insider Gaming.",
+        "en": "Lords of the Fallen 2 will be self-published thanks to a $32 million loan to CI Games, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/lords-of-the-fallen-2-receives-32-million-loan/"
+      }
+    },
+    {
+      "text": {
+        "es": "El equipo de Sea of Stars trabaja en su siguiente juego, según Insider Gaming.",
+        "en": "The team behind Sea of Stars is working on its next game, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/sea-of-stars-team-making-next-game/"
+      }
+    },
+    {
+      "text": {
+        "es": "Xbox sortea una Series X dentro de una escultura de cocodrilo, la «Series X-BITE»; solo para residentes en EE. UU., hasta el 10 de noviembre.",
+        "en": "Xbox is giving away a Series X inside an alligator sculpture, the \"Series X-BITE\"; US residents only, until November 10."
+      },
+      "source": {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/"
+      }
+    },
+    {
+      "text": {
+        "es": "Final Fantasy Resonance debuta con fuerza en España y supera a Call of Duty en ventas semanales, según datos de AEVI recogidos por Vandal.",
+        "en": "Final Fantasy Resonance debuts strongly in Spain and tops Call of Duty in weekly sales, per AEVI data cited by Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026307013/final-fantasy-resonance-debuta-con-fuerza-en-espana-y-se-impone-a-call-of-duty-en-las-ventas-semanales/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/the-first-review-for-zelda-ocarina-of-time-switch-2-is-in"
+    },
+    {
+      "title": "Stellar Blade (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port"
+    },
+    {
+      "title": "Escape Academy 2: Back 2 School",
+      "platforms": "Xbox Series, PC, Game Pass",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/"
+    },
+    {
+      "title": "Warhammer Survivors",
+      "platforms": "Xbox Series, PC, Game Pass",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "19 de noviembre (predescarga el 10)",
+        "en": "November 19 (pre-download November 10)"
+      },
+      "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La reacción a Sentinel: decepción por lo poco que enseña el tráiler de The Elder Scrolls VI, según Push Square.",
+        "en": "Reaction to Sentinel: disappointment at how little the Elder Scrolls VI trailer shows, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer"
+      }
+    },
+    {
+      "text": {
+        "es": "Itch.io y su filtro de IA reciben buena acogida, aunque parte de los usuarios pide prohibirla del todo, según VGC.",
+        "en": "Itch.io's AI filter is mostly well received, though some users want an outright ban, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/"
+      }
+    },
+    {
+      "text": {
+        "es": "Nexus Mods se niega a vetar los mods con IA y la comunidad protesta, según VGC.",
+        "en": "Nexus Mods refuses to ban AI mods and the community pushes back, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/nexus-mods-rules-out-full-ai-ban-despite-community-backlash/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de Dark Souls lamentan el cierre indefinido del online de II y III, según Vandal.",
+        "en": "Dark Souls fans lament the indefinite online shutdown of II and III, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026307023/los-servidores-de-dark-souls-2-y-dark-souls-3-cierran-indefinidamente-por-un-fallo-de-seguridad/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    }
+  ]
+}
