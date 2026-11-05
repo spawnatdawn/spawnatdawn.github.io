@@ -1,0 +1,664 @@
+{
+  "date": "2026-11-05",
+  "headline": {
+    "es": "God of War Laufey se va a mayo de 2027 y Ocarina of Time reina en Metacritic",
+    "en": "God of War Laufey slips to May 2027 and Ocarina of Time tops Metacritic"
+  },
+  "intro": {
+    "es": "Además, GTA 6 supera los 750 millones en reservas según Sensor Tower, el sindicato de Arkane acusa a Xbox de «sabotear» Blade y Macronix abandona la memoria ROM.",
+    "en": "Also: GTA 6 tops $750 million in pre-orders per Sensor Tower, the Arkane union accuses Xbox of \"sabotaging\" Blade, and Macronix quits ROM memory."
+  },
+  "stories": [
+    {
+      "id": "god-of-war-laufey-retraso-20-mayo-2027",
+      "category": "playstation",
+      "title": {
+        "es": "God of War Laufey se retrasa al 20 de mayo de 2027",
+        "en": "God of War Laufey delayed to May 20, 2027"
+      },
+      "dek": {
+        "es": "Santa Monica Studio mueve el estreno más de tres meses respecto a la fecha prevista de febrero.",
+        "en": "Santa Monica Studio moves the launch back more than three months from its February date."
+      },
+      "body": {
+        "es": [
+          "Sony Interactive Entertainment y Santa Monica Studio han anunciado que God of War Laufey, exclusivo de PS5, llegará el 20 de mayo de 2027 en lugar del 16 de febrero de 2027, según Push Square y Gematsu.",
+          "El estudio habla de usar el tiempo extra para los últimos retoques y llevar el juego a todo su potencial; no se ha mencionado ningún problema técnico concreto. El anuncio se difundió el 4 de noviembre."
+        ],
+        "en": [
+          "Sony Interactive Entertainment and Santa Monica Studio have announced that the PS5 exclusive God of War Laufey will launch on May 20, 2027 instead of February 16, 2027, according to Push Square and Gematsu.",
+          "The studio says it will use the extra time for finishing touches and to push the game to its full potential; no specific technical problem was mentioned. The announcement went out on November 4."
+        ]
+      },
+      "why": {
+        "es": "El primer trimestre de 2027 pierde uno de sus grandes lanzamientos de PlayStation.",
+        "en": "The first quarter of 2027 loses one of PlayStation's big releases."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/god-of-war-laufey-retrasa-su-lanzamiento-hasta-el-20-de-mayo-de-2027"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-switch-2-metacritic-96",
+      "category": "nintendo",
+      "title": {
+        "es": "El remake de Ocarina of Time lidera Metacritic en 2026 con un 96",
+        "en": "The Ocarina of Time remake leads Metacritic's 2026 list with a 96"
+      },
+      "dek": {
+        "es": "Con 81 análisis, es el juego mejor valorado del año y el de más nota en Switch 2.",
+        "en": "With 81 reviews, it is the year's top-rated game and the best-scoring on Switch 2."
+      },
+      "body": {
+        "es": [
+          "Según Nintendo Life, la versión de Switch 2 de The Legend of Zelda: Ocarina of Time marca un 96 en Metacritic con 81 análisis de prensa. Encabeza la lista de los mejores juegos de 2026, por delante de Sektori y Resident Evil 2 Deluxe Edition (93 ambos).",
+          "También es el título mejor valorado de Switch 2, por encima de la edición Switch 2 de Tears of the Kingdom (95), y ocupa el puesto 27 de la clasificación histórica. El original de N64 conserva un 99. La nota podría moverse a medida que lleguen más análisis."
+        ],
+        "en": [
+          "According to Nintendo Life, the Switch 2 version of The Legend of Zelda: Ocarina of Time holds a 96 on Metacritic from 81 critic reviews. It tops the site's best games of 2026, ahead of Sektori and Resident Evil 2 Deluxe Edition (93 each).",
+          "It is also the highest-rated Switch 2 game, above the Switch 2 edition of Tears of the Kingdom (95), and sits 27th on the all-time ranking. The N64 original keeps its 99. The score may shift as more reviews arrive."
+        ]
+      },
+      "why": {
+        "es": "Nintendo llega al estreno con la mejor carta de presentación de su año.",
+        "en": "Nintendo reaches launch with the strongest critical showing of its year."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/ocarina-of-time-remake-tops-metacritics-goty-list-and-its-high-on-the-all-time-ranking"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/the-legend-of-zelda-ocarina-of-time/noticias/nintendo-ha-vuelto-a-hacer-remake-zelda-ocarina-of-time-supera-a-todos-juegos-2026-arrasa-metacritic"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-sensor-tower-reservas-750-millones",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 supera los 750 millones de dólares en reservas, según Sensor Tower",
+        "en": "GTA 6 tops $750 million in pre-orders, per Sensor Tower"
+      },
+      "dek": {
+        "es": "La firma estima 7,71 millones de unidades vendidas antes del estreno del 19 de noviembre.",
+        "en": "The firm estimates 7.71 million units sold ahead of the November 19 launch."
+      },
+      "body": {
+        "es": [
+          "La analista Sensor Tower estima que GTA 6 acumula 7,71 millones de unidades en reservas, unos 751 millones de dólares brutos, con PS5 como plataforma dominante, según GameSpot e IGN. Son cifras no oficiales y Rockstar no las ha confirmado.",
+          "Por otro lado, la edición física con código en caja llegará a las tiendas el 10 de noviembre, dos días antes de lo previsto, aunque eso no cambia el momento en que se podrá jugar: el lanzamiento sigue fijado el 19 de noviembre, según GameSpot."
+        ],
+        "en": [
+          "Analytics firm Sensor Tower estimates GTA 6 has 7.71 million units in pre-orders, about $751 million in gross revenue, with PS5 the dominant platform, according to GameSpot and IGN. These are unofficial figures and Rockstar has not confirmed them.",
+          "Separately, the physical code-in-a-box edition will reach stores on November 10, two days earlier than planned, though that does not change when it can be played: launch remains November 19, per GameSpot."
+        ]
+      },
+      "why": {
+        "es": "Las reservas ya sitúan a GTA 6 entre los mayores arranques posibles del sector, aunque faltan datos oficiales.",
+        "en": "Pre-orders already point to one of the industry's biggest possible openings, though official data is missing."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date"
+        },
+        {
+          "name": "GameSpot (tiendas)",
+          "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423"
+        }
+      ]
+    },
+    {
+      "id": "arkane-sindicato-xbox-sabotaje-blade",
+      "category": "industria",
+      "title": {
+        "es": "El sindicato de Arkane acusa a Xbox de «sabotear» Marvel's Blade",
+        "en": "Arkane union accuses Xbox of \"sabotaging\" Marvel's Blade"
+      },
+      "dek": {
+        "es": "Denuncia un bloqueo de contrataciones de 19 meses mientras Xbox estudia vender o cerrar el estudio.",
+        "en": "It cites a 19-month hiring ban while Xbox weighs selling or closing the studio."
+      },
+      "body": {
+        "es": [
+          "El sindicato francés STJV, que representa a trabajadores de Arkane, afirma que Xbox «sabotea» Marvel's Blade al impedir contratar personal durante 19 meses. Según su comunicado, los retrasos internos fueron provocados por esa limitación y el estudio podría cerrar «solo» porque Microsoft lo decida. Pide voz en la elección de un posible comprador y una indemnización mayor, y califica de «ridícula» la oferta actual, según VGC.",
+          "Un día antes, Bloomberg (vía Push Square y Game Developer) informó de que Ubisoft es una de al menos tres compañías que han pujado por Arkane, con Xbox dispuesta a desprenderse del estudio en las próximas semanas. Xbox no había respondido a las acusaciones al publicarse la noticia."
+        ],
+        "en": [
+          "French union STJV, which represents Arkane workers, says Xbox is \"sabotaging\" Marvel's Blade by barring hiring for 19 months. Its statement argues the internal delays were caused by that restriction and that the studio could close \"only\" because Microsoft decides so. It asks for a say in who might buy the studio and a higher redundancy payout, calling the current offer outrageously low, per VGC.",
+          "A day earlier, Bloomberg (via Push Square and Game Developer) reported Ubisoft is one of at least three companies to bid for Arkane, with Xbox looking to offload the studio in the coming weeks. Xbox had not responded to the accusations at the time of publication."
+        ]
+      },
+      "why": {
+        "es": "El futuro de Blade y de los estudios de Dishonored y Prey depende de una venta aún sin cerrar.",
+        "en": "The future of Blade and the studio behind Dishonored and Prey hinges on a sale not yet settled."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/xbox-accused-of-sabotaging-arkane-we-want-to-finish-blade-and-release-it-to-the-players-2000753412"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-lanzamiento-colas-precios",
+      "category": "pc",
+      "title": {
+        "es": "World of Warcraft: Forever arranca con colas breves y menos problemas de los esperados",
+        "en": "World of Warcraft: Forever launches with short queues and fewer problems than feared"
+      },
+      "dek": {
+        "es": "El nuevo servicio clásico de Blizzard abrió a las 15:00 PT del 4 de noviembre.",
+        "en": "Blizzard's new classic-style service opened at 3 PM PT on November 4."
+      },
+      "body": {
+        "es": [
+          "Según GameSpot, al llegar la cuenta atrás a cero a las 15:00 PT los jugadores encontraron colas de acceso cortas y algún contratiempo menor, pero el balance general fue mejor de lo que muchos temían.",
+          "3DJuegos resume la propuesta: nivel máximo 60, cuatro zonas nuevas, gráficos Clásico o Mejorado y un megaservidor que agrupa a los jugadores por tipo (Normal, PvP, Rol y Rol-PvP). La suscripción cuesta 13 euros al mes y hay packs de 29,99, 59,99 y 79,99 euros; el modo Hardcore llegará más adelante."
+        ],
+        "en": [
+          "According to GameSpot, when the countdown hit zero at 3 PM PT players met short login queues and some minor hiccups, but the overall picture was better than many had feared.",
+          "3DJuegos sums up the offer: a level 60 cap, four new zones, Classic or Enhanced graphics and a mega-server that groups players by type (Normal, PvP, RP and RP-PvP). The subscription is €13 a month, with packs at €29.99, €59.99 and €79.99; Hardcore mode arrives later."
+        ]
+      },
+      "why": {
+        "es": "Un estreno estable es clave para un servicio que depende de retener suscriptores desde el primer día.",
+        "en": "A stable launch matters for a service that depends on holding subscribers from day one."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/world-of-warcraft-forever/noticias/lanzamiento-wow-forever-hora-inicio-precarga-precios-eleccion-servidor-toda-informacion-vistazo"
+        }
+      ]
+    },
+    {
+      "id": "macronix-abandona-memoria-rom-cartuchos-switch",
+      "category": "hardware",
+      "title": {
+        "es": "Macronix deja la memoria ROM y reabre el debate sobre los cartuchos de Switch",
+        "en": "Macronix exits ROM memory, reviving the Switch cartridge debate"
+      },
+      "dek": {
+        "es": "La ROM supuso solo el 5 % de sus ingresos en el tercer trimestre; no está claro el efecto sobre Switch 2.",
+        "en": "ROM was only 5% of its revenue in the third quarter; the effect on Switch 2 is unclear."
+      },
+      "body": {
+        "es": [
+          "Macronix, uno de los proveedores de ROM para los cartuchos de Nintendo, dejará de producir ROM y se centrará en memorias NOR y eMMC, según el analista David Gibson, que lo extrajo de su informe financiero. Los productos ROM fueron el 5 % de sus ingresos en el tercer trimestre de 2026, un 39 % menos que un año antes, según Nintendo Life.",
+          "No se ha confirmado cómo afecta a la fabricación de cartuchos: Gibson subraya que Nintendo tiene otros socios, y hay informes contradictorios sobre si Macronix abastece a Switch 2 o solo a la primera Switch. Nintendo presentaba resultados el 5 de noviembre."
+        ],
+        "en": [
+          "Macronix, one of Nintendo's ROM suppliers for its cartridges, will stop producing ROM and focus on NOR and eMMC memory, according to analyst David Gibson, who took it from the company's financial release. ROM products were 5% of its revenue in the third quarter of 2026, down 39% year on year, per Nintendo Life.",
+          "How this affects cartridge production is unconfirmed: Gibson stresses Nintendo has other partners, and reports conflict over whether Macronix supplies Switch 2 or only the original Switch. Nintendo was due to report earnings on November 5."
+        ]
+      },
+      "why": {
+        "es": "Alimenta el temor a que el formato físico pierda peso frente a las tarjetas de clave de juego y lo digital.",
+        "en": "It feeds fears that physical media will lose ground to Game-Key Cards and digital."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Macronix_M3_64V%2B.jpg/1280px-Macronix_M3_64V%2B.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Macronix_M3_64V%2B.jpg/960px-Macronix_M3_64V%2B.jpg",
+        "credit": "FrozenFrijoles / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Macronix_M3_64V%2B.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/switch-cartridges-under-threat-as-key-rom-manufacturer-exits-business"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nintendo-switch-cart-rom-physical-media-data-centers-manufacture-2000753293"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026308030/uno-de-los-fabricantes-de-tarjetas-de-juegos-para-nintendo-switch-abandonara-el-negocio/"
+        }
+      ]
+    },
+    {
+      "id": "xbox-cloud-gaming-movil-mando-nano-previews",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox Cloud Gaming estrena dos previews: el móvil como mando y conexión Wi-Fi del Nano",
+        "en": "Xbox Cloud Gaming previews two features: phone as controller and Nano Wi-Fi connect"
+      },
+      "dek": {
+        "es": "Ambas funciones empezaron a desplegarse el 4 de noviembre como pruebas.",
+        "en": "Both features began rolling out on November 4 as previews."
+      },
+      "body": {
+        "es": [
+          "Según Xbox Wire, en Smart TV compatibles se podrá usar un móvil Android o iOS como mando cuando no haya uno a mano; los controles se abren en el navegador del teléfono y hay que activar las funciones de vista previa en la cuenta.",
+          "La segunda, solo en Estados Unidos por ahora, es «cloud connect»: el Xbox Nano Controller se conecta por Wi-Fi directamente al servidor del juego en la nube, en vez de por Bluetooth al televisor, lo que puede reducir la latencia. Xbox la describe como una prueba temprana y no funciona con todas las experiencias."
+        ],
+        "en": [
+          "According to Xbox Wire, on supported Smart TVs you can use an Android or iOS phone as a controller when none is nearby; the controls open in the phone's browser and preview features must be enabled on the account.",
+          "The second, US-only for now, is cloud connect: the Xbox Nano Controller connects over Wi-Fi straight to the cloud server running the game rather than over Bluetooth to the TV, which can cut input latency. Xbox calls it an early test and it does not work with every experience yet."
+        ]
+      },
+      "why": {
+        "es": "Xbox intenta que jugar en la nube dependa menos de tener un mando y un televisor concretos.",
+        "en": "Xbox is trying to make cloud play less dependent on owning a specific controller and TV."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-announces-two-new-methods-to-play-games-through-the-cloud"
+        }
+      ]
+    },
+    {
+      "id": "nexus-mods-ia-divulgacion-obligatoria",
+      "category": "pc",
+      "title": {
+        "es": "Nexus Mods no prohibirá los mods con IA, pero exigirá declararlos",
+        "en": "Nexus Mods won't ban AI mods but will require disclosure"
+      },
+      "dek": {
+        "es": "El propietario del portal sigue el enfoque de Valve: transparencia en lugar de veto.",
+        "en": "The site's owner follows Valve's approach: transparency rather than a ban."
+      },
+      "body": {
+        "es": [
+          "Victor «Foledinho» Folmann, propietario de Nexus Mods, ha explicado que los mods creados con herramientas de IA no se prohibirán, pero los autores tendrán que declarar su uso de forma obligatoria, según GameSpot. PC Gamer lo resume como el «enfoque de Valve».",
+          "La decisión llega en plena presión sobre las tiendas por el aluvión de contenido generado con IA: Steam ha endurecido sus requisitos de envío y Valve admite que va con retraso en las aprobaciones, según GameSpot y Game Developer."
+        ],
+        "en": [
+          "Nexus Mods owner Victor \"Foledinho\" Folmann has said mods built with AI tools will not be banned, but authors will have to disclose their use, per GameSpot. PC Gamer sums it up as taking the Valve approach.",
+          "The decision comes amid pressure on storefronts over a flood of AI-generated content: Steam has tightened its submission requirements and Valve admits it is running behind on approvals, per GameSpot and Game Developer."
+        ]
+      },
+      "why": {
+        "es": "La comunidad queda dividida entre quienes piden vetar la IA y quienes se conforman con etiquetarla.",
+        "en": "The community is split between those wanting AI banned and those happy to see it labelled."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nexus-mods-wont-ban-ai-mods-but-it-wont-let-them-hide-either/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/nexus-mods-takes-the-valve-approach-to-ai-generated-content-no-outright-bans-but-mandatory-disclosures/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-pokopia-dazzling-decorations-9-diciembre",
+      "category": "nintendo",
+      "title": {
+        "es": "Pokémon Pokopia fija el 9 de diciembre su segunda expansión, Dazzling Decorations",
+        "en": "Pokémon Pokopia dates its second expansion, Dazzling Decorations, for December 9"
+      },
+      "dek": {
+        "es": "Menor que la primera ola, añade accesorios y nuevos Pokémon, pero no un bioma.",
+        "en": "Smaller than the first wave, it adds accessories and new Pokémon but no new biome."
+      },
+      "body": {
+        "es": [
+          "La segunda oleada de contenido de pago de Pokémon Pokopia, «Dazzling Decorations», llegará el 9 de diciembre, según Gematsu y Nintendo Life. Vandal la cita como «Accesorios Asombrosos» en español.",
+          "Nintendo Life explica que incorpora accesorios para Ditto y los demás Pokémon, además de nuevas criaturas como Skitty y Doduo. Es menos voluminosa que Bubbly Basin y no trae un bioma nuevo, que se promete para una tercera oleada el año próximo. Para acceder hay que haber reconstruido el primer Centro Pokémon y completado ciertas peticiones."
+        ],
+        "en": [
+          "The second paid content wave for Pokémon Pokopia, Dazzling Decorations, arrives on December 9, per Gematsu and Nintendo Life. Vandal names it \"Accesorios Asombrosos\" in Spanish.",
+          "Nintendo Life says it adds accessories for Ditto and the other Pokémon, plus new creatures such as Skitty and Doduo. It is smaller than Bubbly Basin and brings no new biome, which is promised for a third wave next year. Players must have rebuilt the first Pokémon Center and completed certain requests to access it."
+        ]
+      },
+      "why": {
+        "es": "Mantiene el ritmo de contenido del juego hasta fin de año.",
+        "en": "It keeps the game's content cadence going through the year's end."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-second-dlc-wave-launches-next-month"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/pokemon-pokopia-dlc-expansion-pass-part-2-dazzling-decorations-launches-december-9"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026308033/pokemon-pokopia-pone-fecha-a-su-segunda-expansion-de-pago-accesorios-asombrosos/"
+        }
+      ]
+    },
+    {
+      "id": "sam-altman-ram-pc-aclaracion",
+      "category": "hardware",
+      "title": {
+        "es": "Sam Altman se retracta tras la polémica por la RAM de los PC",
+        "en": "Sam Altman walks back his remarks after the PC RAM backlash"
+      },
+      "dek": {
+        "es": "El responsable de OpenAI dice que sus palabras se sacaron de contexto y se rebautiza «Ram Altman» en X.",
+        "en": "The OpenAI chief says his words were taken out of context and renames himself \"Ram Altman\" on X."
+      },
+      "body": {
+        "es": [
+          "En un pódcast, Sam Altman, consejero delegado de OpenAI, calificó de «terrible» que los usuarios mantengan gran parte de la oferta mundial de memoria DRAM en sus ordenadores, según Kotaku. Tras las críticas, aseguró que sus palabras se habían sacado de contexto y que quiere que el mundo tenga «mucha memoria».",
+          "Aceptó la broma de cambiar su nombre en X a «Ram Altman» y comentó que la polémica le resultaba «jodidamente molesta», según VGC. Mientras, el director de TeamGroup dijo a PC Gamer que el equilibrio entre oferta y demanda de memoria podría no llegar hasta finales de 2028 como pronto."
+        ],
+        "en": [
+          "On a podcast, OpenAI CEO Sam Altman called it \"terrible\" for people to keep a large share of the world's limited DRAM supply in their own PCs, per Kotaku. After the backlash he said his words were taken out of context and that he wants the world to have \"tons of memory.\"",
+          "He embraced a joke to rename himself \"Ram Altman\" on X and called the fuss \"f***ing annoying,\" per VGC. Meanwhile TeamGroup's CEO told PC Gamer the memory supply-demand balance may not arrive until late 2028 at the earliest."
+        ]
+      },
+      "why": {
+        "es": "La escasez de memoria por la demanda de IA sigue encareciendo PC y consolas.",
+        "en": "Memory shortages driven by AI demand keep pushing up PC and console costs."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/sam-altman-pulls-spectacular-180-after-unpopular-comments-about-ram-it-is-fking-annoying-2000753328"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/how-can-prices-fall-when-theres-nothing-left-teamgroup-ceo-reckons-supply-demand-memory-equilibrium-may-not-happen-until-late-2028-at-the-earliest/"
+        }
+      ]
+    },
+    {
+      "id": "guild-wars-afterlife-expansion-13-enero-2027",
+      "category": "pc",
+      "title": {
+        "es": "Guild Wars recibe Afterlife, su primera expansión en casi 20 años",
+        "en": "Guild Wars gets Afterlife, its first expansion in almost 20 years"
+      },
+      "dek": {
+        "es": "ArenaNet la lanzará el 13 de enero de 2027 por 29,99 euros.",
+        "en": "ArenaNet will release it on January 13, 2027 for €29.99."
+      },
+      "body": {
+        "es": [
+          "ArenaNet ha anunciado Guild Wars Afterlife, expansión de pago para el primer Guild Wars que llegará el 13 de enero de 2027 a PC, Steam, iOS y Android, según Vandal. Cuesta 29,99 euros, o 23,99 con reserva, que incluye un traje especial.",
+          "Ambientada en las Mists of Tyria, propone una mazmorra que cambia en cada partida, nueva historia, enemigos y aliados, y un sistema que permite equipar habilidades de cualquier profesión en cada incursión."
+        ],
+        "en": [
+          "ArenaNet has announced Guild Wars Afterlife, a paid expansion for the first Guild Wars arriving January 13, 2027 on PC, Steam, iOS and Android, per Vandal. It costs €29.99, or €23.99 pre-ordered, which includes a special outfit.",
+          "Set in the Mists of Tyria, it offers a dungeon that changes every run, new story, enemies and allies, and a system that lets players equip skills from any profession on each foray."
+        ]
+      },
+      "why": {
+        "es": "Un MMO de 2005 recibe contenido nuevo mientras ArenaNet trabaja en una nueva entrega.",
+        "en": "A 2005 MMO gets new content while ArenaNet works on a new entry."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026308021/casi-20-anos-despues-el-primer-guild-wars-se-prepara-para-recibir-una-nueva-expansion-de-pago/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Nintendo, Xbox, Ubisoft y EA adoptan las etiquetas de la Accessible Games Initiative para facilitar la búsqueda de funciones de accesibilidad, según VGC.",
+        "en": "Nintendo, Xbox, Ubisoft and EA adopt Accessible Games Initiative tags to make accessibility features easier to find, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/"
+      }
+    },
+    {
+      "text": {
+        "es": "La petición de fans para que Canadá financie BioWare reúne las firmas necesarias para llegar a la Cámara de los Comunes, según Kotaku.",
+        "en": "The fan petition asking Canada to fund BioWare has enough signatures to reach the House of Commons, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/mass-effect-petitions-bioware-canadian-government-house-of-commons-2000753458"
+      }
+    },
+    {
+      "text": {
+        "es": "Halo Infinite añade diez mapas nuevos en una actualización sorpresa de noviembre, dentro de la lista «Halo Fest Showcase».",
+        "en": "Halo Infinite adds ten new maps in a surprise November update, in the \"Halo Fest Showcase\" playlist."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/halo-infinite-adds-10-new-maps-in-surprise-november-2026-update"
+      }
+    },
+    {
+      "text": {
+        "es": "Forza Horizon 6 recibirá «Vida en la Ciudad», primera actualización gratuita «Series», con dos circuitos en Tokio y coches nuevos, según Vandal.",
+        "en": "Forza Horizon 6 gets \"City Life\", the first free \"Series\" update, with two Tokyo circuits and new cars, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026308035/forza-horizon-6-anadira-dos-circuitos-en-tokio-nuevos-coches-un-homenaje-a-los-25-anos-de-xbox-y-mas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un extrabajador afirma que Mob Entertainment ha despedido a casi todo el equipo de Escape From Playtime, según IGN.",
+        "en": "A former staffer claims Mob Entertainment has laid off almost the entire Escape From Playtime team, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/mob-entertainment-lays-off-almost-entire-escape-from-playtime-team"
+      }
+    },
+    {
+      "text": {
+        "es": "Sony lanza sin avisar el firmware 14.02 de PS4 con mejoras de seguridad frente a la piratería, según Push Square.",
+        "en": "Sony quietly releases PS4 firmware 14.02 with security fixes aimed at piracy, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/secret-ps4-firmware-update-14-02-to-fight-new-wave-of-piracy-hacking"
+      }
+    },
+    {
+      "text": {
+        "es": "Valve avisa de aprobaciones más lentas en Steam y publica una lista de comprobación para desarrolladores, según PC Gamer.",
+        "en": "Valve warns of slower Steam approvals and publishes a checklist for developers, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/"
+      }
+    },
+    {
+      "text": {
+        "es": "Según Jason Schreier, The Elder Scrolls VI: Sentinel está todavía a más de dos años de su lanzamiento.",
+        "en": "According to Jason Schreier, The Elder Scrolls VI: Sentinel is still more than two years from release."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away"
+      }
+    },
+    {
+      "text": {
+        "es": "Godzilla: Destroy All Monsters Melee Remastered llega también por sorpresa a la Switch original, al mismo precio de 30 dólares.",
+        "en": "Godzilla: Destroy All Monsters Melee Remastered also lands on the original Switch by surprise, at the same $30 price."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/se-lanza-por-sorpresa-una-version-de-nintendo-switch-de-godzilla-destroy-all-monsters-melee-remastered/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "World of Warcraft: Forever",
+      "platforms": "PC",
+      "note": {
+        "es": "4–5 de noviembre",
+        "en": "November 4–5"
+      },
+      "url": "https://www.3djuegos.com/juegos/world-of-warcraft-forever/noticias/lanzamiento-wow-forever-hora-inicio-precarga-precios-eleccion-servidor-toda-informacion-vistazo"
+    },
+    {
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "platforms": "PS5, Switch, Switch 2",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://www.pushsquare.com/reviews/ps5/godzilla-destroy-all-monsters-melee-remastered"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "19 de noviembre (físico en tiendas el 10)",
+        "en": "November 19 (physical in stores November 10)"
+      },
+      "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/"
+    },
+    {
+      "title": "Pokémon Pokopia: Dazzling Decorations",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "9 de diciembre",
+        "en": "December 9"
+      },
+      "url": "https://www.gematsu.com/2026/11/pokemon-pokopia-dlc-expansion-pass-part-2-dazzling-decorations-launches-december-9"
+    },
+    {
+      "title": "Guild Wars Afterlife",
+      "platforms": "PC, iOS, Android",
+      "note": {
+        "es": "13 de enero de 2027",
+        "en": "January 13, 2027"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026308021/casi-20-anos-despues-el-primer-guild-wars-se-prepara-para-recibir-una-nueva-expansion-de-pago/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Sam Altman se rebautiza «Ram Altman» tras la polémica por sus comentarios sobre la RAM de los PC, según Kotaku.",
+        "en": "Sam Altman renames himself \"Ram Altman\" after backlash over his PC RAM comments, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/sam-altman-pulls-spectacular-180-after-unpopular-comments-about-ram-it-is-fking-annoying-2000753328"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de Mass Effect logran las firmas para llevar el futuro de BioWare al Parlamento canadiense, según Kotaku.",
+        "en": "Mass Effect fans gather the signatures to take BioWare's future to Canada's parliament, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/mass-effect-petitions-bioware-canadian-government-house-of-commons-2000753458"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de WoW esperaban lo peor del estreno de Forever y se sorprenden por su estabilidad, según GameSpot.",
+        "en": "WoW players expected the worst from Forever's launch and are surprised by its stability, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los trabajadores de Arkane y sus seguidores piden terminar Blade en lugar de cerrar el estudio, según Kotaku.",
+        "en": "Arkane workers and followers call for Blade to be finished rather than the studio closed, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/xbox-accused-of-sabotaging-arkane-we-want-to-finish-blade-and-release-it-to-the-players-2000753412"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "FINAL FANTASY XIV: Evercold",
+      "url": "https://store.steampowered.com/app/4634220/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    }
+  ]
+}
