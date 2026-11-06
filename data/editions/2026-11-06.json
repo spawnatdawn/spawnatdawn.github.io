@@ -1,0 +1,776 @@
+{
+  "date": "2026-11-06",
+  "headline": {
+    "es": "Switch 2 y PS5 frenan su ritmo de ventas mientras Ocarina of Time llega a las tiendas",
+    "en": "Switch 2 and PS5 slow down as Ocarina of Time reaches stores"
+  },
+  "intro": {
+    "es": "Además, Rockstar publica una galería de lanzamiento de GTA 6, WoW: Forever debuta sin sobresaltos y la petición por BioWare llegará al Parlamento canadiense.",
+    "en": "Also: Rockstar releases a GTA 6 launch gallery, WoW: Forever debuts smoothly, and the BioWare petition is headed to Canada's Parliament."
+  },
+  "stories": [
+    {
+      "id": "nintendo-switch-2-ventas-26-35-millones-sin-subida-precio",
+      "category": "nintendo",
+      "title": {
+        "es": "Switch 2 supera los 26 millones de unidades, pero sus ventas caen un 37,4 %",
+        "en": "Switch 2 passes 26 million units, but sales fall 37.4%"
+      },
+      "dek": {
+        "es": "Nintendo descarta por ahora una nueva subida de precio y mantiene su previsión de 16,5 millones.",
+        "en": "Nintendo rules out another price hike for now and keeps its 16.5 million forecast."
+      },
+      "body": {
+        "es": [
+          "En su último informe financiero, Nintendo sitúa las ventas acumuladas de Switch 2 en 26,35 millones de unidades. En el primer semestre del ejercicio vendió 6,49 millones, un 37,4 % menos que los 10,36 millones del mismo periodo del año anterior, según Nintendo Life. El medio atribuye parte de la caída a las subidas de precio de la consola a principios de año.",
+          "La compañía mantiene su previsión para el ejercicio que termina en marzo de 2027 en 16,5 millones de consolas. Según GameSpot, que cita a VGC, la dirección dijo que no planea otra subida de precio, al menos a corto plazo, porque cuenta con memoria almacenada. Nintendo Life añade que el inventario de la empresa está en un máximo histórico en plena crisis de la RAM."
+        ],
+        "en": [
+          "In its latest financial report, Nintendo puts cumulative Switch 2 sales at 26.35 million units. It sold 6.49 million in the first half of the fiscal year, down 37.4% from 10.36 million a year earlier, per Nintendo Life, which attributes part of the drop to the console's price increases earlier this year.",
+          "The company keeps its forecast for the year ending March 2027 at 16.5 million consoles. According to GameSpot, citing VGC, management said it has no plans for another price rise, at least not soon, because it has memory stockpiled. Nintendo Life adds that the company's inventory is at a record high amid the RAM crisis."
+        ]
+      },
+      "why": {
+        "es": "Tras un primer año excepcional, la consola entra en una fase de desaceleración que la propia Nintendo da por esperada.",
+        "en": "After an exceptional first year, the console enters a slowdown that Nintendo itself seems to expect."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/switch-2-wont-get-another-price-hike-at-least-not-soon-nintendo-says/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/switch-2-supera-los-2635-millones-de-ventas-y-switch-se-coloca-en-15720-millones"
+        },
+        {
+          "name": "Nintendo Life (inventario)",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "sony-resultados-ps5-97-9-millones-memoria-2028",
+      "category": "playstation",
+      "title": {
+        "es": "Sony eleva su previsión de beneficio y asegura memoria para PS5 hasta marzo de 2028",
+        "en": "Sony raises its profit outlook and secures memory for PS5 through March 2028"
+      },
+      "dek": {
+        "es": "PS5 llega a 97,9 millones de unidades y la compañía dice que PS6 avanza según lo previsto.",
+        "en": "PS5 reaches 97.9 million units and the company says PS6 is progressing as scheduled."
+      },
+      "body": {
+        "es": [
+          "Sony vendió 2,6 millones de PS5 entre julio y septiembre, frente a los 4,0 millones del mismo trimestre del año anterior, hasta un total de 97,9 millones, según Push Square. Con ese ritmo, el medio calcula que superará los 100 millones en el próximo informe. La compañía elevó su previsión de beneficio operativo anual a 1,87 billones de yenes (unos 11.800 millones de dólares), un 15 % más que antes.",
+          "Sony aseguró además que ha acordado con sus proveedores la memoria necesaria para sus previsiones de ventas de hardware hasta marzo de 2028, sin revelar a qué precio. Su director financiero, Lin Tao, afirmó que el trabajo en PS6 avanza «según lo previsto»; no hay fecha de lanzamiento."
+        ],
+        "en": [
+          "Sony sold 2.6 million PS5 consoles between July and September, down from 4.0 million in the same quarter last year, for a total of 97.9 million, per Push Square, which calculates it should pass 100 million in the next report. The company raised its annual operating income outlook to ¥1.87 trillion (about $11.8 billion), up 15% from before.",
+          "Sony also said it has aligned with suppliers on the memory needed for its projected hardware sales through March 2028, without disclosing the price. CFO Lin Tao said work on PS6 is \"progressing as scheduled\"; no launch date was given."
+        ]
+      },
+      "why": {
+        "es": "La seguridad de suministro de memoria es hoy el factor clave para el precio y el calendario de las consolas.",
+        "en": "Memory supply security is now a key factor for console pricing and timing."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-closing-in-on-100-million-sales-as-gradual-drop-off-continues"
+        },
+        {
+          "name": "Push Square (memoria)",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-has-secured-enough-memory-to-meet-console-demand-through-march-2028"
+        },
+        {
+          "name": "Push Square (beneficio)",
+          "url": "https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/playstation-5-supera-los-979-millones-y-sony-asegura-que-ha-conseguido-memoria-para-el-proximo-ano-fiscal"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps5/noticias/ps5-se-acerca-a-100-millones-consolas-vendidas-sony-aprovecha-para-hablar-ps6"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/1280px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/960px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "credit": "JDC808 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:All_PlayStations_(1-5,_PSP,_%26_Vita).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "zelda-ocarina-of-time-switch-2-lanzamiento-colas-medianoche",
+      "category": "nintendo",
+      "title": {
+        "es": "Ocarina of Time llega a Switch 2 con colas en las tiendas a medianoche",
+        "en": "Ocarina of Time arrives on Switch 2 with midnight lines at stores"
+      },
+      "dek": {
+        "es": "El remake tuvo lanzamientos de madrugada en Nueva York, Londres o Toronto y acabó en una polémica política.",
+        "en": "The remake had midnight launches in New York, London and Toronto, and ended up in a political row."
+      },
+      "body": {
+        "es": [
+          "El remake de The Legend of Zelda: Ocarina of Time para Switch 2 salió a la venta el 5 de noviembre. Según Kotaku, hubo aperturas de medianoche en la tienda de Nintendo en Manhattan, en Best Buy y GameStop, en Toronto y en Londres, donde se habló de unas 110 personas en una cola. Algunos grupos incluso montaron una GameCube con televisor junto a la tienda.",
+          "El día del estreno, la cuenta de la Casa Blanca publicó un vídeo en el que Trump aparece como Link, según 3DJuegos, que recuerda que a los creadores de juegos no suele gustarles que se usen sus obras en propaganda política. Nintendo, por su parte, celebró el lanzamiento con el lema «Zelda es inevitable»."
+        ],
+        "en": [
+          "The Switch 2 remake of The Legend of Zelda: Ocarina of Time went on sale on November 5. According to Kotaku, there were midnight openings at Nintendo's Manhattan store, at Best Buy and GameStop, in Toronto and in London, where one person reported about 110 people in line. One group even set up a GameCube and TV outside a store.",
+          "On launch day, the White House account posted a video showing Trump as Link, per 3DJuegos, which notes that game creators tend to dislike their works being used in political propaganda. Nintendo, for its part, celebrated the release with the line \"Zelda is inevitable\"."
+        ]
+      },
+      "why": {
+        "es": "Los estrenos de madrugada reaparecen justo cuando el mercado se mueve hacia lo digital.",
+        "en": "Midnight launches return just as the market shifts toward digital."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/legend-zelda-ocarina-time-remake-midnight-launch-nintendo-2000754150"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/the-legend-of-zelda-ocarina-of-time/noticias/casa-blanca-publica-video-surrealista-trump-convertido-link-dia-que-nintendo-lanza-remake-zelda-ocarina-of-time"
+        },
+        {
+          "name": "3DJuegos (Nintendo)",
+          "url": "https://www.3djuegos.com/juegos/the-legend-of-zelda-ocarina-of-time/noticias/zelda-inevitable-nintendo-celebra-lanzamiento-ocarina-of-time-para-switch-2-todo-alto"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-rockstar-galeria-lanzamiento-38-imagenes",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar publica una galería de lanzamiento de GTA 6 con unas 38 imágenes",
+        "en": "Rockstar releases a GTA 6 launch gallery with about 38 images"
+      },
+      "dek": {
+        "es": "Las capturas muestran a Jason y Lucia en un club, un bar y un gimnasio, a dos semanas del estreno.",
+        "en": "The screenshots show Jason and Lucia in a nightclub, a bar and a gym, two weeks before release."
+      },
+      "body": {
+        "es": [
+          "Rockstar ha difundido una tanda de nuevas capturas de Grand Theft Auto VI que llama «launch gallery». Vandal cuenta 38 imágenes; GameSpot detalla que muestran a los protagonistas, Jason y Lucia, en escenarios como un club nocturno, el bar The Rusty Anchor y un gimnasio.",
+          "El juego sale el 19 de noviembre. El consejero delegado de Take-Two, Strauss Zelnick, dijo a The Wall Street Journal, según GameSpot, que el coste del desarrollo no es de 1.500 millones de dólares, y según PC Gamer admitió estar «preocupado por todo todo el tiempo», aunque no demasiado por la piratería."
+        ],
+        "en": [
+          "Rockstar has put out a batch of new Grand Theft Auto VI screenshots it calls a \"launch gallery.\" Vandal counts 38 images; GameSpot says they show protagonists Jason and Lucia in settings such as a nightclub, the Rusty Anchor dive bar and a gym.",
+          "The game launches on November 19. Take-Two CEO Strauss Zelnick told The Wall Street Journal, per GameSpot, that the development cost is not $1.5 billion, and PC Gamer reports he is \"worried about everything all the time\" but not especially about piracy."
+        ]
+      },
+      "why": {
+        "es": "La campaña previa entra en su recta final con el mayor estreno del año a la vista.",
+        "en": "The pre-launch campaign enters its final stretch with the year's biggest release in sight."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309033/rockstar-publica-38-nuevas-imagenes-de-gta-6-a-solo-dos-semanas-de-su-lanzamiento-asi-lucen/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-lanzamiento-sin-colas",
+      "category": "pc",
+      "title": {
+        "es": "World of Warcraft: Forever debuta con colas cortas y pocos problemas",
+        "en": "World of Warcraft: Forever debuts with short queues and few problems"
+      },
+      "dek": {
+        "es": "Blizzard evita el caos de otros estrenos gracias, en parte, a un sistema de capas.",
+        "en": "Blizzard avoids the chaos of past launches thanks in part to a layering system."
+      },
+      "body": {
+        "es": [
+          "El lanzamiento de World of Warcraft: Forever, el 4 de noviembre, tuvo colas de acceso breves al principio, pero en general transcurrió sin sobresaltos, según GameSpot. Kotaku cuenta que entró al juego en unos cinco minutos y jugó casi tres horas sin desconexiones, frente a colas de más de una hora en estrenos anteriores.",
+          "El medio atribuye la fluidez al sistema de capas de Blizzard, que evita zonas saturadas, y a una mayor aparición de PNJ de misiones. El único fallo señalado fue un error visual en un yacimiento, no grave. Vandal también habla de pocas colas y sin problemas de servidores."
+        ],
+        "en": [
+          "World of Warcraft: Forever launched on November 4 with brief login queues at first but went largely smoothly, according to GameSpot. Kotaku says it got in within about five minutes and played almost three hours without a disconnect, versus queues of more than an hour at earlier launches.",
+          "It credits Blizzard's layering system, which keeps zones from getting overcrowded, and higher spawn rates for quest NPCs. The only issue it noted was a visual bug at one dig site, not game-breaking. Vandal likewise reports few queues and no server problems."
+        ]
+      },
+      "why": {
+        "es": "Un estreno estable es clave tras la polémica de colas durante la beta.",
+        "en": "A stable launch matters after the queueing drama in the beta."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/world-of-warcraft-forever-had-a-shockingly-smooth-launch-2000754182"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309025/blizzard-sorprende-con-el-lanzamiento-de-world-of-warcraft-forever-apenas-hay-colas-ni-problemas-de-servidores/"
+        }
+      ]
+    },
+    {
+      "id": "bioware-peticion-parlamento-canada-documental",
+      "category": "industria",
+      "title": {
+        "es": "La petición para salvar BioWare llegará al Parlamento de Canadá",
+        "en": "The petition to save BioWare is headed to Canada's Parliament"
+      },
+      "dek": {
+        "es": "Supera las 2.300 firmas, y un documental sobre los últimos años del estudio llegará en 2027.",
+        "en": "It has passed 2,300 signatures, and a documentary on the studio's final years arrives in 2027."
+      },
+      "body": {
+        "es": [
+          "Según Push Square, una petición ciudadana para salvar a BioWare debe incluirse en la agenda de la Cámara de los Comunes de Canadá, pues la ley exige tratar toda petición pública con al menos 500 firmas; llevaba más de 2.300. Pide dar al estudio financiación para su independencia y recuperar las sagas Mass Effect y Dragon Age de EA. Eurogamer, citado por el medio, advierte de que el Gobierno tiene poco margen, ya que las marcas son de EA.",
+          "En paralelo, Kotaku informa de un documental, Massive Effect: The BioWare Story, previsto para 2027, y PC Gamer recoge que Warren Spector sigue indignado por el cierre y por los sueldos de los directivos de EA."
+        ],
+        "en": [
+          "According to Push Square, a citizen petition to save BioWare is set to go on the agenda of Canada's House of Commons, since the law requires public petitions with at least 500 signatures to be tabled; it had over 2,300. It asks for funding so the studio can be independent and for the Mass Effect and Dragon Age IPs to be recovered from EA. Eurogamer, cited by the outlet, cautions the government has little room to act because the brands belong to EA.",
+          "Meanwhile, Kotaku reports a documentary, Massive Effect: The BioWare Story, due in 2027, and PC Gamer notes Warren Spector remains furious over the closure and EA executives' pay."
+        ]
+      },
+      "why": {
+        "es": "La reacción por el cierre sigue creciendo, aunque sin capacidad real de revertirlo.",
+        "en": "Reaction to the closure keeps growing, though with little real power to reverse it."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309040/el-cierre-de-bioware-llegara-al-parlamento-de-canada-gracias-a-una-peticion-con-mas-de-1700-firmas/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/massive-effect-bioware-story-documentary-canada-ea-2000754242"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/"
+        }
+      ]
+    },
+    {
+      "id": "marvels-wolverine-2-4-millones-sony",
+      "category": "playstation",
+      "title": {
+        "es": "Marvel's Wolverine suma 2,4 millones de copias, por debajo de los Spider-Man",
+        "en": "Marvel's Wolverine reaches 2.4 million copies, below the Spider-Man launches"
+      },
+      "dek": {
+        "es": "Sony confirma por primera vez la cifra, a fecha del 4 de noviembre.",
+        "en": "Sony confirms the figure for the first time, as of November 4."
+      },
+      "body": {
+        "es": [
+          "Sony ha confirmado en su informe financiero que Marvel's Wolverine ha vendido 2,4 millones de unidades hasta el 4 de noviembre de 2026, según Push Square y Gematsu. Eurogamer.es señala que queda por debajo de los estrenos de los Marvel's Spider-Man.",
+          "Push Square describe el arranque como flojo; GameSpot opina que el juego ha perdido impulso, una valoración de ese medio y no un dato de Sony."
+        ],
+        "en": [
+          "Sony has confirmed in its financial report that Marvel's Wolverine has sold 2.4 million units as of November 4, 2026, per Push Square and Gematsu. Eurogamer.es notes this is below the launches of the Marvel's Spider-Man games.",
+          "Push Square calls it a soft start; GameSpot argues the game has lost momentum, which is that outlet's assessment rather than a Sony figure."
+        ]
+      },
+      "why": {
+        "es": "Es la primera lectura oficial del rendimiento de uno de los grandes exclusivos del año de PlayStation.",
+        "en": "It is the first official read on one of PlayStation's big exclusives this year."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-marvels-wolverine-off-to-a-soft-start-2-4-million-copies-sold-to-date"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-97-9-million-marvels-wolverine-tops-2-4-million"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/marvel-lobezno-ha-vendido-24-millones-de-copias-por-debajo-de-los-estrenos-de-los-marvels-spider-man"
+        }
+      ]
+    },
+    {
+      "id": "007-first-light-primera-mision-gratis-10-noviembre",
+      "category": "juegos",
+      "title": {
+        "es": "007 First Light regala su primera misión con un paquete de inicio",
+        "en": "007 First Light gives away its first mission in a starter pack"
+      },
+      "dek": {
+        "es": "En PS5 llegará el 10 de noviembre; en Xbox ya puede reclamarse.",
+        "en": "On PS5 it arrives November 10; on Xbox it can already be claimed."
+      },
+      "body": {
+        "es": [
+          "IO Interactive lanzará el 10 de noviembre en PS Store un Starter Pack que permite a cualquier propietario de PS5 jugar gratis la misión inicial, «Against the Odds», según Push Square. Kotaku añade que el progreso se podrá trasladar al juego completo si el jugador decide comprarlo.",
+          "Pure Xbox indica que el paquete ya está disponible gratis en Xbox, y Vandal habla de una demo en PC y Xbox."
+        ],
+        "en": [
+          "IO Interactive will release a Starter Pack on the PS Store on November 10 that lets any PS5 owner play the opening mission, \"Against the Odds,\" for free, per Push Square. Kotaku adds that progress will carry over to the full game if players decide to buy it.",
+          "Pure Xbox says the pack is already free to claim on Xbox, and Vandal mentions a demo on PC and Xbox."
+        ]
+      },
+      "why": {
+        "es": "Una demo gratuita ayuda a un título que Kotaku califica como una de las sorpresas del año.",
+        "en": "A free demo helps a title Kotaku calls one of the year's surprises."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/007-first-lights-first-mission-is-free-in-new-ps5-starter-pack"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/007-first-light-one-of-2026s-biggest-surprises-will-now-let-you-play-the-first-mission-for-free-2000754211"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/007-first-lights-starter-pack-is-available-to-claim-for-free-on-xbox"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309042/ya-puedes-jugar-gratis-a-007-first-light-disponible-una-demo-del-juego-de-james-bond-en-pc-y-xbox/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg",
+        "credit": "IO Interactive A/S / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3768760/"
+      }
+    },
+    {
+      "id": "phantom-blade-zero-4-3-millones-223-millones-dolares",
+      "category": "pc",
+      "title": {
+        "es": "Phantom Blade Zero vende 4,3 millones de copias en cinco días",
+        "en": "Phantom Blade Zero sells 4.3 million copies in five days"
+      },
+      "dek": {
+        "es": "Alinea Analytics estima unos 223 millones de dólares de ingresos.",
+        "en": "Alinea Analytics estimates roughly $223 million in revenue."
+      },
+      "body": {
+        "es": [
+          "Según Vandal, que cita a la desarrolladora S-GAME y a Alinea Analytics, el juego, lanzado el 29 de octubre, alcanzó 4,3 millones de unidades hasta el 3 de noviembre. Steam aportó 3,1 millones y PS5 1,2 millones; Alinea no incluye la Epic Games Store.",
+          "El informe lo sitúa como el décimo mejor estreno de 2026 por ingresos en PC, PlayStation y Xbox. China, Taiwán y Hong Kong suman el 55 % de las unidades pero el 45 % de los ingresos, por el menor precio local."
+        ],
+        "en": [
+          "According to Vandal, citing developer S-GAME and Alinea Analytics, the game, released October 29, reached 4.3 million units through November 3. Steam contributed 3.1 million and PS5 1.2 million; Alinea does not include the Epic Games Store.",
+          "The report ranks it the tenth-best launch of 2026 by revenue across PC, PlayStation and Xbox. China, Taiwan and Hong Kong account for 55% of units but 45% of revenue because of lower local pricing."
+        ]
+      },
+      "why": {
+        "es": "Confirma el tirón de los action RPG de estudios asiáticos fuera de su mercado de origen.",
+        "en": "It confirms the pull of Asian-studio action games beyond their home market."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309028/xito-global-phantom-blade-zero-genera-mas-de-220-millones-de-dolares-en-cinco-dias/"
+        },
+        {
+          "name": "PC Gamer (reseña)",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg",
+        "credit": "S-GAME Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4115450/"
+      }
+    },
+    {
+      "id": "assassins-creed-valhalla-new-game-plus-actualizacion",
+      "category": "juegos",
+      "title": {
+        "es": "Assassin's Creed Valhalla recibe New Game+ seis años después",
+        "en": "Assassin's Creed Valhalla gets New Game+ six years on"
+      },
+      "dek": {
+        "es": "La «actualización más solicitada» añade Mithril, más nivel de equipo y soporte PSSR 2 en PS5 Pro.",
+        "en": "The \"most requested update\" adds Mithril, higher gear levels and PSSR 2 on PS5 Pro."
+      },
+      "body": {
+        "es": [
+          "Ubisoft ha lanzado la actualización 1.8 de Valhalla, que incorpora New Game+ al completar la misión Holy Day Quest, con ciclos cada vez más difíciles, según Push Square. Añade el recurso Mithril, eleva el nivel máximo del equipo divino de 13 a 27, un alijo en Ravensthorpe y más de 300 nuevas runas grabables.",
+          "En PS5 Pro suma soporte de PSSR 2, que según el medio permite el modo calidad en 4K a 60 fps. Xbox Wire confirma que ya está disponible en Xbox Series X|S y Xbox One."
+        ],
+        "en": [
+          "Ubisoft has released Valhalla's update 1.8, which adds New Game+ after completing the Holy Day Quest, with each cycle harder, per Push Square. It adds the Mithril resource, raises the maximum Divine gear level from 13 to 27, a stash in Ravensthorpe and over 300 newly engravable runes.",
+          "On PS5 Pro it adds PSSR 2 support, which the outlet says lets 4K quality mode run at 60fps. Xbox Wire confirms it is live on Xbox Series X|S and Xbox One."
+        ]
+      },
+      "why": {
+        "es": "Ubisoft retoma un juego que daba por cerrado hace más de tres años.",
+        "en": "Ubisoft revisits a game it considered finished over three years ago."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/assassins-creed-valhalla-new-gameplus-patch-is-way-bigger-than-anticipated-adds-ps5-pro-support"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/05/assassins-creed-valhalla-the-most-requested-update/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309035/la-actualizacion-mas-solicitada-llega-a-assassins-creed-valhalla-seis-anos-despues-de-su-lanzamiento/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/capsule_616x353.jpg",
+        "credit": "Ubisoft / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2208920/"
+      }
+    },
+    {
+      "id": "epic-sweeney-ia-unreal-engine-6-unreal-fest-tokio",
+      "category": "industria",
+      "title": {
+        "es": "Tim Sweeney defiende la IA en Unreal Engine 6 pese a las críticas",
+        "en": "Tim Sweeney defends AI in Unreal Engine 6 despite criticism"
+      },
+      "dek": {
+        "es": "Epic prevé lanzarlo en 2027 con flujos de trabajo con IA y sin Blueprints.",
+        "en": "Epic plans a 2027 launch with AI workflows and no Blueprints."
+      },
+      "body": {
+        "es": [
+          "En el Unreal Fest de Tokio, el director de Epic, Tim Sweeney, defendió el papel central de la IA en Unreal Engine 6. Admitió que el cambio será «doloroso al principio» y sostuvo que la productividad mejorará mucho después; dijo que esa tendencia «es poco probable que se revierta», según Kotaku, que cita a Famitsu.",
+          "El motor está previsto para 2027, según el medio, y Epic planea retirar Blueprints con una migración asistida por IA. Tras la publicación, Sweeney matizó en X que el tono original reflejaba matices de traducción, aunque insistió en que la IA ha llegado para quedarse."
+        ],
+        "en": [
+          "At Unreal Fest Tokyo, Epic CEO Tim Sweeney defended making AI central to Unreal Engine 6. He admitted it will be \"painful at first\" and argued productivity will improve greatly afterward, saying the trend is \"unlikely to be reversed,\" per Kotaku citing Famitsu.",
+          "The engine is planned for 2027, per the outlet, and Epic plans to remove Blueprints with an AI-assisted migration. After publication, Sweeney said on X that the original wording reflected translation nuances, while insisting AI is here to stay."
+        ]
+      },
+      "why": {
+        "es": "Un motor tan extendido como Unreal marca el rumbo para miles de estudios.",
+        "en": "An engine as widespread as Unreal sets the direction for thousands of studios."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/epic-games-tim-sweeney-unreal-engine-6-ai-workflows-2000754115"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026309032/epic-games-defiende-la-adopcion-de-la-ia-con-unreal-engine-6-y-asegura-que-es-una-realidad-y-no-va-a-desaparecer/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/1280px-Epic_Games_office.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Epic_Games_office.jpg/960px-Epic_Games_office.jpg",
+        "credit": "Sergey Galyonkin - https://galyonkin.com/ / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Epic_Games_office.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    {
+      "id": "nintendo-switch-2-terceros-2027-calendario",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo repasa los lanzamientos de terceros de Switch 2 hasta 2027",
+        "en": "Nintendo recaps third-party Switch 2 releases into 2027"
+      },
+      "dek": {
+        "es": "Entre ellos, Final Fantasy VII Revelation el 8 de abril y Tomb Raider: Legacy of Atlantis el 12 de febrero.",
+        "en": "They include Final Fantasy VII Revelation on April 8 and Tomb Raider: Legacy of Atlantis on February 12."
+      },
+      "body": {
+        "es": [
+          "En su informe financiero, Nintendo destacó varios juegos de terceros para Switch 2, según Nintendo Life: Professor Layton and The New World of Steam (10 de diciembre), Tomb Raider: Legacy of Atlantis (12 de febrero de 2027), Eternal Anima (4 de marzo) y Final Fantasy VII Revelation (8 de abril).",
+          "Para 2027 sin fecha concreta figuran Resident Evil: Veronica, LEGO Skylines, Crazy Taxi: World Tour, Onyx y The Duskbloods, este último retrasado recientemente. La compañía también reconfirmó las ventanas de sus propios títulos."
+        ],
+        "en": [
+          "In its financial report, Nintendo highlighted several third-party Switch 2 games, per Nintendo Life: Professor Layton and The New World of Steam (December 10), Tomb Raider: Legacy of Atlantis (February 12, 2027), Eternal Anima (March 4) and Final Fantasy VII Revelation (April 8).",
+          "Without specific dates in 2027 are Resident Evil: Veronica, LEGO Skylines, Crazy Taxi: World Tour, Onyx and The Duskbloods, the latter recently delayed. The company also reconfirmed release windows for its own titles."
+        ]
+      },
+      "why": {
+        "es": "Nintendo intenta reforzar el catálogo externo mientras las ventas de hardware se enfrían.",
+        "en": "Nintendo is trying to bolster third-party support as hardware sales cool."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027"
+        },
+        {
+          "name": "Nintendo Life (ventanas propias)",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "EA publica 25 clásicos en Steam, entre ellos Road Rash y Wing Commander; siete llegan como remasterizaciones, según PC Gamer.",
+        "en": "EA releases 25 classics on Steam, including Road Rash and Wing Commander; seven arrive as remasters, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/"
+      }
+    },
+    {
+      "text": {
+        "es": "La app de Xbox para PC se actualiza para Xbox Insiders: arranca hasta un 60 % más rápido, según Xbox Wire.",
+        "en": "Xbox's PC app update for Xbox Insiders launches up to 60% faster, per Xbox Wire."
+      },
+      "source": {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/"
+      }
+    },
+    {
+      "text": {
+        "es": "AMD FSR 4.1 llega oficialmente a Xbox Series X|S y los desarrolladores ya pueden usar FSR 4.1.2, según Pure Xbox y Vandal.",
+        "en": "AMD FSR 4.1 officially arrives on Xbox Series X|S, and developers can now use FSR 4.1.2, per Pure Xbox and Vandal."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/amd-fsr-upscaling-4-1-has-officially-arrived-for-xbox-series-xs"
+      }
+    },
+    {
+      "text": {
+        "es": "G2 Esports se separa de su entrenador Luka «Perkz» Perković tras una polémica publicación en X, según IGN.",
+        "en": "G2 Esports parts ways with head coach Luka \"Perkz\" Perković after a divisive post on X, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/g2-esports-parts-ways-with-head-coach-luka-perkz-perkovi-after-his-tweet-bomb-sparks-backlash"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix prefiere invertir en nuevos Final Fantasy tras la trilogía de FF7 Remake, aunque Kitase dice que hay demanda interna de remake de FF6, según Push Square.",
+        "en": "Square Enix will invest in new games after the FF7 Remake trilogy, though Kitase says there is internal demand for an FF6 remake, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss"
+      }
+    },
+    {
+      "text": {
+        "es": "Date Everything alcanza el millón de copias vendidas, según Insider Gaming.",
+        "en": "Date Everything hits 1 million copies sold, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/date-everything-hits-1m-copies-sold/"
+      }
+    },
+    {
+      "text": {
+        "es": "Behaviour Interactive pide disculpas por un regalo a un streamer que no cumplía los valores del estudio, en Dead by Daylight, según Vandal.",
+        "en": "Behaviour Interactive apologizes over a Dead by Daylight gift to a streamer who did not meet the studio's values, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026309030/polemica-con-dead-by-daylight-y-un-streamer-que-no-cumplia-los-valores-del-estudio-behaviour-pide-disculpas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Amazon Prime regalará 7 juegos de PC en noviembre y añade gratis Kingdom Come: Deliverance II a Luna, según Vandal.",
+        "en": "Amazon Prime will give away 7 PC games in November and adds Kingdom Come: Deliverance II free to Luna, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026309044/amazon-regala-7-juegos-para-pc-en-noviembre-y-anade-gratis-kingdom-come-deliverance-ii-a-luna/"
+      }
+    },
+    {
+      "text": {
+        "es": "Bethesda ya vende merchandising de The Elder Scrolls 6: Sentinel, aunque no ha mostrado el juego, según Push Square.",
+        "en": "Bethesda is already selling The Elder Scrolls 6: Sentinel merchandise although it hasn't shown the game, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "5 de noviembre",
+        "en": "November 5"
+      },
+      "url": "https://www.3djuegos.com/juegos/the-legend-of-zelda-ocarina-of-time/noticias/zelda-inevitable-nintendo-celebra-lanzamiento-ocarina-of-time-para-switch-2-todo-alto"
+    },
+    {
+      "title": "Hard West II",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.gematsu.com/2026/11/hard-west-ii-for-ps5-xbox-series-launches-november-10"
+    },
+    {
+      "title": "007 First Light (Starter Pack)",
+      "platforms": "PS5",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/007-first-lights-first-mission-is-free-in-new-ps5-starter-pack"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer"
+    },
+    {
+      "title": "Professor Layton and The New World of Steam",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "10 de diciembre",
+        "en": "December 10"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La Casa Blanca difunde un vídeo de Trump como Link el día del estreno de Ocarina of Time, según 3DJuegos.",
+        "en": "The White House posts a video of Trump as Link on Ocarina of Time's launch day, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/the-legend-of-zelda-ocarina-of-time/noticias/casa-blanca-publica-video-surrealista-trump-convertido-link-dia-que-nintendo-lanza-remake-zelda-ocarina-of-time"
+      }
+    },
+    {
+      "text": {
+        "es": "Warren Spector sigue criticando el cierre de BioWare y los sueldos de los directivos de EA, según PC Gamer.",
+        "en": "Warren Spector keeps criticizing BioWare's closure and EA executive pay, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los desarrolladores reaccionan a que Epic sitúe la IA en el centro de Unreal Engine 6, según Kotaku.",
+        "en": "Developers react to Epic putting AI at the center of Unreal Engine 6, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/epic-games-tim-sweeney-unreal-engine-6-ai-workflows-2000754115"
+      }
+    },
+    {
+      "text": {
+        "es": "Un mural gigante de GTA 6 es grafiteado de noche y los artistas critican el gesto, según Kotaku.",
+        "en": "A massive GTA 6 mural is tagged overnight and graffiti artists criticize it, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans debaten el calendario de The Elder Scrolls 6 tras un informe que lo sitúa a más de dos años, según PC Gamer.",
+        "en": "Fans debate The Elder Scrolls 6's timing after a report puts it more than two years away, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Queen's Domain",
+      "url": "https://store.steampowered.com/app/1799840/"
+    },
+    {
+      "name": "Can 'Em All",
+      "url": "https://store.steampowered.com/app/5133900/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    }
+  ]
+}
