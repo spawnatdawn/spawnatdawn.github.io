@@ -1,0 +1,733 @@
+{
+  "date": "2026-11-07",
+  "headline": {
+    "es": "Unity, en la mira de Arabia Saudí, y Sony cancela el último Ratchet & Clank móvil",
+    "en": "Unity in Saudi Arabia's sights as Sony cancels the latest mobile Ratchet & Clank"
+  },
+  "intro": {
+    "es": "Además, Miyamoto falta a la sesión de preguntas de Nintendo, Path of Exile 2 fija su 1.0 para el 11 de diciembre y un bug de NieR: Automata exige 366 GB.",
+    "en": "Also: Miyamoto misses Nintendo's investor Q&A, Path of Exile 2 sets its 1.0 for December 11 and a NieR: Automata bug demands 366 GB."
+  },
+  "stories": [
+    {
+      "id": "unity-conversaciones-compra-pif-silver-lake",
+      "category": "industria",
+      "title": {
+        "es": "Unity habría mantenido conversaciones para ser adquirida por el PIF saudí y Silver Lake",
+        "en": "Unity reportedly held talks to be acquired by Saudi PIF and Silver Lake"
+      },
+      "dek": {
+        "es": "Según Reuters, los mismos inversores que acaban de comprar EA exploran una compra del motor.",
+        "en": "Per Reuters, the same investors that just bought EA are exploring a purchase of the engine."
+      },
+      "body": {
+        "es": [
+          "Reuters informa de que Unity Software ha mantenido conversaciones con un consorcio de inversores interesado en adquirir la compañía. Según Game Developer, que recoge el reportaje, los nombres citados son Silver Lake y el fondo soberano saudí PIF, los mismos que acaban de cerrar la compra de Electronic Arts. Silver Lake ya posee cerca del 8 % de Unity.",
+          "El medio señala que la operación sería probablemente una compra apalancada, como la de EA, y que no se ha publicado ninguna cifra. Se trata de conversaciones, no de un acuerdo cerrado, y el artículo no recoge ninguna declaración de Unity."
+        ],
+        "en": [
+          "Reuters reports that Unity Software has held talks with a group of investors interested in acquiring the company. According to Game Developer, which picked up the report, the names involved are Silver Lake and Saudi Arabia's sovereign fund PIF, the same pair that just completed the Electronic Arts buyout. Silver Lake already owns roughly 8% of Unity.",
+          "Game Developer notes the deal would likely be a leveraged buyout, like EA's, and no price has been reported. These are talks, not a signed agreement, and the article includes no statement from Unity."
+        ]
+      },
+      "why": {
+        "es": "Unity es una de las dos grandes plataformas de motor del sector y un cambio de propietario podría afectar a miles de estudios que dependen de ella.",
+        "en": "Unity is one of the two dominant engines in the industry, so a change of owner could affect thousands of studios that rely on it."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/unity-ha-mantenido-conversaciones-para-ser-adquirida-por-el-pif-de-arabia-saudi-y-silver-lake-segun-reuters"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026310016/los-fondos-que-compraron-electronic-arts-podrian-adquirir-unity-otra-de-las-grandes-empresas-del-sector/"
+        }
+      ]
+    },
+    {
+      "id": "ratchet-clank-ranger-rumble-cancelado-servidores-mayo-2027",
+      "category": "playstation",
+      "title": {
+        "es": "Sony cancela Ratchet & Clank: Ranger Rumble antes de su lanzamiento global",
+        "en": "Sony cancels Ratchet & Clank: Ranger Rumble before its global launch"
+      },
+      "dek": {
+        "es": "El shooter móvil gratuito dejará de poder descargarse el 21 de noviembre y sus servidores cerrarán el 1 de mayo de 2027.",
+        "en": "The free-to-play mobile shooter will be delisted on November 21 and its servers shut down on May 1, 2027."
+      },
+      "body": {
+        "es": [
+          "Sony Interactive Entertainment ha anunciado la cancelación de Ratchet & Clank: Ranger Rumble, un shooter multijugador gratuito para iOS y Android desarrollado por Oh BiBi con Insomniac. El juego se probaba en un lanzamiento limitado desde noviembre de 2025, en países como Filipinas, Indonesia, los nórdicos, Canadá y, más recientemente, el Reino Unido, y nunca llegó a un lanzamiento mundial.",
+          "La última actualización llegó el 6 de noviembre. El juego desaparecerá de App Store y Google Play el 21 de noviembre, las compras integradas ya se han retirado y los servidores se apagarán de forma definitiva el 1 de mayo de 2027, según Gematsu y VGC. Los reembolsos dependen de Apple y Google."
+        ],
+        "en": [
+          "Sony Interactive Entertainment has announced the cancellation of Ratchet & Clank: Ranger Rumble, a free-to-play multiplayer shooter for iOS and Android developed by Oh BiBi with Insomniac. The game had been in a limited soft launch since November 2025 in countries including the Philippines, Indonesia, the Nordics, Canada and, most recently, the UK, and never reached a worldwide release.",
+          "The final update arrived on November 6. The game will leave the App Store and Google Play on November 21, in-app purchases have already been removed, and servers will shut down permanently on May 1, 2027, per Gematsu and VGC. Refund eligibility is handled by Apple and Google."
+        ]
+      },
+      "why": {
+        "es": "Es otro movimiento de Sony que recorta su apuesta por juegos como servicio tras varias cancelaciones en los últimos años.",
+        "en": "It is another sign of PlayStation scaling back its live-service bets."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/ratchet-clank-ranger-rumble-canceled"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/ratchet-clank-ranger-rumble/noticias/juego-que-no-llego-a-nacer-todo-playstation-ha-anunciado-su-cierre-para-sorpresa-pocos-multijugador-movil-ratchet-clank-dice-adios"
+        }
+      ]
+    },
+    {
+      "id": "path-of-exile-2-1-0-11-diciembre-duelist-shadow",
+      "category": "pc",
+      "title": {
+        "es": "Path of Exile 2 sale de acceso anticipado el 11 de diciembre y suma clases nuevas",
+        "en": "Path of Exile 2 leaves early access on December 11 with new classes"
+      },
+      "dek": {
+        "es": "La versión 1.0 completa la campaña, será gratuita y PC Gamer cuenta una segunda clase nueva, la Shadow.",
+        "en": "Version 1.0 completes the campaign, is free to play, and PC Gamer reports a second new class, the Shadow."
+      },
+      "body": {
+        "es": [
+          "Grinding Gear Games ha fijado el 11 de diciembre (hora del Pacífico) como fecha de la versión 1.0 de Path of Exile 2, según RPG Site. El juego llegará a PC (Steam, Epic y cliente propio), PS5 y Xbox Series, será gratuito con compras opcionales de cosméticos y pestañas de alijo, e incluirá los dos últimos actos de la historia principal.",
+          "La clase Duelist, centrada en la espada, es la novedad confirmada. PC Gamer informa además de que el estudio ha anunciado una segunda clase nueva, la Shadow, para el lanzamiento de diciembre. El registro previo en la web oficial da recompensas de lanzamiento hasta el 10 de diciembre."
+        ],
+        "en": [
+          "Grinding Gear Games has set December 11 (Pacific time) as the date for Path of Exile 2's 1.0 release, per RPG Site. The game will be available on PC (Steam, Epic and the standalone client), PS5 and Xbox Series, free to play with optional cosmetic and stash-tab purchases, and includes the final two acts of the main story.",
+          "The sword-focused Duelist is the confirmed new class. PC Gamer additionally reports that the studio has announced a second new class, the Shadow, for the December launch. Pre-registration on the official site unlocks launch rewards until December 10."
+        ]
+      },
+      "why": {
+        "es": "El salto a 1.0 y al modelo gratuito en consolas amplía mucho el público potencial del juego.",
+        "en": "The jump to 1.0 and free-to-play on consoles widens the game's potential audience considerably."
+      },
+      "sources": [
+        {
+          "name": "RPG Site",
+          "url": "https://www.rpgsite.net/news/21188-path-exile-2-reaches-its-10-full-release-on-december-11"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/"
+        },
+        {
+          "name": "PC Gamer (1.0)",
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/capsule_616x353.jpg",
+        "credit": "Grinding Gear Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2694490/"
+      }
+    },
+    {
+      "id": "miyamoto-ausente-informe-nintendo-enfermedad",
+      "category": "nintendo",
+      "title": {
+        "es": "Miyamoto no asiste a la sesión de preguntas de Nintendo por una enfermedad repentina",
+        "en": "Miyamoto misses Nintendo's investor Q&A due to a sudden illness"
+      },
+      "dek": {
+        "es": "La compañía indica que su estado es estable y que se espera su recuperación en unos días o una semana.",
+        "en": "The company says his condition is stable and he is expected to recover within days to a week."
+      },
+      "body": {
+        "es": [
+          "Shigeru Miyamoto no participó en la sesión de preguntas de la presentación de resultados de Nintendo por una «enfermedad repentina». La transcripción, publicada solo en japonés, indica que su estado es estable y que se espera que se recupere «en unos días o una semana», según Kotaku y Nintendo Life. Nintendo no ha dado detalles de la dolencia.",
+          "Miyamoto, representante director y fellow de la compañía, tiene 73 años. Había aparecido en un Nintendo Direct grabado el 1 de noviembre dedicado a Pikmin, según Kotaku, que añade que la prensa japonesa informó de su ausencia en una ceremonia oficial días antes."
+        ],
+        "en": [
+          "Shigeru Miyamoto did not take part in the Q&A session of Nintendo's earnings briefing due to a \"sudden illness\". The transcript, published only in Japanese, says his condition is stable and he is expected to recover \"in a few days to a week\", per Kotaku and Nintendo Life. Nintendo has not shared details of the illness.",
+          "Miyamoto, a representative director and fellow at the company, is 73. He had appeared in a pre-recorded Pikmin-themed Nintendo Direct on November 1, per Kotaku, which adds that Japanese press reported his absence from an official ceremony days earlier."
+        ]
+      },
+      "why": {
+        "es": "Miyamoto sigue siendo la cara creativa de Nintendo y cualquier noticia sobre su salud se sigue de cerca.",
+        "en": "Miyamoto remains Nintendo's creative figurehead, so news about his health is closely watched."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Shigeru_Miyamoto_at_GDC_2007.jpg/1280px-Shigeru_Miyamoto_at_GDC_2007.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Shigeru_Miyamoto_at_GDC_2007.jpg/960px-Shigeru_Miyamoto_at_GDC_2007.jpg",
+        "credit": "Vincent Diamante / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shigeru_Miyamoto_at_GDC_2007.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    {
+      "id": "bioware-documental-massive-effect-mass-effect-camion-ea",
+      "category": "industria",
+      "title": {
+        "es": "Un documental narrará la historia de BioWare y los fans llevan su protesta a la sede de EA",
+        "en": "A documentary will tell BioWare's story as fans take their protest to EA's HQ"
+      },
+      "dek": {
+        "es": "«Massive Effect: The BioWare Story» llegará en 2027; un camión pidió ayer «Save Mass Effect» junto a EA.",
+        "en": "\"Massive Effect: The BioWare Story\" is due in 2027; a truck demanding \"Save Mass Effect\" drove by EA yesterday."
+      },
+      "body": {
+        "es": [
+          "Se ha anunciado Massive Effect: The BioWare Story, un documental sobre el estudio desde su fundación en 1995 hasta su cierre, que EA ejecutó el 21 de octubre. Según Push Square y Vandal, que citan a Deadline, aparecen los fundadores Ray Muzyka y Greg Zeschuk, la actriz Jennifer Hale, Geoff Keighley, el exCEO de EA John Riccitiello y creativos como Casey Hudson, Mark Darrah o David Gaider. Lo encarga Super Channel, de Canadá, y se proyectará en festivales en 2027.",
+          "Mientras, los organizadores de «We Are Mass Effect» hicieron circular un camión con el mensaje «Save Mass Effect» alrededor de la sede de EA en Redwood City, según Kotaku. La víspera del N7 Day (7 de noviembre), Vandal recoge además el enfado de los fans porque EA promociona merchandising de la saga tras cancelar su nuevo juego."
+        ],
+        "en": [
+          "Massive Effect: The BioWare Story has been announced, a documentary covering the studio from its founding in 1995 to its closure, which EA carried out on October 21. According to Push Square and Vandal, citing Deadline, it features founders Ray Muzyka and Greg Zeschuk, voice actor Jennifer Hale, Geoff Keighley, former EA CEO John Riccitiello and creatives such as Casey Hudson, Mark Darrah and David Gaider. It is commissioned by Canada's Super Channel and will screen at festivals in 2027.",
+          "Meanwhile, the \"We Are Mass Effect\" organizers sent a truck bearing a \"Save Mass Effect\" message around EA's Redwood City headquarters, per Kotaku. On the eve of N7 Day (November 7), Vandal also reports fan anger over EA promoting franchise merchandise after cancelling the new game."
+        ]
+      },
+      "why": {
+        "es": "Los fans mantienen la presión sobre EA semanas después del cierre, ahora con un relato audiovisual de lo ocurrido.",
+        "en": "Fans are keeping up the pressure on EA weeks after the closure, now with a film account of what happened."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced"
+        },
+        {
+          "name": "Vandal (documental)",
+          "url": "https://vandal.elespanol.com/noticia/2026310037/un-documental-contara-el-final-de-bioware-y-tendra-a-los-directores-de-mass-effect-y-dragon-age/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705"
+        },
+        {
+          "name": "Vandal (merchandising)",
+          "url": "https://vandal.elespanol.com/noticia/2026310023/ea-enfurece-a-los-fans-de-mass-effect-al-promocionar-merchandising-de-la-saga-tras-cancelar-su-nuevo-juego/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/capsule_616x353.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1328670/"
+      }
+    },
+    {
+      "id": "physint-bill-skarsgard-kojima-nuevo-medio",
+      "category": "xbox",
+      "title": {
+        "es": "Bill Skarsgård defiende Physint: Kojima «está inventando un nuevo medio»",
+        "en": "Bill Skarsgård on Physint: Kojima is \"inventing a new medium\""
+      },
+      "dek": {
+        "es": "El protagonista habla de crecer con Metal Gear Solid y de unas ocho horas de narrativa en un universo jugable.",
+        "en": "The lead recalls growing up with Metal Gear Solid and describes about eight hours of story in a playable universe."
+      },
+      "body": {
+        "es": [
+          "En el pódcast Happy Sad Confused, Bill Skarsgård explicó que trabajar con Hideo Kojima en Physint es «algo grande» para él, que creció jugando a Metal Gear Solid, según Pure Xbox. Describió a Kojima como un autor de videojuegos que domina el lenguaje del cine y aseguró que le dijo que no haría una película, sino que «inventa un nuevo medio».",
+          "El actor, que interpreta al protagonista mediante captura de movimiento y actuación, habló de unas ocho horas de narrativa dentro de un universo jugable con imágenes fotorrealistas, según el medio. Physint es un juego de acción y espionaje presentado como sucesor espiritual de Metal Gear Solid; no tiene fecha de lanzamiento."
+        ],
+        "en": [
+          "On the Happy Sad Confused podcast, Bill Skarsgård said working with Hideo Kojima on Physint is \"a big deal\" for him, having grown up playing Metal Gear Solid, per Pure Xbox. He described Kojima as a video game auteur fluent in film and said Kojima told him he wouldn't make a movie, but is \"inventing a new medium\".",
+          "The actor, who plays the lead through motion and performance capture, spoke of roughly eight hours of narrative inside a playable universe with photorealistic visuals, per the outlet. Physint is an action-espionage game billed as a spiritual successor to Metal Gear Solid; it has no release date."
+        ]
+      },
+      "why": {
+        "es": "Es la primera vez en semanas que se habla en detalle del tono de un proyecto del que apenas se conoce nada.",
+        "en": "It is a rare detailed look at the tone of a project about which little is known."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/hideo-kojima-is-inventing-a-new-medium-bill-skarsgard-shares-why-starring-in-xboxs-physint-is-a-big-deal"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/bill-skarsgard-didnt-need-much-convincing-to-join-hideo-kojimas-physint/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/physint/noticias/bill-skarsgard-actor-it-kojima-su-nuevo-juego-xbox-pionero-todo-que-hace-cine"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026310038/el-protagonista-de-physint-explica-por-que-no-tuvo-que-pensarselo-para-trabajar-con-hideo-kojima/"
+        }
+      ]
+    },
+    {
+      "id": "nier-automata-actualizacion-366-gb-steam-error",
+      "category": "pc",
+      "title": {
+        "es": "Una actualización obligatoria de NieR: Automata eleva su tamaño en Steam a 366 GB",
+        "en": "A mandatory NieR: Automata update balloons its Steam size to 366 GB"
+      },
+      "dek": {
+        "es": "Square Enix pide disculpas e investiga la causa; mientras, hay un truco para evitar descargar el DLC.",
+        "en": "Square Enix apologizes and is investigating; meanwhile there is a workaround to skip the DLC."
+      },
+      "body": {
+        "es": [
+          "Una actualización de NieR: Automata en Steam ha hecho que el juego pase de ocupar menos de 50 GB a requerir 366 GB, según Kotaku y Vandal. Kotaku cita que cada contenido YoRHa Edition parece ocupar ahora tanto como el juego base. La causa no está confirmada.",
+          "Square Enix se ha disculpado y dice que sigue investigando. Como solución temporal, los jugadores pueden descargar solo el juego base desmarcando el DLC en Propiedades > DLC de Steam, según Kotaku."
+        ],
+        "en": [
+          "An update to NieR: Automata on Steam has pushed the game from under 50 GB to a 366 GB requirement, per Kotaku and Vandal. Kotaku says each YoRHa Edition content item now appears to be as large as the base game. The cause has not been confirmed.",
+          "Square Enix has apologized and says it is still investigating. As a temporary workaround, players can download only the base game by unchecking the DLC under Properties > DLC in Steam, per Kotaku."
+        ]
+      },
+      "why": {
+        "es": "Un error de empaquetado de este tipo puede bloquear instalaciones en discos pequeños hasta que llegue el parche.",
+        "en": "A packaging error like this can block installs on smaller drives until a fix ships."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026310012/nier-automata-pasa-a-ocupar-366-gb-en-steam-por-un-extrano-bug-provocado-por-su-nueva-actualizacion/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/capsule_616x353.jpg",
+        "credit": "Square Enix / Steam",
+        "creditUrl": "https://store.steampowered.com/app/524220/"
+      }
+    },
+    {
+      "id": "civilization-7-switch-2-exploit-civswitch-cartuchos",
+      "category": "nintendo",
+      "title": {
+        "es": "El cartucho de Civilization VII de Switch abre una vía de hackeo en Switch 2",
+        "en": "The Switch Civilization VII cartridge opens a hacking route on Switch 2"
+      },
+      "dek": {
+        "es": "Kotaku asegura que 2K estaría retirando las copias físicas; la compañía no ha confirmado nada.",
+        "en": "Kotaku reports 2K may be recalling physical copies; the company has not confirmed anything."
+      },
+      "body": {
+        "es": [
+          "Un exploit llamado CivSwitch, creado por el modder Gezine, aprovecha una vulnerabilidad sin parchear en el cartucho físico de Civilization VII para Switch: ejecuta código desde un dispositivo USB conectado y abre la Switch 2 al homebrew, según Kotaku. De momento da acceso a partidas guardadas, mods y aplicaciones caseras, no a juegos de Switch 2 volcados, y la versión digital no funciona con él.",
+          "Kotaku informa, a partir de mensajes de usuarios en Reddit, de que 2K habría empezado a retirar la edición física: algunos compradores dicen que sus pedidos se cancelaron. Kotaku no lo ha podido confirmar de forma independiente y esperaba respuesta de 2K. Twisted Voxel indica que el método solo funciona con la versión 1.0.0 del cartucho."
+        ],
+        "en": [
+          "An exploit called CivSwitch, created by modder Gezine, takes advantage of an unpatched flaw in the physical Switch cartridge of Civilization VII: it runs code from a connected USB device and opens the Switch 2 to homebrew, per Kotaku. For now it gives access to saves, mods and homebrew apps, not dumped Switch 2 games, and the digital version does not work with it.",
+          "Based on Reddit posts, Kotaku reports that 2K has reportedly started recalling the physical edition, with some buyers saying their orders were cancelled. Kotaku could not independently confirm this and had asked 2K for comment. Twisted Voxel says the method only works with version 1.0.0 of the cartridge."
+        ]
+      },
+      "why": {
+        "es": "Un fallo en un juego de la consola anterior vuelve a poner en tela de juicio la seguridad de Switch 2 pocos meses después de su lanzamiento.",
+        "en": "A flaw in a last-generation game again raises questions about Switch 2 security."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656"
+        },
+        {
+          "name": "Twisted Voxel",
+          "url": "https://twistedvoxel.com/nintendo-switch-2-hack-civilization-vii-switch-1-edition/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/capsule_616x353.jpg",
+        "credit": "2K / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1295660/"
+      }
+    },
+    {
+      "id": "ps-plus-ventajas-reino-unido-francia-alemania",
+      "category": "playstation",
+      "title": {
+        "es": "PS Plus añade «ventajas» en Reino Unido, Francia y Alemania y los jugadores no se convencen",
+        "en": "PS Plus adds \"perks\" in the UK, France and Germany, and players are unimpressed"
+      },
+      "dek": {
+        "es": "Pruebas gratuitas de YouTube Premium o Calm y descuentos; en España no se ha anunciado.",
+        "en": "Free trials of YouTube Premium or Calm plus discounts; nothing announced for Spain."
+      },
+      "body": {
+        "es": [
+          "Sony ha presentado una serie de ventajas para suscriptores activos de cualquier nivel de PS Plus en Reino Unido, Francia y Alemania, según Push Square. Incluyen tres meses de prueba de YouTube Premium, dos de Calm, crédito de película en Sony Pictures Core, Audible a 0,99 £ al mes durante tres meses y un 20 % de descuento en DAZN Ultimate, además de descuentos en PlayStation Direct y mandos DualSense.",
+          "3DJuegos recoge reacciones mayoritariamente críticas: muchos jugadores cuestionan que se llame «ventajas» a lo que son sobre todo pruebas gratuitas. En los comentarios de Push Square, algunos lectores señalan que la prueba de YouTube Premium es solo para nuevos usuarios. Por ahora no hay anuncio para España."
+        ],
+        "en": [
+          "Sony has unveiled a set of perks for active subscribers on any PS Plus tier in the UK, France and Germany, per Push Square. They include three months of YouTube Premium, two of Calm, a Sony Pictures Core movie credit, Audible at £0.99 a month for three months and 20% off DAZN Ultimate, plus discounts on PlayStation Direct and DualSense controllers.",
+          "3DJuegos reports mostly critical reactions, with many players questioning whether mostly free trials count as \"perks\". In Push Square's comments, some readers note the YouTube Premium trial is only for new users. There is no announcement for Spain yet."
+        ]
+      },
+      "why": {
+        "es": "La reacción refleja que parte de la comunidad espera mejoras en juegos y no en servicios de terceros.",
+        "en": "The reaction shows part of the community wants improvements to games rather than third-party services."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps5/noticias/esto-muy-lamentable-playstation-presenta-nuevas-ventajas-para-usuarios-ps-plus-no-convencen-a-nadie"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026310021/ps-plus-recibe-gratis-nuevas-ventajas-como-suscripciones-a-youtube-premium-y-dazn-llegaran-tambien-a-espana/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/1280px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/960px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "credit": "JDC808 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:All_PlayStations_(1-5,_PSP,_%26_Vita).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "nintendo-remakes-switch-2-igual-importancia-nuevos-juegos",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo: los remakes tienen «la misma importancia» que los juegos nuevos",
+        "en": "Nintendo: remakes are of \"equal importance\" to new games"
+      },
+      "dek": {
+        "es": "Un directivo respalda seguir con clásicos en Switch 2; no hay nuevo remake anunciado.",
+        "en": "An executive backs more classics on Switch 2; no next remake has been announced."
+      },
+      "body": {
+        "es": [
+          "Nate Bihldorff, vicepresidente sénior de desarrollo y publicación de producto de Nintendo, dijo a Polygon que los juegos nuevos y los remakes tienen «igual importancia» para la compañía, según Nintendo Life. Argumentó que hay «fans de cada una de nuestras franquicias» y que los remakes dan a jugadores nuevos una primera oportunidad de probar clásicos como Ocarina of Time.",
+          "Nintendo Life recuerda que el remake de Star Fox, lanzado en junio, ha superado el millón de unidades, y que Ocarina of Time salió esta semana. Nintendo no ha anunciado el siguiente remake; el medio señala Majora's Mask como la apuesta más especulada."
+        ],
+        "en": [
+          "Nate Bihldorff, Nintendo's senior vice president of product development and publishing, told Polygon that new games and remakes are of \"equal importance\" to the company, per Nintendo Life. He argued there are \"fans of every single IP that we have\" and that remakes give new players a first chance to try classics like Ocarina of Time.",
+          "Nintendo Life notes the Star Fox remake, released in June, has shifted more than a million units, and that Ocarina of Time launched this week. Nintendo has not announced its next remake; the outlet names Majora's Mask as the most speculated pick."
+        ]
+      },
+      "why": {
+        "es": "Confirma una línea de catálogo de Switch 2 basada en recuperar clásicos de N64.",
+        "en": "It points to a Switch 2 catalogue strategy built on bringing back N64 classics."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026310014/nintendo-quiere-seguir-haciendo-remakes-de-sus-grandes-clasicos-tras-zelda-ocarina-of-time-y-star-fox/"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-temporada-2-legacy-20-aniversario",
+      "category": "xbox",
+      "title": {
+        "es": "Gears of War: E-Day celebrará los 20 años de la saga con su Temporada 2, «Legacy»",
+        "en": "Gears of War: E-Day marks the series' 20th anniversary with Season 2, \"Legacy\""
+      },
+      "dek": {
+        "es": "La temporada empieza el 1 de diciembre con contenido clásico y aspectos reinventados.",
+        "en": "The season starts December 1 with classic content and reimagined skins."
+      },
+      "body": {
+        "es": [
+          "La Temporada 2 de Gears of War: E-Day, llamada Legacy, arrancará el 1 de diciembre, cuando termina la primera, según Pure Xbox. Estará dedicada al 20.º aniversario de la saga y recuperará contenido de toda su historia, con aspectos reinterpretados, como una skin de Dom inspirada en su traje de Gears of War 2.",
+          "El medio no detalla qué mapas ni modos volverán; solo menciona esperanzas del autor. Pure Xbox añade que los jugadores pueden reclamar gratis un aspecto multijugador del General RAAM. Gaming Trend sitúa el aniversario el 7 de noviembre, con un regalo para todos los jugadores de E-Day."
+        ],
+        "en": [
+          "Season 2 of Gears of War: E-Day, called Legacy, will start on December 1, when the first season ends, per Pure Xbox. It is dedicated to the series' 20th anniversary and brings back content from across its history, with reimagined skins such as a Dom skin based on his Gears of War 2 outfit.",
+          "The outlet does not specify which maps or modes will return; it only mentions the author's hopes. Pure Xbox adds that players can claim a General RAAM multiplayer skin for free. Gaming Trend places the anniversary on November 7, with a gift for all E-Day players."
+        ]
+      },
+      "why": {
+        "es": "El juego refuerza su hoja de ruta con nostalgia al cumplirse dos décadas de la franquicia.",
+        "en": "The game leans on nostalgia for its roadmap as the franchise turns twenty."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/gears-of-war-e-day-is-bringing-back-legacy-maps-modes-and-skins-for-season-2"
+        },
+        {
+          "name": "Gaming Trend",
+          "url": "https://gamingtrend.com/news/new-gears-of-war-e-day-seasonal-details-emerge/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/capsule_616x353.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3010850/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Cuatro juegos de un mismo editor desaparecerán de la tienda de Xbox antes de que acabe 2026, según Pure Xbox.",
+        "en": "Four games from one publisher will be delisted from the Xbox Store before the end of 2026, per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/xbox-publisher-announces-four-games-being-delisted-by-end-of-2026"
+      }
+    },
+    {
+      "text": {
+        "es": "Sega sigue desarrollando nuevos juegos de Streets of Rage, Jet Set Radio y Golden Axe, según Insider Gaming.",
+        "en": "Sega is still developing new Streets of Rage, Jet Set Radio and Golden Axe games, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/new-jet-set-radio-and-streets-of-rage-games-still-in-the-works/"
+      }
+    },
+    {
+      "text": {
+        "es": "Una función de Battlefield 6 muy pedida y presentada en primavera no llegará en 2026, según Kotaku.",
+        "en": "A much-requested Battlefield 6 feature revealed last spring won't arrive in 2026, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/a-much-requested-battlefield-6-feature-revealed-last-spring-wont-arrive-in-2026-after-all-2000754757"
+      }
+    },
+    {
+      "text": {
+        "es": "El modo DMZ de Call of Duty: Modern Warfare 4 tendrá una prueba gratuita en todas las plataformas, según Insider Gaming.",
+        "en": "Call of Duty: Modern Warfare 4's DMZ mode gets a free trial on all platforms, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/call-of-duty-modern-warfare-4-dmz-mode-free-trial-on-all-platforms/"
+      }
+    },
+    {
+      "text": {
+        "es": "Team Heretics cierra su academia de League of Legends, otro equipo de la LEC que lo hace, según Insider Gaming.",
+        "en": "Team Heretics closes its League of Legends academy, the latest LEC team to do so, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/team-heretics-closes-lec-academy-lol-team/"
+      }
+    },
+    {
+      "text": {
+        "es": "SAG-AFTRA presenta un nuevo proceso para contratar actores del sindicato en presentaciones de juegos, según Game Developer.",
+        "en": "SAG-AFTRA introduces a new process for hiring union actors in game pitches, per Game Developer."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches"
+      }
+    },
+    {
+      "text": {
+        "es": "NVIDIA anuncia 24 juegos para GeForce NOW en noviembre y una mejora para Hogwarts Legacy, según Vandal.",
+        "en": "NVIDIA announces 24 games for GeForce NOW in November and an upgrade for Hogwarts Legacy, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026310034/nvidia-anuncia-los-24-juegos-que-llegan-a-geforce-now-en-noviembre-y-una-gran-mejora-para-hogwarts-legacy/"
+      }
+    },
+    {
+      "text": {
+        "es": "David Gaider participa en el RPG de The Expanse de Owlcat, según PC Gamer.",
+        "en": "David Gaider is working on Owlcat's The Expanse RPG, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/"
+      }
+    },
+    {
+      "text": {
+        "es": "The Witcher 3 incorpora un modo de accesibilidad pensado para jugadores con poco tiempo o cansancio, según Nintendo Life.",
+        "en": "The Witcher 3 adds a new accessibility mode aimed at tired, time-poor players, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind"
+      }
+    },
+    {
+      "text": {
+        "es": "Ya está disponible Theos: Cities of Myth, un constructor de ciudades en la Grecia antigua de los creadores de Pharaoh, según Vandal.",
+        "en": "Theos: Cities of Myth, a city builder in ancient Greece from the makers of Pharaoh, is out now, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026310020/ya-disponible-theos-cities-of-myth-un-juego-de-crear-ciudades-en-la-antigua-grecia-de-los-autores-de-pharaoh/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Hozy",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "9 de noviembre",
+        "en": "November 9"
+      },
+      "url": "https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9"
+    },
+    {
+      "title": "Football Manager 27 Console",
+      "platforms": "Xbox, Game Pass",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/06/next-week-on-xbox-new-games-for-november-9-to-13/"
+    },
+    {
+      "title": "Wuthering Waves 3.8 «Lilies in a Dying Dream»",
+      "platforms": "Multi",
+      "note": {
+        "es": "12 de noviembre",
+        "en": "November 12"
+      },
+      "url": "https://www.gematsu.com/2026/11/wuthering-waves-version-3-8-update-lilies-in-a-dying-dream-launches-november-12"
+    },
+    {
+      "title": "Mr. Elevator",
+      "platforms": "PS5",
+      "note": {
+        "es": "27 de noviembre",
+        "en": "November 27"
+      },
+      "url": "https://www.gematsu.com/2026/11/mr-elevator-coming-to-ps5-on-november-27"
+    },
+    {
+      "title": "Gears of War: E-Day, Temporada 2",
+      "platforms": "Xbox, PC",
+      "note": {
+        "es": "1 de diciembre",
+        "en": "December 1"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/gears-of-war-e-day-is-bringing-back-legacy-maps-modes-and-skins-for-season-2"
+    },
+    {
+      "title": "Path of Exile 2 1.0",
+      "platforms": "PC, PS5, Xbox Series",
+      "note": {
+        "es": "11 de diciembre",
+        "en": "December 11"
+      },
+      "url": "https://www.rpgsite.net/news/21188-path-exile-2-reaches-its-10-full-release-on-december-11"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los fans de Mass Effect se enfadan porque EA promociona merchandising por el N7 Day tras cancelar el nuevo juego, según Vandal.",
+        "en": "Mass Effect fans are angry that EA is promoting N7 Day merchandise after cancelling the new game, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026310023/ea-enfurece-a-los-fans-de-mass-effect-al-promocionar-merchandising-de-la-saga-tras-cancelar-su-nuevo-juego/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores critican las nuevas «ventajas» de PS Plus por ser sobre todo pruebas gratuitas, según 3DJuegos.",
+        "en": "Players criticize the new PS Plus \"perks\" as mostly free trials, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/ps5/noticias/esto-muy-lamentable-playstation-presenta-nuevas-ventajas-para-usuarios-ps-plus-no-convencen-a-nadie"
+      }
+    },
+    {
+      "text": {
+        "es": "Un artista que discutió con Tim Sweeney en X sobre la IA dice «por favor, dejadme atrás», según PC Gamer.",
+        "en": "An artist who clashed with Tim Sweeney on X over AI says \"Please, leave me behind\", per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/"
+      }
+    },
+    {
+      "text": {
+        "es": "Especuladores venden por más de 800 euros algunas ediciones del remake de Zelda: Ocarina of Time, según Vandal.",
+        "en": "Scalpers are selling some editions of the Zelda: Ocarina of Time remake for over €800, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026310031/zelda-ocarina-of-time-remake-presa-de-los-especuladores-venden-por-mas-de-800-euros-algunas-de-sus-ediciones/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Uninitialized",
+      "url": "https://store.steampowered.com/app/4435640/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    }
+  ]
+}
