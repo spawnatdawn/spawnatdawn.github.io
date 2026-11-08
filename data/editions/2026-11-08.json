@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-08",
+  "headline": {
+    "es": "El N7 Day, sin BioWare, y el récord de WoW: Forever",
+    "en": "N7 Day without BioWare, and a WoW: Forever record"
+  },
+  "intro": {
+    "es": "Además, Sony retrasa los altavoces Pulse Elevate, GTA 6 llegará sin disco a PS5 y Warzone aterriza en Switch 2.",
+    "en": "Also: Sony delays the Pulse Elevate speakers, GTA 6 arrives on PS5 without a disc and Warzone lands on Switch 2."
+  },
+  "stories": [
+    {
+      "id": "n7-day-2026-fans-bioware-mass-effect-campana",
+      "category": "juegos",
+      "title": {
+        "es": "El N7 Day llega con campaña de fans, actores y políticos para salvar Mass Effect",
+        "en": "N7 Day brings fans, actors and politicians together to save Mass Effect"
+      },
+      "dek": {
+        "es": "Tras el cierre de BioWare, la jornada se convirtió en una protesta con vídeo del reparto y peticiones a EA.",
+        "en": "After BioWare's closure, the day became a protest with a cast video and petitions aimed at EA."
+      },
+      "body": {
+        "es": [
+          "El 7 de noviembre, Día de N7, se vivió según Kotaku como una especie de funeral por el cierre de BioWare, anunciado semanas antes. La comunidad #SaveMassEffect publicó un vídeo con buena parte del reparto de voces de la trilogía original pidiendo que la saga no se abandone, y el compositor Sam Hulick difundió un tráiler con la música reorquestada como despedida «al menos por ahora», según PC Gamer.",
+          "Los fans pagaron publicidad en Times Square y pusieron vallas y camiones publicitarios en varias ciudades, incluida Edmonton, sede de BioWare, y en la sede de EA en Redwood City. Políticos canadienses como el líder del NDP, Avi Lewis, criticaron el cierre y apoyaron la petición, mientras IGN y PC Gamer recogen también un documental sobre BioWare que ya estaba en marcha."
+        ],
+        "en": [
+          "Kotaku describes November 7, N7 Day, as something closer to a funeral after BioWare's closure was announced weeks earlier. The #SaveMassEffect group released a video featuring much of the original trilogy's voice cast asking for the series not to be abandoned, and composer Sam Hulick shared a re-scored trailer as a goodbye \"at least for now\", per PC Gamer.",
+          "Fans bought ad space in Times Square and put up billboards and trucks in several cities, including BioWare's home of Edmonton and outside EA's Redwood City headquarters. Canadian politicians such as NDP leader Avi Lewis criticized the closure and backed the petition, while IGN and PC Gamer also cover a BioWare documentary that was already in the works."
+        ]
+      },
+      "why": {
+        "es": "Es la primera gran prueba de si la presión de comunidad y políticos puede influir en el futuro de una franquicia cerrada por su editora.",
+        "en": "It is the first big test of whether community and political pressure can influence the future of a franchise its publisher has shut down."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-record-jugadores-simultaneos-lanzamiento",
+      "category": "pc",
+      "title": {
+        "es": "WoW: Forever bate el récord de jugadores simultáneos de un lanzamiento de la saga",
+        "en": "WoW: Forever sets the series' launch record for concurrent players"
+      },
+      "dek": {
+        "es": "Blizzard asegura que es el mayor estreno de la historia de World of Warcraft por pico de usuarios.",
+        "en": "Blizzard says it is the biggest launch in World of Warcraft history by peak concurrent players."
+      },
+      "body": {
+        "es": [
+          "Blizzard ha anunciado en redes que WoW: Forever, lanzado el 4 de noviembre de 2026, es «el mayor lanzamiento de la historia de WoW» por pico de jugadores simultáneos y también el de más jugadores que regresan, según Insider Gaming. Holly Longdale, productora ejecutiva, añadió que atrae a más jugadores nuevos que cualquier estreno de WoW en 15 años.",
+          "La propuesta busca acercarse al WoW original, con tope de nivel 60, más de 1.000 misiones nuevas, zonas nuevas y una raza nueva. IGN informa de que el primer personaje de nivel 60 del mundo llegó al máximo tres días después del lanzamiento. Blizzard no ha detallado cifras concretas en las fuentes consultadas."
+        ],
+        "en": [
+          "Blizzard announced on social media that WoW: Forever, released on November 4, 2026, is \"the biggest launch in WoW history\" by peak concurrent players and also by returning players, per Insider Gaming. Executive producer Holly Longdale added that it is drawing more new players than any WoW launch in 15 years.",
+          "The game aims to stay close to original WoW, with a level cap of 60, more than 1,000 new quests, new zones and a new race. IGN reports that the world's first level 60 character hit the cap three days after launch. Blizzard has not given exact figures in the sources consulted."
+        ]
+      },
+      "why": {
+        "es": "Confirma el tirón de las versiones «clásicas» de los MMO veteranos casi dos décadas después.",
+        "en": "It confirms the pull of \"classic\" versions of veteran MMOs, nearly two decades on."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/wow-forever-launch-concurrent-player-record/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch"
+        }
+      ]
+    },
+    {
+      "id": "sony-pulse-elevate-retraso-indefinido-problema-produccion",
+      "category": "playstation",
+      "title": {
+        "es": "Sony retrasa sin fecha los altavoces Pulse Elevate días antes de su lanzamiento",
+        "en": "Sony indefinitely delays Pulse Elevate speakers days before launch"
+      },
+      "dek": {
+        "es": "El lanzamiento estaba previsto para el 12 de noviembre; Sony habla de un «problema de producción».",
+        "en": "Launch was scheduled for November 12; Sony cites a \"production issue\"."
+      },
+      "body": {
+        "es": [
+          "Sony ha pospuesto indefinidamente los altavoces inalámbricos PlayStation Pulse Elevate, que debían salir el 12 de noviembre. Según Push Square, el aviso en el blog de PlayStation atribuye el retraso a un «problema de producción» con el producto.",
+          "IGN y Kotaku hablan de un nuevo retraso de un accesorio de PlayStation a pocos días de su salida, sin que Sony haya dado una nueva fecha en las fuentes consultadas."
+        ],
+        "en": [
+          "Sony has indefinitely postponed the PlayStation Pulse Elevate wireless speakers, which were due on November 12. According to Push Square, the PlayStation Blog notice attributes the delay to a \"production issue\" with the product.",
+          "IGN and Kotaku describe it as another PlayStation accessory delayed just days before release, with no new date from Sony in the sources consulted."
+        ]
+      },
+      "why": {
+        "es": "Dos retrasos seguidos de periféricos en pocas semanas empañan el calendario de hardware de Sony antes de Navidad.",
+        "en": "Back-to-back peripheral delays in recent weeks cloud Sony's hardware calendar ahead of the holidays."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-indefinitely-delays-another-ps5-peripheral-days-before-release"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/sony-indefinitely-delays-another-playstation-accessory-just-a-week-before-launch"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-ps5-edicion-fisica-sin-disco-codigo",
+      "category": "industria",
+      "title": {
+        "es": "Las primeras fotos de GTA 6 en PS5 muestran una edición física sin disco",
+        "en": "First photos of GTA 6 on PS5 show a physical edition with no disc"
+      },
+      "dek": {
+        "es": "La caja solo incluye un código de descarga; el juego sale el 19 de noviembre.",
+        "en": "The box only contains a download code; the game launches November 19."
+      },
+      "body": {
+        "es": [
+          "Según Push Square, las imágenes de la edición física de GTA 6 para PS5 aparecieron en Reddit y la publicación se borró después. La caja azul es como la de cualquier otro juego de PS5, pero dentro solo hay un código de descarga, y una copia alemana mostraría un aviso en la portada.",
+          "El juego sale el 19 de noviembre de 2026 y las copias en tienda llegarían desde el 12, lo que da una semana para precargar los 212 GB, según el medio. El mapa físico no viene en la caja y se vende aparte en la tienda de Rockstar por 0,99 dólares. Kotaku lo interpreta como un anticipo de un futuro sin discos."
+        ],
+        "en": [
+          "Per Push Square, images of GTA 6's physical PS5 edition surfaced on Reddit and the post was later deleted. The blue case looks like any other PS5 release, but inside there is only a download code, and a German copy reportedly carries a notice on the front.",
+          "The game launches November 19, 2026 and boxed copies reach stores from November 12, giving a week to pre-load the 212GB download, the outlet says. The physical map is not in the box and is sold separately on the Rockstar Store for $0.99. Kotaku reads it as a harbinger of a disc-less future."
+        ]
+      },
+      "why": {
+        "es": "Un lanzamiento de este tamaño sin disco normaliza el formato «código en caja» para el resto de la generación.",
+        "en": "A launch this big without a disc normalizes the code-in-box format for the rest of the generation."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future"
+        }
+      ]
+    },
+    {
+      "id": "gog-galaxy-renovacion-linux-beta-2027",
+      "category": "pc",
+      "title": {
+        "es": "GOG renueva Galaxy y lo llevará oficialmente a Linux",
+        "en": "GOG is revamping Galaxy and bringing it officially to Linux"
+      },
+      "dek": {
+        "es": "El nuevo cliente llegaría en 2027 y ya hay registro para una beta cerrada.",
+        "en": "The new client is expected in 2027, and sign-ups for a closed beta are open."
+      },
+      "body": {
+        "es": [
+          "GOG rediseñará su cliente Galaxy para Windows y macOS con una interfaz más sencilla, más rápida y con nuevas formas de organizar la biblioteca, según 3DJuegos. Galaxy llegará además de forma oficial a Linux, donde hasta ahora se usaban alternativas de la comunidad como Heroic o Lutris.",
+          "Las mejoras llegarían en 2027 y ya se puede pedir acceso a una beta cerrada. GOG insiste en que Galaxy será «completamente opcional» y en que mantendrá los instaladores offline. El artículo menciona que Epic y Xbox también han mejorado sus apps de PC; PC Gamer destaca el soporte para Linux."
+        ],
+        "en": [
+          "GOG will redesign its Galaxy client for Windows and macOS with a simpler, faster interface and new ways to organize the library, per 3DJuegos. Galaxy will also officially come to Linux, where players have so far relied on community tools such as Heroic or Lutris.",
+          "The improvements are expected in 2027 and sign-ups for a closed beta are already open. GOG stresses that Galaxy will remain \"completely optional\" and that it will keep standalone offline installers. The article notes that Epic and Xbox have also improved their PC apps; PC Gamer highlights the Linux support."
+        ]
+      },
+      "why": {
+        "es": "Un cliente oficial de GOG en Linux amplía las opciones de quienes juegan fuera de Windows.",
+        "en": "An official GOG client on Linux widens options for players outside Windows."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/gog-se-une-a-steam-epic-games-store-xbox-para-arreglar-que-molesta-a-jugadores-pc-tambien-hay-buenas-noticias-para-linux"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/"
+        }
+      ]
+    },
+    {
+      "id": "playstation-exclusive-etiqueta-ghost-of-yotei-until-dawn-2",
+      "category": "playstation",
+      "title": {
+        "es": "Sony añade la etiqueta «PlayStation Exclusive» a sus grandes juegos de PS5",
+        "en": "Sony adds a \"PlayStation Exclusive\" tag to its big PS5 games"
+      },
+      "dek": {
+        "es": "Aparece ya en las fichas de Ghost of Yotei y Until Dawn 2 en PlayStation.com.",
+        "en": "It already appears on the PlayStation.com pages for Ghost of Yotei and Until Dawn 2."
+      },
+      "body": {
+        "es": [
+          "Push Square informa de que Sony ha incorporado un logotipo «PlayStation Exclusive» a las páginas de tienda de Ghost of Yotei y Until Dawn 2, un cambio que detectó el usuario Radec en X.",
+          "El medio lo enmarca en la decisión interna de Sony de centrarse de nuevo en la exclusividad tras una etapa de ports a PC. Sony seguiría lanzando en PC algunos juegos multijugador o de servicio en vivo, como Marvel Tokon: Fighting Souls."
+        ],
+        "en": [
+          "Push Square reports that Sony has added a \"PlayStation Exclusive\" logo to the store pages of Ghost of Yotei and Until Dawn 2, a change spotted by X user Radec.",
+          "The outlet ties it to Sony's internal decision to refocus on exclusivity after a period of PC ports. Sony would still release some multiplayer or live-service games on PC, such as Marvel Tokon: Fighting Souls."
+        ]
+      },
+      "why": {
+        "es": "Refuerza el giro de Sony hacia que sus estrenos importantes vuelvan a ser exclusivos de consola.",
+        "en": "It reinforces Sony's shift back toward keeping its major releases console-exclusive."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-warzone-switch-2-gratis-eshop",
+      "category": "nintendo",
+      "title": {
+        "es": "Call of Duty: Warzone ya se puede descargar gratis en Switch 2",
+        "en": "Call of Duty: Warzone is now a free download on Switch 2"
+      },
+      "dek": {
+        "es": "Llegó por sorpresa a la eShop y no exige comprar Modern Warfare 4.",
+        "en": "It arrived by surprise on the eShop and doesn't require Modern Warfare 4."
+      },
+      "body": {
+        "es": [
+          "Warzone está disponible en Switch 2 como juego gratuito en la eShop, según Insider Gaming y Nintendo Life. Es el battle royale de la saga y, según el primer medio, no hace falta comprar Modern Warfare 4. Hace falta una cuenta de Activision.",
+          "Nintendo Life indica que la descarga ocupa 122 GB y que llega con la Temporada 1 de Modern Warfare 4 y Warzone. El artículo no analiza el rendimiento; los comentarios de lectores que cita son contradictorios y no están verificados."
+        ],
+        "en": [
+          "Warzone is available on Switch 2 as a free eShop download, per Insider Gaming and Nintendo Life. It is the series' battle royale and, according to the former, you don't need to buy Modern Warfare 4. An Activision account is required.",
+          "Nintendo Life says the download is 122GB and that it arrives alongside Season 1 of Modern Warfare 4 and Warzone. The article doesn't analyze performance; the reader comments it mentions are mixed and unverified."
+        ]
+      },
+      "why": {
+        "es": "Suma un shooter online multitudinario al catálogo de Switch 2, aún por comprobar en rendimiento.",
+        "en": "It adds a mass-market online shooter to Switch 2's library, with performance still to be judged."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/call-of-duty-warzone-switch-2-release/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/capsule_616x353.jpg",
+        "credit": "Activision / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1962663/"
+      }
+    },
+    {
+      "id": "mass-effect-3-multiplayer-mod-legendary-edition-me3tweaks",
+      "category": "indie",
+      "title": {
+        "es": "Un mod devuelve el multijugador de Mass Effect 3 a la Legendary Edition",
+        "en": "A mod brings Mass Effect 3 multiplayer to the Legendary Edition"
+      },
+      "dek": {
+        "es": "El mod de ME3Tweaks, tres años de trabajo, salió el día de N7.",
+        "en": "ME3Tweaks' mod, three years in the making, came out on N7 Day."
+      },
+      "body": {
+        "es": [
+          "Kotaku informa de que el mod de ME3Tweaks para la Legendary Edition se publicó el 7 de noviembre, Día de N7, y cuenta cómo un equipo de modders pasó tres años reconstruyendo el multijugador de Mass Effect 3. IGN indica que ese modo no se incluyó en la Legendary Edition de 2021, pese a tener una comunidad fiel.",
+          "En una segunda pieza, IGN recoge las dudas del creador sobre el efecto de la IA en la escena de mods, que a su juicio podría estar dañando la afición."
+        ],
+        "en": [
+          "Kotaku reports that ME3Tweaks' Legendary Edition mod was released on November 7, N7 Day, and tells how a team of modders spent three years rebuilding Mass Effect 3's multiplayer. IGN notes the mode was left out of the 2021 Legendary Edition despite a dedicated fanbase.",
+          "In a second piece, IGN gathers the modder's concerns about AI's impact on the modding scene, which he says may be hurting the hobby."
+        ]
+      },
+      "why": {
+        "es": "Con BioWare cerrado, la comunidad mantiene viva una parte de la saga que la editora no recuperó.",
+        "en": "With BioWare closed, the community keeps alive a part of the series the publisher never restored."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition"
+        },
+        {
+          "name": "IGN (entrevista)",
+          "url": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene"
+        }
+      ]
+    },
+    {
+      "id": "south-of-midnight-director-no-habria-financiado-compulsion",
+      "category": "xbox",
+      "title": {
+        "es": "El director de South of Midnight admite que él no habría financiado el juego",
+        "en": "South of Midnight's director admits he wouldn't have funded the game"
+      },
+      "dek": {
+        "es": "David Sears lo califica de insostenible en el podcast MinnMax, según Vandal.",
+        "en": "David Sears calls it unsustainable on the MinnMax podcast, per Vandal."
+      },
+      "body": {
+        "es": [
+          "David Sears, director creativo de South of Midnight, dijo en el podcast MinnMax que probablemente no habría financiado el juego él mismo: fue muy caro y, sin el respaldo de Xbox, la situación de Compulsion Games podría haberse complicado, según Vandal.",
+          "El medio recuerda que el título ganó premios, pero no alcanzó el éxito que esperaba Microsoft, y que Xbox anunció en julio de 2026 que dejaba a Compulsion Games como parte de una reestructuración. Desde agosto el estudio opera de forma independiente. Vandal no aporta cifras de ventas."
+        ],
+        "en": [
+          "David Sears, creative director of South of Midnight, said on the MinnMax podcast that he probably wouldn't have funded the game himself: it was very expensive and, without Xbox's backing, Compulsion Games could have been in trouble, per Vandal.",
+          "The outlet notes the game won awards but did not reach the success Microsoft hoped for, and that in July 2026 Xbox announced it was parting with Compulsion Games as part of a restructuring. The studio has operated independently since August. Vandal gives no sales figures."
+        ]
+      },
+      "why": {
+        "es": "Ilustra la tensión entre premios y rentabilidad en los estudios que dependen de un único editor.",
+        "en": "It illustrates the tension between acclaim and profitability for studios that depend on a single publisher."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026311010/sinceridad-brutal-el-director-de-south-of-midnight-admite-que-el-no-habria-financiado-el-juego/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/capsule_616x353.jpg",
+        "credit": "Compulsion Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1934570/"
+      }
+    },
+    {
+      "id": "shawn-layden-ps6-1200-dolares-portatil",
+      "category": "hardware",
+      "title": {
+        "es": "Shawn Layden: «La innovación no debería consistir en una PS6 de 1.200 dólares»",
+        "en": "Shawn Layden: innovation shouldn't mean a $1,200 PS6"
+      },
+      "dek": {
+        "es": "El exjefe de PlayStation defiende una consola más barata y no descarta una portátil.",
+        "en": "The former PlayStation chief argues for a cheaper console and likes the idea of a handheld."
+      },
+      "body": {
+        "es": [
+          "En el podcast The Trophy Room, Shawn Layden afirmó que las consolas ya tienen potencia de sobra y que las mejoras de trazado de rayos o teraflops apenas se notan. Propone una consola más pequeña y barata, y recuerda que esta es la primera generación que sube de precio con el tiempo, según 3DJuegos.",
+          "También se mostró atraído por una PlayStation portátil, aunque advirtió de que lanzar a la vez consola y portátil exigiría casi dos compañías, y reconoce que la crisis de la RAM complica el abaratamiento. Son opiniones de Layden, sin relación con planes anunciados por Sony."
+        ],
+        "en": [
+          "On The Trophy Room podcast, Shawn Layden said consoles already have more than enough power and that ray-tracing or teraflop gains are barely noticeable. He proposes a smaller, cheaper console and notes this is the first generation to rise in price over time, per 3DJuegos.",
+          "He also liked the idea of a PlayStation handheld, though he warned that launching a console and a handheld together would take almost two companies, and he concedes the RAM crisis complicates making hardware cheaper. These are Layden's opinions, unrelated to any plans announced by Sony."
+        ]
+      },
+      "why": {
+        "es": "Alimenta el debate sobre el precio de las consolas mientras la memoria encarece el hardware.",
+        "en": "It feeds the debate on console pricing while memory costs push hardware up."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps5/noticias/shawn-layden-65-anos-exjefe-playstation-ps6-innovacion-no-deberia-consistir-hacer-ps6-1-200-dolares"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "El estudio de Star Wars Zero Company, tras poner en suspensión a sus desarrolladores y recontratar a parte, ha despedido a un número no precisado de empleados, según PC Gamer.",
+        "en": "The Star Wars Zero Company developer, after furloughing staff and rehiring some, has laid off an unspecified number of employees, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/"
+      }
+    },
+    {
+      "text": {
+        "es": "Incursion Red River marca un nuevo máximo de jugadores en Steam tras su actualización 1.4, según Insider Gaming.",
+        "en": "Incursion Red River hits a new all-time Steam player peak after its 1.4 update, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/incursion-red-river-hits-new-all-time-player-count-high/"
+      }
+    },
+    {
+      "text": {
+        "es": "Dead by Daylight anuncia para noviembre una colaboración con Terrifier, con Art el Payaso como asesino, según Nintenderos.",
+        "en": "Dead by Daylight announces a November Terrifier collaboration with Art the Clown as killer, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/11/dead-by-daylight-celebra-stranger-things-day-y-anuncia-una-colaboracion-con-terrifier-para-noviembre-con-art-el-payaso-como-asesino-y-sienna-shaw-como-superviviente/"
+      }
+    },
+    {
+      "text": {
+        "es": "Aniplex y CYBIRD anuncian LunaReverse, una novela visual de fantasía oscura para Switch y PC, según Gematsu.",
+        "en": "Aniplex and CYBIRD announce LunaReverse, a dark fantasy visual novel for Switch and PC, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/aniplex-and-cybird-announce-dark-fantasy-visual-novel-lunareverse-for-switch-pc"
+      }
+    },
+    {
+      "text": {
+        "es": "Digital Foundry publica un análisis positivo de Stellar Blade: Complete Edition en Switch 2, según Nintenderos.",
+        "en": "Digital Foundry publishes a positive technical review of Stellar Blade: Complete Edition on Switch 2, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/digital-foundry-comparte-este-positivo-analisis-tecnico-de-stellar-blade-complete-edition-para-nintendo-switch-2/"
+      }
+    },
+    {
+      "text": {
+        "es": "Mark Darrah dice que sus recomendaciones como consultor de Dragon Age: The Veilguard fueron muy ignoradas, según Vandal.",
+        "en": "Mark Darrah says many of his recommendations as a Dragon Age: The Veilguard consultant were ignored, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026311007/el-exjefe-de-dragon-age-esta-frustrado-con-veilguard-ignoraron-muchas-de-mis-recomendaciones/"
+      }
+    },
+    {
+      "text": {
+        "es": "Obbe Vermeij, veterano de Rockstar, cree que GTA 6 en PC debería llegar pronto por la amenaza de la IA, según 3DJuegos.",
+        "en": "Rockstar veteran Obbe Vermeij says GTA 6 on PC should come soon given the threat of AI, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/obbe-vermeij-veterano-rockstar-llegada-gta-6-a-pc-amenaza-ia-podria-perjudicar-sus-ventas"
+      }
+    },
+    {
+      "text": {
+        "es": "Pool of Radiance: Ruins of Myth Drannor vuelve a ser jugable, según PC Gamer.",
+        "en": "Pool of Radiance: Ruins of Myth Drannor is playable again, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/"
+      }
+    },
+    {
+      "text": {
+        "es": "Más de 30 juegos llegan a Xbox del 9 al 13 de noviembre, entre ellos seis de Game Pass, según Pure Xbox.",
+        "en": "More than 30 games arrive on Xbox November 9–13, including six Game Pass titles, per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-to-13"
+      }
+    },
+    {
+      "text": {
+        "es": "Masahiro Sakurai habla de su posible retirada y admite notar el desgaste físico, según Nintenderos.",
+        "en": "Masahiro Sakurai discusses possible retirement and admits feeling the physical toll, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/11/masahiro-sakurai-habla-sobre-su-posible-retirada-y-reconoce-que-empieza-a-notar-el-desgaste-fisico-de-tantos-anos-de-trabajo/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Shrek 2 Remastered",
+      "platforms": "PS5, Xbox",
+      "note": {
+        "es": "Semana del 9 de noviembre",
+        "en": "Week of November 9"
+      },
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november"
+    },
+    {
+      "title": "Warhammer Survivors",
+      "platforms": "PS5",
+      "note": {
+        "es": "Semana del 9 de noviembre",
+        "en": "Week of November 9"
+      },
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november"
+    },
+    {
+      "title": "Raccoin: Chaos Max Edition",
+      "platforms": "Xbox",
+      "note": {
+        "es": "9–13 de noviembre",
+        "en": "November 9–13"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-to-13"
+    },
+    {
+      "title": "Football Manager 27",
+      "platforms": "Xbox",
+      "note": {
+        "es": "9–13 de noviembre",
+        "en": "November 9–13"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-to-13"
+    },
+    {
+      "title": "GTA 6 (PS5)",
+      "platforms": "PS5",
+      "note": {
+        "es": "19 de noviembre (tiendas desde el 12)",
+        "en": "November 19 (in stores from the 12th)"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los fans de Mass Effect inundan de críticas el anuncio de EA sobre restauración de catálogo y llevan la protesta a vallas y camiones, según Kotaku.",
+        "en": "Mass Effect fans flood EA's catalogue-restoration announcement with criticism and take the protest to billboards and trucks, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828"
+      }
+    },
+    {
+      "text": {
+        "es": "El GTA 6 de PS5 sin disco abre el debate sobre el fin del formato físico, según Kotaku.",
+        "en": "GTA 6 on PS5 without a disc sparks debate about the end of physical media, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future"
+      }
+    },
+    {
+      "text": {
+        "es": "Los comentarios de Mark Darrah sobre Veilguard reabren la discusión sobre el final de BioWare, según Vandal.",
+        "en": "Mark Darrah's comments on Veilguard reopen the debate over BioWare's end, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026311007/el-exjefe-de-dragon-age-esta-frustrado-con-veilguard-ignoraron-muchas-de-mis-recomendaciones/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760/"
+    }
+  ]
+}
