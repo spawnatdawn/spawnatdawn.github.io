@@ -1,0 +1,672 @@
+{
+  "date": "2026-11-09",
+  "headline": {
+    "es": "Escándalo en Nvidia y Zelda: Ocarina of Time arrasa entre los jugadores",
+    "en": "Nvidia scandal as Zelda: Ocarina of Time wins over players"
+  },
+  "intro": {
+    "es": "Además, Xbox celebra sus 25 años con Game Pass, Tomb Raider fija fecha y Nintendo habla de nuevas formas de jugar.",
+    "en": "Also: Xbox marks 25 years with Game Pass, Tomb Raider gets a date and Nintendo talks new ways to play."
+  },
+  "stories": [
+    {
+      "id": "nvidia-investiga-jensen-huang-relacion-presunta-espia",
+      "category": "industria",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_huang_stanford_2026-04-30_014.jpg/1280px-Jensen_huang_stanford_2026-04-30_014.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_huang_stanford_2026-04-30_014.jpg/960px-Jensen_huang_stanford_2026-04-30_014.jpg",
+        "credit": "Anderseidesvik / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_014.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Nvidia abre una investigación independiente sobre Jensen Huang",
+        "en": "Nvidia opens an independent investigation into Jensen Huang"
+      },
+      "dek": {
+        "es": "El CEO admitió una infidelidad y el consejo estudia si fue objetivo de una operación de inteligencia china.",
+        "en": "The CEO admitted to an affair and the board is examining whether he was targeted by a Chinese intelligence operation."
+      },
+      "body": {
+        "es": [
+          "Jensen Huang reconoció en un comunicado interno una infidelidad y pidió perdón a su familia, según Kotaku. El consejo de administración de Nvidia ha puesto en marcha una investigación independiente, supervisada por un comité de consejeros independientes con asesores externos, tras informaciones que apuntan a que Huang pudo ser objetivo de una operación de inteligencia china.",
+          "Las informaciones vinculan el caso con una directiva de Megaspeed, empresa de Singapur ya investigada por presunto contrabando de hardware de Nvidia hacia China; el Financial Times asegura que la inteligencia estadounidense cree que actuaba como espía del gobierno chino, según Kotaku. Nvidia sostiene que no tiene motivos para pensar que se comprometieran secretos de la compañía ni la seguridad nacional, y Huang no dejará el cargo."
+        ],
+        "en": [
+          "Jensen Huang acknowledged an affair in an internal memo and apologised to his family, per Kotaku. Nvidia's board has launched an independent investigation, overseen by a committee of independent directors with outside counsel, after reports that Huang may have been targeted by a Chinese intelligence operation.",
+          "The reports link the case to an executive at Megaspeed, a Singapore company already under investigation for allegedly smuggling Nvidia hardware into China; the Financial Times says US intelligence believes she acted as a Chinese government spy, according to Kotaku. Nvidia says it has no reason to believe company secrets or national security were compromised, and Huang is not stepping down."
+        ]
+      },
+      "why": {
+        "es": "Afecta al líder de la empresa que fabrica las GPU que mueven el PC gaming y la IA, en plena tensión comercial con China.",
+        "en": "It concerns the head of the company behind the GPUs powering PC gaming and AI, amid trade tensions with China."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/jensen-huang-suspected-chinese-spy-investigation/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/escandalo-nvidia-compania-investiga-a-su-ceo-jensen-huang-admitir-relacion-presunta-espia-china"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-metacritic-ventas-speedrun",
+      "category": "nintendo",
+      "title": {
+        "es": "El remake de Ocarina of Time lidera Metacritic entre usuarios y ya tiene trucos de speedrun",
+        "en": "The Ocarina of Time remake tops Metacritic user ratings and already has speedrun tricks"
+      },
+      "dek": {
+        "es": "Buena nota de la prensa, récord de usuarios y los primeros fallos explotados por la comunidad.",
+        "en": "Strong press scores, a user-score record and the first glitches already exploited by the community."
+      },
+      "body": {
+        "es": [
+          "Según 3DJuegos, el remake de The Legend of Zelda: Ocarina of Time para Switch 2 tiene una media de 96 en Metacritic entre la prensa y un 9,6 de los usuarios con más de 7.000 valoraciones, lo que lo sitúa en lo más alto del ranking histórico de usuarios, por delante de Clair Obscur: Expedition 33. El medio cita además datos de NielsenIQ difundidos por Christopher Dring: en Reino Unido ha sido el segundo mayor estreno físico de la saga y el mayor del año.",
+          "Kotaku recoge que los speedrunners ya han encontrado varios trucos: un salto con el gancho heredado del original, un lanzamiento usando un cofre abierto como trampolín y un fallo que permite flotar en el aire al cambiar de objeto. Mientras, Nintendo Life cuenta que Bill Trinen, de Nintendo of America, considera el juego el «lugar perfecto» para empezar en la saga."
+        ],
+        "en": [
+          "According to 3DJuegos, the Switch 2 remake of The Legend of Zelda: Ocarina of Time holds a 96 Metacritic average from critics and a 9.6 user score from more than 7,000 ratings, putting it at the top of the site's all-time user ranking, ahead of Clair Obscur: Expedition 33. It also cites NielsenIQ data shared by Christopher Dring: in the UK it was the series' second-biggest physical launch and the biggest of the year.",
+          "Kotaku reports that speedrunners have already found several tricks: a hookshot jump carried over from the original, a launch using an open chest as a trampoline and a bug that lets Link float by switching items midair. Meanwhile Nintendo Life notes that Nintendo of America's Bill Trinen calls the game the \"perfect place\" to start the series."
+        ]
+      },
+      "why": {
+        "es": "Refuerza la apuesta de Nintendo por los remakes de sus clásicos como pilar del catálogo de Switch 2.",
+        "en": "It reinforces Nintendo's bet on remakes of its classics as a pillar of the Switch 2 catalogue."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/the-legend-of-zelda-ocarina-of-time/noticias/remake-zelda-ocarina-of-time-vuelve-a-hacer-historia-metacritic"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake"
+        }
+      ]
+    },
+    {
+      "id": "xbox-25-aniversario-semana-game-pass-juegos",
+      "category": "xbox",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/1280px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Xbox_Series_X%E3%81%A8Series_S.jpg/960px-Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "credit": "Kyu3a / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X%E3%81%A8Series_S.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Xbox llega a su 25 aniversario con una semana cargada de Game Pass",
+        "en": "Xbox reaches its 25th anniversary with a Game Pass-heavy week"
+      },
+      "dek": {
+        "es": "Seis juegos llegan al servicio del 10 al 12 de noviembre y el 15 se suman clásicos de Rare y Xbox.",
+        "en": "Six games join the service from November 10 to 12, and classics from Rare and Xbox arrive on the 15th."
+      },
+      "body": {
+        "es": [
+          "Xbox celebrará oficialmente su 25 aniversario el domingo 15 de noviembre y, según Pure Xbox, ya hay confirmadas más de diez incorporaciones a Game Pass. El 10 llegan Football Manager 27, Tanuki: Pon's Summer y Warhammer Survivors; el 11, Hope in the City y Thronefall; y el 12, John Carpenter's Toxic Commando.",
+          "El 15 de noviembre se añaden a Game Pass Essential Banjo-Kazooie, Banjo-Tooie, Banjo-Kazooie: Nuts & Bolts, Gears of War: Judgment, Halo: Spartan Assault, Perfect Dark, Viva Piñata y Viva Piñata: Trouble in Paradise. Pure Xbox apunta que podría haber más sorpresas, y que el programa de ventajas de Game Pass suma también extras durante noviembre."
+        ],
+        "en": [
+          "Xbox will officially celebrate its 25th anniversary on Sunday, November 15 and, per Pure Xbox, more than ten Game Pass additions are already confirmed. On the 10th come Football Manager 27, Tanuki: Pon's Summer and Warhammer Survivors; on the 11th, Hope in the City and Thronefall; and on the 12th, John Carpenter's Toxic Commando.",
+          "On November 15, Banjo-Kazooie, Banjo-Tooie, Banjo-Kazooie: Nuts & Bolts, Gears of War: Judgment, Halo: Spartan Assault, Perfect Dark, Viva Piñata and Viva Piñata: Trouble in Paradise join Game Pass Essential. Pure Xbox says more surprises may follow, and the Game Pass perks programme is also adding extras through November."
+        ]
+      },
+      "why": {
+        "es": "Microsoft aprovecha la efeméride para reforzar el valor de Game Pass con su catálogo histórico.",
+        "en": "Microsoft is using the milestone to boost Game Pass's value with its back catalogue."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week"
+        },
+        {
+          "name": "Pure Xbox (ventajas)",
+          "url": "https://www.purexbox.com/guides/xbox-adds-more-perks-for-game-pass-members-november-2026"
+        },
+        {
+          "name": "Pure Xbox (semana)",
+          "url": "https://www.purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-to-13"
+        }
+      ]
+    },
+    {
+      "id": "estudio-adquisiciones-estudios-cerrados-cardoso",
+      "category": "industria",
+      "title": {
+        "es": "Un análisis cifra en uno de cada tres los estudios comprados que acaban cerrando",
+        "en": "An analysis finds roughly one in three acquired studios ends up closing"
+      },
+      "dek": {
+        "es": "El ex de Riot, EA y Crytek Sebastian Cardoso repasa las adquisiciones desde el año 2000.",
+        "en": "Former Riot, EA and Crytek staffer Sebastian Cardoso reviews acquisitions since 2000."
+      },
+      "body": {
+        "es": [
+          "Sebastian Cardoso, que ha trabajado en Riot, EA y Crytek, ha publicado en su boletín Game Studio Unlocked un análisis de estudios adquiridos desde el año 2000. Según 3DJuegos, uno de cada tres ha cerrado y la mitad de esos cierres llegó en menos de cinco años; en torno al 60 % redujo su producción o desapareció.",
+          "El reparto varía mucho según el comprador: todas las adquisiciones de Activision Blizzard acabaron en declive o cierre, mientras que Nintendo, Kadokawa o Sumo Group no cerraron ninguna. Las cifras exactas difieren algo entre medios, y se trata de un estudio independiente cuyo criterio de «declive» depende de las ventas y valoraciones que usa su autor."
+        ],
+        "en": [
+          "Sebastian Cardoso, who has worked at Riot, EA and Crytek, published an analysis of studios acquired since 2000 in his Game Studio Unlocked newsletter. According to 3DJuegos, one in three has closed and half of those closures came within five years; around 60% saw output decline or shut down.",
+          "Results vary widely by buyer: every Activision Blizzard acquisition ended in decline or closure, while Nintendo, Kadokawa and Sumo Group closed none. Exact figures differ somewhat between outlets, and this is an independent study whose definition of \"decline\" rests on the sales and review data its author uses."
+        ]
+      },
+      "why": {
+        "es": "Llega tras el cierre de BioWare y alimenta el debate sobre el coste de las compras en la industria.",
+        "en": "It comes after BioWare's closure and fuels the debate over the cost of acquisitions in the industry."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/analisis-casi-400-estudios-evidencia-realidades-duras-industria-ser-adquirido-otra-empresa-apuesta-peligrosa"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/one-third-of-acquired-game-studios-have-shut-down-since-2000/"
+        },
+        {
+          "name": "PocketGamer.biz",
+          "url": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/"
+        }
+      ]
+    },
+    {
+      "id": "tomb-raider-legacy-of-atlantis-12-febrero-2027-reimaginacion",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/53ebb702379303bc89a71106d74650a8ce8c5411/ss_53ebb702379303bc89a71106d74650a8ce8c5411.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/d0d4229807e9bd939c2374cb94a1264aa1386398/header.jpg",
+        "credit": "Amazon Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3558670/"
+      },
+      "title": {
+        "es": "Tomb Raider: Legacy of Atlantis se lanza el 12 de febrero de 2027",
+        "en": "Tomb Raider: Legacy of Atlantis launches on February 12, 2027"
+      },
+      "dek": {
+        "es": "Crystal Dynamics lo presenta como una reimaginación del primer Tomb Raider, no como una remasterización.",
+        "en": "Crystal Dynamics pitches it as a reimagining of the first Tomb Raider, not a remaster."
+      },
+      "body": {
+        "es": [
+          "Legacy of Atlantis llegará el 12 de febrero de 2027, según 3DJuegos y la información de fecha difundida tras el State of Play de Sony. Originalmente estaba previsto para 2026. El medio lo ubica en PC, PS5 y Xbox Series X|S, y otras fuentes mencionan también Switch 2.",
+          "Jeff Adams, director de experiencia de juego, asegura según 3DJuegos que «no es una remasterización» ni «una capa de pintura», y que el estudio quiere recuperar la historia original de Lara sin limitarse a copiar cómo se recuerda. Mantendrá puzles, escenarios peligrosos y grandes bestias, con sistemas de mejora de habilidades y fabricación de objetos; la duración estimada es de 14 a 16 horas."
+        ],
+        "en": [
+          "Legacy of Atlantis arrives on February 12, 2027, according to 3DJuegos and date coverage following Sony's State of Play. It was originally slated for 2026. The outlet lists PC, PS5 and Xbox Series X|S, and other sources also mention Switch 2.",
+          "Game experience director Jeff Adams says, per 3DJuegos, that it is \"not a remaster\" or \"a coat of paint\", and that the studio wants to revisit Lara's original story without simply copying how it is remembered. It keeps tough puzzles, dangerous settings and large beasts, adding skill-upgrade and crafting systems; estimated length is 14 to 16 hours."
+        ]
+      },
+      "why": {
+        "es": "Será el primer gran paso de la próxima etapa de la saga tras varios años sin una entrega principal.",
+        "en": "It is billed as the first step of the series' next era."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/tomb-raider-legacy-of-atlantis/noticias/lara-croft-vuelve-nuevo-videojuego-unos-meses-crystal-dynamics-quiere-algo-que-nostalgia"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/tomb-raider-legacy-of-atlantis-release-date-new-trailer/"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3558670/"
+        }
+      ]
+    },
+    {
+      "id": "epic-games-launcher-linux-steamos-fortnite-anticheat",
+      "category": "pc",
+      "title": {
+        "es": "Epic confirma que su nuevo launcher llegará a SteamOS y más distribuciones de Linux",
+        "en": "Epic confirms its new launcher is coming to SteamOS and more Linux distros"
+      },
+      "dek": {
+        "es": "Fortnite en Linux depende de una nueva versión de Easy Anti-Cheat que aún no cumple los requisitos de Steam Deck.",
+        "en": "Fortnite on Linux hinges on a new Easy Anti-Cheat version that Steam Deck does not yet meet."
+      },
+      "body": {
+        "es": [
+          "Jake Jones, director de comunicación de Epic, ha dicho a GamingOnLinux que el nuevo launcher, aún en vista previa, será compatible con SteamOS y con tantas distribuciones como sea posible, entre ellas Fedora, CachyOS u Omarchy. Hoy da soporte oficial a Ubuntu 22.04, Fedora 43 y Debian 12 o posteriores, según 3DJuegos, y usa GE-Proton para los juegos de Windows.",
+          "Fortnite está previsto para Linux, pero sin fecha: depende de EAC Linux v2, que Epic probará primero en su juego. Según 3DJuegos, Steam Deck todavía no cumple sus requisitos de seguridad y Epic y Valve hablan para resolverlo, así que el soporte del launcher no garantiza Fortnite en la consola de Valve. Las fuentes difieren en el estado exacto de la versión Linux de la vista previa."
+        ],
+        "en": [
+          "Epic communications director Jake Jones told GamingOnLinux that the new launcher, still in preview, will support SteamOS and as many distributions as possible, including Fedora, CachyOS and Omarchy. It officially supports Ubuntu 22.04, Fedora 43 and Debian 12 or later today, per 3DJuegos, and uses GE-Proton for Windows games.",
+          "Fortnite is planned for Linux but without a date: it depends on EAC Linux v2, which Epic will test in its own game first. According to 3DJuegos, Steam Deck does not yet meet its security requirements and Epic and Valve are talking to fix that, so launcher support does not guarantee Fortnite on Valve's handheld. Sources differ on the exact state of the preview's Linux build."
+        ]
+      },
+      "why": {
+        "es": "Puede acercar el catálogo de Epic a los jugadores de Steam Deck y Linux, con el antitrampas como principal obstáculo.",
+        "en": "It could bring Epic's catalogue to Steam Deck and Linux players, with anti-cheat the main obstacle."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/epic-games-confirma-que-su-nuevo-launcher-llegara-a-steamos-distribuciones-linux-sigue-habiendo-gran-incognita"
+        },
+        {
+          "name": "GamingOnLinux",
+          "url": "https://www.gamingonlinux.com/2026/11/epic-games-comments-on-planned-linux-distribution-support/"
+        },
+        {
+          "name": "PC Games Hardware",
+          "url": "https://www.pcgameshardware.de/Linux-Software-26761/News/Epic-Games-Launcher-Linux-nativ-1551237/"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-prueba-nuevas-formas-de-jugar-switch-2-takahashi",
+      "category": "nintendo",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Nintendo dice estar probando nuevas formas de jugar en Switch 2",
+        "en": "Nintendo says it is testing new ways to play on Switch 2"
+      },
+      "dek": {
+        "es": "Shinya Takahashi habla de experimentos y espera poder anunciarlos «el día que llegue».",
+        "en": "Shinya Takahashi talks of experiments and hopes to announce them \"when the day comes\"."
+      },
+      "body": {
+        "es": [
+          "En la ronda de preguntas tras los resultados semestrales, Shinya Takahashi explicó que los equipos de hardware y software están en un proceso de prueba y error para crear nuevas formas de juego en Switch 2, según Insider Gaming y GoNintendo. Primero se concibe una experiencia divertida y después se determina qué características de hardware requiere.",
+          "Takahashi espera que los inversores esperen «el día en que podamos anunciarlas». Según GoNintendo, Shuntaro Furukawa añadió que la prioridad de Nintendo en crear nuevas formas de jugar no ha disminuido. Nintendo Everything traduce parte de la respuesta con otra denominación de la consola, y no se ha dado fecha ni detalles concretos."
+        ],
+        "en": [
+          "In the Q&A after the half-year results, Shinya Takahashi explained that hardware and software teams are going through trial and error to create new forms of play on Switch 2, per Insider Gaming and GoNintendo. First an engaging gameplay idea is conceived, then the necessary hardware features are determined.",
+          "Takahashi hopes investors will look forward to \"the day we can announce them\". Per GoNintendo, Shuntaro Furukawa added that Nintendo's priority on creating new forms of play has not declined. Nintendo Everything translates part of the answer with a different name for the console, and no date or specifics were given."
+        ]
+      },
+      "why": {
+        "es": "Sugiere que Nintendo prepara juegos que aprovechen funciones concretas de la consola, aunque sin concretar nada.",
+        "en": "It hints that Nintendo is preparing games built around specific console features, though nothing is concrete."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/nintendo-switch-2-new-ways-to-play/"
+        },
+        {
+          "name": "GoNintendo",
+          "url": "https://gonintendo.com/contents/67005-nintendo-experimenting-with-new-gameplay-experiences-on-switch-2-stresses-the"
+        },
+        {
+          "name": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/nintendo-not-giving-up-on-pursuing-new-forms-of-play-says-offering-unique-entertainment-is-our-companys-lifeblood/"
+        }
+      ]
+    },
+    {
+      "id": "alien-isolation-2-exteriores-clima-miedo-creative-assembly",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665290/86a80a6dfe3c12d2ebdcb5a143259850a5e56018/ss_86a80a6dfe3c12d2ebdcb5a143259850a5e56018.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665290/21eb5925869fb99fccbc24e682b0db22b9494543/header.jpg",
+        "credit": "SEGA / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4665290/"
+      },
+      "title": {
+        "es": "Alien: Isolation 2 apuesta por exteriores y clima para volver a dar miedo",
+        "en": "Alien: Isolation 2 bets on outdoor settings and weather to scare again"
+      },
+      "dek": {
+        "es": "Creative Assembly habla de escenarios abiertos donde el viento o la niebla cambian la forma de sobrevivir.",
+        "en": "Creative Assembly talks about open areas where wind or fog change how you survive."
+      },
+      "body": {
+        "es": [
+          "Al Hope y Ana Sopikova, responsables del juego, explican a Vandal que los escenarios exteriores y las condiciones meteorológicas servirán para explorar nuevas formas de terror: «no es simplemente otra nave espacial». Según PC Gamer, en una demo de la Gamescom la artista describió un exterior donde un fuerte viento puede devolver una bengala lanzada al jugador.",
+          "Otros medios recogen que el xenomorfo podría aprovechar el mal tiempo para ocultar sus movimientos y que algunas zonas serían mucho más grandes que las del original, aunque son comparaciones aproximadas. El juego sigue sin fecha de lanzamiento concreta."
+        ],
+        "en": [
+          "Al Hope and Ana Sopikova, who lead the game, tell Vandal that outdoor settings and weather conditions will be used to explore new kinds of fear: \"it's not just another spaceship\". According to PC Gamer, in a Gamescom demo the art lead described an exterior where strong wind can blow a thrown flare back at the player.",
+          "Other outlets report that the xenomorph may use bad weather to hide its movements and that some areas are much larger than in the original, though those are approximate comparisons. The game still has no specific release date."
+        ]
+      },
+      "why": {
+        "es": "Es una de las secuelas de terror más esperadas y su gran apuesta es salir del pasillo claustrofóbico del original.",
+        "en": "It is one of the most awaited horror sequels, and its big bet is leaving the original's claustrophobic corridors."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026312011/no-es-simplemente-otra-nave-espacial-alien-isolation-2-quiere-explorar-nuevas-formas-de-provocar-miedo/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/alien-isolation-2s-gamescom-demo-kept-its-cards-close-to-its-chest-but-im-definitely-ready-to-be-terrified-again/"
+        },
+        {
+          "name": "80.lv",
+          "url": "https://80.lv/articles/how-alien-isolation-2-expands-on-the-original-s-terrifying-atmosphere"
+        }
+      ]
+    },
+    {
+      "id": "arduview-consola-transparente-kickstarter-arduboy",
+      "category": "hardware",
+      "title": {
+        "es": "Arduview, la consola portátil totalmente transparente, arrasa en Kickstarter",
+        "en": "Arduview, the fully transparent handheld, is a Kickstarter hit"
+      },
+      "dek": {
+        "es": "Del tamaño de una tarjeta, con pantalla OLED y juegos retro del ecosistema Arduboy.",
+        "en": "Credit-card sized, with an OLED screen and retro games from the Arduboy ecosystem."
+      },
+      "body": {
+        "es": [
+          "Arduview es una portátil retro con carcasa, placa y pantalla transparentes que, según Vandal, ha superado ya más de tres veces su objetivo en Kickstarter (unos 8.000 € de meta y más de 26.900 € recaudados con un mes de campaña por delante). Lleva un chip ATmega32U4 y pantalla OLED, y su aportación mínima ronda los 79 €.",
+          "Trae más de 300 juegos preinstalados del ecosistema Arduboy y admite títulos propios, pero no emula Game Boy. Las cifras varían entre medios: Tom's Hardware y Notebookcheck hablan de unos 50 gramos y de hasta 400 juegos, y los precios difieren según la fuente."
+        ],
+        "en": [
+          "Arduview is a retro handheld with a transparent shell, circuit board and screen that, per Vandal, has already raised more than three times its Kickstarter goal (a roughly €8,000 target and over €26,900 pledged with a month to go). It uses an ATmega32U4 chip and an OLED display, with a minimum pledge around €79.",
+          "It ships with more than 300 preloaded games from the Arduboy ecosystem and supports homemade titles, but does not emulate Game Boy. Figures vary between outlets: Tom's Hardware and Notebookcheck mention about 50 grams and up to 400 games, and prices differ by source."
+        ]
+      },
+      "why": {
+        "es": "Recupera el espíritu de las Game Boy transparentes con un sistema abierto y barato.",
+        "en": "It revives the spirit of clear-shell Game Boys with an open, inexpensive system."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026312013/la-primera-consola-portatil-100-transparente-ya-es-real-asi-es-arduview-que-esta-arrasando-en-kickstarter/"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/video-games/handheld-gaming/worlds-first-fully-transparent-video-game-console-is-on-its-way-to-kickstarter-arduview-handhelds-shell-pcb-and-display-are-all-transparent"
+        },
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Arduview-World-s-first-fully-transparent-video-game-console-weighs-just-50-g.1389612.0.html"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-pirate-token-polemica-probabilidad-epic",
+      "category": "juegos",
+      "title": {
+        "es": "Fortnite: la polémica del Pirate Token por su falta de probabilidades",
+        "en": "Fortnite: the Pirate Token row over undisclosed odds"
+      },
+      "dek": {
+        "es": "Los jugadores exigen transparencia sobre un objeto extremadamente raro y Epic ha respondido, según IGN.",
+        "en": "Players demand transparency over an extremely rare item and Epic has responded, per IGN."
+      },
+      "body": {
+        "es": [
+          "El Pirate Token, un objeto de Fortnite muy difícil de conseguir, ha generado una avalancha de quejas por no tener probabilidades públicas. Kotaku cuenta que un jugador llegó a etiquetar a la FTC en una protesta, algo que no equivale a ninguna acción oficial del organismo.",
+          "IGN informa de que Epic ha acabado revelando la tasa de aparición tras la presión de los fans. No damos cifra: las fuentes consultadas no coinciden sobre si Epic ha publicado un dato oficial, y circulan estimaciones de la comunidad sin respaldo."
+        ],
+        "en": [
+          "The Pirate Token, a very hard-to-get Fortnite item, has triggered a wave of complaints over the lack of public odds. Kotaku says one player tagged the FTC in a protest post, which is not the same as any official action by the agency.",
+          "IGN reports that Epic ultimately revealed the drop rate following fan pressure. We are not quoting a figure: the sources consulted disagree on whether Epic has published an official number, and unofficial community estimates are circulating."
+        ]
+      },
+      "why": {
+        "es": "Reabre el debate sobre si los objetos aleatorios deben mostrar sus probabilidades fuera de los juegos de gacha.",
+        "en": "It reopens the debate over whether random drops should disclose odds beyond gacha games."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/the-pirate-shop-token-lottery-is-tearing-fortnite-apart-2000754678"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/fortnite-pirate-token/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Warhammer Blood Bowl se retrasa a principios de 2027, según PC Gamer.",
+        "en": "Warhammer Blood Bowl has been delayed to early 2027, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix anuncia Dragon Quest RPG: The Cursed Tree and the Chosen Isle para iOS y Android; el tráiler llegará el 10 de noviembre, según Gematsu.",
+        "en": "Square Enix announces Dragon Quest RPG: The Cursed Tree and the Chosen Isle for iOS and Android; the trailer arrives November 10, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: God of War: Sons of Sparta llegaría a PS4, según una cuenta que rastrea los servidores de Sony citada por Push Square; Sony no lo ha confirmado.",
+        "en": "Rumor: God of War: Sons of Sparta may come to PS4, per an account tracking Sony's servers cited by Push Square; Sony has not confirmed it."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port"
+      }
+    },
+    {
+      "text": {
+        "es": "Jackbox Games descarta usar IA en el desarrollo: su CEO, Mike Bilder, dice que todo lo hace gente, según PC Gamer.",
+        "en": "Jackbox Games rules out AI in development: CEO Mike Bilder says it is all done by people, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/"
+      }
+    },
+    {
+      "text": {
+        "es": "Aurbis, un mod de Skyrim, lo convierte en un mundo multijugador persistente, según PC Gamer.",
+        "en": "Aurbis, a Skyrim mod, turns it into a persistent multiplayer world, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/"
+      }
+    },
+    {
+      "text": {
+        "es": "Según Vandal, el minimapa de GTA 6 sería 3D y solo parece funcionar en vehículos; es una deducción a partir de imágenes ya mostradas. El juego sale el 19 de noviembre en PS5 y Xbox Series.",
+        "en": "Per Vandal, GTA 6's minimap would be 3D and seems to work only in vehicles; this is inferred from footage already shown. The game launches November 19 on PS5 and Xbox Series."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026312001/asi-funcionara-el-minimapa-de-gta-6-sera-3d-y-parece-que-solo-funcionara-dentro-de-vehiculos/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un aficionado publica una demo preliminar de un remake fan de Bully en Unreal Engine 5.8, según Vandal.",
+        "en": "A fan releases an early demo of a Bully fan remake in Unreal Engine 5.8, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026312010/la-comunidad-no-espera-a-rockstar-publican-una-demo-de-un-impresionante-remake-fan-de-bully-en-unreal-engine-5/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un modder rehace Dino Crisis 2 con gráficos 3D y un estilo de juego más moderno, según Vandal.",
+        "en": "A modder is rebuilding Dino Crisis 2 with 3D graphics and more modern gameplay, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026312005/la-comunidad-rescata-dino-crisis-2-un-modder-lo-transforma-en-un-increible-juego-3d/"
+      }
+    },
+    {
+      "text": {
+        "es": "El director de Path of Exile 2 cree que un resumen de muerte permitirá a los jugadores quejarse «de lo correcto», según PC Gamer.",
+        "en": "Path of Exile 2's game director thinks a death recap will let players complain about the right things, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Football Manager 27",
+      "platforms": "Xbox, PC (Game Pass)",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week"
+    },
+    {
+      "title": "Warhammer Survivors",
+      "platforms": "Xbox, PC (Game Pass)",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week"
+    },
+    {
+      "title": "Thronefall",
+      "platforms": "Xbox, PC (Game Pass)",
+      "note": {
+        "es": "11 de noviembre",
+        "en": "November 11"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week"
+    },
+    {
+      "title": "John Carpenter's Toxic Commando",
+      "platforms": "Xbox, PC (Game Pass)",
+      "note": {
+        "es": "12 de noviembre",
+        "en": "November 12"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026312001/asi-funcionara-el-minimapa-de-gta-6-sera-3d-y-parece-que-solo-funcionara-dentro-de-vehiculos/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los speedrunners ya rompen el remake de Ocarina of Time con saltos, cofres-trampolín y objetos que hacen flotar a Link, según Kotaku.",
+        "en": "Speedrunners are already breaking the Ocarina of Time remake with jumps, chest trampolines and item-swap floating, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Fortnite piden transparencia sobre el Pirate Token, según Kotaku.",
+        "en": "Fortnite players demand transparency over the Pirate Token, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-pirate-shop-token-lottery-is-tearing-fortnite-apart-2000754678"
+      }
+    },
+    {
+      "text": {
+        "es": "El estudio sobre estudios adquiridos reabre el debate sobre las compras en la industria, según 3DJuegos.",
+        "en": "The study on acquired studios reopens the debate over industry buyouts, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/pc/noticias/analisis-casi-400-estudios-evidencia-realidades-duras-industria-ser-adquirido-otra-empresa-apuesta-peligrosa"
+      }
+    },
+    {
+      "text": {
+        "es": "El caso de Jensen Huang domina la conversación en medios de PC, según 3DJuegos.",
+        "en": "The Jensen Huang case dominates PC media conversation, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/industria-gaming/noticias/escandalo-nvidia-compania-investiga-a-su-ceo-jensen-huang-admitir-relacion-presunta-espia-china"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Potato Please",
+      "url": "https://store.steampowered.com/app/5266240/"
+    },
+    {
+      "name": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770/"
+    }
+  ]
+}
