@@ -1,0 +1,686 @@
+{
+  "date": "2026-11-10",
+  "headline": {
+    "es": "GTA 6 supera expectativas y el sector sigue recortando plantillas",
+    "en": "GTA 6 beats expectations while the industry keeps cutting staff"
+  },
+  "intro": {
+    "es": "Además, Switch 2 vive su mejor semana del año con Zelda, Sony prepara una PS Portal con almacenamiento y Dark Heresy fija fecha.",
+    "en": "Also: Switch 2 has its best week of the year thanks to Zelda, Sony readies a PS Portal with storage and Dark Heresy gets a date."
+  },
+  "stories": [
+    {
+      "id": "gta-6-reservas-superan-expectativas-take-two",
+      "category": "industria",
+      "title": {
+        "es": "Take-Two: las reservas de GTA 6 superan «con mucho» lo previsto",
+        "en": "Take-Two: GTA 6 pre-orders are running well ahead of forecasts"
+      },
+      "dek": {
+        "es": "A diez días del estreno, el CEO de la editora habla de cifras «muy por encima» de sus expectativas, sin cantar victoria.",
+        "en": "Ten days from launch, the publisher's CEO says pre-orders are 'far in excess' of expectations, while stopping short of declaring success."
+      },
+      "body": {
+        "es": [
+          "Strauss Zelnick, consejero delegado de Take-Two, aseguró durante la presentación de resultados que las reservas de Grand Theft Auto VI están «muy por encima» de lo que la compañía esperaba, aunque advirtió de que nunca se da un éxito por hecho antes de que ocurra, según Push Square e Insider Gaming. Las reservas se abrieron el 25 de junio.",
+          "El juego sale el 19 de noviembre en PS5 y Xbox Series X|S; la edición de PS5 cuesta 79,99 dólares en EE. UU. PC Gamer titula que Take-Two prevé ingresar hasta 3.500 millones de dólares durante el periodo de lanzamiento. Push Square añade que GTA 5 ya suma 235 millones de copias vendidas."
+        ],
+        "en": [
+          "Take-Two CEO Strauss Zelnick said during the earnings presentation that Grand Theft Auto VI pre-orders are running 'far in excess' of what the company expected, while cautioning that success is never claimed before it happens, per Push Square and Insider Gaming. Pre-orders opened on June 25.",
+          "The game launches on November 19 for PS5 and Xbox Series X|S, with the PS5 edition priced at $79.99 in the US. PC Gamer's headline says Take-Two expects to bring in as much as $3.5 billion over the launch period, and Push Square adds that GTA 5 has now reached 235 million copies sold."
+        ]
+      },
+      "why": {
+        "es": "Es el dato más claro hasta ahora de que el lanzamiento más esperado del año va camino de romper registros.",
+        "en": "It is the clearest sign yet that the year's most anticipated launch is heading for record numbers."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-pre-orders-outperform-even-take-twos-expectations-gta-5-just-keeps-on-selling"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-presales-far-in-excess-take-two-expectations/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-the-festival-miami-21-noviembre-rockstar-sony",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar y Sony organizan un festival de música de GTA 6 en Miami",
+        "en": "Rockstar and Sony to host a GTA 6 music festival in Miami"
+      },
+      "dek": {
+        "es": "«Grand Theft Auto VI: The Festival» será un evento único el 21 de noviembre, con acceso por sorteo.",
+        "en": "'Grand Theft Auto VI: The Festival' is a one-off event on November 21, with entry by lottery."
+      },
+      "body": {
+        "es": [
+          "Rockstar Games y Sony Interactive Entertainment celebrarán el 21 de noviembre en el Mana Wynwood de Miami «Grand Theft Auto VI: The Festival», un concierto con dos escenarios, según Gematsu y GameSpot. El cartel incluye a Travis Scott, Cardi B, Kodak Black y Justice, entre otros.",
+          "Para asistir hay que apuntarse a un sorteo previo, con un máximo de dos entradas por inscripción, según Gematsu. Push Square lo describe como un evento puntual presentado junto a PlayStation para celebrar el lanzamiento del juego."
+        ],
+        "en": [
+          "Rockstar Games and Sony Interactive Entertainment will hold 'Grand Theft Auto VI: The Festival' on November 21 at Mana Wynwood in Miami, a two-stage concert, per Gematsu and GameSpot. The lineup includes Travis Scott, Cardi B, Kodak Black and Justice, among others.",
+          "Attendance is through a pre-sale lottery, limited to two tickets per entry, according to Gematsu. Push Square describes it as a one-off event presented with PlayStation to celebrate the game's launch."
+        ]
+      },
+      "why": {
+        "es": "Muestra hasta dónde llega la campaña de lanzamiento de GTA 6, que se extiende a la música y a las colaboraciones con Sony.",
+        "en": "It shows how far GTA 6's launch campaign reaches, extending into music and a partnership with Sony."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-the-festival-live-event-set-for-november-21"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation"
+        }
+      ]
+    },
+    {
+      "id": "nba-2k27-vende-menos-de-lo-previsto-gta-6",
+      "category": "industria",
+      "title": {
+        "es": "NBA 2K27 se queda corto de ventas y Take-Two apunta a GTA 6",
+        "en": "NBA 2K27 falls short of sales forecasts and Take-Two points to GTA 6"
+      },
+      "dek": {
+        "es": "El juego llevaba 4 millones de copias, por debajo de la previsión interna de la compañía.",
+        "en": "The game has sold 4 million copies, below the company's internal forecast."
+      },
+      "body": {
+        "es": [
+          "Take-Two informó de que NBA 2K27 ha vendido 4 millones de unidades, por debajo de su previsión interna, según Kotaku. Zelnick lo calificó como el segundo mejor lanzamiento de la franquicia y sugirió que la fecha de GTA 6 pudo influir: «este calendario puede haber afectado al rendimiento hasta ahora».",
+          "Según la misma fuente, el presidente Karl Slatoff dijo después que la compañía no podía precisar la causa y no mencionó a GTA 6 como factor. IGN recoge que Zelnick atribuye al juego de Rockstar que algunos jugadores aplazaran compras."
+        ],
+        "en": [
+          "Take-Two reported that NBA 2K27 has sold 4 million units, below its internal forecast, per Kotaku. Zelnick called it the franchise's second-best release and suggested GTA 6's timing may have played a part: 'this timing may have affected performance so far.'",
+          "According to the same source, president Karl Slatoff later said the company could not pinpoint the cause and did not name GTA 6 as a factor. IGN reports that Zelnick said Rockstar's game led some players to hold off on purchases."
+        ]
+      },
+      "why": {
+        "es": "Ilustra el efecto de arrastre de GTA 6 sobre el resto del calendario de lanzamientos.",
+        "en": "It illustrates GTA 6's knock-on effect on the rest of the release calendar."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nba-2k27-sold-less-than-expected-because-of-gta-6-2000755174"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says"
+        }
+      ]
+    },
+    {
+      "id": "despidos-skydance-games-tripwire-bit-reactor",
+      "category": "industria",
+      "title": {
+        "es": "Nueva oleada de despidos: Skydance Games, Tripwire y Bit Reactor",
+        "en": "New wave of layoffs: Skydance Games, Tripwire and Bit Reactor"
+      },
+      "dek": {
+        "es": "Tres estudios recortan plantilla el mismo día, uno de ellos tras la fusión de Paramount y Warner Bros.",
+        "en": "Three studios cut staff on the same day, one of them after the Paramount–Warner Bros. merger."
+      },
+      "body": {
+        "es": [
+          "Skydance Games ha confirmado despidos tras la fusión de Paramount con Warner Bros. Discovery de hace un mes; la compañía dice haber tomado «la difícil decisión de reducir algunos de nuestros proyectos», según PC Gamer e IGN. Tripwire Interactive, creadora de Killing Floor, despide a 36 personas una semana después de ampliar su división editorial, según PC Gamer.",
+          "Bit Reactor, estudio de Star Wars: Zero Company, también ha despedido a parte de la plantilla, sin cifra concreta, según VGC. El estudio había enviado a casi el 80 % del equipo a un permiso sin sueldo antes del lanzamiento de agosto y había empezado a recuperar personal el mes pasado. El juego superó el millón de unidades vendidas el 9 de octubre."
+        ],
+        "en": [
+          "Skydance Games has confirmed layoffs following last month's Paramount–Warner Bros. Discovery merger; the company says it made 'the difficult decision to scale down some of our projects,' per PC Gamer and IGN. Tripwire Interactive, maker of Killing Floor, is laying off 36 people a week after expanding its publishing division, according to PC Gamer.",
+          "Bit Reactor, the studio behind Star Wars: Zero Company, has also let staff go, with no figure given, per VGC. The studio had reportedly furloughed around 80% of its team without pay before the August release and began bringing people back last month. The game passed one million sold on October 9."
+        ]
+      },
+      "why": {
+        "es": "Los recortes siguen golpeando a estudios incluso con juegos bien valorados o en plena expansión.",
+        "en": "Cuts keep hitting studios even when their games are well reviewed or they are expanding."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/"
+        },
+        {
+          "name": "PC Gamer (Tripwire)",
+          "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-studio-bit-reactor-is-laying-off-staff-a-month-after-it-started-bringing-back-furloughed-devs/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger"
+        }
+      ]
+    },
+    {
+      "id": "switch-2-mejor-semana-2026-zelda-ocarina-reino-unido",
+      "category": "nintendo",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "El remake de Ocarina of Time impulsa a Switch 2 a su mejor semana del año",
+        "en": "The Ocarina of Time remake gives Switch 2 its best week of the year"
+      },
+      "dek": {
+        "es": "Circana sitúa la semana como la mejor de 2026 para la consola y el juego debuta segundo mayor lanzamiento físico de Zelda en Reino Unido.",
+        "en": "Circana puts it as the console's best week of 2026, and the game is the second-biggest physical Zelda launch in the UK."
+      },
+      "body": {
+        "es": [
+          "Según GameSpot, que cita datos de Mat Piscatella (Circana), Switch 2 ha tenido su mejor semana de ventas de 2026 gracias al lanzamiento de The Legend of Zelda: Ocarina of Time y a la consola de edición temática que Nintendo presentó con el juego.",
+          "En Reino Unido, el remake debutó en el primer puesto de la lista física, por delante de Call of Duty: Modern Warfare 4 y EA Sports FC 27, según Nintendo Life. Chris Dring (The Game Business) lo sitúa como el segundo mayor estreno físico de la saga en el país: unos 35 % por encima de Breath of the Wild y aproximadamente la mitad que Tears of the Kingdom."
+        ],
+        "en": [
+          "Per GameSpot, citing Circana's Mat Piscatella, Switch 2 had its best sales week of 2026 thanks to the launch of The Legend of Zelda: Ocarina of Time and the themed console Nintendo released alongside it.",
+          "In the UK the remake debuted at number one on the physical chart, ahead of Call of Duty: Modern Warfare 4 and EA Sports FC 27, according to Nintendo Life. Chris Dring of The Game Business ranks it as the franchise's second-biggest UK physical launch: about 35% above Breath of the Wild and roughly half of Tears of the Kingdom."
+        ]
+      },
+      "why": {
+        "es": "Confirma que Zelda mueve hardware en el mejor momento del año para Nintendo, justo antes de la campaña navideña.",
+        "en": "It confirms Zelda still moves hardware at a key moment for Nintendo, just ahead of the holiday season."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/switch-2-just-had-its-best-sales-week-of-2026-and-its-all-because-of-zelda/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history"
+        }
+      ]
+    },
+    {
+      "id": "ocarina-of-time-remake-datamine-master-quest-dlc-rumor",
+      "category": "nintendo",
+      "title": {
+        "es": "Rumor: los archivos del remake de Ocarina of Time apuntan a un DLC de Master Quest",
+        "en": "Rumor: Ocarina of Time remake files point to a Master Quest DLC"
+      },
+      "dek": {
+        "es": "Dataminers han hallado código de una versión más difícil; Nintendo no ha anunciado nada.",
+        "en": "Dataminers found code for a harder version; Nintendo has announced nothing."
+      },
+      "body": {
+        "es": [
+          "Dataminers han encontrado en los archivos del remake código relacionado con Master Quest, la variante más difícil con enemigos más duros y mazmorras reordenadas, según Kotaku. Los datos sugieren que se desbloquearía mediante un DLC y no con una actualización normal; el parche actual solo comprueba un contenido descargable etiquetado «MQ».",
+          "Los propios dataminers advierten de que los datos están incompletos y se desconoce si será de pago o gratuito. Kotaku añade que la teoría de un remake de Majora's Mask, basada en unos diálogos desbloqueados con etiquetas amiibo modificadas, es pura especulación."
+        ],
+        "en": [
+          "Dataminers have found code in the remake's files related to Master Quest, the harder variant with tougher enemies and rearranged dungeons, per Kotaku. The data suggests it would be unlocked through DLC rather than a standard update; the current patch checks for a single downloadable content flag labelled 'MQ'.",
+          "The dataminers themselves caution that the data is incomplete and it is unknown whether it will be paid or free. Kotaku adds that the Majora's Mask remake theory, based on dialogue unlocked with altered amiibo tags, is pure speculation."
+        ]
+      },
+      "why": {
+        "es": "Nada de esto está confirmado, pero alimenta la expectativa de contenido adicional tras un lanzamiento muy exitoso.",
+        "en": "None of it is confirmed, but it feeds expectations of extra content after a very successful launch."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-40000-dark-heresy-28-enero-2027-owlcat",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710600/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710600/c9cff4a2e091c0590909762a6d4296eeee5859a1/header.jpg",
+        "credit": "Owlcat Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3710600/"
+      },
+      "title": {
+        "es": "Warhammer 40,000: Dark Heresy sale el 28 de enero de 2027",
+        "en": "Warhammer 40,000: Dark Heresy launches January 28, 2027"
+      },
+      "dek": {
+        "es": "El nuevo cRPG de Owlcat llegará a PS5, Xbox Series y PC, y más tarde a Switch 2.",
+        "en": "Owlcat's new cRPG arrives on PS5, Xbox Series and PC, with Switch 2 later."
+      },
+      "body": {
+        "es": [
+          "Owlcat Games ha fijado el 28 de enero de 2027 para el lanzamiento de Warhammer 40,000: Dark Heresy, un cRPG por turnos con grupo y centrado en la historia, según Gematsu. Estará en PS5, Xbox Series y PC (Steam, Epic Games Store y GOG); la versión de Switch 2 llegará más adelante, sin fecha.",
+          "Es la continuación del estudio tras Rogue Trader, según PC Gamer y Vandal."
+        ],
+        "en": [
+          "Owlcat Games has set January 28, 2027 for Warhammer 40,000: Dark Heresy, a party-based, story-driven cRPG, per Gematsu. It will launch on PS5, Xbox Series and PC (Steam, Epic Games Store and GOG), with a Switch 2 version following at an unannounced date.",
+          "It is the studio's follow-up to Rogue Trader, according to PC Gamer and Vandal."
+        ]
+      },
+      "why": {
+        "es": "Enero de 2027 ya empieza a llenarse de grandes RPG y este se suma a la lista.",
+        "en": "January 2027 is already filling up with big RPGs, and this one joins the list."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/warhammer-40000-dark-heresy-launches-january-28-2027-for-ps5-xbox-series-and-pc-later-for-switch-2"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026313041/el-prometedor-crpg-warhammer-40000-dark-heresy-confirma-su-fecha-de-lanzamiento-para-principios-de-2027/"
+        }
+      ]
+    },
+    {
+      "id": "playstation-portal-japon-almacenamiento-interno",
+      "category": "playstation",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/PlayStation_Portal.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/45/PlayStation_Portal.jpg",
+        "credit": "ArlindoPereira / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:PlayStation_Portal.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      },
+      "title": {
+        "es": "Sony presenta una PlayStation Portal con almacenamiento interno, solo para Japón",
+        "en": "Sony unveils a PlayStation Portal with internal storage, Japan only"
+      },
+      "dek": {
+        "es": "El modelo negro cuesta lo mismo que el actual y sale el 10 de diciembre.",
+        "en": "The black model costs the same as the current one and launches December 10."
+      },
+      "body": {
+        "es": [
+          "Sony ha anunciado una nueva versión de PlayStation Portal que incluye almacenamiento interno, según Push Square. Cuesta 39.980 yenes, igual que el modelo actual; las reservas abren el 13 de noviembre y sale el 10 de diciembre, solo en Japón.",
+          "Sony no ha detallado la capacidad y dice que dará más información pronto. Según Push Square, solo funciona con idioma japonés y cuenta de PSN japonesa, e incluye un mes de PS Plus Premium."
+        ],
+        "en": [
+          "Sony has announced a new PlayStation Portal model that includes internal storage, per Push Square. It costs ¥39,980, the same as the current model; pre-orders open November 13 and it launches December 10, in Japan only.",
+          "Sony has not disclosed the capacity and says more information is coming soon. According to Push Square, it works only with Japanese language and a Japan-region PSN account, and includes one month of PS Plus Premium."
+        ]
+      },
+      "why": {
+        "es": "El almacenamiento interno apunta a funciones que ahora no existen, aunque Sony no ha dicho cuáles.",
+        "en": "Internal storage hints at features the device lacks today, though Sony hasn't said which."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/new-ps-portal-announced-future-proofed-with-internal-storage-and-only-for-japan"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/sony-anuncia-en-japon-una-version-revisada-de-playstation-portal-con-almacenamiento-interno-extra"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026313024/la-nueva-playstation-portal-exclusiva-de-japon-tiene-una-novedad-que-genera-expectativas-mas-almacenamiento/"
+        }
+      ]
+    },
+    {
+      "id": "bandai-namco-cierra-reflector-entertainment-unknown-9",
+      "category": "industria",
+      "title": {
+        "es": "Bandai Namco liquidará Reflector Entertainment, creadora de Unknown 9",
+        "en": "Bandai Namco to dissolve Reflector Entertainment, maker of Unknown 9"
+      },
+      "dek": {
+        "es": "La editora japonesa prevé una pérdida extraordinaria de 21 millones de euros.",
+        "en": "The Japanese publisher expects an extraordinary loss of €21 million."
+      },
+      "body": {
+        "es": [
+          "Bandai Namco ha aprobado disolver y liquidar su filial Reflector Entertainment, según Gematsu. La compañía adquirió el estudio en septiembre de 2020 para trabajar con sus propiedades, pero esos planes no se materializaron.",
+          "Bandai Namco prevé una pérdida extraordinaria de 21 millones de euros a partir del tercer trimestre del ejercicio que termina en marzo de 2027. Reflector lanzó Unknown 9: Awakening el 18 de octubre de 2024, con críticas mayoritariamente flojas."
+        ],
+        "en": [
+          "Bandai Namco has resolved to dissolve and liquidate its subsidiary Reflector Entertainment, per Gematsu. It acquired the studio in September 2020 to work on its existing IP, but those plans never materialised.",
+          "Bandai Namco expects an extraordinary loss of €21 million from the third quarter of the fiscal year ending March 2027. Reflector released Unknown 9: Awakening on October 18, 2024, to mostly weak reviews."
+        ]
+      },
+      "why": {
+        "es": "Se suma a una racha de cierres y recortes en la industria.",
+        "en": "It adds to a run of closures and cuts across the industry."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment"
+        },
+        {
+          "name": "Gematsu (Bandai Namco)",
+          "url": "https://www.gematsu.com/2026/11/bandai-namco-to-shut-down-reflector-entertainment"
+        }
+      ]
+    },
+    {
+      "id": "capcom-resident-evil-5-millones-tres-meses",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg",
+        "credit": "CAPCOM Co., Ltd. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2050650/"
+      },
+      "title": {
+        "es": "Resident Evil vende unos 5 millones de copias en tres meses",
+        "en": "Resident Evil sells about 5 million copies in three months"
+      },
+      "dek": {
+        "es": "La lista de Platinum Titles de Capcom muestra a Resident Evil 4 a la cabeza con 1,1 millones entre julio y septiembre.",
+        "en": "Capcom's Platinum Titles list shows Resident Evil 4 leading with 1.1 million between July and September."
+      },
+      "body": {
+        "es": [
+          "Capcom ha actualizado su lista de Platinum Titles con datos a 30 de septiembre: la franquicia Resident Evil vendió en conjunto unos 5 millones de unidades en el trimestre, según Push Square. Resident Evil 4 lidera con 1,1 millones (17,1 millones en total), seguido de Resident Evil 2 con 600.000 y Resident Evil Requiem con 500.000 (8,5 millones en total).",
+          "Resident Evil 7, Village y 3 vendieron 400.000 cada uno, según la misma fuente. Gematsu también recoge la actualización."
+        ],
+        "en": [
+          "Capcom has updated its Platinum Titles list with figures as of September 30: the Resident Evil franchise sold about 5 million units in the quarter, per Push Square. Resident Evil 4 leads with 1.1 million (17.1 million lifetime), followed by Resident Evil 2 with 600,000 and Resident Evil Requiem with 500,000 (8.5 million lifetime).",
+          "Resident Evil 7, Village and 3 sold 400,000 each, according to the same source. Gematsu also covers the update."
+        ]
+      },
+      "why": {
+        "es": "Muestra la fuerza del catálogo de Capcom, con títulos de hace años aún entre los más vendidos.",
+        "en": "It shows the strength of Capcom's back catalogue, with years-old titles still among its best sellers."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/capcom-just-sold-5-million-copies-of-resident-evil-games-in-3-months"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/capcom-platinum-titles-sales-update-as-of-september-30-2026"
+        }
+      ]
+    },
+    {
+      "id": "silksong-edicion-fisica-ps5-expansiones-manual",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/capsule_616x353.jpg",
+        "credit": "Team Cherry / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1030300/"
+      },
+      "title": {
+        "es": "El manual de Silksong en PS5 insinúa varias expansiones",
+        "en": "Silksong's PS5 physical manual hints at multiple expansions"
+      },
+      "dek": {
+        "es": "La edición física sale hoy y habla de paquetes de contenido gratuitos; Sea of Sorrow sigue sin fecha.",
+        "en": "The physical edition arrives today and mentions free content packs; Sea of Sorrow still has no date."
+      },
+      "body": {
+        "es": [
+          "La edición física de Hollow Knight: Silksong para PS5 está disponible desde el 10 de noviembre, según Push Square. Su manual indica que el juego crecerá con paquetes de contenido gratuitos y llama a Sea of Sorrow «la primera gran expansión», lo que sugiere que habrá más.",
+          "Team Cherry confirmó Sea of Sorrow a finales de 2025 para 2026, pero aún no ha salido ni tiene fecha; Push Square señala que, si no llega en lo que queda de año, pasará a 2027. Insider Gaming recoge la preocupación de los fans por un posible retraso."
+        ],
+        "en": [
+          "The PS5 physical edition of Hollow Knight: Silksong is available from November 10, per Push Square. Its manual says the game will grow through free content packs and calls Sea of Sorrow the 'first giant expansion', suggesting more are planned.",
+          "Team Cherry confirmed Sea of Sorrow in late 2025 for a 2026 release, but it has not launched and has no date; Push Square notes that if it doesn't arrive in the remaining weeks of the year it will slip to 2027. Insider Gaming reports fan concern over a possible delay."
+        ]
+      },
+      "why": {
+        "es": "Es una pista, no un anuncio: el estudio no ha confirmado más contenido.",
+        "en": "It is a hint, not an announcement: the studio hasn't confirmed further content."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/multiple-silksong-expansions-hinted-at-in-tomorrows-ps5-physical-edition"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/hollow-knight-silksong-booklet-dlc-release-date-concerns/"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Sony cancela el desarrollo de Ratchet & Clank: Ranger Rumble, según Eurogamer.es.",
+        "en": "Sony has cancelled development of Ratchet & Clank: Ranger Rumble, per Eurogamer.es."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/sony-cancela-el-desarrollo-de-ratchet-clank-ranger-rumble"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix anuncia Dragon Quest RPG: The Cursed Tree and the Chosen Isle para iOS y Android, según Gematsu.",
+        "en": "Square Enix announces Dragon Quest RPG: The Cursed Tree and the Chosen Isle for iOS and Android, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android"
+      }
+    },
+    {
+      "text": {
+        "es": "Grinding Gear Games presenta en ExileCon 2026 las expansiones Covens of Umbra (Path of Exile) y Conquerors of Wraeclast (Path of Exile 2), según Vandal.",
+        "en": "Grinding Gear Games unveils the Covens of Umbra (Path of Exile) and Conquerors of Wraeclast (Path of Exile 2) expansions at ExileCon 2026, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026313036/path-of-exile-y-path-of-exile-2-presentan-sus-nuevas-expansiones-con-nueva-clase-contenido-y-mas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Epic Games Store llegará a varias distribuciones de Linux y Epic confirma que quiere estar en SteamOS; Fortnite también, según Vandal.",
+        "en": "Epic Games Store is coming to several Linux distributions, and Epic says it intends to reach SteamOS; Fortnite too, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026313034/epic-games-store-llegara-a-multiples-distros-de-linux-y-confirman-la-intencion-de-estar-disponible-en-steamos/"
+      }
+    },
+    {
+      "text": {
+        "es": "James Gunn y Peter Safran dejan la dirección de DC Studios y los sustituye Jeremy Latcham, según GameSpot.",
+        "en": "James Gunn and Peter Safran step down at DC Studios, with Jeremy Latcham replacing them, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/dc-studios-is-getting-a-marvel-veteran-to-replace-james-gunn-and-peter-safran/"
+      }
+    },
+    {
+      "text": {
+        "es": "Zelnick afirma que GTA 7 no tardará tanto como GTA 6, según Insider Gaming.",
+        "en": "Zelnick says GTA 7 won't take as long as GTA 6, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/take-two-ceo-gta-7-development/"
+      }
+    },
+    {
+      "text": {
+        "es": "FragPunk lanza en acceso anticipado Farlands, una aventura PvPvE de entregas en mundo persistente, para PC y consolas, según Xbox Wire.",
+        "en": "FragPunk launches Farlands in early access, a persistent-world PvPvE delivery adventure for PC and consoles, per Xbox Wire."
+      },
+      "source": {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/09/fragpunk-farlands-early-access/"
+      }
+    },
+    {
+      "text": {
+        "es": "Queen's Domain, homenaje a FromSoftware, recibe elogios en su versión para Switch 2, según la review de Nintendo Life.",
+        "en": "Queen's Domain, a FromSoftware tribute, earns praise on Switch 2 in Nintendo Life's review."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/queens-domain"
+      }
+    },
+    {
+      "text": {
+        "es": "Nier: Automata ya no ocupa un 700 % más en Steam: Vandal y PC Gamer confirman que el error de tamaño (366 GB) está corregido.",
+        "en": "Nier: Automata's bloated install size (366 GB) on Steam has been fixed, per PC Gamer and Vandal."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/"
+      }
+    },
+    {
+      "text": {
+        "es": "AMD promete corregir este mes un fallo de los drivers Radeon que, según usuarios, consume un 1 % de salud del SSD al mes, según Vandal.",
+        "en": "AMD promises to fix this month a Radeon driver bug that users say eats 1% of SSD health per month, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026313043/amd-promete-solucionar-este-mes-un-molesto-bug-de-los-drivers-de-radeon-que-afecta-a-los-ssd/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-pre-orders-outperform-even-take-twos-expectations-gta-5-just-keeps-on-selling"
+    },
+    {
+      "title": "Hollow Knight: Silksong (edición física)",
+      "platforms": "PS5",
+      "note": {
+        "es": "10 de noviembre",
+        "en": "November 10"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/multiple-silksong-expansions-hinted-at-in-tomorrows-ps5-physical-edition"
+    },
+    {
+      "title": "FragPunk: Farlands",
+      "platforms": "PC, consolas (acceso anticipado)",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Available now"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/09/fragpunk-farlands-early-access/"
+    },
+    {
+      "title": "Wish Upon a Llama",
+      "platforms": "PS5, Xbox, Switch, PC",
+      "note": {
+        "es": "9 de diciembre",
+        "en": "December 9"
+      },
+      "url": "https://www.gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc"
+    },
+    {
+      "title": "Warhammer 40,000: Dark Heresy",
+      "platforms": "PS5, Xbox Series, PC",
+      "note": {
+        "es": "28 de enero de 2027",
+        "en": "January 28, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/warhammer-40000-dark-heresy-launches-january-28-2027-for-ps5-xbox-series-and-pc-later-for-switch-2"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los jugadores debaten si el remake de Ocarina of Time llegará con Master Quest como DLC y si habrá remake de Majora's Mask, según Kotaku; todo es especulación.",
+        "en": "Players debate whether the Ocarina of Time remake will get Master Quest as DLC and whether a Majora's Mask remake is coming, per Kotaku; it is all speculation."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101"
+      }
+    },
+    {
+      "text": {
+        "es": "Masahiro Sakurai pide cautela con la IA generativa: «podemos tener mejores ideas», según Kotaku.",
+        "en": "Masahiro Sakurai cautions against generative AI: 'we can come up with better ideas', per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922"
+      }
+    },
+    {
+      "text": {
+        "es": "Una chaqueta oficial de GTA 6 de 3.000 dólares se agota al instante, según GameSpot.",
+        "en": "A $3,000 official GTA 6 jacket sells out immediately, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-jacket-that-costs-3000-sells-out-immediately/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "DREADMOOR",
+      "url": "https://store.steampowered.com/app/3629430/"
+    },
+    {
+      "name": "Casualties: Unknown",
+      "url": "https://store.steampowered.com/app/4576490/"
+    },
+    {
+      "name": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    }
+  ]
+}
