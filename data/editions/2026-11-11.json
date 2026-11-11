@@ -1,0 +1,743 @@
+{
+  "date": "2026-11-11",
+  "headline": {
+    "es": "GTA 6 fija 30 fps en consolas y Sony cancela Fairgames",
+    "en": "GTA 6 locks in 30 fps on consoles while Sony cancels Fairgames"
+  },
+  "intro": {
+    "es": "Además, Sony cierra su app de PS Plus en PC, Big Walk reabre el debate sobre la IA y Steam enseña los fps de Steam Deck.",
+    "en": "Also: Sony shuts its PS Plus PC app, Big Walk reignites the AI debate and Steam shows Steam Deck frame rates."
+  },
+  "stories": [
+    {
+      "id": "gta-6-30-fps-ps5-pro-pssr-xbox-cloud-precarga",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 irá a 30 fps en todas las plataformas y la PS5 Pro solo gana nitidez y sombras",
+        "en": "GTA 6 targets 30 fps everywhere, with PS5 Pro adding only clarity and shadows"
+      },
+      "dek": {
+        "es": "Rockstar detalla la versión de PS5 Pro, abre la precarga y confirma que Xbox One lo jugará en la nube.",
+        "en": "Rockstar details the PS5 Pro version, opens pre-loading and confirms Xbox One will play it via the cloud."
+      },
+      "body": {
+        "es": [
+          "Rockstar ha publicado cómo funcionará Grand Theft Auto VI en consolas: el objetivo es de 30 fotogramas por segundo tanto en PS5 como en PS5 Pro, sin modos de 40 o 60 fps, según Push Square y GameSpot. En PS5 Pro habrá reescalado con PSSR para ganar claridad y sombras con trazado de rayos exclusivas de ese modelo.",
+          "En PS5, el estudio destaca respuesta háptica del DualSense, audio mejorado y cargas más rápidas. La precarga ya está disponible para quien reservó en digital y el juego sale el 19 de noviembre.",
+          "En Xbox, Xbox Wire explica que Series X|S lo ejecutan de forma nativa y que Xbox One podrá jugarlo solo en streaming vía Xbox Cloud Gaming desde el 19 de noviembre, con la configuración gráfica de Series S."
+        ],
+        "en": [
+          "Rockstar has published how Grand Theft Auto VI will run on consoles: the target is 30 frames per second on both PS5 and PS5 Pro, with no 40 or 60 fps modes, per Push Square and GameSpot. PS5 Pro gets PSSR upscaling for extra clarity and ray-traced shadows exclusive to that model.",
+          "On PS5 the studio highlights DualSense haptics, improved audio and faster loading. Pre-loading is now open for digital pre-orders and the game launches on November 19.",
+          "On Xbox, Xbox Wire says Series X|S run it natively while Xbox One can only play it by streaming through Xbox Cloud Gaming from November 19, using Series S graphics settings."
+        ]
+      },
+      "why": {
+        "es": "Resuelve las dudas técnicas más repetidas a nueve días del estreno y deja claro que las diferencias entre consolas serán pequeñas.",
+        "en": "It settles the most common technical questions nine days before launch and shows the gaps between consoles will be small."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026314026/gta-6-ira-a-30-fps-en-todas-las-consolas-y-rockstar-confirma-estas-mejoras-en-ps5-pro/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/1280px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg/960px-All_PlayStations_%281-5%2C_PSP%2C_%26_Vita%29.jpg",
+        "credit": "JDC808 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:All_PlayStations_(1-5,_PSP,_%26_Vita).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "sony-cancela-fairgames-haven-studios",
+      "category": "playstation",
+      "title": {
+        "es": "Sony cancela Fairgames, el shooter de servicio de Haven Studios",
+        "en": "Sony cancels Fairgames, Haven Studios' live-service shooter"
+      },
+      "dek": {
+        "es": "La decisión llega tras una prueba cuyos resultados no alcanzaron los objetivos; según Bloomberg, no habrá despidos.",
+        "en": "The call follows a test that fell short of targets; Bloomberg reports no layoffs."
+      },
+      "body": {
+        "es": [
+          "PlayStation ha cancelado Fairgames, el shooter multijugador de Haven Studios anunciado hace más de tres años, según Push Square y Gematsu, que recogen la información adelantada por Jason Schreier en Bloomberg a partir de un correo interno. El mensaje decía que los resultados de retención y las opiniones de una prueba reciente fueron irregulares y quedaron por debajo de los objetivos.",
+          "Un portavoz de Sony indicó que Haven no sufrirá pérdidas de empleo y que el estudio pasará a ser un equipo de apoyo dentro de PlayStation Studios, según Push Square."
+        ],
+        "en": [
+          "PlayStation has cancelled Fairgames, the multiplayer shooter from Haven Studios announced more than three years ago, per Push Square and Gematsu, which cite Jason Schreier's Bloomberg scoop based on an internal email. The message said player feedback and retention in a recent test were mixed and fell short of goals.",
+          "A Sony spokesperson said Haven will not suffer job losses and will become a support team within PlayStation Studios, per Push Square."
+        ]
+      },
+      "why": {
+        "es": "Es otro golpe a la apuesta de Sony por los juegos como servicio, tras varias cancelaciones previas.",
+        "en": "It is another blow to Sony's live-service push, following earlier cancellations."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-cancels-fairgames-after-years-of-work-on-ps5-live-service-shooter"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/fairgame-canceled"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026314042/playstation-cancela-fairgames-su-nuevo-juego-como-servicio-tras-fracasar-en-una-prueba-con-miles-de-jugadores/"
+        }
+      ]
+    },
+    {
+      "id": "playstation-plus-app-pc-cierre-10-diciembre",
+      "category": "playstation",
+      "title": {
+        "es": "Sony cerrará la app de PS Plus para jugar en streaming desde PC el 10 de diciembre",
+        "en": "Sony will shut down the PS Plus PC streaming app on December 10"
+      },
+      "dek": {
+        "es": "Menos del 0,4 % de los suscriptores Premium elegibles la usaba, según la compañía.",
+        "en": "Fewer than 0.4% of eligible Premium subscribers used it, the company says."
+      },
+      "body": {
+        "es": [
+          "Sony dejará de ofrecer el 10 de diciembre la app de PC que permitía a los miembros de PS Plus Premium jugar en streaming a títulos del catálogo, según Push Square y PC Gamer. La compañía atribuye el cierre al escaso uso: menos del 0,4 % de los suscriptores con acceso.",
+          "Según Push Square, la app nunca admitió juegos de PS5 y las páginas de descarga ya se han retirado. El streaming de Premium sigue disponible en PS5, PS4 y PS Portal, y Remote Play no cambia."
+        ],
+        "en": [
+          "Sony will end the PC app on December 10 that let PS Plus Premium members stream catalog titles, per Push Square and PC Gamer. The company blames low usage: fewer than 0.4% of eligible subscribers.",
+          "Per Push Square, the app never supported PS5 games and download pages have already been taken down. Premium streaming remains on PS5, PS4 and PS Portal, and Remote Play is unchanged."
+        ]
+      },
+      "why": {
+        "es": "Refuerza la sensación de que Sony reduce su presencia en PC más allá de los lanzamientos de sus juegos.",
+        "en": "It adds to the sense that Sony is scaling back its PC presence beyond game releases."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/sony-dejara-de-dar-soporte-a-la-app-ps-plus-para-el-streaming-de-juegos-en-pc-a-partir-del-10-de-diciembre"
+        }
+      ]
+    },
+    {
+      "id": "big-walk-uso-ia-igf-jurado-house-house",
+      "category": "indie",
+      "title": {
+        "es": "Big Walk admite un uso mínimo de IA y reabre el debate en el IGF",
+        "en": "Big Walk admits limited AI use and reignites the debate at the IGF"
+      },
+      "dek": {
+        "es": "House House lo comunicó al inscribir el juego en el festival y lo explica en sus preguntas frecuentes.",
+        "en": "House House disclosed it when submitting the game to the festival and explains it in its FAQ."
+      },
+      "body": {
+        "es": [
+          "House House, estudio australiano de Big Walk, ha confirmado en su página de preguntas frecuentes que usó IA generativa «en la recta final» del desarrollo, según GameSpot y Nintendo Life. La revelación surge de una declaración voluntaria al presentar el juego a los Independent Games Festival Awards.",
+          "El estudio sostiene que el uso fue muy pequeño; PC Gamer cita que estima que mucho menos del 0,1 % del código se generó con modelos de lenguaje. GameSpot recoge que 19 miembros del jurado del IGF anunciaron que no votarán ningún juego que use IA generativa."
+        ],
+        "en": [
+          "Australian studio House House has confirmed on its FAQ page that it used generative AI 'in the final stretch' of Big Walk's development, per GameSpot and Nintendo Life. The disclosure came from a voluntary statement when submitting the game to the Independent Games Festival Awards.",
+          "The studio says the use was tiny; PC Gamer reports it estimates well under 0.1% of the code was generated with language models. GameSpot reports 19 IGF jurors announced they will not vote for any game that uses generative AI."
+        ]
+      },
+      "why": {
+        "es": "Muestra lo difícil que es fijar dónde acaba un uso aceptable de la IA en los premios y festivales.",
+        "en": "It shows how hard it is to draw the line on acceptable AI use at awards and festivals."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/big-walk-devs-issue-statement-over-ai-usage"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026314031/los-creadores-de-big-walk-confirman-que-utilizaron-ia-tras-una-polemica-en-independent-games-festival/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/capsule_616x353.jpg",
+        "credit": "Panic / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1478500/"
+      }
+    },
+    {
+      "id": "marathon-symbiosis-8-diciembre-expedition-semana-gratis",
+      "category": "juegos",
+      "title": {
+        "es": "Marathon prepara su actualización Symbiosis el 8 de diciembre con modo PvE y semana gratis",
+        "en": "Marathon's Symbiosis update lands December 8 with a PvE mode and a free week"
+      },
+      "dek": {
+        "es": "Bungie añade el modo Expedition, un espacio social y un modo por equipos en beta en un momento delicado para el juego.",
+        "en": "Bungie adds an Expedition mode, a social space and a beta team mode at a delicate moment for the game."
+      },
+      "body": {
+        "es": [
+          "Bungie ha confirmado que la actualización Symbiosis de Marathon llega el 8 de diciembre, tras el retraso anunciado en septiembre, según PlayStation Blog y Push Square. Incluye Expedition, un modo solo PvE en series de tres partidas que se puede jugar en solitario o en grupo.",
+          "También suma un espacio social llamado Limbo, un modo Deathmatch por equipos en beta, un nuevo Runner Shell llamado Bishop y armas nuevas. Push Square añade que el juego será gratuito durante una semana al lanzar la actualización y que muchos la ven como decisiva por las cifras de jugadores, que describe como bajas."
+        ],
+        "en": [
+          "Bungie has confirmed Marathon's Symbiosis update for December 8, after the delay announced in September, per PlayStation Blog and Push Square. It includes Expedition, a PvE-only mode built around three-run series playable solo or in a group.",
+          "It also adds a social space called Limbo, a beta team Deathmatch mode, a new Runner Shell called Bishop and new weapons. Push Square adds the game will be free to play for a week at launch and that many see the update as make-or-break given low player numbers."
+        ]
+      },
+      "why": {
+        "es": "Es la apuesta de Bungie por reconducir un shooter cuyas cifras de jugadores, según la prensa, preocupan.",
+        "en": "It is Bungie's bid to turn around a shooter whose player numbers, per the press, are a concern."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/c3093fec19fed6eb0750a87261c53743a5757827/header.jpg",
+        "credit": "Bungie / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3065800/"
+      }
+    },
+    {
+      "id": "steam-deck-fps-estimados-paginas-juegos",
+      "category": "pc",
+      "title": {
+        "es": "Steam muestra los fps esperados en Steam Deck en la página de cada juego",
+        "en": "Steam now shows expected frame rates for Steam Deck on game pages"
+      },
+      "dek": {
+        "es": "Valve abre los datos que recopila para ir más allá de las etiquetas Verificado o Jugable.",
+        "en": "Valve opens up the data it collects to go beyond the Verified or Playable badges."
+      },
+      "body": {
+        "es": [
+          "Valve ha empezado a mostrar en las páginas de la tienda una media de fotogramas por segundo que se puede esperar al jugar en Steam Deck, según Eurogamer.es, PC Gamer y GameSpot.",
+          "GameSpot recuerda que el programa de verificación de Valve ha sido útil pero imperfecto, porque un juego «Verificado» a veces no rinde como los jugadores esperan. El nuevo dato aspira a cubrir ese hueco antes de comprar."
+        ],
+        "en": [
+          "Valve has started showing on store pages an average frame rate you can expect when playing on Steam Deck, per Eurogamer.es, PC Gamer and GameSpot.",
+          "GameSpot notes Valve's verification program has been helpful but flawed, as a 'Verified' game sometimes doesn't perform as players expect. The new figure aims to fill that gap before purchase."
+        ]
+      },
+      "why": {
+        "es": "Da a los compradores una referencia numérica de rendimiento antes de pagar.",
+        "en": "It gives buyers a numeric performance reference before they pay."
+      },
+      "sources": [
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/steam-ahora-muestra-una-media-de-frame-rate-en-steam-deck-en-las-paginas-de-los-juegos"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026314013/steam-estrena-una-util-funcion-que-permite-saber-a-cuantos-fps-funciona-un-juego-en-steam-deck-antes-de-comprarlo/"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+        "credit": "Liam Dawe/GamingOnLinux, PNG version by VulcanSphere / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Steam_Deck_(front).png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "nintendo-switch-regalar-juegos-digitales-actualizacion-23-5-0",
+      "category": "nintendo",
+      "title": {
+        "es": "Switch y Switch 2 permitirán regalar juegos digitales dentro del grupo familiar",
+        "en": "Switch and Switch 2 will let you gift digital games within a family group"
+      },
+      "dek": {
+        "es": "La actualización 23.5.0 prepara la función, que Nintendo limita a miembros de la misma familia.",
+        "en": "System update 23.5.0 prepares the feature, which Nintendo restricts to members of the same family group."
+      },
+      "body": {
+        "es": [
+          "La actualización 23.5.0 de Switch y Switch 2 añade soporte para regalar juegos digitales, pero solo a miembros del mismo grupo familiar de la Cuenta Nintendo, según GameSpot y Eurogamer.es. Push Square apunta que la función debería activarse la semana siguiente.",
+          "Push Square señala que Xbox y Steam permiten regalar a cualquier amigo, mientras que en PS Store no existe un regalo directo y el atajo son las tarjetas de PSN."
+        ],
+        "en": [
+          "System update 23.5.0 for Switch and Switch 2 adds support for gifting digital games, but only to members of the same Nintendo Account family group, per GameSpot and Eurogamer.es. Push Square says the feature is expected to go live next week.",
+          "Push Square notes Xbox and Steam let you gift to any friend, while the PS Store has no direct gifting and the workaround is PSN vouchers."
+        ]
+      },
+      "why": {
+        "es": "Nintendo recupera una función esperada para las compras navideñas, aunque con más restricciones que sus rivales.",
+        "en": "Nintendo brings back a feature in time for holiday shopping, though with tighter limits than rivals."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nintendo-new-gift-giving-feature-comes-with-some-very-nintendo-restrictions/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-now-the-only-console-without-a-digital-game-gifting-option"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/la-nueva-actualizacion-de-switch-y-switch-2-permitira-regalar-juegos-digitales-a-miembros-del-grupo-familiar"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/1280px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg/960px-Nintendo_Switch_2_in_Docking_Console.jpg",
+        "credit": "Crisco 1492 / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "switch-2-jailbreak-smilebasic-parche-23-5-0",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo cierra el exploit de Switch 2 que usaba SmileBASIC",
+        "en": "Nintendo shuts down the Switch 2 exploit that relied on SmileBASIC"
+      },
+      "dek": {
+        "es": "Según OatmealDome, el firmware 23.5.0 parchea el fallo; el programa ya se había retirado de la eShop.",
+        "en": "Per OatmealDome, firmware 23.5.0 patches the flaw; the software had already been pulled from the eShop."
+      },
+      "body": {
+        "es": [
+          "El primer jailbreak conocido de Switch 2, descubierto a finales de octubre, dependía de SmileBASIC, que Nintendo retiró de la eShop, según Kotaku y Nintendo Life. Los hackers habían ampliado el exploit para volcar juegos y acceder al sistema de archivos.",
+          "Kotaku, citando a OatmealDome, indica que el firmware 23.5.0 parchea la vulnerabilidad del sistema, por lo que volcar y modificar juegos vuelve a ser imposible, salvo quizá en algunos casos de cartuchos y actualizaciones."
+        ],
+        "en": [
+          "The first known Switch 2 jailbreak, found in late October, relied on SmileBASIC, which Nintendo pulled from the eShop, per Kotaku and Nintendo Life. Hackers had extended the exploit to dump games and access the file system.",
+          "Kotaku, citing OatmealDome, says firmware 23.5.0 patches the system vulnerability, making dumping and modding games impossible again, except perhaps in some cartridge and update cases."
+        ]
+      },
+      "why": {
+        "es": "Nintendo reacciona en días, lo que marca la dificultad de mantener abierta la consola.",
+        "en": "Nintendo reacted within days, showing how hard it is to keep the console open."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nintendo-shuts-down-switch-2-jailbreak-smilebasic-r4-piracy-homebrew-2000755504"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit"
+        }
+      ]
+    },
+    {
+      "id": "fortis-games-cierra-440-empleos",
+      "category": "industria",
+      "title": {
+        "es": "Fortis Games cierra y unos 440 empleos están en riesgo",
+        "en": "Fortis Games shuts down, putting around 440 jobs at risk"
+      },
+      "dek": {
+        "es": "Su director de comunicación dijo que la compañía «se quedó sin recorrido» tras perder financiación.",
+        "en": "Its communications director said the company 'ran out of runway' after losing funding."
+      },
+      "body": {
+        "es": [
+          "Fortis Games, editora móvil con sede en San Francisco, cierra y unos 440 empleados perderán su trabajo antes de fin de año, según Insider Gaming e IGN. La compañía no había anunciado oficialmente el cierre cuando se publicó la noticia.",
+          "Según Insider Gaming, Twilight Towers dejará de funcionar el 16 de noviembre. Un empleado citado atribuye la caída a que el inversor Las Vegas Sands retiró la financiación; el director de comunicación habló de que se «quedaron sin recorrido»."
+        ],
+        "en": [
+          "Fortis Games, a San Francisco-based mobile publisher, is shutting down and around 440 employees are expected to lose their jobs by year-end, per Insider Gaming and IGN. The company had not officially announced the closure when the story ran.",
+          "Per Insider Gaming, Twilight Towers goes offline on November 16. A quoted employee says backer Las Vegas Sands pulled funding; the communications director said the company 'ran out of runway'."
+        ]
+      },
+      "why": {
+        "es": "Es uno de los cierres con más empleos afectados de los últimos meses en el sector móvil.",
+        "en": "It is one of the largest closures by headcount in mobile in recent months."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-archivista-digital-redmond",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo of America busca un archivista digital para preservar su historia",
+        "en": "Nintendo of America is hiring a digital archivist to preserve its history"
+      },
+      "dek": {
+        "es": "El puesto, en Redmond, documentará hardware y software de la compañía.",
+        "en": "The Redmond-based role will document the company's hardware and software."
+      },
+      "body": {
+        "es": [
+          "Nintendo of America ha abierto la vacante «Digital Archivist, Historical Systems», según VGC, IGN y Vandal. Es un puesto híbrido en Redmond (Washington) que exige reubicarse.",
+          "Entre sus funciones, según VGC: reunir documentación técnica y de ingeniería, definir estándares para que la información histórica siga siendo accesible y entrevistar a desarrolladores veteranos para registrar su conocimiento."
+        ],
+        "en": [
+          "Nintendo of America has opened a 'Digital Archivist, Historical Systems' position, per VGC, IGN and Vandal. It is a hybrid role in Redmond, Washington, requiring relocation.",
+          "Duties, per VGC, include gathering technical and engineering records, setting standards so historical information stays accessible and interviewing long-serving developers to capture their knowledge."
+        ]
+      },
+      "why": {
+        "es": "Apunta a un esfuerzo interno por ordenar un catálogo histórico que la compañía no siempre ha puesto al alcance del público.",
+        "en": "It points to an internal effort to organise a back catalog the company hasn't always made publicly available."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026314037/nintendo-busca-un-archivista-digital-para-documentar-y-preservar-toda-su-historia-y-la-de-sus-juegos/"
+        }
+      ]
+    },
+    {
+      "id": "outer-worlds-2-side-effects-guaranteed-2-diciembre",
+      "category": "xbox",
+      "title": {
+        "es": "The Outer Worlds 2 estrena su primer DLC, «Side Effects Guaranteed», el 2 de diciembre",
+        "en": "The Outer Worlds 2 gets its first DLC, 'Side Effects Guaranteed', on December 2"
+      },
+      "dek": {
+        "es": "Xbox Game Studios y Obsidian lo lanzarán el 2 de diciembre; en PS5 se divide en dos partes.",
+        "en": "Xbox Game Studios and Obsidian launch it on December 2; on PS5 it is split into two parts."
+      },
+      "body": {
+        "es": [
+          "Xbox Game Studios y Obsidian Entertainment lanzarán el 2 de diciembre «Side Effects Guaranteed», la primera expansión de la historia de The Outer Worlds 2, según Xbox Wire, PlayStation Blog y Gematsu.",
+          "Push Square indica que, en PS5, el DLC se divide en dos partes y que la primera llega en diciembre."
+        ],
+        "en": [
+          "Xbox Game Studios and Obsidian Entertainment will release 'Side Effects Guaranteed', The Outer Worlds 2's first story expansion, on December 2, per Xbox Wire, PlayStation Blog and Gematsu.",
+          "Push Square says that on PS5 the DLC is split into two parts, with the first arriving in December."
+        ]
+      },
+      "why": {
+        "es": "Confirma el calendario de contenido del juego tras su lanzamiento.",
+        "en": "It confirms the game's post-launch content schedule."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/"
+        },
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-outer-worlds-2s-first-story-expansion-announced/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1449110/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Las PS5 superan los 100 millones de unidades enviadas a 10 de noviembre de 2026, según Gematsu.",
+        "en": "PS5 shipments top 100 million units as of November 10, 2026, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million"
+      }
+    },
+    {
+      "text": {
+        "es": "Monster Hunter Stories 3: Twisted Reflection supera el millón de unidades vendidas, según Gematsu.",
+        "en": "Monster Hunter Stories 3: Twisted Reflection passes one million sales, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/monster-hunter-stories-3-twisted-reflection-sales-top-one-million"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintendo dejará de admitir el inicio de sesión con Google y Apple en las Cuentas Nintendo en 2027, según Nintendo Life.",
+        "en": "Nintendo will end Google and Apple sign-ins for Nintendo Accounts in 2027, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/psa-nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "El cofundador de BioWare Trent Oster y James Ohlen, director de KOTOR, dicen estar interesados en reunirse para intentar salvar las sagas del estudio, según VGC.",
+        "en": "BioWare co-founder Trent Oster and KOTOR director James Ohlen say they are interested in reuniting to try to save the studio's IP, per VGC."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un programa educativo de desarrollo de juegos se cancela porque los alumnos entregaban juegos hechos íntegramente con IA, según PC Gamer.",
+        "en": "An educational game-dev program is cancelled because students were submitting games made entirely with AI, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/"
+      }
+    },
+    {
+      "text": {
+        "es": "HUNGER, RPG de extracción de los creadores de Hell Let Loose, entra en acceso anticipado en Steam el 3 de diciembre, con beta abierta del 27 al 29 de noviembre, según Vandal.",
+        "en": "HUNGER, the extraction RPG from the makers of Hell Let Loose, enters Steam Early Access on December 3, with an open beta November 27–29, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026314035/hunger-el-brutal-rpg-de-extraccion-y-terror-de-los-creadores-de-hell-let-loose-anuncia-su-fecha-y-una-beta/"
+      }
+    },
+    {
+      "text": {
+        "es": "Mouse Work, juego de Switch 2 con control de ratón con los Joy-Con, sale el 7 de diciembre, según Gematsu.",
+        "en": "Mouse Work, the Switch 2 game using Joy-Con mouse controls, launches December 7, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/mouse-work-launches-december-7"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix presenta Dragon Quest RPG: The Cursed Tree and the Chosen Isle, con lanzamiento en 2027 y beta abierta, según Vandal.",
+        "en": "Square Enix unveils Dragon Quest RPG: The Cursed Tree and the Chosen Isle, due in 2027 with a beta sign-up, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026314019/el-nuevo-dragon-quest-muestra-su-jugabilidad-y-confirma-su-lanzamiento-en-2027-ya-puedes-apuntarte-a-su-beta/"
+      }
+    },
+    {
+      "text": {
+        "es": "Crystals of Irm se retrasa al 21 de enero de 2027, según Gematsu.",
+        "en": "Crystals of Irm is delayed to January 21, 2027, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/crystals-of-irm-delayed-to-january-21-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Ravenswatch llegará a Switch 2 el 10 de diciembre en todo el mundo y el 18 en Norteamérica, según Gematsu.",
+        "en": "Ravenswatch arrives on Switch 2 on December 10 worldwide and December 18 in North America, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/ravenswatch-nintendo-switch-2-edition-launches-december-10-worldwide-december-18-in-north-america"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    },
+    {
+      "title": "Football Manager 27",
+      "platforms": "PC, Xbox Game Pass",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox/"
+    },
+    {
+      "title": "Warhammer Survivors",
+      "platforms": "PC, PS5, Xbox Game Pass",
+      "note": {
+        "es": "Ya disponible",
+        "en": "Out now"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/"
+    },
+    {
+      "title": "The Outer Worlds 2: Side Effects Guaranteed",
+      "platforms": "PC, consolas",
+      "note": {
+        "es": "2 de diciembre",
+        "en": "December 2"
+      },
+      "url": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2"
+    },
+    {
+      "title": "HUNGER",
+      "platforms": "PC (Steam)",
+      "note": {
+        "es": "Acceso anticipado: 3 de diciembre",
+        "en": "Early Access: December 3"
+      },
+      "url": "https://www.gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3"
+    },
+    {
+      "title": "Mouse Work",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "7 de diciembre",
+        "en": "December 7"
+      },
+      "url": "https://www.gematsu.com/2026/11/mouse-work-launches-december-7"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La comunidad discute si el uso mínimo de IA de Big Walk justifica que parte del jurado del IGF lo descarte, según GameSpot.",
+        "en": "The community is debating whether Big Walk's minimal AI use justifies some IGF jurors ruling it out, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores reaccionan al objetivo de 30 fps de GTA 6 en PS5 y PS5 Pro; Push Square lanza una encuesta sobre si es un problema.",
+        "en": "Players react to GTA 6's 30 fps target on PS5 and PS5 Pro; Push Square is polling readers on whether it is a dealbreaker."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles"
+      }
+    },
+    {
+      "text": {
+        "es": "Beta testers de Fairgames comparten sus impresiones tras la cancelación, según Push Square.",
+        "en": "Fairgames beta testers share their impressions after the cancellation, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de Marathon ven la actualización Symbiosis como la última oportunidad del juego, según Push Square.",
+        "en": "Marathon fans see the Symbiosis update as the game's last chance, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "url": "https://store.steampowered.com/app/3796990/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Warhammer Survivors",
+      "url": "https://store.steampowered.com/app/3669620/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Vampire Survivors + Warhammer Survivors",
+      "url": "https://store.steampowered.com/app/92137/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "DREADMOOR",
+      "url": "https://store.steampowered.com/app/3629430/"
+    }
+  ]
+}
