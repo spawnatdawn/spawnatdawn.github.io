@@ -1,0 +1,878 @@
+{
+  "date": "2026-11-13",
+  "headline": {
+    "es": "Huang deja Nvidia y Xbox celebra 25 años con Wolfenstein 3 en camino",
+    "en": "Huang leaves Nvidia as Xbox marks 25 years with Wolfenstein 3 on the way"
+  },
+  "intro": {
+    "es": "Además, id Software prepara un nuevo juego, GTA 6 queda a una semana y la encuesta de GDC cifra los despidos en el 34 %.",
+    "en": "Also: id Software has a new game in the works, GTA 6 is a week away and GDC's survey puts layoffs at 34%."
+  },
+  "stories": [
+    {
+      "id": "nvidia-jensen-huang-dimite-colette-kress-interina",
+      "category": "hardware",
+      "title": {
+        "es": "Jensen Huang dimite como consejero delegado de Nvidia tras 33 años",
+        "en": "Jensen Huang resigns as Nvidia CEO after 33 years"
+      },
+      "dek": {
+        "es": "La directora financiera, Colette Kress, asume como CEO interina mientras la empresa busca sustituto.",
+        "en": "CFO Colette Kress steps in as interim CEO while the company looks for a successor."
+      },
+      "why": {
+        "es": "Nvidia es el motor del hardware gráfico para PC y de la IA, así que un cambio de mando afecta al sector entero.",
+        "en": "Nvidia drives PC graphics hardware and AI, so a change at the top affects the whole industry."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/jensen-huang-dimite-como-ceo-de-nvidia-tras-varios-escandalos-personales-e-investigaciones-relacionadas-con-espionaje"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316031/fin-de-una-era-jensen-huang-dimite-de-nvidia-tras-las-presiones-por-el-escandalo-de-espionaje/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/nvidia-ceo-jensen-huang-resigns-after-scandal"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316037/las-acciones-de-nvidia-caen-de-nuevo-su-valor-bursatil-se-redujo-en-12-billones-por-la-polemica-de-espionaje/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jensen_huang_stanford_2026-04-30_029.jpg/1280px-Jensen_huang_stanford_2026-04-30_029.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jensen_huang_stanford_2026-04-30_029.jpg/960px-Jensen_huang_stanford_2026-04-30_029.jpg",
+        "credit": "Anderseidesvik / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_029.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "body": {
+        "es": [
+          "Nvidia ha anunciado que Jensen Huang deja los cargos de presidente y consejero delegado con efecto inmediato, según GameSpot. La directora financiera, Colette Kress, será CEO interina y mantendrá sus funciones de CFO hasta que se encuentre un sustituto permanente. Huang llevaba 33 años al frente de la compañía que cofundó.",
+          "Los medios vinculan la salida a la polémica de los últimos días: PC Gamer habla de varios escándalos de infidelidad y GameSpot e IGN señalan que una de las relaciones sería con una presunta espía china, información que atribuimos a esos medios. Eurogamer España menciona además investigaciones relacionadas con el caso de espionaje.",
+          "En bolsa, Vandal recoge que la acción cayó a 164,35 dólares frente a los 215,38 del 28 de octubre, mientras que PC Gamer apunta que luego recuperó cerca de un 10 % desde los mínimos previos a la apertura. IGN plantea, como análisis propio, qué atención recibirá GeForce en esta nueva etapa."
+        ],
+        "en": [
+          "Nvidia has announced that Jensen Huang is stepping down as president and CEO, effective immediately, per GameSpot. CFO Colette Kress becomes interim CEO and keeps her CFO duties until a permanent replacement is found. Huang had led the company he co-founded for 33 years.",
+          "Outlets tie the exit to the controversy of recent days: PC Gamer refers to several affair scandals, while GameSpot and IGN say one of the relationships was reportedly with a suspected Chinese spy, which we attribute to those outlets. Eurogamer Spain also mentions investigations linked to the espionage case.",
+          "On the stock market, Vandal reports shares fell to $164.35 from $215.38 on October 28, while PC Gamer says they later rebounded roughly 10% from pre-market lows. IGN offers its own analysis of what this means for GeForce's profile."
+        ]
+      }
+    },
+    {
+      "id": "xbox-25-aniversario-wolfenstein-3-halo-firefight-fable",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox cumple 25 años con Wolfenstein 3 en producción y Firefight para Halo",
+        "en": "Xbox turns 25 with Wolfenstein 3 in production and Firefight for Halo"
+      },
+      "dek": {
+        "es": "El FanFest de Seattle trajo confirmaciones de Bethesda, regalos y mejoras en retrocompatibilidad.",
+        "en": "Seattle's FanFest brought Bethesda confirmations, freebies and backward-compatibility upgrades."
+      },
+      "why": {
+        "es": "Es la primera confirmación oficial de un Wolfenstein nuevo y el balance de la estrategia de aniversario de Xbox.",
+        "en": "It is the first official confirmation of a new Wolfenstein and a snapshot of Xbox's anniversary strategy."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/wolfenstein-2-the-new-colossus/noticias/jefa-xbox-confirma-que-wolfenstein-3-esta-desarrollo-no-unica-sorpresa"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/wolfenstein-3-confirmed-xbox-asha-sharma/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/1280px-Xbox-console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/960px-Xbox-console.jpg",
+        "credit": "Evan-Amos / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox-console.jpg",
+        "license": "Public domain"
+      },
+      "body": {
+        "es": [
+          "En el evento de Seattle que cierra su gira de ocho ciudades, Xbox confirmó que Wolfenstein 3 está en producción en MachineGames. Según Xbox Wire, Brian Bloom y Debra Wilson vuelven como B.J. Blazkowicz y Grace Walker; no se han dado fecha ni plataformas. La consejera delegada, Asha Sharma, también adelantó que id Software trabaja en su próximo proyecto.",
+          "Halo: Campaign Evolved recibirá gratis el modo cooperativo de supervivencia Firefight en una actualización de invierno sin fecha concreta. Xbox lanzó además Playback, un resumen personal con tu primer juego, horas totales o racha más larga, y regala objetos de aniversario en títulos como Gears of War: E-Day o Forza Horizon 6.",
+          "Xbox también presentó cuatro minutos de jugabilidad de Fable y anunció 21 clásicos más de la Xbox original en PC."
+        ],
+        "en": [
+          "At the Seattle event closing its eight-city tour, Xbox confirmed Wolfenstein 3 is in production at MachineGames. Per Xbox Wire, Brian Bloom and Debra Wilson return as B.J. Blazkowicz and Grace Walker; no date or platforms were given. CEO Asha Sharma also said id Software is working on its next project.",
+          "Halo: Campaign Evolved will get the Firefight survival co-op mode for free in a winter update with no firm date. Xbox also launched Playback, a personal recap with your first game, total hours or longest streak, and is giving away anniversary items in games such as Gears of War: E-Day and Forza Horizon 6.",
+          "Xbox also showed four minutes of Fable gameplay and announced 21 more original Xbox classics on PC."
+        ]
+      }
+    },
+    {
+      "id": "id-software-nuevo-juego-hugo-martin-doom-slaughter-mode",
+      "category": "juegos",
+      "title": {
+        "es": "id Software confirma un nuevo juego dirigido por Hugo Martin",
+        "en": "id Software confirms a new game directed by Hugo Martin"
+      },
+      "dek": {
+        "es": "Llega tras los despidos del estudio; el modo Slaughter de The Dark Ages sale el 16 de noviembre.",
+        "en": "It follows layoffs at the studio; The Dark Ages' Slaughter Mode lands on November 16."
+      },
+      "why": {
+        "es": "Confirma que la saga seguirá viva en id, aunque sin detalles todavía.",
+        "en": "It confirms the franchise continues at id, though details are still missing."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/id-software-says-its-working-on-its-next-game-directed-by-dooms-hugo-martin-2000756358"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/un-equipo-de-exdesarrolladores-de-id-software-funda-el-estudio-hidden-horses-y-presenta-danger-pay"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316018/veteranos-de-id-software-fundan-un-nuevo-estudio-y-anuncian-su-nuevo-fps-que-sera-financiado-en-kickstarter/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/capsule_616x353.jpg",
+        "credit": "Bethesda Softworks / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3017860/"
+      },
+      "body": {
+        "es": [
+          "En el aniversario de Xbox, id Software confirmó que trabaja en un nuevo juego, según IGN y Kotaku, que citan a Hugo Martin como director. No se han revelado género, plataformas ni fecha. GameSpot señala que el anuncio llega después de que se despidiera a buena parte de la plantilla.",
+          "Mientras tanto, DOOM: The Dark Ages recibirá el 16 de noviembre Slaughter Mode, un modo de rondas infinitas con enemigos, jefes y arenas aleatorios. Según Xbox Wire, es gratuito para quien tenga el DLC Revelations, la edición Premium o la mejora Premium.",
+          "Aparte, Eurogamer España y Vandal informan de que exdesarrolladores de id Software han fundado el estudio Hidden Horses y buscan financiar en Kickstarter un FPS, Danger Pay."
+        ],
+        "en": [
+          "At Xbox's anniversary event, id Software confirmed it is working on a new game, per IGN and Kotaku, which name Hugo Martin as director. Genre, platforms and date are undisclosed. GameSpot notes the announcement comes after much of the studio was laid off.",
+          "Meanwhile, DOOM: The Dark Ages gets Slaughter Mode on November 16, an endless-rounds mode with randomised enemies, bosses and arenas. Per Xbox Wire, it is free for owners of the Revelations DLC, the Premium Edition or the Premium Upgrade.",
+          "Separately, Eurogamer Spain and Vandal report that former id Software developers have founded Hidden Horses and are seeking Kickstarter funding for an FPS, Danger Pay."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-semana-lanzamiento-pocketpair-cinco-dias-sensor-tower",
+      "category": "juegos",
+      "title": {
+        "es": "A una semana de GTA 6: permisos laborales y estimaciones de preventas",
+        "en": "One week to GTA 6: time off and pre-order estimates"
+      },
+      "dek": {
+        "es": "Pocketpair da cinco días a su plantilla y Sensor Tower calcula más de 1.000 millones en preventas.",
+        "en": "Pocketpair gives staff five days off and Sensor Tower estimates over $1 billion in pre-orders."
+      },
+      "why": {
+        "es": "Mide la expectación antes de un estreno que condicionará las ventas de fin de año.",
+        "en": "It gauges the hype ahead of a launch likely to shape year-end sales."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316045/rockstar-recuerda-que-gta-6-saldra-en-una-semana-gracias-a-todos-en-la-comunidad-por-vuestro-increible-apoyo/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316028/gta-6-quiere-hacer-historia-estiman-que-ya-habria-generado-1000-millones-de-dolares-solo-con-sus-preventas/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/jugar-no-perdida-tiempo-empresa-dara-dia-libre-pagado-a-sus-trabajadores-todo-mundo-para-jugar-a-gta-6"
+        }
+      ],
+      "body": {
+        "es": [
+          "GTA 6 sale el 19 de noviembre y Rockstar ha dado las gracias a la comunidad por su apoyo, según Vandal. Pocketpair, creadora de Palworld, concederá a los empleados que quieran jugarlo un permiso especial de cinco días, del 19 al 23 de noviembre, según Push Square.",
+          "Vandal recoge una estimación de Sensor Tower: el juego habría vendido más de 10 millones de copias y generado más de 1.000 millones de dólares solo en preventas. Es un cálculo de la consultora, no una cifra de Rockstar ni de Take-Two.",
+          "La semana también ha traído filtraciones del mapa; no las enlazamos ni las describimos."
+        ],
+        "en": [
+          "GTA 6 launches on November 19 and Rockstar has thanked the community for its support, per Vandal. Pocketpair, maker of Palworld, will give staff who want to play it a special five-day leave, November 19 to 23, per Push Square.",
+          "Vandal reports a Sensor Tower estimate: the game may have sold more than 10 million copies and generated over $1 billion from pre-orders alone. That is the analyst firm's calculation, not a figure from Rockstar or Take-Two.",
+          "Leaks of the map also circulated this week; we are neither linking nor describing them."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-corea-del-sur-calificacion-casi-rechazada",
+      "category": "juegos",
+      "title": {
+        "es": "Corea del Sur estuvo a punto de rechazar la calificación de GTA 6",
+        "en": "South Korea almost refused to rate GTA 6"
+      },
+      "dek": {
+        "es": "El organismo de clasificación alegó una presencia excesiva de desnudos fuera de contexto.",
+        "en": "The ratings board cited excessive out-of-context nudity."
+      },
+      "why": {
+        "es": "Muestra que un estreno global aún puede toparse con los reguladores locales.",
+        "en": "It shows a global launch can still run into local regulators."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/genital-exposure-has-never-appeared-this-frequently-gta-6-was-almost-refused-release-in-south-korea"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253"
+        }
+      ],
+      "body": {
+        "es": [
+          "La junta de clasificación surcoreana GCRB casi bloquea el lanzamiento de GTA 6, según PC Gamer, Push Square y Kotaku. PC Gamer indica que el juego necesitó tres revisiones del organismo.",
+          "Según los medios, la junta temía que los desnudos genitales «fuera de contexto» pudieran alterar el orden social. Push Square recoge la frase de que ese tipo de exposición no había aparecido «tan frecuentemente» antes.",
+          "Las fuentes consultadas no detallan los cambios ni la clasificación final; la fecha global sigue siendo el 19 de noviembre."
+        ],
+        "en": [
+          "South Korea's GCRB ratings board almost blocked GTA 6's release, per PC Gamer, Push Square and Kotaku. PC Gamer says the game needed three reviews by the board.",
+          "According to the outlets, the board feared \"out-of-context\" genital nudity could disrupt social order. Push Square quotes the remark that such exposure had never appeared so frequently.",
+          "The sources do not detail any changes or the final rating; the global date remains November 19."
+        ]
+      }
+    },
+    {
+      "id": "gdc-encuesta-34-por-ciento-despedidos-dos-anos",
+      "category": "industria",
+      "title": {
+        "es": "Encuesta de GDC: el 34 % de los profesionales fue despedido en dos años",
+        "en": "GDC survey: 34% of professionals were laid off in two years"
+      },
+      "dek": {
+        "es": "Seis puntos más que en el informe de enero; más de la mitad sigue sin trabajo.",
+        "en": "Six points more than January's report; over half remain unemployed."
+      },
+      "why": {
+        "es": "Pone cifras al deterioro del empleo en un sector que sigue sin recuperarse.",
+        "en": "It puts numbers on a jobs market that has yet to recover."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years-more-than-in-its-last-report/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey"
+        }
+      ],
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg/1280px-Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg/960px-Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2019_entrance,_Moscone_Center_(3).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      },
+      "body": {
+        "es": [
+          "El informe State of the Game Industry de GDC, con más de 2.600 respuestas, indica que el 34 % de los encuestados fue despedido en los últimos dos años (39 % en EE. UU.). VGC recuerda que en la edición de enero la cifra era del 28 %.",
+          "Según VGC, el 54 % de los despedidos seguía sin empleo y el 27 % había enviado al menos 100 solicitudes. Solo el 45 % cree que su puesto está asegurado los próximos 12 meses y el 81 % se declara preocupado por su futuro en el sector.",
+          "En IA, Game Developer señala que quienes la usan lo hacen sobre todo para investigación y lluvia de ideas; IGN añade que su uso sube y que pocos estudios trabajan aún en PS6 o Xbox Project Helix."
+        ],
+        "en": [
+          "GDC's State of the Game Industry report, with more than 2,600 responses, says 34% of respondents were laid off in the past two years (39% in the US). VGC notes the January edition put the figure at 28%.",
+          "Per VGC, 54% of those laid off were still jobless and 27% had sent at least 100 applications. Only 45% believe their job is secure for the next 12 months and 81% say they worry about their future in the industry.",
+          "On AI, Game Developer says users mostly employ it for research and brainstorming; IGN adds that usage is up and few studios are yet working on PS6 or Xbox Project Helix."
+        ]
+      }
+    },
+    {
+      "id": "xbox-retrocompatibilidad-pc-21-juegos-logros-playback",
+      "category": "xbox",
+      "title": {
+        "es": "21 juegos de la Xbox original llegan a PC y cuatro estrenan logros",
+        "en": "21 original Xbox games arrive on PC, four gain achievements"
+      },
+      "dek": {
+        "es": "La biblioteca de retrocompatibilidad en PC pasa a 25 títulos, entre ellos KOTOR y Morrowind.",
+        "en": "The PC backward-compatibility library grows to 25 titles, including KOTOR and Morrowind."
+      },
+      "why": {
+        "es": "Preserva catálogo histórico y acerca Xbox a la oferta de PC.",
+        "en": "It preserves historic catalogue and blurs the line between Xbox and PC."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/xbox-releases-21-more-original-xbox-games-on-pc-and-over-half-of-them-are-star-wars-2000756360"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox/noticias/viva-retrocompatibilidad-xbox-lleva-otros-21-juegos-clasicos-su-primera-consola-a-pc-cuatro-ellos-reciben-algo-que-nunca-habian-tenido"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-first-party-games-free-new-pc/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Xbox ha añadido 21 juegos de la Xbox original a su retrocompatibilidad en PC, que ya suma 25 títulos, según Xbox Wire y VGC (el titular de Xbox Wire habla del total y el de VGC de los nuevos). Entre ellos figuran Star Wars: Knights of the Old Republic y The Elder Scrolls III: Morrowind.",
+          "Cuatro de ellos reciben logros por primera vez, y Xbox dice que habrá más con el tiempo. Kotaku destaca que más de la mitad de las incorporaciones son juegos de Star Wars.",
+          "La compañía también ofrece 25 juegos gratis al comprar un PC nuevo en 2026, según Insider Gaming."
+        ],
+        "en": [
+          "Xbox has added 21 original Xbox games to its PC backward compatibility, which now totals 25 titles, per Xbox Wire and VGC (Xbox Wire's headline gives the total, VGC's the new batch). They include Star Wars: Knights of the Old Republic and The Elder Scrolls III: Morrowind.",
+          "Four of them gain achievements for the first time, with Xbox saying more will follow. Kotaku points out that over half of the additions are Star Wars games.",
+          "The company is also offering 25 free games with the purchase of a new PC in 2026, per Insider Gaming."
+        ]
+      }
+    },
+    {
+      "id": "fable-cuatro-minutos-gameplay-xbox-25-aniversario",
+      "category": "xbox",
+      "title": {
+        "es": "Fable muestra cuatro minutos de jugabilidad y divide opiniones",
+        "en": "Fable shows four minutes of gameplay and splits opinion"
+      },
+      "dek": {
+        "es": "El vídeo se centra en el combate mágico; sigue sin fecha de lanzamiento.",
+        "en": "The video focuses on magic combat; there is still no release date."
+      },
+      "why": {
+        "es": "Es la mayor muestra reciente de un juego que Xbox aún no ha fechado.",
+        "en": "It is the biggest recent look at a game Xbox has yet to date."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/was-this-new-fable-gameplay-meant-to-sell-the-game"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/fable-xbox-25th-anniversary-quest-gameplay"
+        },
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769570/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769570/capsule_616x353.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2769570/"
+      },
+      "body": {
+        "es": [
+          "Xbox publicó cuatro minutos de una misión de Fable como parte del aniversario de la consola. Según IGN, el vídeo enseña más del combate; Xbox Wire habla de combate mágico y no da fecha de lanzamiento.",
+          "La recepción no es unánime: PC Gamer opina que el juego «no se parece mucho a Fable», y Push Square se pregunta si el vídeo pretendía vender el juego. Son valoraciones de esos medios.",
+          "Gematsu también recoge el vídeo, que Xbox acompañó con demos en el FanFest."
+        ],
+        "en": [
+          "Xbox released four minutes of a Fable quest as part of the console's anniversary. Per IGN, the video shows more of the combat; Xbox Wire describes magical combat and gives no release date.",
+          "Reception is mixed: PC Gamer thinks the game \"doesn't look much like Fable\", and Push Square asks whether the footage was meant to sell the game. Those are those outlets' opinions.",
+          "Gematsu also covers the video, which Xbox paired with hands-on demos at FanFest."
+        ]
+      }
+    },
+    {
+      "id": "intergalactic-heretic-prophet-ultima-fase-produccion-2027",
+      "category": "playstation",
+      "title": {
+        "es": "Intergalactic entra en su última fase de producción",
+        "en": "Intergalactic enters its final stage of production"
+      },
+      "dek": {
+        "es": "Neil Druckmann dice que ya es jugable de principio a fin y que habrá más información en 2027.",
+        "en": "Neil Druckmann says it is fully playable and more will be shown in 2027."
+      },
+      "why": {
+        "es": "Es el primer dato de estado del juego tras años de silencio.",
+        "en": "It is the first status update on the game after years of silence."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/intergalactic-ps5-in-the-last-stage-of-production-gameplay-coming-next-year"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-is-entering-its-final-stage-of-development-with-more-to-come-in-2027/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/neil-druckman-intergalactic-the-heretic-prophet-2027-playable-polish-2000756229"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316041/intergalactic-the-heretic-prophet-ya-esta-en-la-ultima-fase-de-produccion-naughty-dog-esta-puliendo-el-juego/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Neil Druckmann, director de Intergalactic: The Heretic Prophet, dijo en un programa en directo del Comic Creators Block Party que el juego está en la «última etapa de producción», según Push Square y GameSpot. Kotaku añade que ya se puede jugar y que se está puliendo.",
+          "Druckmann cree que «sorprenderá» a la gente y lo describe como una mezcla de Jak & Daxter, Uncharted y The Last of Us. Naughty Dog y Sony mostrarán más, incluida jugabilidad, en 2027.",
+          "No hay fecha de lanzamiento. Vandal ha recogido la noticia."
+        ],
+        "en": [
+          "Neil Druckmann, director of Intergalactic: The Heretic Prophet, said on a live show at Comic Creators Block Party that the game is in its \"last stage of production\", per Push Square and GameSpot. Kotaku adds it is already playable and being polished.",
+          "Druckmann believes it will \"surprise\" people and describes it as a blend of Jak & Daxter, Uncharted and The Last of Us. Naughty Dog and Sony will show more, including gameplay, in 2027.",
+          "There is no release date. Vandal also picked up the story."
+        ]
+      }
+    },
+    {
+      "id": "helldivers-2-arrowhead-mods-hotfix-review-bombing",
+      "category": "pc",
+      "title": {
+        "es": "Arrowhead rectifica en Helldivers 2 y permitirá mods cosméticos",
+        "en": "Arrowhead backtracks on Helldivers 2, will allow cosmetic mods"
+      },
+      "dek": {
+        "es": "El estudio planea un hotfix tras otra oleada de reseñas negativas en Steam.",
+        "en": "The studio plans a hotfix after another wave of negative Steam reviews."
+      },
+      "why": {
+        "es": "Muestra el equilibrio entre anti-trampas y libertad de modificación.",
+        "en": "It highlights the balance between anti-cheat and modding freedom."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/helldivers-2/noticias/su-septimo-review-bombing-estudio-helldivers-2-da-marcha-atras-a-su-prohibicion-mods-peros"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/capsule_616x353.jpg",
+        "credit": "PlayStation Publishing / Steam",
+        "creditUrl": "https://store.steampowered.com/app/553850/"
+      },
+      "body": {
+        "es": [
+          "Arrowhead endureció el control de mods «tramposos» en Helldivers 2 con un nuevo sistema anti-trampas y recibió otra oleada de reseñas negativas en Steam, según PC Gamer. El estudio prepara ahora un hotfix que debería permitir modificaciones cosméticas inofensivas.",
+          "3DJuegos cuenta que es el séptimo review bombing del juego y que el estudio da marcha atrás en la prohibición, aunque con condiciones.",
+          "Las fuentes no detallan cuándo llegará el parche."
+        ],
+        "en": [
+          "Arrowhead tightened enforcement against \"cheat\" mods in Helldivers 2 with a new anti-cheat system and drew another wave of negative Steam reviews, per PC Gamer. The studio is now preparing a hotfix that should allow harmless cosmetic mods.",
+          "3DJuegos says it is the game's seventh review bombing and that the studio is reversing the ban, though with caveats.",
+          "The sources do not say when the patch will arrive."
+        ]
+      }
+    },
+    {
+      "id": "tripwire-interactive-despide-36-killing-floor-3",
+      "category": "industria",
+      "title": {
+        "es": "Tripwire Interactive despide a 36 personas",
+        "en": "Tripwire Interactive lays off 36 people"
+      },
+      "dek": {
+        "es": "El estudio de Killing Floor lo anunció días después de presentar su iniciativa de publishing.",
+        "en": "The Killing Floor studio announced it days after unveiling a publishing initiative."
+      },
+      "why": {
+        "es": "Suma otro estudio a la ola de recortes que refleja la encuesta de GDC.",
+        "en": "It adds another studio to the layoff wave reflected in the GDC survey."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026316027/el-creador-de-killing-floor-culpa-a-la-izquierda-woke-del-fracaso-de-killing-floor-3-y-se-compara-con-steve-jobs/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/capsule_616x353.jpg",
+        "credit": "Tripwire Interactive / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1430190/"
+      },
+      "body": {
+        "es": [
+          "Tripwire Interactive, propiedad de Embracer, confirmó en X la eliminación de 36 puestos, según Game Developer. Es un nuevo recorte tras los 23 de principios de año. El estudio dice que sigue trabajando en Maneater 2 y Killing Floor 3.",
+          "Días antes había presentado Tripwire Presents, un programa para publicar juegos pequeños; Game Developer señala que no está claro si lo anunció sabiendo de los despidos.",
+          "El cofundador John Gibson, que dejó el cargo en 2024, atribuyó su salida a «woke leftists», una afirmación suya que Vandal también recoge."
+        ],
+        "en": [
+          "Tripwire Interactive, owned by Embracer, confirmed on X that it cut 36 jobs, per Game Developer. It follows 23 cuts earlier this year. The studio says it is still working on Maneater 2 and Killing Floor 3.",
+          "Days earlier it had unveiled Tripwire Presents, a programme to publish small games; Game Developer notes it is unclear whether it was announced with the layoffs in mind.",
+          "Co-founder John Gibson, who left in 2024, blamed his ouster on \"woke leftists\", a claim of his own that Vandal also reports."
+        ]
+      }
+    },
+    {
+      "id": "jeff-kaplan-pelea-constante-blizzard-overwatch-2",
+      "category": "industria",
+      "title": {
+        "es": "Jeff Kaplan habla de «peleas constantes» con Blizzard antes de irse",
+        "en": "Jeff Kaplan describes 'constant fighting' with Blizzard before leaving"
+      },
+      "dek": {
+        "es": "El exdirector de Overwatch critica el anuncio de Overwatch 2 y la idea de vender héroes.",
+        "en": "The former Overwatch director criticises the Overwatch 2 reveal and the idea of selling heroes."
+      },
+      "why": {
+        "es": "Aporta la versión del exdirector sobre una etapa polémica de Overwatch.",
+        "en": "It gives the former director's account of a contentious era for Overwatch."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/jeff-kaplan-says-there-was-constant-fighting-between-him-and-blizzard-years-before-he-left/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/overwatch-2-reveal-announcement-blizzcon-2019-jeff-kaplan-2000756275"
+        }
+      ],
+      "body": {
+        "es": [
+          "En el canal Gaming World Interviews, Jeff Kaplan dijo que desde 2018 perdió el control del desarrollo de Overwatch y mantuvo «peleas constantes» con la directiva, según VGC. Lo vincula al cambio de liderazgo con J. Allen Brack, aunque dice no tener problemas con Mike Morhaime.",
+          "Sobre el anuncio de Overwatch 2 en 2019, afirmó que se opuso porque el equipo no sabía qué era el juego ni su modelo de negocio. Kotaku añade que culpa de la presentación a la soberbia de Blizzard.",
+          "Kaplan, que dejó Blizzard en 2021 tras 19 años, también habló de la presión para vender héroes, algo que se negó a hacer."
+        ],
+        "en": [
+          "On the Gaming World Interviews channel, Jeff Kaplan said that from 2018 he lost control of Overwatch's development and had \"constant fighting\" with executives, per VGC. He ties it to the leadership change under J. Allen Brack, while saying he had no issues with Mike Morhaime.",
+          "On the 2019 Overwatch 2 reveal, he said he opposed it because the team did not know what the game or its business model was. Kotaku adds that he blames Blizzard's hubris for the messy reveal.",
+          "Kaplan, who left Blizzard in 2021 after 19 years, also discussed pressure to sell heroes, which he refused to do."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Paradox Interactive tendrá nuevo consejero delegado: Mattias Lilja asumirá el cargo en enero, cuando Fredrik Wester vuelva a dejarlo, según PC Gamer.",
+        "en": "Paradox Interactive gets a new CEO: Mattias Lilja takes over in January as Fredrik Wester steps down again, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/"
+      }
+    },
+    {
+      "text": {
+        "es": "Strauss Zelnick (Take-Two) cree que los juegos físicos no desaparecerán, aunque serán una parte «muy pequeña» del negocio, según GameSpot.",
+        "en": "Take-Two's Strauss Zelnick says physical games won't disappear but will be a \"very small\" part of the business, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/"
+      }
+    },
+    {
+      "text": {
+        "es": "Disney emitirá The Game Awards 2026 en Disney+ y adelanta «grandes anuncios» sobre sus juegos, según IGN y GameSpot.",
+        "en": "Disney will stream The Game Awards 2026 on Disney+ and teases \"major announcements\" for its games, per IGN and GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/"
+      }
+    },
+    {
+      "text": {
+        "es": "PS5 supera los 100 millones de unidades distribuidas tras seis años en el mercado, según Eurogamer España.",
+        "en": "PS5 passes 100 million units shipped after six years on the market, per Eurogamer Spain."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/playstation-5-supera-los-100-millones-de-unidades-distribuidas-tras-seis-anos-en-el-mercado"
+      }
+    },
+    {
+      "text": {
+        "es": "El PC Gaming Show 2026: Most Wanted será el 3 de diciembre, organizado por PC Gamer, según Gematsu.",
+        "en": "PC Gaming Show 2026: Most Wanted is set for December 3, hosted by PC Gamer, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/pc-gaming-show-2026-most-wanted-set-for-december-3"
+      }
+    },
+    {
+      "text": {
+        "es": "Professor Layton and the New World of Steam costará 65 dólares en su estreno en PS5, según Push Square.",
+        "en": "Professor Layton and the New World of Steam will cost $65 for its PS5 debut, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/for-its-home-console-debut-new-ps5-professor-layton-game-ups-the-price-to-usd65"
+      }
+    },
+    {
+      "text": {
+        "es": "NC dice a los inversores que el MMO móvil Horizon Steel Frontiers está «cerca de completarse» y llegará en 2027, según Push Square.",
+        "en": "NC tells investors the mobile MMO Horizon Steel Frontiers is \"nearing completion\" and arrives in 2027, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/mmo-horizon-steel-frontiers-nearing-completion-nc-discussing-release-timing-with-sony"
+      }
+    },
+    {
+      "text": {
+        "es": "Amazon retiró la versión de Switch 2 de Tomb Raider: Catalyst de su web, según Nintenderos y Nintendo Life.",
+        "en": "Amazon removed the Switch 2 version of Tomb Raider: Catalyst from its listing, per Nintenderos and Nintendo Life."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/amazon-elimina-de-su-web-la-version-de-nintendo-switch-2-y-la-fecha-de-2028-de-tomb-raider-catalyst/"
+      }
+    },
+    {
+      "text": {
+        "es": "Nintendo prepara rebajas del Black Friday en EE. UU., con descuentos poco habituales de 20 dólares en juegos propios, según Kotaku.",
+        "en": "Nintendo announces US Black Friday deals, with rare $20 discounts on its own games, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/nintendo-black-friday-sale-first-party-games-donkey-kong-metroid-prime-2000756243"
+      }
+    },
+    {
+      "text": {
+        "es": "Slay the Spire 2 suma un personaje nuevo, dos modos y una evolución de Byrdpip en su última actualización, según Kotaku.",
+        "en": "Slay the Spire 2's latest update adds a new character, two modes and a Byrdpip evolution, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/slay-the-spire-2s-latest-update-adds-a-new-character-two-new-modes-and-a-byrdpip-evolution-2000756380"
+      }
+    },
+    {
+      "text": {
+        "es": "Los servidores de Dark Souls 2 y 3 vuelven a funcionar tras dos semanas cerrados, según Vandal.",
+        "en": "Dark Souls 2 and 3 servers are back online after two weeks offline, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026316036/los-servidores-de-dark-souls-2-y-3-vuelven-a-estar-operativos-tras-haber-permanecido-cerrados-durante-2-semanas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Insider Gaming asegura que la versión de consolas de Escape from Tarkov se anunciará en 2027, según su entrevista con Nikita Buyanov.",
+        "en": "Insider Gaming says Escape from Tarkov's console version will be announced in 2027, per its interview with Nikita Buyanov."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/exclusive-tarkov-console-version-announce-2027/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    },
+    {
+      "title": "DOOM: The Dark Ages – Slaughter Mode",
+      "platforms": "PC, consolas",
+      "note": {
+        "es": "16 de noviembre",
+        "en": "November 16"
+      },
+      "url": "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+    },
+    {
+      "title": "Station to Station",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "26 de noviembre",
+        "en": "November 26"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month"
+    },
+    {
+      "title": "GRIME II",
+      "platforms": "Switch, Switch 2",
+      "note": {
+        "es": "27 de noviembre",
+        "en": "November 27"
+      },
+      "url": "https://www.gematsu.com/2026/11/grime-ii-coming-to-switch-2-switch-on-november-27-alongside-a-final-coda-update"
+    },
+    {
+      "title": "Zero Hour",
+      "platforms": "PS5, Xbox Series",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/11/zero-hour-for-ps5-xbox-series-launches-december-3"
+    },
+    {
+      "title": "Commandos: Origins Deluxe Edition",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "15 de diciembre",
+        "en": "December 15"
+      },
+      "url": "https://www.gematsu.com/2026/11/commandos-origins-deluxe-edition-coming-to-switch-2-on-december-15"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Internet reacciona a la dimisión de Jensen Huang entre elogios, críticas políticas y chistes, según GameSpot y PC Gamer.",
+        "en": "The internet reacts to Jensen Huang's resignation with praise, political criticism and jokes, per GameSpot and PC Gamer."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Helldivers 2 vuelven a castigar el juego con reseñas negativas por la prohibición de mods.",
+        "en": "Helldivers 2 players again hit the game with negative reviews over the mod ban."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/helldivers-2/noticias/su-septimo-review-bombing-estudio-helldivers-2-da-marcha-atras-a-su-prohibicion-mods-peros"
+      }
+    },
+    {
+      "text": {
+        "es": "El vídeo de Fable divide a los fans: algunos medios opinan que se parece poco a la saga.",
+        "en": "The Fable video divides fans, with some outlets saying it looks little like the series."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/"
+      }
+    },
+    {
+      "text": {
+        "es": "Humble Bundle rediseña su web y, según Kotaku y PC Gamer, elimina la autenticación en dos pasos, lo que genera críticas.",
+        "en": "Humble Bundle redesigns its site and, per Kotaku and PC Gamer, drops two-factor authentication, drawing criticism."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "url": "https://store.steampowered.com/app/3809270/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "url": "https://store.steampowered.com/app/3796990/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "url": "https://store.steampowered.com/app/2868840/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Ball x Pit: The Rise and Fall of Ballbylon",
+      "url": "https://store.steampowered.com/app/98822/"
+    }
+  ]
+}
