@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-14",
+  "headline": {
+    "es": "La precarga de GTA 6 colapsa récords de tráfico y Microsoft arrastra a Xbox en su caída global",
+    "en": "GTA 6 preloads smash traffic records while Microsoft's global outage drags Xbox down"
+  },
+  "intro": {
+    "es": "Además, PS5 amplía su reescalado QSSR, God of War: Sons of Sparta salta a PS4 y Zelda: Ocarina of Time arrasa en ventas físicas.",
+    "en": "Also: PS5 widens its QSSR upscaling, God of War: Sons of Sparta heads to PS4 and Zelda: Ocarina of Time dominates physical sales."
+  },
+  "stories": [
+    {
+      "id": "gta-6-precarga-records-trafico-internet-operadoras",
+      "category": "juegos",
+      "title": {
+        "es": "La precarga de GTA 6 bate récords de tráfico y pone a prueba a las operadoras",
+        "en": "GTA 6 preload breaks traffic records and strains ISPs"
+      },
+      "dek": {
+        "es": "Virgin Media O2 y el punto de intercambio DE-CIX registraron máximos históricos desde que arrancó la descarga anticipada el 10 de noviembre.",
+        "en": "Virgin Media O2 and the DE-CIX exchange logged all-time highs since early downloads began on November 10."
+      },
+      "why": {
+        "es": "Si la precarga ya satura redes, el día del lanzamiento, el 19 de noviembre, será la gran prueba para la infraestructura de internet.",
+        "en": "If preloading already strains networks, launch day on November 19 will be the real stress test for internet infrastructure."
+      },
+      "sources": [
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317034/la-precarga-de-gta-6-bate-records-de-trafico-en-internet-antes-de-su-lanzamiento/" },
+        { "name": "3DJuegos", "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/varias-operadoras-internet-no-estaban-preparadas-para-gta-6-sus-descargas-estan-pasando-factura-a-red" }
+      ],
+      "body": {
+        "es": [
+          "La descarga anticipada de GTA 6 empezó el martes 10 de noviembre y, según Vandal, ocupa hasta 212 GB. Virgin Media O2, en Reino Unido, asegura que ese día marcó máximos históricos: su pico de tráfico superó en un 3,8 % el récord anterior, fijado en una semifinal de Champions, y el volumen diario superó en un 4 % el del inicio de un mini-temporada de Fortnite.",
+          "En el punto de intercambio DE-CIX, el pico global alcanzó los 33,01 Tb/s, la primera vez que supera los 33, y el nodo de Fráncfort llegó a 22,30 Tb/s, según Vandal. Son cifras de tráfico total, no del número de jugadores que descargaron el juego.",
+          "3DJuegos recoge además que YouFibre avisó a sus clientes de problemas de capacidad por la congestión, según Forbes, mientras que Xfinity ofrece en EE. UU. un aumento temporal de velocidad. Sensor Tower estima más de 10 millones de reservas, un dato que Rockstar no ha confirmado."
+        ],
+        "en": [
+          "GTA 6's early download opened on Tuesday, November 10, and weighs up to 212 GB, per Vandal. UK provider Virgin Media O2 says that day set all-time records: peak traffic beat the previous high, set during a Champions League semi-final, by 3.8%, and daily volume topped the start of a Fortnite mini-season by 4%.",
+          "At the DE-CIX exchange, global peak traffic hit 33.01 Tb/s, the first time it has passed 33, and the Frankfurt node reached 22.30 Tb/s, according to Vandal. These are total traffic figures, not a count of players who downloaded the game.",
+          "3DJuegos adds that YouFibre warned customers about capacity problems caused by congestion, per Forbes, while Xfinity is offering a temporary speed boost in the US. Sensor Tower estimates more than 10 million pre-orders, a figure Rockstar has not confirmed."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-codigos-fisicos-linterna-ps5",
+      "category": "playstation",
+      "title": {
+        "es": "Alertan de que los códigos de las copias físicas de GTA 6 podrían verse con una linterna",
+        "en": "Reports claim physical GTA 6 codes can be read with a flashlight"
+      },
+      "dek": {
+        "es": "La edición «física» incluye un código de descarga en una caja vacía; algunos usuarios dicen que se puede ver a contraluz, aunque otros no logran reproducirlo.",
+        "en": "The \"physical\" release is a download code in an empty case; some users say it can be seen with backlighting, while others can't reproduce it."
+      },
+      "why": {
+        "es": "Si se confirma, un código robado podría canjearse antes que el comprador, y por ahora no hay respuesta oficial de Rockstar, Sony ni tiendas.",
+        "en": "If confirmed, a stolen code could be redeemed before the buyer does, and there is so far no official response from Rockstar, Sony or retailers."
+      },
+      "sources": [
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick" },
+        { "name": "GameSpot", "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/" }
+      ],
+      "body": {
+        "es": [
+          "GTA 6 ha dejado los discos tradicionales: las copias de tienda para PS5 son un código de descarga dentro de una caja. Según Push Square y GameSpot, algunos usuarios sostienen que al iluminar el lateral de la caja sellada con una linterna potente se puede ver el código impreso en el interior.",
+          "Push Square recoge un hilo de Reddit sobre copias selladas con códigos ya canjeados y otro de ResetEra donde se afirma que la edición estadounidense lleva un patrón de camuflaje que impide leerlo, mientras que algunas copias PEGI no lo tendrían. Otros usuarios no han podido reproducir el truco y hay quien lo califica de falso.",
+          "El medio señala que pocos compradores han denunciado códigos ya usados y que no hay respuesta oficial de Rockstar, Sony ni de los comercios. Conviene tratarlo como una alerta sin confirmar."
+        ],
+        "en": [
+          "GTA 6 has dropped traditional discs: retail PS5 copies are a download code inside a case. According to Push Square and GameSpot, some users claim that shining a strong flashlight at the side of the sealed case reveals the code printed inside.",
+          "Push Square cites a Reddit thread about sealed copies with already-redeemed codes and a ResetEra thread claiming the US edition has a camouflage pattern that blocks the view, while some PEGI copies reportedly lack it. Other users have been unable to reproduce the trick, and some call the claim fake.",
+          "The outlet notes few buyers have reported used codes and that there is no official response from Rockstar, Sony or retailers. It should be treated as an unconfirmed warning."
+        ]
+      }
+    },
+    {
+      "id": "microsoft-caida-global-365-xbox-live",
+      "category": "xbox",
+      "title": {
+        "es": "La caída global de Microsoft 365 también afecta a algunos jugadores de Xbox",
+        "en": "Microsoft 365's global outage also hits some Xbox players"
+      },
+      "dek": {
+        "es": "El fallo, que empezó el jueves 12, afectó a Outlook y Teams y a servicios públicos; Microsoft dice que no hay indicios de actividad maliciosa.",
+        "en": "The outage, which began Thursday the 12th, hit Outlook, Teams and public services; Microsoft says there is no sign of malicious activity."
+      },
+      "why": {
+        "es": "Muestra cuánto depende el ecosistema Xbox —inicio de sesión, juegos digitales y nube— de la misma infraestructura que el correo corporativo.",
+        "en": "It shows how much the Xbox ecosystem — sign-in, digital games and cloud — leans on the same infrastructure as corporate email."
+      },
+      "sources": [
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/news/microsoft-struggles-to-restore-online-services-after-major-outage/" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317025/la-caida-mundial-de-microsoft-tambien-salpica-a-xbox-pero-no-hay-indicios-de-un-fallo-generalizado/" },
+        { "name": "PC Gamer", "url": "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/" }
+      ],
+      "body": {
+        "es": [
+          "Microsoft confirmó el jueves 12 de noviembre problemas en Microsoft 365, con Outlook y Teams entre los servicios afectados. VGC cita a la BBC para señalar que hubo impacto en servicios sanitarios, policía, aeropuertos y colegios del Reino Unido, y que casi 24 horas después la recuperación seguía en marcha.",
+          "En Xbox, Vandal cuenta que algunos jugadores tuvieron problemas para iniciar sesión, abrir juegos digitales o conectarse a Xbox Cloud Gaming, aunque el panel oficial mostraba los servicios operativos. VGC, tras sus propias pruebas, coincide con el panel, y Vandal sitúa el impacto en Xbox por debajo del de Microsoft 365.",
+          "Sobre la causa, VGC recoge que Microsoft la atribuye a una carga de servidores superior a la habitual, y PC Gamer que la compañía no ve «evidencia de actividad maliciosa». En su última actualización, Microsoft hablaba de «progreso alentador» sin dar la incidencia por resuelta."
+        ],
+        "en": [
+          "Microsoft confirmed problems with Microsoft 365 on Thursday, November 12, with Outlook and Teams among the services hit. VGC cites the BBC in reporting disruption to UK health and police services, airports and schools, and says recovery was still under way nearly 24 hours later.",
+          "On Xbox, Vandal reports some players had trouble signing in, opening digital games or connecting to Xbox Cloud Gaming, even though the official status panel showed services as operational. VGC's own tests matched the panel, and Vandal puts the Xbox impact below that of Microsoft 365.",
+          "On the cause, VGC says Microsoft attributes it to heavier-than-normal server load, and PC Gamer reports the company sees \"no evidence of malicious activity\". Microsoft's latest update spoke of \"encouraging recovery progress\" without declaring the incident resolved."
+        ]
+      }
+    },
+    {
+      "id": "ps5-qssr-seis-juegos-mas-spider-man-2",
+      "category": "playstation",
+      "title": {
+        "es": "El reescalado QSSR de la PS5 base llega a Spider-Man 2 y a cinco juegos más",
+        "en": "Base PS5's QSSR upscaling arrives in Spider-Man 2 and five more games"
+      },
+      "dek": {
+        "es": "Spider-Man 2 ya lo tiene; Control Resonant, No Man's Sky, Arc Raiders, The Finals y Hell Let Loose: Vietnam lo recibirán en las próximas semanas.",
+        "en": "Spider-Man 2 has it now; Control Resonant, No Man's Sky, Arc Raiders, The Finals and Hell Let Loose: Vietnam follow in the coming weeks."
+      },
+      "why": {
+        "es": "Sony extiende a la consola estándar una técnica de mejora de imagen basada en IA nacida en PS5 Pro, y los estudios ya se interesan por ella.",
+        "en": "Sony is bringing an AI-based image-upgrade technique born on PS5 Pro to the standard console, and studios are showing interest."
+      },
+      "sources": [
+        { "name": "PlayStation Blog", "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/" },
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317029/mas-juegos-de-ps5-recibiran-reescalado-qssr-en-las-proximas-semanas-incluyendo-marvels-spiderman-2/" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg",
+        "credit": "PlayStation Publishing LLC / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2651280/"
+      },
+      "body": {
+        "es": [
+          "Sony ha anunciado en el blog de PlayStation que QSSR (Quick Spectral Super Resolution), el reescalado guiado por IA para la PS5 base presentado el mes pasado, llega a seis juegos más. Marvel's Spider-Man 2 lo incorpora ya, con compatibilidad en los modos Fidelidad y Rendimiento, según Insomniac.",
+          "Control Resonant lo recibirá en diciembre, según Remedy; No Man's Sky, «en las próximas semanas», según Hello Games; y Arc Raiders, The Finals y Hell Let Loose: Vietnam, mediante actualizaciones sin fecha concreta.",
+          "El blog explica que QSSR comparte base con el PSSR de PS5 Pro y su interfaz, de modo que encaja en juegos que ya lo admiten, y que nace de Project Amethyst, la colaboración de Sony con AMD."
+        ],
+        "en": [
+          "Sony announced on the PlayStation Blog that QSSR (Quick Spectral Super Resolution), the AI-guided upscaler for the base PS5 introduced last month, is coming to six more games. Marvel's Spider-Man 2 gets it now, supporting both Fidelity and Performance modes, per Insomniac.",
+          "Control Resonant gets it in December, per Remedy; No Man's Sky \"in the next few weeks\", per Hello Games; and Arc Raiders, The Finals and Hell Let Loose: Vietnam via updates with no set date.",
+          "The blog explains QSSR shares its foundation and interface with PS5 Pro's PSSR, so it suits games that already support it, and that it grew out of Project Amethyst, Sony's collaboration with AMD."
+        ]
+      }
+    },
+    {
+      "id": "god-of-war-sons-of-sparta-ps4-16-noviembre-modos",
+      "category": "playstation",
+      "title": {
+        "es": "God of War: Sons of Sparta llegará a PS4 el 16 de noviembre con dos modos gratuitos",
+        "en": "God of War: Sons of Sparta heads to PS4 on November 16 with two free modes"
+      },
+      "dek": {
+        "es": "El metroidvania de Mega Cat Studios y Santa Monica Studio añade un modo contrarreloj y otro de muerte en un golpe.",
+        "en": "The Mega Cat Studios and Santa Monica Studio metroidvania adds a speedrun mode and a one-hit-kill mode."
+      },
+      "why": {
+        "es": "Sony lleva a PS4 un spin-off que salió solo en PS5 en febrero, ampliando su público casi nueve meses después.",
+        "en": "Sony brings to PS4 a spin-off that launched only on PS5 in February, widening its audience nearly nine months later."
+      },
+      "sources": [
+        { "name": "Gematsu", "url": "https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317033/god-of-war-sons-of-sparta-llegara-a-ps4-el-16-de-noviembre-con-dos-nuevos-modos-gratuitos/" },
+        { "name": "VGC", "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/" }
+      ],
+      "body": {
+        "es": [
+          "Sony Interactive Entertainment ha confirmado que God of War: Sons of Sparta, desarrollado por Mega Cat Studios y Santa Monica Studio, saldrá en PS4 el lunes 16 de noviembre. El juego se estrenó en PS5 el 12 de febrero de 2026, según Gematsu.",
+          "Ese mismo día llegará una actualización gratuita con dos modos nuevos, que según Vandal recibirán PS4 y PS5: Hermes, centrado en el speedrun, con cronómetro por tramos y marcador persistente, y Erebus, en el que tanto el jugador como los enemigos mueren de un solo golpe.",
+          "Las fuentes consultadas no detallan el precio de la versión de PS4."
+        ],
+        "en": [
+          "Sony Interactive Entertainment has confirmed that God of War: Sons of Sparta, developed by Mega Cat Studios and Santa Monica Studio, will launch on PS4 on Monday, November 16. The game debuted on PS5 on February 12, 2026, per Gematsu.",
+          "A free update with two new modes arrives the same day, which Vandal says PS4 and PS5 will both get: Hermes Mode, built around speedrunning with a split-based timer and persistent scoreboard, and Erebus Mode, where both the player and enemies die in one hit.",
+          "The sources consulted do not detail the PS4 version's price."
+        ]
+      }
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-ventas-fisicas-espana-japon",
+      "category": "nintendo",
+      "title": {
+        "es": "Zelda: Ocarina of Time Remake lidera las ventas físicas en España y Japón",
+        "en": "Zelda: Ocarina of Time Remake tops physical sales in Spain and Japan"
+      },
+      "dek": {
+        "es": "110.000 copias físicas en España, el mejor estreno del año, y 537.041 en Japón, donde Nintendo cifra las ventas totales en más de 810.000.",
+        "en": "110,000 physical copies in Spain, the year's best launch, and 537,041 in Japan, where Nintendo puts total sales above 810,000."
+      },
+      "why": {
+        "es": "Confirma el peso del formato físico en Switch 2 y refuerza el arranque comercial del remake, que ya vendió 5,2 millones en cuatro días.",
+        "en": "It confirms the weight of physical formats on Switch 2 and reinforces the remake's commercial start, after 5.2 million in four days."
+      },
+      "sources": [
+        { "name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/zelda-ocarina-of-time-remake-arrasa-en-espana-con-110-000-copias-fisicas-y-firma-el-mejor-lanzamiento-del-ano/" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317024/el-formato-fisico-sigue-fuerte-zelda-ocarina-of-time-remake-vende-en-japon-mucho-mas-en-fisico-que-en-digital/" },
+        { "name": "Eurogamer.es", "url": "https://www.eurogamer.es/ventas-espana-the-legend-of-zelda-ocarina-of-time-remake-vende-mas-de-110000-copias-fisicas-en-su-estreno" }
+      ],
+      "body": {
+        "es": [
+          "Según los datos de ventas físicas en España que recoge Nintenderos, a partir de una publicación en X, el remake de Zelda: Ocarina of Time para Switch 2 debutó con 110.000 copias, el mejor estreno del año. Le siguen EA Sports FC 27 (64.000) y Resident Evil Requiem (37.000). Eurogamer España también habla de más de 110.000 copias físicas.",
+          "En Japón, Vandal cifra en 537.041 las copias físicas vendidas en la semana, las más vendidas del periodo, y recuerda que Nintendo ha confirmado más de 810.000 ventas totales. Restando, quedarían unas 272.959 digitales, un cálculo aproximado, de modo que casi dos tercios serían físicas.",
+          "Son cifras de territorios concretos y no sustituyen a las globales que se publicaron en la edición anterior."
+        ],
+        "en": [
+          "According to Spanish physical sales data reported by Nintenderos, based on a post on X, the Switch 2 remake of Zelda: Ocarina of Time debuted with 110,000 copies, the best launch of the year. EA Sports FC 27 (64,000) and Resident Evil Requiem (37,000) follow. Eurogamer Spain also cites more than 110,000 physical copies.",
+          "In Japan, Vandal puts physical sales for the week at 537,041, the best-selling of the period, and notes Nintendo has confirmed over 810,000 total sales. Subtracting leaves roughly 272,959 digital, an approximate calculation, so nearly two thirds would be physical.",
+          "These are figures for specific territories and do not replace the global numbers published in the previous edition."
+        ]
+      }
+    },
+    {
+      "id": "pearl-abyss-ia-crimson-desert-pipeline",
+      "category": "juegos",
+      "title": {
+        "es": "Pearl Abyss ampliará el uso de IA en todo su desarrollo tras la polémica de Crimson Desert",
+        "en": "Pearl Abyss to expand AI use across development after the Crimson Desert controversy"
+      },
+      "dek": {
+        "es": "En su informe del tercer trimestre, la compañía habla de «nuevas pipelines» y asegura que la IA es solo una herramienta de apoyo.",
+        "en": "In its Q3 report, the company describes \"new pipelines\" and says AI is only a support tool."
+      },
+      "why": {
+        "es": "Llega meses después de que el estudio pidiera disculpas por arte generado con IA en Crimson Desert, en un debate que sigue abierto en la industria.",
+        "en": "It comes months after the studio apologised for AI-generated art in Crimson Desert, in a debate still open across the industry."
+      },
+      "sources": [
+        { "name": "Insider Gaming", "url": "https://insider-gaming.com/crimson-desert-devs-proudly-using-ai/" },
+        { "name": "PC Gamer", "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+        "credit": "Pearl Abyss / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3321460/"
+      },
+      "body": {
+        "es": [
+          "Pearl Abyss, el estudio de Crimson Desert, detalla en su informe de resultados del tercer trimestre de 2026, en un apartado titulado «New Pipelines», cómo piensa usar la IA en sus próximos títulos, según Insider Gaming. PC Gamer resume que la expandirá «a lo largo de toda nuestra pipeline de desarrollo».",
+          "La empresa explica que ahora usa IA para validar rápidamente conceptos de diseño antes de implementarlos y afirma que sirve «estrictamente» como herramienta de apoyo a la validación de conceptos y la productividad, mientras que el contenido y la jugabilidad siguen en manos del equipo.",
+          "Insider Gaming recuerda que en marzo se descubrió arte generado con IA en la versión de lanzamiento de Crimson Desert, no declarado en Steam, y que el estudio pidió disculpas públicamente."
+        ],
+        "en": [
+          "Pearl Abyss, the studio behind Crimson Desert, details in its Q3 2026 earnings report, under a section titled \"New Pipelines\", how it plans to use AI in future titles, per Insider Gaming. PC Gamer sums it up as expanding it \"throughout our entire development pipeline\".",
+          "The company says it now uses AI to rapidly validate design concepts before implementing them and states it serves \"strictly\" as a tool for concept validation and pipeline productivity, with content and gameplay still driven by the team.",
+          "Insider Gaming recalls that AI-generated art was found in Crimson Desert's launch version in March, undisclosed on Steam, and that the studio publicly apologised."
+        ]
+      }
+    },
+    {
+      "id": "the-game-awards-2026-nominados-17-noviembre-disney-plus",
+      "category": "industria",
+      "title": {
+        "es": "The Game Awards 2026 anunciará sus nominados el 17 de noviembre y llegará a Disney+",
+        "en": "The Game Awards 2026 reveals nominees on November 17 and heads to Disney+"
+      },
+      "dek": {
+        "es": "La gala será el 10 de diciembre; GTA 6 y el remake de Ocarina of Time están en la conversación, según los medios.",
+        "en": "The show is on December 10; GTA 6 and the Ocarina of Time remake are part of the conversation, outlets say."
+      },
+      "why": {
+        "es": "Los nominados marcan la recta final del año y la presencia de Disney+ apunta a anuncios de títulos de la compañía.",
+        "en": "Nominees set the tone for the year's final stretch, and Disney+'s involvement points to announcements of the company's games."
+      },
+      "sources": [
+        { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november" },
+        { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317018/the-game-awards-2026-se-podra-seguir-por-disney-y-prometen-anuncios-y-sorpresas-relacionadas-con-disney/" }
+      ],
+      "body": {
+        "es": [
+          "Geoff Keighley revelará los nominados de todas las categorías en una emisión en directo el martes 17 de noviembre, a las 9:00 PT (17:00 GMT), según Push Square. La gala se emitirá el 10 de diciembre de 2026.",
+          "El mismo medio indica que GTA 6 es elegible para todos los premios, aunque sale después de la fecha límite para optar al Juego del Año. Entre los posibles candidatos menciona Resident Evil Requiem, 007 First Light, Big Walk, Control Resonant, Phantom Blade Zero y el remake de Zelda: Ocarina of Time, que depende de cómo trate el jurado a los remakes.",
+          "Vandal añade que Disney y Keighley han confirmado que la gala se verá también en Disney+ y que se prometen «importantes anuncios y sorpresas» sobre videojuegos de Disney. La especulación sobre Kingdom Hearts 4 es del propio medio y no está confirmada."
+        ],
+        "en": [
+          "Geoff Keighley will reveal nominees for every category in a livestream on Tuesday, November 17, at 9am PT (5pm GMT), per Push Square. The show airs on December 10, 2026.",
+          "The same outlet says GTA 6 is eligible for all awards, though it launches after the cut-off to compete for Game of the Year. Possible contenders it names include Resident Evil Requiem, 007 First Light, Big Walk, Control Resonant, Phantom Blade Zero and the Zelda: Ocarina of Time remake, depending on how the jury treats remakes.",
+          "Vandal adds that Disney and Keighley confirmed the show will also stream on Disney+, with \"important announcements and surprises\" promised for Disney games. The Kingdom Hearts 4 speculation is the outlet's own and unconfirmed."
+        ]
+      }
+    },
+    {
+      "id": "lucky-luke-lonesome-cowboy-collection-13-enero-2027",
+      "category": "juegos",
+      "title": {
+        "es": "Lucky Luke: The Lonesome Cowboy Collection recopila los juegos clásicos del vaquero el 13 de enero",
+        "en": "Lucky Luke: The Lonesome Cowboy Collection gathers the cowboy's classics on January 13"
+      },
+      "dek": {
+        "es": "Infogrames lo lanzará en 2027 para PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch y PC.",
+        "en": "Infogrames will release it in 2027 on PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch and PC."
+      },
+      "why": {
+        "es": "Recupera títulos de 8, 16 y 32 bits difíciles de jugar hoy y llega por primera vez a muchos mercados, según Push Square.",
+        "en": "It revives 8-, 16- and 32-bit titles that are hard to play today and reaches many markets for the first time, per Push Square."
+      },
+      "sources": [
+        { "name": "Gematsu", "url": "https://www.gematsu.com/2026/11/lucky-luke-the-lonesome-cowboy-collection-announced-for-ps5-xbox-series-switch-2-ps4-xbox-one-switch-and-pc" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317035/lucky-luke-vuelve-a-cabalgar-anunciada-una-coleccion-con-siete-juegos-clasicos-del-personaje-de-los-comics/" },
+        { "name": "Eurogamer.es", "url": "https://www.eurogamer.es/anunciado-un-recopilatorio-de-videojuegos-de-lucky-luke-para-consolas-y-pc" }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934830/ea40c434554b2b3a7a830a83a787388641f0bdf1/ss_ea40c434554b2b3a7a830a83a787388641f0bdf1.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934830/d267f991f9d5c95bfba48191da05ae8002a47b8d/header.jpg",
+        "credit": "Atari / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4934830/"
+      },
+      "body": {
+        "es": [
+          "El sello Infogrames de Atari, junto a Graphite Lab e Implicit Conversions, ha anunciado Lucky Luke: The Lonesome Cowboy Collection para PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch y PC, con lanzamiento el 13 de enero de 2027, según Gematsu.",
+          "Reúne juegos de Game Boy Color, SNES, PlayStation y Game Boy Advance publicados entre 1996 y 2001, como Lucky Luke: Desperado Train o Lucky Luke: Wanted!. Vandal habla de siete juegos, pero la lista de Gematsu recoge seis, así que las fuentes difieren en la cifra.",
+          "Incluye gráficos mejorados, estados de guardado, logros, filtros visuales, marcos de pantalla, controles reasignables y guías, además de Frontier Experience, un museo interactivo en primera persona sobre la historia del personaje."
+        ],
+        "en": [
+          "Atari's Infogrames label, with Graphite Lab and Implicit Conversions, has announced Lucky Luke: The Lonesome Cowboy Collection for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch and PC, launching January 13, 2027, per Gematsu.",
+          "It gathers Game Boy Color, SNES, PlayStation and Game Boy Advance games released between 1996 and 2001, such as Lucky Luke: Desperado Train and Lucky Luke: Wanted!. Vandal says seven games, but Gematsu's list shows six, so sources differ on the count.",
+          "It includes improved graphics, save states, achievements, visual filters, screen bezels, rebindable controls and guides, plus Frontier Experience, an interactive first-person museum on the character's history."
+        ]
+      }
+    },
+    {
+      "id": "metaphor-refantazio-switch-2-resenas-rendimiento-parche",
+      "category": "nintendo",
+      "title": {
+        "es": "Metaphor: ReFantazio llega a Switch 2 con buenas reseñas, críticas al rendimiento y un parche en camino",
+        "en": "Metaphor: ReFantazio hits Switch 2 with strong reviews, performance complaints and a patch on the way"
+      },
+      "dek": {
+        "es": "SEGA reconoce un fallo de colores y texturas que aparece tras unas 30 horas de juego y prepara una actualización sin fecha.",
+        "en": "SEGA acknowledges a colour and texture glitch appearing after about 30 hours and is preparing an update with no date."
+      },
+      "why": {
+        "es": "Otro port de Switch 2 donde la optimización centra el debate, aunque la prensa especializada lo recomienda.",
+        "en": "Another Switch 2 port where optimisation dominates the debate, though critics largely recommend it."
+      },
+      "sources": [
+        { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port" },
+        { "name": "Nintenderos", "url": "https://www.nintenderos.com/nintendo-switch-2/sega-ya-trabaja-en-un-parche-para-solucionar-este-error-de-metaphor-refantazio-en-nintendo-switch-2/" }
+      ],
+      "body": {
+        "es": [
+          "La versión de Switch 2 de Metaphor: ReFantazio salió el 12 de noviembre por 39,99 dólares, según Nintendo Life, que recopila reseñas en general positivas: su propio análisis le da un 8/10, Nintendo Wire y Nintendo World Report un 9/10 y Digitally Downloaded un 5/5. La queja principal es el rendimiento, con una tasa de imágenes irregular.",
+          "Nintenderos explica que, tras más de 30 horas de partida, los colores y texturas de escenarios, objetos y personajes pueden cambiar de forma aleatoria. SEGA lo califica de problema conocido y trabaja en un parche cuya fecha se desconoce.",
+          "El juego también está disponible en PS4, PS5, Xbox Series y PC, y hay demo con traspaso de partida."
+        ],
+        "en": [
+          "The Switch 2 version of Metaphor: ReFantazio launched on November 12 for $39.99, per Nintendo Life, which rounds up generally positive reviews: its own review gives 8/10, Nintendo Wire and Nintendo World Report 9/10, and Digitally Downloaded 5/5. The main complaint is performance, with an uneven frame rate.",
+          "Nintenderos explains that after more than 30 hours of play, colours and textures of environments, objects and characters can change randomly. SEGA calls it a known issue and is working on a patch with no known date.",
+          "The game is also available on PS4, PS5, Xbox Series and PC, and a demo with save carry-over exists."
+        ]
+      }
+    },
+    {
+      "id": "take-two-no-se-vende-nuevas-sagas-zelnick",
+      "category": "industria",
+      "title": {
+        "es": "Zelnick descarta vender Take-Two tras la compra de EA y defiende invertir en nuevas sagas",
+        "en": "Zelnick rules out selling Take-Two after EA's buyout and defends investing in new IPs"
+      },
+      "dek": {
+        "es": "El CEO dice que la arrogancia es «enemiga del éxito continuado» a una semana del estreno de GTA 6.",
+        "en": "The CEO says arrogance is the \"enemy of continued success\" a week before GTA 6 launches."
+      },
+      "why": {
+        "es": "Take-Two llega a su gran lanzamiento sin planes de venta, mientras la industria digiere la adquisición de EA por 55.000 millones de dólares.",
+        "en": "Take-Two reaches its big launch with no sale plans, as the industry digests EA's $55 billion take-private."
+      },
+      "sources": [
+        { "name": "GameSpot", "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/" },
+        { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317026/taketwo-sobre-la-importancia-de-invertir-en-nuevas-sagas-la-arrogancia-es-el-enemigo-del-exito-continuado/" }
+      ],
+      "body": {
+        "es": [
+          "Según GameSpot, el CEO de Take-Two, Strauss Zelnick, ha dicho en una conversación con David Rubenstein que la compañía no tiene interés en venderse, después de que Electronic Arts pasara a manos privadas en una operación de 55.000 millones de dólares liderada por un consorcio con el fondo saudí PIF.",
+          "Vandal, que cita a Insider Gaming, recoge que Zelnick defendió seguir invirtiendo en nuevas propiedades intelectuales aunque no todas funcionen y que Take-Two tiene 15 franquicias enormes que venden al menos 5 millones de unidades. Advirtió de que la arrogancia es enemiga del éxito continuado.",
+          "También citó a Small Axe, un estudio fundado en agosto por antiguos miembros de EA Sports que busca crear una gran franquicia deportiva. La compañía está centrada en el lanzamiento de GTA VI el 19 de noviembre."
+        ],
+        "en": [
+          "According to GameSpot, Take-Two CEO Strauss Zelnick said in a conversation with David Rubenstein that the company has no interest in selling itself, after Electronic Arts was taken private in a $55 billion deal led by a consortium including Saudi Arabia's PIF.",
+          "Vandal, citing Insider Gaming, reports Zelnick defended continuing to invest in new IPs even if not all succeed, and said Take-Two has 15 huge franchises each selling at least 5 million units. He warned that arrogance is the enemy of continued success.",
+          "He also pointed to Small Axe, a studio founded in August by former EA Sports staff aiming to build a major sports franchise. The company is focused on launching GTA VI on November 19."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": { "es": "Forza Horizon 6 recibirá las series 8 («Horizon Holidays») y 9 («Legendary Explorers») antes de acabar 2026 y su primera expansión de pago en enero, según Pure Xbox.", "en": "Forza Horizon 6 gets Series 8 (\"Horizon Holidays\") and 9 (\"Legendary Explorers\") before the end of 2026 and its first paid expansion in January, per Pure Xbox." },
+      "source": { "name": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/11/forza-horizon-6-content-roadmap-revealed-for-late-2026-and-2027" }
+    },
+    {
+      "text": { "es": "Los productores de Blade Runner 2099 confirman que mantienen conversaciones para crear un videojuego AAA de la franquicia, según IGN.", "en": "Blade Runner 2099 executive producers confirm they are in talks for a AAA game based on the franchise, per IGN." },
+      "source": { "name": "IGN", "url": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation" }
+    },
+    {
+      "text": { "es": "Rumor: Rainbow Six: Vegas volvería con una nueva entrega, según IGN.", "en": "Rumor: Rainbow Six: Vegas is reportedly returning with a new installment, per IGN." },
+      "source": { "name": "IGN", "url": "https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment" }
+    },
+    {
+      "text": { "es": "Pioner, el shooter de supervivencia que PC Gamer comparó con Stalker y Tarkov, cerrará menos de un año después de su lanzamiento.", "en": "Pioner, the survival shooter PC Gamer once likened to Stalker and Tarkov, is closing less than a year after launch." },
+      "source": { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/" }
+    },
+    {
+      "text": { "es": "La web oficial de Zelda marca A Link Between Worlds como «jugable con Nintendo Switch Online»; Nintendo Life pide no sacar conclusiones todavía.", "en": "The official Zelda site lists A Link Between Worlds as \"Playable with Nintendo Switch Online\"; Nintendo Life urges against jumping to conclusions." },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions" }
+    },
+    {
+      "text": { "es": "Sony dice que quiere crear franquicias de anime «que resistan décadas», según Push Square.", "en": "Sony says it wants to create anime franchises that \"withstand decades\", per Push Square." },
+      "source": { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime" }
+    },
+    {
+      "text": { "es": "SEGA celebra los 35 años de Sonic con un corto animado de 13 minutos que ya puede verse gratis, según Vandal.", "en": "SEGA marks Sonic's 35th anniversary with a 13-minute animated short, free to watch now, per Vandal." },
+      "source": { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317023/sega-celebra-los-35-anos-de-sonic-con-un-corto-animado-de-13-minutos-que-ya-puedes-ver-gratis/" }
+    },
+    {
+      "text": { "es": "Star Wars: Galactic Racer alcanza 1,5 millones de jugadores y adelanta futuras actualizaciones, según Push Square.", "en": "Star Wars: Galactic Racer reaches 1.5 million players and teases future updates, per Push Square." },
+      "source": { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/star-wars-galactic-racer-reaches-1-5-million-players-teases-future-updates" }
+    },
+    {
+      "text": { "es": "Nintendo busca un archivero digital para preservar su historia, según Nintendo Life.", "en": "Nintendo is hiring a digital archivist to preserve its history, per Nintendo Life." },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/nintendos-on-the-hunt-for-a-digital-archivist-to-preserve-its-rich-history" }
+    },
+    {
+      "text": { "es": "Warhammer Survivors publica una hoja de ruta con actualizaciones gratuitas y adelanta «algo grande», según Push Square.", "en": "Warhammer Survivors reveals a roadmap of free updates and teases \"something big\", per Push Square." },
+      "source": { "name": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big" }
+    }
+  ],
+  "releases": [
+    {
+      "title": "God of War: Sons of Sparta (PS4)",
+      "platforms": "PS4",
+      "note": { "es": "16 de noviembre", "en": "November 16" },
+      "url": "https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update"
+    },
+    {
+      "title": "Ranger's Path: National Park Simulator",
+      "platforms": "Xbox Play Anywhere",
+      "note": { "es": "17 de noviembre", "en": "November 17" },
+      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/"
+    },
+    {
+      "title": "Dark Rail",
+      "platforms": "Xbox Play Anywhere",
+      "note": { "es": "18 de noviembre", "en": "November 18" },
+      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": { "es": "19 de noviembre", "en": "November 19" },
+      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/"
+    },
+    {
+      "title": "Ritebound",
+      "platforms": "Xbox Play Anywhere",
+      "note": { "es": "20 de noviembre", "en": "November 20" },
+      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/"
+    }
+  ],
+  "social": [
+    {
+      "text": { "es": "El nuevo gameplay de Fable divide opiniones: GameSpot lo ve más oscuro de lo esperado y Pure Xbox admite que no les impresionó.", "en": "Fable's new gameplay divides opinion: GameSpot sees it as darker than expected while Pure Xbox admits it didn't wow them." },
+      "source": { "name": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/11/fables-latest-showing-didnt-exactly-blow-our-socks-off" }
+    },
+    {
+      "text": { "es": "Los jugadores debaten si el aviso de «jugable con NSO» en A Link Between Worlds anticipa una ampliación del servicio de Nintendo.", "en": "Players debate whether the \"Playable with NSO\" tag on A Link Between Worlds hints at an expansion of Nintendo's service." },
+      "source": { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions" }
+    },
+    {
+      "text": { "es": "Los fans creen reconocer a un viejo conocido de la saga en solo dos segundos del nuevo tráiler de GTA 6, según Vandal; es una teoría sin confirmar.", "en": "Fans think they recognise a series veteran in just two seconds of the new GTA 6 trailer, per Vandal; it is an unconfirmed theory." },
+      "source": { "name": "Vandal", "url": "https://vandal.elespanol.com/noticia/2026317027/solo-aparece-dos-segundos-en-el-nuevo-trailer-de-gta-6-y-los-fans-creen-que-es-un-viejo-conocido-de-la-saga/" }
+    },
+    {
+      "text": { "es": "El anuncio de que Pearl Abyss ampliará el uso de IA reabre el debate sobre la IA en los juegos, según PC Gamer.", "en": "Pearl Abyss's plan to expand AI use reopens the debate over AI in games, per PC Gamer." },
+      "source": { "name": "PC Gamer", "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/" }
+    }
+  ],
+  "steam": [
+    { "name": "Steam Frame", "url": "https://store.steampowered.com/app/4165890/" },
+    { "name": "Steam Deck", "url": "https://store.steampowered.com/app/1675200/" },
+    { "name": "Euro Truck Simulator 2 - Coaches", "url": "https://store.steampowered.com/app/3809270/" },
+    { "name": "Bodycam", "url": "https://store.steampowered.com/app/2406770/" },
+    { "name": "Moon Sweepers", "url": "https://store.steampowered.com/app/5335510/" },
+    { "name": "Call of Duty®: Modern Warfare® 4", "url": "https://store.steampowered.com/app/4435490/" },
+    { "name": "Football Manager 27", "url": "https://store.steampowered.com/app/4530370/" },
+    { "name": "Steam Controller", "url": "https://store.steampowered.com/app/4165870/" }
+  ]
+}
