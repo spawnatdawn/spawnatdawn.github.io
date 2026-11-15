@@ -1,0 +1,662 @@
+{
+  "date": "2026-11-15",
+  "headline": {
+    "es": "BLG conquista los Worlds y la UE apunta a las cajas de botín a cuatro días de GTA 6",
+    "en": "BLG wins Worlds and the EU targets loot boxes four days before GTA 6"
+  },
+  "intro": {
+    "es": "Riot anuncia League of Legends: New Dawn en plena final, Bruselas propone vetar las cajas de botín de pago a menores y los códigos de GTA 6 dan problemas.",
+    "en": "Riot unveils League of Legends: New Dawn during the final, Brussels proposes banning paid loot boxes for minors and GTA 6 codes cause trouble."
+  },
+  "stories": [
+    {
+      "id": "bilibili-gaming-campeon-worlds-2026-league-of-legends-new-dawn",
+      "category": "esports",
+      "title": {
+        "es": "BLG gana los Worlds 2026 y Riot presenta League of Legends: New Dawn",
+        "en": "BLG wins Worlds 2026 as Riot unveils League of Legends: New Dawn"
+      },
+      "dek": {
+        "es": "Bilibili Gaming remontó un 0-1 ante Gen.G (3-1) en Brooklyn, y la final sirvió de escaparate para la gran actualización de 2027.",
+        "en": "Bilibili Gaming came back from 0-1 to beat Gen.G 3-1 in Brooklyn, and the final doubled as the stage for the big 2027 update."
+      },
+      "why": {
+        "es": "Riot apuesta por un rediseño profundo de Summoner's Rift y del cliente para atraer a jugadores nuevos a un juego que lleva años estancado en ese frente.",
+        "en": "Riot is betting on a deep overhaul of Summoner's Rift and the client to win over new players, a front where the game has struggled for years."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/blg-wins-lol-worlds-2026-and-first-summoners-cup/"
+        },
+        {
+          "name": "Insider Gaming (New Dawn)",
+          "url": "https://insider-gaming.com/league-of-legends-new-dawn-update-revealed-worlds/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/league-of-legends/noticias/inicio-nueva-era-league-of-legends-2-tienen-nombre-oficial-presenta-su-nuevo-mapa-revela-actualizacion-visual-como-nunca-habiamos-visto"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027"
+        }
+      ],
+      "body": {
+        "es": [
+          "Bilibili Gaming (BLG) se proclamó campeona del mundo de League of Legends al derrotar 3-1 a Gen.G en la final disputada el 14 de noviembre en el Barclays Center de Brooklyn. Gen.G ganó el primer mapa y BLG respondió con tres victorias seguidas; el segundo duró 53 minutos, el más largo del torneo, según Insider Gaming. T1 y Faker ya habían quedado eliminados.",
+          "Durante la final, Riot mostró el primer adelanto de League of Legends: New Dawn, una actualización de gran escala prevista para 2027. Según 3DJuegos, solo enseñó unos segundos de metraje: un Summoner's Rift rediseñado (foso del dragón, zonas de la jungla y accesos a las líneas), retoques visuales en campeones, un cliente nuevo y mejoras para los jugadores que empiezan.",
+          "Riot prometió una presentación completa en enero y no concretó la fecha de salida más allá de «2027». El adelanto sugiere cambios en habilidades como la Q de Vayne y la E de Blitzcrank, aunque no está claro si vienen de ajustes de campeones o del sistema de runas, que también se tocará."
+        ],
+        "en": [
+          "Bilibili Gaming (BLG) became League of Legends world champion by beating Gen.G 3-1 in the final on November 14 at Brooklyn's Barclays Center. Gen.G took game one and BLG answered with three straight wins; game two ran 53 minutes, the longest of the tournament, per Insider Gaming. T1 and Faker had already been eliminated.",
+          "During the final, Riot showed the first teaser for League of Legends: New Dawn, a large-scale update planned for 2027. According to 3DJuegos it was only a few seconds of footage: a redesigned Summoner's Rift (dragon pit, parts of the jungle and lane access), visual touch-ups for champions, a new client and improvements for newcomers.",
+          "Riot promised a full presentation in January and gave no release date beyond \"2027\". The teaser hints at changes to abilities such as Vayne's Q and Blitzcrank's E, though it is unclear whether they come from champion tweaks or from the runes system, which is also due to change."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Barclays_Center%2C_Brooklyn_New_York%2C_2023.jpg/1280px-Barclays_Center%2C_Brooklyn_New_York%2C_2023.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Barclays_Center%2C_Brooklyn_New_York%2C_2023.jpg/960px-Barclays_Center%2C_Brooklyn_New_York%2C_2023.jpg",
+        "credit": "Weber Areiv / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Barclays_Center,_Brooklyn_New_York,_2023.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "gta-6-copias-fisicas-codigos-usados-o-ausentes",
+      "category": "juegos",
+      "title": {
+        "es": "Compradores de GTA 6 en formato «físico» denuncian códigos ya canjeados o ausentes",
+        "en": "Buyers of «physical» GTA 6 report codes already used or missing"
+      },
+      "dek": {
+        "es": "Las cajas llegan sin disco y con un código impreso; varios usuarios aseguran que el suyo estaba usado o no venía.",
+        "en": "The boxes ship without a disc and with a printed code; several users say theirs was already used or missing."
+      },
+      "why": {
+        "es": "Sin disco de respaldo, un fallo del código deja al comprador sin juego a cuatro días del estreno del 19 de noviembre.",
+        "en": "With no disc to fall back on, a faulty code leaves the buyer without the game days before the November 19 launch."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Kotaku, algunos compradores de copias anticipadas de GTA 6 afirman que la caja no incluía disco, solo un código de descarga, y que ese código ya estaba canjeado o directamente faltaba. Los testimonios aparecen en Reddit y X; algunos añaden que el soporte de Rockstar no les dio solución ni reembolso.",
+          "Kotaku señala que Rockstar no ha comentado y que el medio ha pedido su versión. Tampoco consta respuesta de las tiendas.",
+          "El asunto enlaza con el aviso de ayer sobre ver el código a contraluz: el propio Kotaku dice que su redactor jefe y otros periodistas no lograron reproducir el truco. Las diferencias de embalaje entre regiones circulan como hipótesis, sin confirmar."
+        ],
+        "en": [
+          "According to Kotaku, some buyers of early GTA 6 copies say the box held no disc, only a download code, and that the code was already redeemed or simply missing. The reports come from Reddit and X; some add that Rockstar support offered no fix or refund.",
+          "Kotaku notes Rockstar has not commented and that it has asked for a statement. No retailer response has been reported either.",
+          "The story follows yesterday's flashlight warning: Kotaku says its editor-in-chief and other press could not reproduce the trick. Regional packaging differences are floated as a theory, unconfirmed."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-mecanicas-empatia-rockstar-guardian",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar dice que GTA 6 incluirá mecánicas para fomentar la empatía, por primera vez en la saga",
+        "en": "Rockstar says GTA 6 will include empathy mechanics, a first for the series"
+      },
+      "dek": {
+        "es": "Rob Nelson, de Rockstar North, las describe como opcionales: el crimen sigue siendo «fundamental» y no se castigará el estilo de juego habitual.",
+        "en": "Rockstar North's Rob Nelson calls them optional: crime stays \"fundamental\" and the usual playstyle won't be punished."
+      },
+      "why": {
+        "es": "Rockstar quiere reforzar la coherencia entre la historia de Jason y Lucia y la libertad del jugador sin recortar el caos que define a la serie.",
+        "en": "Rockstar wants to align Jason and Lucia's story with player freedom without cutting the chaos that defines the series."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/gta-6-quiere-que-pienses-antes-sembrar-caos-primera-vez-historia-rockstar-ha-creado-mecanismos-para-fomentar-empatia"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy"
+        }
+      ],
+      "body": {
+        "es": [
+          "Rob Nelson, responsable de Rockstar North, explicó en una entrevista con The Guardian (11 de noviembre) que GTA 6 incluye mecanismos pensados para quienes quieran jugar con más empatía, algo inédito en la saga, según recoge 3DJuegos.",
+          "Nelson insistió en que son herramientas opcionales y que el crimen sigue siendo «una parte fundamental» de GTA. El juego no castigará a quien juegue como siempre, aunque sus acciones sí influirán en cómo evoluciona la partida.",
+          "El estudio seguirá el comportamiento de Jason y Lucia en una escala que va de «Profesional» a «Irremediable». Rockstar no ha detallado cómo funcionan en concreto esas mecánicas."
+        ],
+        "en": [
+          "Rob Nelson, head of Rockstar North, said in an interview with The Guardian (November 11) that GTA 6 includes mechanisms for players who want a more empathetic approach, a first for the series, as reported by 3DJuegos.",
+          "Nelson stressed they are optional tools and that crime remains \"a fundamental part\" of GTA. The game won't punish players for playing the way they're used to, though their actions will affect how the game unfolds.",
+          "The game tracks Jason and Lucia's behavior on a scale from \"Professional\" to \"Irremediable\". Rockstar has not detailed how these mechanics work in practice."
+        ]
+      }
+    },
+    {
+      "id": "formato-fisico-newzoo-zelnick-take-two",
+      "category": "industria",
+      "title": {
+        "es": "El físico resiste: el 30 % de las compras en consola, frente a un Zelnick que lo ve «muy pequeño»",
+        "en": "Physical holds on: 30% of console purchases, while Zelnick sees it as «very small»"
+      },
+      "dek": {
+        "es": "Un estudio de Newzoo y G2A y las declaraciones del CEO de Take-Two dibujan dos lecturas del futuro del disco.",
+        "en": "A Newzoo–G2A study and Take-Two's CEO paint two readings of the disc's future."
+      },
+      "why": {
+        "es": "Con GTA 6 saliendo solo con código en caja y Sony dejando los discos en 2028, el debate sobre la propiedad de los juegos gana peso.",
+        "en": "With GTA 6 shipping only as a code in a box and Sony ending discs in 2028, the debate over game ownership gains weight."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026318005/resistencia-fisica-el-30-de-las-compras-son-en-disco-porque-los-jugadores-necesitan-sentir-que-poseen-algo/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/strauss-zelnick-69-anos-dueno-rockstar-futuro-formato-fisico-videojuegos-sera-parte-muy-pequena-negocio"
+        }
+      ],
+      "body": {
+        "es": [
+          "Newzoo y el marketplace G2A encuestaron en agosto a 6.000 jugadores «premium» (adultos de 18 a 55 años) de Alemania, Polonia, Reino Unido, EE. UU., Brasil y Arabia Saudí. Según Vandal, el 30,4 % de sus compras de juegos de consola fueron en físico, y el 25,5 % del total de compras. Entre los motivos, el principal es jugar sin conexión estable, seguido de sentir que se posee algo.",
+          "Strauss Zelnick, CEO de Take-Two, dijo a The Game Business que el físico no tiene por qué desaparecer, pero será «una parte muy pequeña» del sector, como el vinilo en la música. Según 3DJuegos, el 98 % de los ingresos de la compañía es digital.",
+          "El contraste llega justo cuando GTA 6 sale sin disco, con un código en la caja, y tras anunciar Sony que dejará de producir nuevos juegos físicos de PlayStation desde enero de 2028, según recuerda Vandal."
+        ],
+        "en": [
+          "Newzoo and marketplace G2A surveyed 6,000 \"premium\" players (adults aged 18-55) in Germany, Poland, the UK, the US, Brazil and Saudi Arabia in August. Per Vandal, 30.4% of their console game purchases were physical, and 25.5% of all purchases. The top reason is playing without a stable connection, followed by feeling you own something.",
+          "Take-Two CEO Strauss Zelnick told The Game Business that physical may not disappear but will be \"a very small part\" of the industry, like vinyl in music. According to 3DJuegos, 98% of the company's revenue is digital.",
+          "The contrast comes just as GTA 6 ships without a disc, with a code in the box, and after Sony said it will stop producing new physical PlayStation games from January 2028, as Vandal recalls."
+        ]
+      }
+    },
+    {
+      "id": "ue-digital-fairness-act-cajas-botin-menores",
+      "category": "industria",
+      "title": {
+        "es": "La Comisión Europea propone prohibir las cajas de botín de pago a menores",
+        "en": "The European Commission proposes banning paid loot boxes for minors"
+      },
+      "dek": {
+        "es": "La Digital Fairness Act también exigiría mostrar probabilidades, precios reales de la moneda virtual y facilitar cancelar suscripciones.",
+        "en": "The Digital Fairness Act would also require odds disclosure, real prices for virtual currency and easier subscription cancellation."
+      },
+      "why": {
+        "es": "Aún es una propuesta que deberán negociar el Parlamento y el Consejo, y la industria ya la califica de desproporcionada.",
+        "en": "It is still a proposal for Parliament and the Council to negotiate, and the industry already calls it disproportionate."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/ue-quiere-meter-mano-a-cajas-botin-su-plan-impediria-venderlas-a-menores-e-impondria-restricciones-a-micropagos"
+        },
+        {
+          "name": "Massively OP",
+          "url": "https://massivelyop.com/2026/11/11/eu-digital-fairness-act-proposes-major-regulation-on-gaming-lockboxes-subscriptions-and-dark-patterns/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según 3DJuegos, la Comisión Europea presentó el 11 de noviembre la Digital Fairness Act, una norma de protección del consumidor que va más allá de los videojuegos. Prohibiría vender cajas de botín de pago a menores de 18 años, daría a todos los jugadores una opción para desactivarlas y obligaría a informar de los objetos posibles y sus probabilidades.",
+          "Los menores necesitarían permiso parental para usar moneda virtual comprada con dinero real y se limitarían las mecánicas de pagar por ventaja o progreso. Habría que mostrar el coste real de lo comprado con moneda virtual, cancelar suscripciones sería más fácil y las multas podrían llegar al 6 % de la facturación anual.",
+          "No es ley: Parlamento y Consejo deben negociar el texto. Video Games Europe y la EGDF, según 3DJuegos, tildaron las restricciones de «inviables, injustificadas y desproporcionadas»."
+        ],
+        "en": [
+          "According to 3DJuegos, the European Commission presented the Digital Fairness Act on November 11, a consumer-protection law that goes beyond video games. It would ban selling paid loot boxes to under-18s, give every player an option to disable them and require disclosure of possible items and odds.",
+          "Minors would need parental permission to use virtual currency bought with real money, and pay-for-advantage or pay-for-progress mechanics would be limited. The real cost of items bought with virtual currency would have to be shown, cancelling subscriptions would be easier and fines could reach 6% of annual turnover.",
+          "It is not law: Parliament and the Council must still negotiate the text. Video Games Europe and the EGDF, per 3DJuegos, called the restrictions \"unviable, unjustified and disproportionate\"."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/960px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+        "credit": "EmDee / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    {
+      "id": "arc-raiders-voces-ia-embark-actores",
+      "category": "juegos",
+      "title": {
+        "es": "Embark defiende las voces generadas por IA de ARC Raiders: «No estamos en el negocio de sustituir actores»",
+        "en": "Embark defends ARC Raiders' AI voices: «We're not in the business of replacing actors»"
+      },
+      "dek": {
+        "es": "El estudio explica en un vídeo que entrenó un sistema con grabaciones de sus actores para producir nuevas líneas, como las de los avisos del equipo.",
+        "en": "In a video the studio explains it trained a system on its actors' recordings to produce new lines, such as team pings."
+      },
+      "why": {
+        "es": "El debate sobre IA y doblaje sigue abierto: Embark sustituyó parte de las líneas por grabaciones humanas, pero no abandona la tecnología.",
+        "en": "The AI and voice-acting debate stays open: Embark replaced some lines with human recordings but isn't dropping the technology."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026318009/polemica-a-la-vista-el-shooter-arc-raiders-abre-la-puerta-a-usar-actores-de-voz-generados-por-ia/"
+        },
+        {
+          "name": "GamesRadar",
+          "url": "https://gamesradar.com/games/third-person-shooter/arc-raiders-had-to-use-ai-voices-dev-insists-because-real-voice-actors-would-just-go-crazy-if-they-had-to-read-all-of-that-and-get-paid-for-doing-it"
+        }
+      ],
+      "body": {
+        "es": [
+          "El director de audio de Embark, Bence Pajor, explicó en un vídeo que el juego cambia tanto durante el desarrollo que grabar cada línea con actores resultaría inviable. Puso como ejemplo el sistema de avisos, que necesita muchas variantes de diálogo por cada objeto o arma: «Los actores se volverían locos» al leerlas, según recoge Vandal.",
+          "El estudio entrenó un sistema con grabaciones de actores reales para generar líneas nuevas. El director creativo, Stefan Strandberg, afirmó que no pretenden sustituir a nadie; la actriz Diana Gardner, voz de Celeste, valoró poder aceptar otros trabajos, pero cuestionó cuánto de ese resultado sigue siendo suyo.",
+          "El uso de IA ya generó críticas tras el lanzamiento, en octubre de 2025. Embark ha reemplazado parte de esas líneas por grabaciones humanas, pero sigue usando la tecnología, y lo mismo ocurrió antes con The Finals."
+        ],
+        "en": [
+          "Embark's audio director Bence Pajor explained in a video that the game changes so much during development that recording every line with actors would be unworkable. He used the ping system as an example, which needs many dialogue variants per object or weapon: \"actors would go crazy\" reading them, as Vandal reports.",
+          "The studio trained a system on recordings of real actors to generate new lines. Creative director Stefan Strandberg said they don't aim to replace anyone; actress Diana Gardner, voice of Celeste, valued being free to take other jobs but questioned how much of the result is still hers.",
+          "The use of AI drew criticism after launch in October 2025. Embark has replaced some of those lines with human recordings but keeps using the technology, as it did before with The Finals."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/capsule_616x353.jpg",
+        "credit": "Embark Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1808500/"
+      }
+    },
+    {
+      "id": "inxile-edificio-disparos-sin-heridos",
+      "category": "industria",
+      "title": {
+        "es": "Disparan contra el edificio de inXile, estudio de Xbox, sin heridos y con un detenido",
+        "en": "Gunfire hits the building housing Xbox studio inXile; no injuries and one arrest"
+      },
+      "dek": {
+        "es": "Los disparos se registraron el 11 de noviembre en Tustin, California; la policía detuvo a un sospechoso el día 13.",
+        "en": "The shots were reported on November 11 in Tustin, California; police arrested a suspect on the 13th."
+      },
+      "why": {
+        "es": "Aunque no hubo víctimas, el móvil sigue sin aclararse y la investigación continúa.",
+        "en": "Although no one was hurt, the motive remains unclear and the investigation is ongoing."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/not-one-hurt-at-xbox-studio-inxile-entertainment-after-a-gunman-allegedly-opened-fire-on-the-building-2000756851"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/inxile-building-shooting-no-injuries/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Kotaku, hacia la 1:10 de la tarde del 11 de noviembre alguien disparó contra el edificio de oficinas de Tustin (California) donde trabaja inXile Entertainment. Los proyectiles alcanzaron la planta baja y la policía halló entre cinco y ocho casquillos. No hubo heridos.",
+          "La policía detuvo a un sospechoso el 13 de noviembre. Según el sargento Christopher Peterson, citado por Kotaku, se investigó si el estudio era el objetivo, pero el móvil sigue sin estar claro.",
+          "Un portavoz de inXile dijo sentir alivio porque nadie resultó herido."
+        ],
+        "en": [
+          "According to Kotaku, around 1:10 p.m. on November 11 someone fired at the office building in Tustin, California, that houses inXile Entertainment. Rounds hit the ground floor and police found between five and eight shell casings. Nobody was hurt.",
+          "Police arrested a suspect on November 13. Sergeant Christopher Peterson, cited by Kotaku, said investigators looked into whether the studio was the target, but the motive remains unclear.",
+          "An inXile spokesperson said the studio was relieved that no one was hurt."
+        ]
+      }
+    },
+    {
+      "id": "super-meat-boy-again-plus-remake-pc",
+      "category": "indie",
+      "title": {
+        "es": "Team Meat anuncia Super Meat Boy Again+, un remake del clásico de 2010 para PC",
+        "en": "Team Meat announces Super Meat Boy Again+, a remake of the 2010 classic for PC"
+      },
+      "dek": {
+        "es": "Promete más de 300 niveles, nuevos gráficos y cinemáticas, música de Danny Baranowsky y secretos nuevos y recuperados.",
+        "en": "It promises 300+ levels, new graphics and cutscenes, music by Danny Baranowsky and new and returning secrets."
+      },
+      "why": {
+        "es": "Es otra revisión del original de Team Meat, aún sin fecha de lanzamiento ni más plataformas confirmadas.",
+        "en": "It is another revisit of Team Meat's original, with no release date or other platforms confirmed yet."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/team-meat-whips-out-remake-of-classic-brutal-platformersuper-meat-boy-2000756869"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc"
+        }
+      ],
+      "body": {
+        "es": [
+          "Team Meat ha anunciado Super Meat Boy Again+, una nueva versión del plataformas de 2010 con gráficos y arte renovados, escenas animadas y más de 300 niveles, según Gematsu. Incluirá música del compositor original, Danny Baranowsky, y secretos nuevos y recuperados.",
+          "Por ahora solo se ha confirmado para PC, a través de Steam, y no tiene fecha de lanzamiento. Team Meat lo describe como todo lo que se recuerda del juego «con cosas añadidas»."
+        ],
+        "en": [
+          "Team Meat has announced Super Meat Boy Again+, a new version of the 2010 platformer with refreshed graphics and art, animated cutscenes and more than 300 levels, per Gematsu. It will feature music from original composer Danny Baranowsky and new and returning secrets.",
+          "So far it is only confirmed for PC via Steam, with no release date. Team Meat describes it as everything you remember from the game \"with stuff added to it\"."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269060/26a9bc76bed406b45749f37219b5c60e41e9c3d4/ss_26a9bc76bed406b45749f37219b5c60e41e9c3d4.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269060/a473773b47c75db9c86509268bee908223ac565c/header.jpg",
+        "credit": "Team Meat / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4269060/"
+      }
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-estadisticas-zelda-notes",
+      "category": "nintendo",
+      "title": {
+        "es": "Zelda Notes revela cómo juega la gente al remake de Ocarina of Time",
+        "en": "Zelda Notes reveals how people play the Ocarina of Time remake"
+      },
+      "dek": {
+        "es": "Lo más habitual es acabarlo en 20–30 horas, y los ReDead y Gibdo son los enemigos que más Game Overs causan.",
+        "en": "Most players finish it in 20–30 hours, and ReDeads and Gibdos cause the most Game Overs."
+      },
+      "why": {
+        "es": "El remake lidera la eShop de Switch 2, y estos datos son provisionales porque lleva algo más de una semana a la venta.",
+        "en": "The remake tops the Switch 2 eShop, and the data is provisional with the game out for just over a week."
+      },
+      "sources": [
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/zelda-ocarina-of-time-remake-revela-la-primera-causa-de-game-over-el-tiempo-medio-de-juego-y-mas-estadisticas-interesantes/"
+        },
+        {
+          "name": "Nintenderos (eShop)",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/zelda-ocarina-of-time-y-grand-theft-auto-the-trilogy-lideran-los-tops-ventas-del-momento-en-las-eshop-de-nintendo-switch-2-y-nintendo-switch-14-11-26/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Las estadísticas de Zelda Notes, en la app de Nintendo Switch, recogidas por Nintenderos, indican que lo más común es completar la aventura en 20–30 horas, morir entre una y diez veces y cortar hierba más de mil veces. Las Skulltulas son los enemigos más derrotados.",
+          "Los ReDead y los Gibdo causan más Game Overs, y Dark Link es el minijefe que más acaba con los jugadores. Las semillas deku son el consumible más usado y el Gancho, el objeto especial favorito.",
+          "Según el top del 14 de noviembre, el remake encabeza la eShop de Switch 2 a 59,99 €. En Switch, lidera GTA: The Trilogy – Definitive Edition. Nintenderos avisa de que los datos cambiarán con el tiempo."
+        ],
+        "en": [
+          "Zelda Notes stats in the Nintendo Switch app, gathered by Nintenderos, show the most common completion time is 20-30 hours, with one to ten deaths and grass cut more than a thousand times. Skulltulas are the most-defeated enemies.",
+          "ReDeads and Gibdos cause the most Game Overs, and Dark Link is the mini-boss that beats players most. Deku Seeds are the most-used consumable and the Hookshot the favorite special item.",
+          "In the November 14 chart, the remake tops the Switch 2 eShop at €59.99. On Switch, GTA: The Trilogy – Definitive Edition leads. Nintenderos warns the data will change over time."
+        ]
+      }
+    },
+    {
+      "id": "semana-16-22-noviembre-lanzamientos-gta-6-ps-plus",
+      "category": "juegos",
+      "title": {
+        "es": "La semana de GTA 6 vacía el calendario: PS Plus suma Death Stranding 2 y Xbox, un puñado de estrenos",
+        "en": "GTA 6 week empties the calendar: PS Plus adds Death Stranding 2, Xbox gets a handful of releases"
+      },
+      "dek": {
+        "es": "Entre el 16 y el 22 de noviembre apenas hay grandes estrenos fuera de GTA 6, el 19 de noviembre.",
+        "en": "Between November 16 and 22 there are few big releases besides GTA 6 on November 19."
+      },
+      "why": {
+        "es": "Casi todo el mundo ha esquivado la fecha de GTA 6; las propuestas de la semana son pequeñas o llegan vía suscripción.",
+        "en": "Nearly everyone has dodged GTA 6's date; the week's offerings are small or arrive through subscription."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20"
+        }
+      ],
+      "body": {
+        "es": [
+          "Push Square señala que GTA 6, el 19 de noviembre, ha «hecho huir» a casi todos los demás lanzamientos. En PS5 también salen Moonlight Peaks, Ranger's Path: National Park Simulator y Dark Rail (17 y 18 de noviembre), y The House of Tesla: Definitive Edition (19).",
+          "El 17 de noviembre llegan a PS Plus Extra Atomfall, Death Stranding 2: On the Beach y Dragon Quest III HD-2D Remake, y a Premium, Freedom Wars Remastered y Soul Reaver 2.",
+          "En Xbox, Pure Xbox cita además Vice: Magic City Mayhem (18) y The Binding of Isaac: Repentance+ Online (19), con cooperativo online para cuatro. A Game Pass llegan Aphelion y PAW Patrol: Dino World el 17."
+        ],
+        "en": [
+          "Push Square notes that GTA 6, on November 19, has \"sent nearly every other game running for the hills\". On PS5 also arrive Moonlight Peaks, Ranger's Path: National Park Simulator and Dark Rail (November 17 and 18), and The House of Tesla: Definitive Edition (19).",
+          "On November 17, PS Plus Extra adds Atomfall, Death Stranding 2: On the Beach and Dragon Quest III HD-2D Remake, and Premium gets Freedom Wars Remastered and Soul Reaver 2.",
+          "On Xbox, Pure Xbox also lists Vice: Magic City Mayhem (18) and The Binding of Isaac: Repentance+ Online (19), with four-player online co-op. Game Pass gets Aphelion and PAW Patrol: Dino World on the 17th."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Strauss Zelnick (Take-Two) dice a IGN que la clonación de juegos con IA y los ports no oficiales a PC no son una amenaza financiera, pero sí una preocupación creativa.",
+        "en": "Take-Two's Strauss Zelnick told IGN that AI game cloning and unofficial PC ports are not a financial threat, but are a creative concern."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/take-two-ai-game-cloning-creative-concern/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: Ubisoft habría aprobado un Rainbow Six: Vegas 3 en Montreal, en fase muy temprana y sin confirmación oficial, según Insider Gaming recogido por Push Square.",
+        "en": "Rumor: Ubisoft has reportedly greenlit Rainbow Six: Vegas 3 in Montreal, at a very early stage and with no official confirmation, per Insider Gaming as reported by Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft"
+      }
+    },
+    {
+      "text": {
+        "es": "Un informe de la GDC indica que alrededor del 40 % de los desarrolladores usa IA generativa, pero más de la mitad opina que perjudica a la industria.",
+        "en": "A GDC report says about 40% of developers use generative AI, but more than half think it harms the industry."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/"
+      }
+    },
+    {
+      "text": {
+        "es": "Battlestate Games prepara un juego de extracción de Tarkov para móvil, en perspectiva cenital y en tercera persona; se anunciará en 2027, según Insider Gaming.",
+        "en": "Battlestate Games is making a Tarkov extraction game for mobile, third-person and top-down; it will be announced in 2027, per Insider Gaming."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/tarkov-new-mobile-game-top-down-extraction-shooter/"
+      }
+    },
+    {
+      "text": {
+        "es": "Warhammer Survivors publicó su hoja de ruta: nuevos personajes y armas en diciembre, guardado cruzado en enero de 2027 y un contenido mayor en el segundo trimestre.",
+        "en": "Warhammer Survivors revealed its roadmap: new characters and weapons in December, cross-save in January 2027 and a larger piece of content in Q2."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big"
+      }
+    },
+    {
+      "text": {
+        "es": "Halo: Campaign Evolved recibirá Firefight como actualización gratuita; más detalles en el Halo Fest de diciembre.",
+        "en": "Halo: Campaign Evolved will get Firefight as a free update, with more details at December's Halo Fest."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/"
+      }
+    },
+    {
+      "text": {
+        "es": "Collins incorpora «friendslop», término originalmente despectivo para juegos indie de bajo presupuesto pensados para jugar con amigos, como PEAK o Lethal Company.",
+        "en": "Collins adds \"friendslop\", an originally dismissive term for low-budget indie games made for playing with friends, such as PEAK or Lethal Company."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026318010/friendslop-el-nuevo-y-despectivo-termino-sobre-videojuegos-que-ha-entrado-al-diccionario/"
+      }
+    },
+    {
+      "text": {
+        "es": "MachineGames tuvo en Indiana Jones y el Gran Círculo un sistema de búsqueda inspirado en GTA porque temía que el jugador eliminara a los nazis solo a tiros.",
+        "en": "MachineGames once had a GTA-inspired wanted system in Indiana Jones and the Great Circle because it feared players would kill every Nazi with guns alone."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/"
+      }
+    },
+    {
+      "text": {
+        "es": "Pearl Abyss confirma que DokeV llegará en 2028 y que volverá a mostrarse este año, según su informe financiero recogido por Push Square.",
+        "en": "Pearl Abyss says DokeV will launch in 2028 and be shown again this year, per its financial report as covered by Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year"
+      }
+    },
+    {
+      "text": {
+        "es": "Crazy Taxi: World Tour cierra su gira con India como quinto y último destino, con un tráiler que enseña misiones como rodar una película de Bollywood.",
+        "en": "Crazy Taxi: World Tour wraps its tour with India as the fifth and final destination, with a trailer showing missions like shooting a Bollywood film."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour"
+      }
+    },
+    {
+      "text": {
+        "es": "Un usuario de YouTube recrea Gran Turismo 7 en Unreal Engine 5 para PC; el proyecto es preliminar y ya incluye varios coches y circuitos.",
+        "en": "A YouTuber is rebuilding Gran Turismo 7 in Unreal Engine 5 for PC; the project is preliminary but already has several cars and tracks."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026318008/no-es-ninguna-broma-alguien-esta-portando-gran-turismo-7-a-pc-usando-unreal-engine-5/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "GTA 6 (PS5, Xbox Series X|S)",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november"
+    },
+    {
+      "title": "The Binding of Isaac: Repentance+ Online",
+      "platforms": "Consolas / Consoles",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20"
+    },
+    {
+      "title": "Death Stranding 2: On the Beach (PS Plus Extra)",
+      "platforms": "PS5",
+      "note": {
+        "es": "17 de noviembre",
+        "en": "November 17"
+      },
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november"
+    },
+    {
+      "title": "Vice: Magic City Mayhem",
+      "platforms": "Xbox",
+      "note": {
+        "es": "18 de noviembre",
+        "en": "November 18"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20"
+    },
+    {
+      "title": "God of War: Sons of Sparta (PS4)",
+      "platforms": "PS4",
+      "note": {
+        "es": "16 de noviembre",
+        "en": "November 16"
+      },
+      "url": "https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Las voces generadas por IA de ARC Raiders vuelven a encender la polémica entre jugadores y actores de doblaje.",
+        "en": "ARC Raiders' AI-generated voices reignite debate among players and voice actors."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026318009/polemica-a-la-vista-el-shooter-arc-raiders-abre-la-puerta-a-usar-actores-de-voz-generados-por-ia/"
+      }
+    },
+    {
+      "text": {
+        "es": "Jugadores de Genshin Impact se quejan de un posible nerfeo a Mitya en la versión 7.3 presentado como corrección de errores.",
+        "en": "Genshin Impact players are upset over a possible Mitya nerf in version 7.3 framed as bug fixes."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/genshin-impact-mitya-nerf-controversy/"
+      }
+    },
+    {
+      "text": {
+        "es": "Compradores de GTA 6 en caja sin disco denuncian códigos ya usados o ausentes y poca ayuda del soporte.",
+        "en": "Buyers of boxed GTA 6 without a disc report used or missing codes and little help from support."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883"
+      }
+    },
+    {
+      "text": {
+        "es": "El gameplay de Fable sigue dividiendo opiniones: Pure Xbox admite que no le impresionó.",
+        "en": "Fable's gameplay keeps dividing opinion: Pure Xbox admits it didn't wow them."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/fables-latest-showing-didnt-exactly-blow-our-socks-off"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "url": "https://store.steampowered.com/app/3809270/"
+    },
+    {
+      "name": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "url": "https://store.steampowered.com/app/3796990/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "url": "https://store.steampowered.com/app/2868840/"
+    }
+  ]
+}
