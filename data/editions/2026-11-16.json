@@ -1,0 +1,576 @@
+{
+  "date": "2026-11-16",
+  "headline": {
+    "es": "Helix aclara su rumbo y GTA 6 llena los discos a tres días del estreno",
+    "en": "Helix clarifies its course and GTA 6 fills the drives three days from launch"
+  },
+  "intro": {
+    "es": "Xbox define Project Helix como una consola que juega a tu PC, Jensen Huang busca volver a Nvidia y hasta Madden pide que no lo borres por GTA 6.",
+    "en": "Xbox defines Project Helix as a console that plays your PC games, Jensen Huang reportedly eyes a return to Nvidia and even Madden begs not to be deleted for GTA 6."
+  },
+  "stories": [
+    {
+      "id": "xbox-project-helix-consola-que-juega-juegos-de-pc",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox define Project Helix: «una consola capaz de jugar a tus juegos de PC»",
+        "en": "Xbox defines Project Helix: 'a console capable of playing your PC games'"
+      },
+      "dek": {
+        "es": "Jason Ronald insiste en que no es un PC con juegos de consola y apunta al renderizado neuronal como pieza clave.",
+        "en": "Jason Ronald insists it is not a PC that also runs console games, and points to neural rendering as a key piece."
+      },
+      "why": {
+        "es": "Microsoft intenta fundir catálogos de consola y PC sin que el jugador tenga que gestionar sistema, drivers ni ajustes.",
+        "en": "Microsoft is trying to merge console and PC libraries without making players manage the OS, drivers or settings."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/xbox-revela-todos-secretos-project-helix-deja-claro-que-consola-que-tiene-mucho-que-ver-pc"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-project-helix-console-first-not-pc/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc"
+        }
+      ],
+      "body": {
+        "es": [
+          "Xbox ha publicado, dentro de la revista del 25.º aniversario, nuevos detalles de Project Helix. Jason Ronald, vicepresidente de Next Generation, lo resume así: está diseñado para ser una consola que puede jugar a tus juegos de PC, «no un PC que también juega a juegos de consola».",
+          "Según la revista, el hardware se diseña para que el usuario no tenga que ocuparse de actualizaciones del sistema, drivers o ajustes, aunque los jugadores avanzados podrán afinar opciones. Ronald sitúa la ROG Xbox Ally como precursora y dice que el renderizado neuronal permitirá generar fotogramas sin más potencia ni memoria.",
+          "Siguen sin confirmarse especificaciones, precio, lector de discos y fecha. Un informe sin confirmar, citado por Pure Xbox, habla de una portátil propia en 2027 y de Helix en 2028, con la salvedad de que los planes pueden cambiar."
+        ],
+        "en": [
+          "Xbox published new details of Project Helix in its 25th anniversary magazine. Jason Ronald, VP of Next Generation, sums it up: it is designed as a console that can play games from your PC, 'not a PC that can also play console games'.",
+          "According to the magazine, the hardware is built so users don't have to deal with OS updates, drivers or settings, although power users will still be able to tweak options. Ronald calls the ROG Xbox Ally a precursor and says neural rendering will generate frames without needing more compute or memory.",
+          "Specs, price, disc drive and release date remain unconfirmed. An unconfirmed report cited by Pure Xbox mentions a first-party handheld in 2027 and Helix in 2028, with the caveat that plans can change."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/1280px-Xbox-console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/960px-Xbox-console.jpg",
+        "credit": "Evan-Amos / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox-console.jpg",
+        "license": "Public domain"
+      }
+    },
+    {
+      "id": "xbox-helix-retrocompatibilidad-cuatro-generaciones",
+      "category": "xbox",
+      "title": {
+        "es": "Helix promete llevar cuatro generaciones de Xbox con tu progreso",
+        "en": "Helix promises to bring four generations of Xbox with your progress"
+      },
+      "dek": {
+        "es": "Ronald asegura que la biblioteca y el progreso de las últimas cuatro generaciones estarán disponibles al instante.",
+        "en": "Ronald says the library and progression of the last four generations will be available instantly."
+      },
+      "why": {
+        "es": "La preservación es parte central del discurso de Xbox, aunque aún no hay lista de juegos compatibles.",
+        "en": "Preservation is central to Xbox's pitch, though there is no list of compatible games yet."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/xbox-game-preservation-project-helix/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Entre los mensajes de la revista, Xbox subraya la compatibilidad con el pasado: Jason Ronald afirma que los usuarios podrán traer a Helix cuatro generaciones de su biblioteca Xbox y su progresión, y acceder a ellas de inmediato.",
+          "La compañía enmarca esto dentro de la preservación de juegos, un eje de la plataforma. No se ha detallado qué títulos entrarán ni cómo funcionará con las tiendas de PC."
+        ],
+        "en": [
+          "Among the magazine's messages, Xbox stresses backward compatibility: Jason Ronald says users will be able to bring four generations of their Xbox library and progression to Helix and access it instantly.",
+          "The company frames this as game preservation, a pillar of the platform. Which titles will be included, and how it will work with PC storefronts, has not been detailed."
+        ]
+      }
+    },
+    {
+      "id": "nvidia-jensen-huang-volver-ceo-ft",
+      "category": "industria",
+      "title": {
+        "es": "Jensen Huang, a por la vuelta a Nvidia días después de dimitir",
+        "en": "Jensen Huang reportedly eyes a return to Nvidia days after resigning"
+      },
+      "dek": {
+        "es": "Según medios que citan al Financial Times, el fundador habla con aliados sobre regresar; no hay decisión ni comunicado de Nvidia.",
+        "en": "Per outlets citing the Financial Times, the founder is talking to allies about returning; there is no decision or Nvidia statement."
+      },
+      "why": {
+        "es": "Nvidia marca el ritmo de las gráficas y la IA; quién la dirija afectará al mercado de hardware para jugadores.",
+        "en": "Nvidia sets the pace in GPUs and AI, so who runs it matters for the gaming hardware market."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-allies"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/nvidia-se-esta-volviendo-surrealista-jensen-huang-dimitio-hace-tres-dias-como-ceo-tiene-plan-para-volver-al-poder"
+        }
+      ],
+      "body": {
+        "es": [
+          "Jensen Huang dimitió como CEO de Nvidia hace unos tres días, tras informaciones sobre supuestas infidelidades y un presunto caso de espionaje chino, este último sin confirmar. La directora financiera, Colette Kress, dirige la compañía mientras el consejo valora candidatos internos y externos.",
+          "IGN y 3DJuegos recogen ahora que Huang habría hablado con aliados sobre volver, según el Financial Times. Entre los apoyos que se le atribuyen figuran Elon Musk, Tim Sweeney y algunos accionistas y empleados; también se cita un contacto del consejo con René Haas, CEO de Arm.",
+          "Nada de esto está confirmado: no hay negociación acreditada con el consejo y Nvidia no se ha pronunciado."
+        ],
+        "en": [
+          "Jensen Huang resigned as Nvidia CEO about three days ago following reports of alleged affairs and an alleged Chinese espionage case, the latter unconfirmed. CFO Colette Kress is running the company while the board weighs internal and external candidates.",
+          "IGN and 3DJuegos now report that Huang has discussed a return with allies, according to the Financial Times. Backers attributed to him include Elon Musk, Tim Sweeney and some shareholders and employees; the board is also said to have contacted Arm CEO René Haas.",
+          "None of this is confirmed: there is no verified negotiation with the board and Nvidia has not commented."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Jensen_huang_stanford_2026-04-30_018.jpg/1280px-Jensen_huang_stanford_2026-04-30_018.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Jensen_huang_stanford_2026-04-30_018.jpg/960px-Jensen_huang_stanford_2026-04-30_018.jpg",
+        "credit": "Anders Eidesvik / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_018.jpg",
+        "license": "CC BY 4.0"
+      }
+    },
+    {
+      "id": "gta-6-madden-27-no-borrar-212gb-precarga",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 pesa 212 GB en PS5 y EA ruega que no borres Madden NFL 27",
+        "en": "GTA 6 weighs 212GB on PS5 and EA begs you not to delete Madden NFL 27"
+      },
+      "dek": {
+        "es": "Madden muestra un mensaje de «¡No borres!» mientras los jugadores liberan espacio para el estreno del 19 de noviembre.",
+        "en": "Madden shows a 'Don't delete!' message as players clear space for the November 19 launch."
+      },
+      "why": {
+        "es": "El tamaño de GTA 6 empieza a afectar a la competencia, que lucha por no ser lo primero que se desinstale.",
+        "en": "GTA 6's size is starting to affect rivals, who are fighting not to be the first thing uninstalled."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6"
+        }
+      ],
+      "body": {
+        "es": [
+          "La instalación de GTA 6 en PS5 ocupa 212 GB, según Push Square, que añade que la precarga anticipada de Rockstar ha mitigado parte del problema. El juego sale el 19 de noviembre.",
+          "EA ha añadido a Madden NFL 27 un aviso de «¡No borres!» que pide esperar a «la señal de nuestro insider» el 11/17. En redes, la compañía ya había escrito que no dejes que 210 GB se interpongan entre ti y tu liga.",
+          "Push Square sugiere que otras editoras pueden verse afectadas, pero solo nombra a EA Sports."
+        ],
+        "en": [
+          "GTA 6's PS5 install takes 212GB, according to Push Square, which adds that Rockstar's early preload has eased part of the problem. The game launches on November 19.",
+          "EA has added a 'Don't delete!' prompt to Madden NFL 27 asking players to await 'the signal from our insider' on 11/17. On social media the company had already said not to let 210GB get between you and your league.",
+          "Push Square suggests other publishers may be affected, but names only EA Sports."
+        ]
+      }
+    },
+    {
+      "id": "xbox-25-aniversario-arranques-original-360",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox celebra sus 25 años con los arranques clásicos de Xbox y Xbox 360",
+        "en": "Xbox marks its 25th birthday with classic Xbox and Xbox 360 boot-ups"
+      },
+      "dek": {
+        "es": "Tres animaciones de inicio retro llegan a Series X|S y One desde Ajustes > Inicio.",
+        "en": "Three retro startup animations arrive on Series X|S and One via Settings > Startup."
+      },
+      "why": {
+        "es": "Un guiño de nostalgia con el que Xbox acompaña su campaña del aniversario mientras perfila Helix.",
+        "en": "A nostalgic nod accompanying Xbox's anniversary push as it shapes Helix."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/three-classic-startup-animations-are-rolling-out-today-on-xbox-november-15"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary"
+        }
+      ],
+      "body": {
+        "es": [
+          "El 15 de noviembre, aniversario de Xbox, Microsoft empezó a repartir tres animaciones de arranque clásicas: la de la Xbox original y dos de Xbox 360, de 2005 y 2010.",
+          "Están disponibles para todos los jugadores de Xbox Series X|S y Xbox One y se activan en Ajustes, en el apartado Inicio. El despliegue se hizo a lo largo del día, según Pure Xbox."
+        ],
+        "en": [
+          "On November 15, Xbox's anniversary, Microsoft began rolling out three classic boot-up animations: the original Xbox one and two from Xbox 360, from 2005 and 2010.",
+          "They are available to all Xbox Series X|S and Xbox One players and can be enabled under Settings, in the Startup section. The rollout ran through the day, according to Pure Xbox."
+        ]
+      }
+    },
+    {
+      "id": "dune-awakening-modo-offline-un-jugador",
+      "category": "pc",
+      "title": {
+        "es": "Dune: Awakening ya se puede jugar sin conexión a internet",
+        "en": "Dune: Awakening can now be played without an internet connection"
+      },
+      "dek": {
+        "es": "La última actualización permite crear y borrar personajes en solitario sin tocar la red; hay un botón «Go Online» para volver.",
+        "en": "The latest update lets you create and delete single-player characters without touching the web; a 'Go Online' button brings you back."
+      },
+      "why": {
+        "es": "Funcom reconoce una petición muy repetida de la comunidad y refuerza la vertiente en solitario del juego.",
+        "en": "Funcom answers a widely requested feature and strengthens the game's solo side."
+      },
+      "sources": [
+        {
+          "name": "GamingOnLinux",
+          "url": "https://www.gamingonlinux.com/2026/11/dune-awakening-gets-fully-offline-single-player-in-the-latest-update/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Dune: Awakening permite ahora jugar en solitario sin conexión a internet «en ningún momento», incluida la creación y borrado de personajes de un jugador. GamingOnLinux lo publicó el 10 de noviembre.",
+          "La actualización también corrige logros, mejora la colocación de alfombras, soluciona el generador de agua en solitario y guarda en la nube los ajustes de servidor personalizados. Según la misma fuente, hay una expansión gratuita prevista el próximo mes y más contenido a lo largo del año que viene.",
+          "Las fuentes consultadas no detallan limitaciones del modo offline."
+        ],
+        "en": [
+          "Dune: Awakening can now be played solo without an internet connection 'at any point', including creating and deleting single-player characters. GamingOnLinux reported it on November 10.",
+          "The update also fixes achievements, eases placing rugs, resolves single-player water generation and saves custom server settings to the cloud. The same source mentions a free expansion due next month and more content later next year.",
+          "The sources consulted don't detail any limitations of the offline mode."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/capsule_616x353.jpg",
+        "credit": "Funcom / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1172710/"
+      }
+    },
+    {
+      "id": "minecraft-dungeons-ii-dlc-the-humblers-awaken-1-diciembre",
+      "category": "juegos",
+      "title": {
+        "es": "Minecraft Dungeons II estrena su primer DLC el 1 de diciembre",
+        "en": "Minecraft Dungeons II gets its first DLC on December 1"
+      },
+      "dek": {
+        "es": "The Humblers Awaken llega con una actualización gratuita; un segundo DLC está previsto para primavera de 2027.",
+        "en": "The Humblers Awaken arrives with a free update; a second DLC is planned for spring 2027."
+      },
+      "why": {
+        "es": "Mojang acelera el soporte del juego apenas unas semanas después de su lanzamiento.",
+        "en": "Mojang is quickly stepping up support for the game."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/minecraft-dungeons-ii-anuncia-su-dlc-the-humblers-awaken/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Mojang anunció en una emisión sorpresa en la TwitchCon de San Diego que The Humblers Awaken, el primer DLC de pago de Minecraft Dungeons II, saldrá el 1 de diciembre de 2026.",
+          "Añade misiones y entornos nuevos, como campos de esporas y madrigueras, tres artefactos con habilidades activas y cuatro talismanes pasivos, además de cosméticos. La actualización gratuita suma desafíos, armas y armaduras y mazmorras de prueba, y trae a Hal, Hex, Adrienne y Valorie como skins.",
+          "El segundo DLC, Illusions of Grandeur, llegará en primavera de 2027. Nintendo Life no indica el precio."
+        ],
+        "en": [
+          "Mojang announced in a surprise broadcast at TwitchCon San Diego that The Humblers Awaken, Minecraft Dungeons II's first paid DLC, launches on December 1, 2026.",
+          "It adds new quests and environments, such as fungal sporefields and underground burrows, three artifacts with active abilities and four passive talismans, plus cosmetics. The free update adds challenges, weapons and armour and trial dungeons, and brings Hal, Hex, Adrienne and Valorie as skins.",
+          "A second DLC, Illusions of Grandeur, is slated for spring 2027. Nintendo Life does not state the price."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/d6dde427b695492ec7b36c2bcf1d49c38143a017/ss_d6dde427b695492ec7b36c2bcf1d49c38143a017.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg",
+        "credit": "Xbox Game Studios / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1912410/"
+      }
+    },
+    {
+      "id": "zelda-ocarina-of-time-slant-70-metacritic",
+      "category": "nintendo",
+      "title": {
+        "es": "Un 70/100 de Slant sacude la media de Zelda: Ocarina of Time en Metacritic",
+        "en": "A 70/100 from Slant dents Zelda: Ocarina of Time's Metacritic average"
+      },
+      "dek": {
+        "es": "La media del remake de Switch 2 baja de 96 a 95 con 114 análisis, y la nota provoca críticas en redes.",
+        "en": "The Switch 2 remake's average slips from 96 to 95 across 114 reviews, and the score drew backlash on social media."
+      },
+      "why": {
+        "es": "Muestra cuánto se ha endurecido la conversación en torno a las puntuaciones de un remake casi unánime.",
+        "en": "It shows how heated score discourse has become around an almost unanimously praised remake."
+      },
+      "sources": [
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/baja-la-nota-media-de-zelda-ocarina-of-time-en-metacritic-tras-recibir-una-polemica-puntuacion-de-70-100/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Slant Magazine ha puntuado con 70/100 el remake de The Legend of Zelda: Ocarina of Time para Switch 2, una de las notas más bajas del juego. Hasta entonces, ninguno de los análisis recogidos bajaba de 80.",
+          "Según Nintenderos, la media en Metacritic pasa de 96 a 95 sobre 114 reseñas. Algunos usuarios han acusado a la revista de buscar polémica con notas deliberadamente llamativas y han pedido a Metacritic que lo investigue; la fuente no detalla los motivos de la puntuación."
+        ],
+        "en": [
+          "Slant Magazine has scored the Switch 2 remake of The Legend of Zelda: Ocarina of Time 70/100, one of the lowest marks for the game. Until then, none of the collected reviews had gone below 80.",
+          "According to Nintenderos, the Metacritic average moves from 96 to 95 across 114 reviews. Some users accused the outlet of chasing controversy with deliberately provocative scores and asked Metacritic to investigate; the source doesn't detail the reasons for the score."
+        ]
+      }
+    },
+    {
+      "id": "steamos-3-10-preview-hdmi-21-nvidia",
+      "category": "pc",
+      "title": {
+        "es": "SteamOS 3.10 llega en vista previa con HDMI 2.1 y mejoras para NVIDIA",
+        "en": "SteamOS 3.10 arrives in preview with HDMI 2.1 and NVIDIA improvements"
+      },
+      "dek": {
+        "es": "Valve añade VRR, FRL y ALLM para equipos con AMD y soporte de mesh shaders en RTX 2000 o superior.",
+        "en": "Valve adds VRR, FRL and ALLM for AMD systems and mesh shader support on RTX 2000 and newer."
+      },
+      "why": {
+        "es": "Valve sigue ampliando SteamOS más allá de Steam Deck, hacia salones y otros portátiles.",
+        "en": "Valve keeps widening SteamOS beyond Steam Deck, toward living rooms and other handhelds."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/valve-vuelve-a-mejorar-corazon-steam-deck-machine-su-nueva-actualizacion-apunta-a-televisores-amplia-posibilidades-gpu-nvidia"
+        }
+      ],
+      "body": {
+        "es": [
+          "Valve ha lanzado SteamOS 3.10.0 en el canal de vista previa, sin fecha de versión estable. Orientada sobre todo a equipos que no son Steam Deck, incorpora funciones HDMI 2.1 (VRR, FRL y ALLM) para AMD, dependientes de hardware y pantalla.",
+          "En NVIDIA mejora rendimiento y estabilidad sin dar detalles y añade mesh shaders en las RTX 2000 y posteriores. También corrige fallos gráficos en Shadow of the Tomb Raider y The Surge 2, el desbordamiento de HDR en Control y el Bluetooth al cambiar de modo, y añade controles de brillo y HDR para la ROG Xbox Ally X20."
+        ],
+        "en": [
+          "Valve has released SteamOS 3.10.0 in the preview channel, with no stable release date. Aimed mainly at non-Steam Deck devices, it brings HDMI 2.1 features (VRR, FRL and ALLM) to AMD systems, depending on hardware and display.",
+          "On NVIDIA it improves performance and stability without detail and adds mesh shaders on RTX 2000 and newer. It also fixes graphical bugs in Shadow of the Tomb Raider and The Surge 2, HDR overexposure in Control and Bluetooth audio when switching modes, and adds brightness and HDR controls for the ROG Xbox Ally X20."
+        ]
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+        "credit": "Liam Dawe/GamingOnLinux, PNG version by VulcanSphere / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Steam_Deck_(front).png",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Minecraft para Switch 2 recibirá controles de ratón con Joy-Con 2 (ZL coloca bloques, ZR los rompe); ya se prueban en la beta cerrada, sin fecha oficial.",
+        "en": "Minecraft on Switch 2 will get Joy-Con 2 mouse controls (ZL places blocks, ZR breaks them); they are in the closed beta, with no official date."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update"
+      }
+    },
+    {
+      "text": {
+        "es": "Una demanda en un tribunal federal de California contra Samsung, Micron y SK hynix por presunto pacto de precios de la DRAM sigue adelante: la jueza Wise rechazó archivarla. Tienen hasta el 7 de diciembre para responder y la vista es en enero.",
+        "en": "A federal California lawsuit accusing Samsung, Micron and SK hynix of alleged DRAM price coordination moves forward: Judge Wise declined to dismiss it. Defendants have until December 7 to respond, with a hearing in January."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/hardware/pc-y-portatiles/noticias/fabricantes-ram-no-se-libran-justicia-estadounidense-rechaza-archivar-demanda-micron-samsung-sk-hynix"
+      }
+    },
+    {
+      "text": {
+        "es": "Rebel Wolves confirma que el modo Nueva Partida+ llegará a The Blood of Dawnwalker la semana que viene.",
+        "en": "Rebel Wolves confirms New Game+ mode is coming to The Blood of Dawnwalker next week."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/the-blood-of-dawnwalker-anadira-el-modo-nueva-partida-la-semana-que-viene"
+      }
+    },
+    {
+      "text": {
+        "es": "Auroch Digital ha detallado la hoja de ruta posterior al lanzamiento de Warhammer Survivors.",
+        "en": "Auroch Digital has detailed the post-launch roadmap for Warhammer Survivors."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/warhammer-survivors-detalla-su-hoja-de-ruta-post-lanzamiento"
+      }
+    },
+    {
+      "text": {
+        "es": "Unos aficionados lanzarán gratis Half-Life: Pocket DX, un «demake» del juego de Valve para Game Boy Color en clave de aventura de acción 2D.",
+        "en": "Fans will release Half-Life: Pocket DX for free, a Game Boy Color 'demake' of Valve's game as a 2D action adventure."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026319012/increible-pero-cierto-lanzaran-un-asombroso-demake-de-halflife-gratis-para-game-boy-color/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los responsables de Alien: Isolation 2 explican que el xenomorfo aprenderá de tus encuentros, pero «no puede teletransportarse».",
+        "en": "The team behind Alien: Isolation 2 says the xenomorph will learn from your encounters but 'can't teleport'."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026319009/el-xenomorfo-de-alien-isolation-2-aprendera-de-tus-encuentros-pero-no-hara-trampas-no-puede-teletransportarse/"
+      }
+    },
+    {
+      "text": {
+        "es": "Una nueva versión de RTX Remix con path tracing mejora el aspecto y el rendimiento del mod visual de GTA IV del modder xoxor4d.",
+        "en": "A new RTX Remix path tracing build improves the look and performance of modder xoxor4d's GTA IV visual mod."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026319001/gta-iv-luce-mas-nextgen-que-nunca-gracias-a-la-nueva-y-espectacular-actualizacion-rtx-remix/"
+      }
+    },
+    {
+      "text": {
+        "es": "Sony rebajará las suscripciones de PS Plus en sus tres niveles desde el 16 de noviembre durante dos semanas, con la salvedad habitual en el precio.",
+        "en": "Sony will discount PS Plus at all three tiers from November 16 for two weeks, with the usual catch on pricing."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch"
+      }
+    },
+    {
+      "text": {
+        "es": "Microsoft habilita en ROG Xbox Ally X su alternativa a DLSS, según 3DJuegos.",
+        "en": "Microsoft's DLSS alternative now works on ROG Xbox Ally X, according to 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/pc/noticias/microsoft-da-otra-razon-para-comprar-rog-xbox-ally-x-su-alternativa-a-dlss-funciona-portatil-gran-noticia-para-tus-juegos"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "GTA 6 (PS5, Xbox Series X|S)",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it"
+    },
+    {
+      "title": "The Blood of Dawnwalker: Nueva Partida+",
+      "platforms": "PC, PS5, Xbox Series X|S",
+      "note": {
+        "es": "La semana que viene",
+        "en": "Next week"
+      },
+      "url": "https://www.eurogamer.es/the-blood-of-dawnwalker-anadira-el-modo-nueva-partida-la-semana-que-viene"
+    },
+    {
+      "title": "Minecraft Dungeons II: The Humblers Awaken",
+      "platforms": "DLC",
+      "note": {
+        "es": "1 de diciembre",
+        "en": "December 1"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month"
+    },
+    {
+      "title": "Rivals of Aether II: Burnette",
+      "platforms": "DLC",
+      "note": {
+        "es": "1 de diciembre",
+        "en": "December 1"
+      },
+      "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La nota de 70/100 de Slant a Zelda: Ocarina of Time divide a los fans y se pide a Metacritic que la revise.",
+        "en": "Slant's 70/100 for Zelda: Ocarina of Time divides fans, with calls for Metacritic to look into it."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/baja-la-nota-media-de-zelda-ocarina-of-time-en-metacritic-tras-recibir-una-polemica-puntuacion-de-70-100/"
+      }
+    },
+    {
+      "text": {
+        "es": "Embark Studios defiende las voces generadas por IA de ARC Raiders ante las críticas de los jugadores.",
+        "en": "Embark Studios defends ARC Raiders' AI-generated voices against player criticism."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/11/embark-studios-defiende-el-uso-de-voces-generadas-por-ia-en-arc-raiders-ante-las-criticas-de-los-jugadores/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores se burlan del aviso «¡No borres!» de Madden NFL 27 ante el tamaño de GTA 6.",
+        "en": "Players joke about Madden NFL 27's 'Don't delete!' prompt in light of GTA 6's size."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "url": "https://store.steampowered.com/app/3809270/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Legión del azar - Slotbound",
+      "url": "https://store.steampowered.com/app/4459590/"
+    }
+  ]
+}
