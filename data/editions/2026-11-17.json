@@ -1,0 +1,721 @@
+{
+  "date": "2026-11-17",
+  "headline": {
+    "es": "El hacker de GTA 6 se declara culpable y Miyamoto recibirá el primer Legend Award",
+    "en": "GTA 6's hacker pleads guilty and Miyamoto gets the first Legend Award"
+  },
+  "intro": {
+    "es": "A dos días del estreno de GTA 6, la justicia británica avanza en el caso de la filtración de 2022 y Rockstar se alía con NBA 2K27. Además, los Grammy y los D.I.C.E. reconocen a Wolverine, Bond y Miyamoto.",
+    "en": "Two days before GTA 6 launches, the UK case over the 2022 leak moves forward and Rockstar teams up with NBA 2K27. The Grammys and D.I.C.E. also honour Wolverine, Bond and Miyamoto."
+  },
+  "stories": [
+    {
+      "id": "hacker-gta-6-arion-kurtaj-se-declara-culpable",
+      "category": "industria",
+      "title": {
+        "es": "El hacker que filtró GTA 6 en 2022 se declara culpable a dos días del lanzamiento",
+        "en": "The hacker behind the 2022 GTA 6 leak pleads guilty two days before launch"
+      },
+      "dek": {
+        "es": "Arion Kurtaj admitió ante un tribunal de Londres haber atacado los servidores de Rockstar y otros delitos con Lapsus$.",
+        "en": "Arion Kurtaj admitted before a London court to hacking Rockstar's servers and other offences as part of Lapsus$."
+      },
+      "why": {
+        "es": "Cierra una parte judicial del mayor robo de material inédito de la industria justo cuando el juego sale a la venta.",
+        "en": "It closes a chapter of the biggest pre-release theft in the industry just as the game goes on sale."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026320026/el-hacker-que-filtro-gta-6-con-videos-en-desarrollo-en-2022-se-declara-culpable/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Arion Kurtaj, que tenía 17 años cuando se produjo el ataque y hoy tiene 21, se declaró culpable el 16 de noviembre ante el tribunal de Woolwich Crown Court, en Londres, de haber entrado en los servidores de Rockstar y de otros delitos informáticos cometidos junto al grupo Lapsus$.",
+          "En 2022 se difundieron vídeos de una versión en desarrollo de GTA 6, la primera vez que el público vio el juego antes de su presentación oficial. Kurtaj había negado los cargos en su momento; fue declarado inicialmente no apto para juicio por motivos médicos y en enero de 2026 se le consideró apto.",
+          "Todavía no hay fecha para la sentencia, que se fijará más adelante."
+        ],
+        "en": [
+          "Arion Kurtaj, who was 17 at the time and is now 21, pleaded guilty on November 16 at Woolwich Crown Court in London to breaking into Rockstar's servers and to other cybercrimes carried out with the Lapsus$ group.",
+          "In 2022, videos of an in-development build of GTA 6 spread online, the first time the public saw the game before its official reveal. Kurtaj had denied the charges at the time; he was first found unfit to stand trial for medical reasons and in January 2026 was deemed fit.",
+          "No sentencing date has been set; it will be scheduled later."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-clima-leonida-weather-channel-capturas",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar enseña el clima de Leonida con The Weather Channel y nuevas capturas",
+        "en": "Rockstar shows Leonida's weather with The Weather Channel and new screenshots"
+      },
+      "dek": {
+        "es": "Lluvia intensa, niebla y tormentas en las imágenes de PS5 a pocos días del estreno del 19 de noviembre.",
+        "en": "Heavy rain, fog and storms in the new PS5 images days before the November 19 launch."
+      },
+      "why": {
+        "es": "Rockstar cierra la campaña con un sistema meteorológico que presenta como local, persistente y dinámico.",
+        "en": "Rockstar closes its campaign with a weather system it pitches as localised, persistent and dynamic."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather"
+        }
+      ],
+      "body": {
+        "es": [
+          "Rockstar ha publicado un nuevo lote de capturas de GTA 6 y The Weather Channel difundió en redes un adelanto de lo que llama el «microclima» de Leonida, el estado ficticio inspirado en Florida.",
+          "Según Push Square, el estudio ha rehecho el tiempo para que sea más local, persistente y dinámico, con cielos despejados y también enormes cumulonimbos. Las imágenes de PS5 muestran lluvia torrencial, niebla densa en el mar y tormentas.",
+          "El juego sale el 19 de noviembre en PS5 y Xbox Series X|S; en EE. UU. cuesta 79,99 dólares, según Push Square."
+        ],
+        "en": [
+          "Rockstar has released a new batch of GTA 6 screenshots, and The Weather Channel shared on social media a preview of what it calls Leonida's 'microclimate', the fictional Florida-inspired state.",
+          "According to Push Square, the studio reworked the weather to be more localised, persistent and dynamic, from clear skies to towering cumulonimbus clouds. The PS5 images show driving rain, dense sea fog and thunderstorms.",
+          "The game launches on November 19 on PS5 and Xbox Series X|S; in the US it costs $79.99, per Push Square."
+        ]
+      }
+    },
+    {
+      "id": "nba-2k27-vice-city-gta-6-temporada-3",
+      "category": "juegos",
+      "title": {
+        "es": "NBA 2K27 se une a GTA 6: Vice City Edition y temporada 3 desde el 27 de noviembre",
+        "en": "NBA 2K27 teams up with GTA 6: Vice City Edition and Season 3 from November 27"
+      },
+      "dek": {
+        "es": "La temporada, de siete semanas, incluye un parque inspirado en Vice City, eventos temáticos y una edición de 39,99 dólares.",
+        "en": "The seven-week season brings a Vice City-inspired park, themed events and a $39.99 edition."
+      },
+      "why": {
+        "es": "Es la primera gran colaboración de GTA 6 con otro juego, y llega también a Switch 2.",
+        "en": "It is GTA 6's first big crossover with another game, and it reaches Switch 2 too."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nba-2k27-brings-a-slice-of-gta-6s-vice-city-to-switch-2-this-month"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/nba-2k27-x-grand-theft-auto-vi-collaboration-announced"
+        }
+      ],
+      "body": {
+        "es": [
+          "2K y Rockstar han anunciado una colaboración entre NBA 2K27 y GTA VI. La temporada 3 arranca el 27 de noviembre y dura siete semanas, hasta el 15 de enero, según VGC.",
+          "Incluye un parque inspirado en Vice City en el modo La Ciudad, ropa temática y eventos como Conquer Leonida, Vice Run y Neon vs Noir. La Vice City Edition cuesta 39,99 dólares, trae el Pase Pro de la temporada y está disponible en PS5, Xbox Series, Switch 2 y PC.",
+          "Antes, el 18 de noviembre, Miami Heat se rebautizará como Vice City en «A Night in Vice City», con equipaciones especiales que también llegarán al juego. Los miembros de GTA+ podrán jugar la edición estándar durante la temporada."
+        ],
+        "en": [
+          "2K and Rockstar have announced an NBA 2K27 and GTA VI collaboration. Season 3 starts November 27 and runs seven weeks, to January 15, according to VGC.",
+          "It includes a Vice City-inspired park in City mode, themed apparel and events such as Conquer Leonida, Vice Run and Neon vs Noir. The Vice City Edition costs $39.99, includes the season's Pro Pass and is available on PS5, Xbox Series, Switch 2 and PC.",
+          "Before that, on November 18, the Miami Heat will rebrand as Vice City for 'A Night in Vice City', with special uniforms that will also come to the game. GTA+ members can play the standard edition during the season."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg",
+        "credit": "2K / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4356430/"
+      }
+    },
+    {
+      "id": "miyamoto-legend-award-dice-2027",
+      "category": "nintendo",
+      "title": {
+        "es": "Shigeru Miyamoto recibirá el primer Legend Award de los D.I.C.E. Awards",
+        "en": "Shigeru Miyamoto to receive the first Legend Award at the D.I.C.E. Awards"
+      },
+      "dek": {
+        "es": "La AIAS entregará el galardón en la 30.ª edición, el 18 de febrero de 2027, y solo lo concederá una vez por década.",
+        "en": "The AIAS will present it at the 30th edition on February 18, 2027, and will award it only once per decade."
+      },
+      "why": {
+        "es": "Reconoce la trayectoria del creador de Mario y Zelda en un premio pensado para ser excepcional.",
+        "en": "It honours the creator of Mario and Zelda with an award designed to be rare."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/shigeru-miyamoto-recibira-el-primer-premio-leyenda-de-la-academia-de-las-artes-y-ciencias-interactivas"
+        }
+      ],
+      "body": {
+        "es": [
+          "La Academia de las Artes y Ciencias Interactivas (AIAS) ha anunciado que Shigeru Miyamoto será el primer galardonado con su nuevo Legend Award, que distingue a una figura cuya visión sigue redefiniendo el entretenimiento interactivo.",
+          "Se entregará en la 30.ª edición de los D.I.C.E. Awards, el jueves 18 de febrero de 2027, y solo se concederá una vez por década. La presidenta de la AIAS, Meggan Scavio, dijo que Miyamoto «encarna perfectamente» el premio por su impacto y alcance."
+        ],
+        "en": [
+          "The Academy of Interactive Arts & Sciences (AIAS) has announced that Shigeru Miyamoto will be the first recipient of its new Legend Award, which recognises an icon whose vision continues to redefine interactive entertainment.",
+          "It will be presented at the 30th D.I.C.E. Awards on Thursday, February 18, 2027, and will be given only once per decade. AIAS president Meggan Scavio said Miyamoto 'perfectly embodies' the award through his impact and reach."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Shigeru_Miyamoto_at_GDC_2007.jpg/1280px-Shigeru_Miyamoto_at_GDC_2007.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Shigeru_Miyamoto_at_GDC_2007.jpg/960px-Shigeru_Miyamoto_at_GDC_2007.jpg",
+        "credit": "Vincent Diamante from Los Angeles, CA, USA / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shigeru_Miyamoto_at_GDC_2007.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    {
+      "id": "grammy-2027-banda-sonora-videojuegos-nominados",
+      "category": "juegos",
+      "title": {
+        "es": "Los Grammy 2027 nominan a Wolverine, 007: First Light y Ghost of Yōtei",
+        "en": "The 2027 Grammys nominate Wolverine, 007: First Light and Ghost of Yōtei"
+      },
+      "dek": {
+        "es": "Cinco juegos compiten por Mejor Banda Sonora para Videojuegos, con Bond, Star Wars y Wolverine entre ellos.",
+        "en": "Five games compete for Best Score Soundtrack for Video Games, with Bond, Star Wars and Wolverine among them."
+      },
+      "why": {
+        "es": "Los Grammy siguen dando espacio a la música de videojuegos con una lista que mezcla licencias y producciones propias.",
+        "en": "The Grammys keep making room for game music with a list mixing licensed and original productions."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/this-years-video-game-soundtrack-grammy-nominations-include-bond-star-wars-and-wolverine/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/grammy-awards-reveal-this-years-nominees-for-best-video-game-soundtrack"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026320025/lobezno-007-y-star-wars-entre-los-nominados-al-grammy-a-mejor-banda-sonora-de-videojuegos/"
+        }
+      ],
+      "body": {
+        "es": [
+          "La Recording Academy ha revelado los nominados de los Grammy 2027 y, entre ellos, los cinco candidatos a Mejor Banda Sonora para Videojuegos: Avatar: Frontiers of Pandora (John Paesano), 007: First Light (Joe Henson y Alexis Leon Smith), Ghost of Yōtei (Toma Otowa), Marvel's Wolverine (David Fleming) y Star Wars: Zero Company (Gordy Haab).",
+          "Según Push Square, optan al premio juegos lanzados entre el 31 de agosto de 2025 y el 28 de agosto de 2026."
+        ],
+        "en": [
+          "The Recording Academy has revealed the 2027 Grammy nominees, including the five contenders for Best Score Soundtrack for Video Games: Avatar: Frontiers of Pandora (John Paesano), 007: First Light (Joe Henson and Alexis Leon Smith), Ghost of Yōtei (Toma Otowa), Marvel's Wolverine (David Fleming) and Star Wars: Zero Company (Gordy Haab).",
+          "According to Push Square, eligible games were released between August 31, 2025 and August 28, 2026."
+        ]
+      }
+    },
+    {
+      "id": "treyarch-craig-houston-despedido-call-of-duty",
+      "category": "industria",
+      "title": {
+        "es": "Treyarch despide a Craig Houston, guionista de Call of Duty durante 20 años",
+        "en": "Treyarch lays off Craig Houston, a Call of Duty writer for 20 years"
+      },
+      "dek": {
+        "es": "Escribió todos los Black Ops hasta Black Ops 7 y fue guionista principal del modo Zombies.",
+        "en": "He wrote every Black Ops game through Black Ops 7 and was a lead writer on Zombies."
+      },
+      "why": {
+        "es": "Suma un nombre propio a los despidos que Xbox encadena en su reestructuración.",
+        "en": "Adds a well-known name to the layoffs Xbox has strung together in its restructuring."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/activision-treyarch-layoffs-call-of-duty-zombies-craig-houston-2000757439"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026320018/treyarch-despide-a-uno-de-los-mayores-veteranos-de-call-of-duty-tras-dos-decadas-trabajando-en-la-saga/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Craig Houston, guionista veterano de Treyarch, ha confirmado en LinkedIn que ha sido despedido tras unos 20 años en la saga Call of Duty, a la que se incorporó con Call of Duty 3 (2006).",
+          "Escribió en todos los Black Ops hasta Black Ops 7 y fue guionista principal de Zombies, que debutó en World at War (2008). Kotaku lo enmarca en el «reset» de Xbox, con miles de despidos, cierres de estudios y cancelaciones."
+        ],
+        "en": [
+          "Craig Houston, a veteran Treyarch writer, confirmed on LinkedIn that he has been laid off after about 20 years on Call of Duty, which he joined with Call of Duty 3 (2006).",
+          "He wrote on every Black Ops game through Black Ops 7 and was a lead writer on Zombies, which debuted in World at War (2008). Kotaku places it within Xbox's 'reset', with thousands of job losses, studio closures and cancellations."
+        ]
+      }
+    },
+    {
+      "id": "pearl-abyss-usa-ia-crimson-desert-informe-resultados",
+      "category": "pc",
+      "title": {
+        "es": "Pearl Abyss confirma que usa IA «en varias fases» del desarrollo",
+        "en": "Pearl Abyss confirms it uses AI 'across various stages' of development"
+      },
+      "dek": {
+        "es": "El estudio de Crimson Desert lo explica en su carta a accionistas del tercer trimestre, meses después de disculparse por arte generativo.",
+        "en": "The Crimson Desert studio says so in its Q3 shareholder letter, months after apologising for generative art."
+      },
+      "why": {
+        "es": "La polémica por el arte con IA de Crimson Desert no ha frenado el plan de integrar estas herramientas en futuros proyectos.",
+        "en": "The controversy over AI art in Crimson Desert has not stopped plans to build these tools into future projects."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026320021/de-pedir-disculpas-a-confirmar-su-uso-los-creadores-de-crimson-desert-aprovecharan-la-ia-en-sus-proximos-juegos/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Pearl Abyss afirma en su carta a accionistas del tercer trimestre de 2026 que utiliza IA en varias fases del desarrollo: automatizar tareas repetitivas, apoyar la creación de contenido y optimizar las pruebas. Según VGC, también la emplea para probar conceptos de diseño antes de construirlos a mano.",
+          "La compañía sostiene que es una herramienta de productividad y no un sustituto del personal. Añade que las herramientas de la edición Enhanced y el DLC de Crimson Desert aceleran DokeV, su juego de criaturas en mundo abierto previsto para finales de 2028.",
+          "En marzo el estudio pidió disculpas tras detectarse cuadros con arte generativo en Crimson Desert y prometió una auditoría completa."
+        ],
+        "en": [
+          "Pearl Abyss says in its Q3 2026 shareholder letter that it uses AI across various stages of development: automating repetitive tasks, supporting content creation and optimising testing. According to VGC, it also uses it to test design concepts before building them by hand.",
+          "The company argues it is a productivity tool, not a replacement for staff. It adds that tools from Crimson Desert's Enhanced Edition and DLC are speeding up DokeV, its open-world creature game targeted for late 2028.",
+          "In March the studio apologised after generative-AI paintings were spotted in Crimson Desert and promised a comprehensive audit."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+        "credit": "Pearl Abyss / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3321460/"
+      }
+    },
+    {
+      "id": "inxile-tiroteo-tustin-detenido-sospechoso",
+      "category": "xbox",
+      "title": {
+        "es": "Detienen al sospechoso de disparar cerca de las oficinas de inXile",
+        "en": "Suspect arrested after shooting near inXile's offices"
+      },
+      "dek": {
+        "es": "El incidente del 11 de noviembre en Tustin (California) no dejó heridos y no está claro que el estudio fuera el objetivo.",
+        "en": "The November 11 incident in Tustin, California left no injuries and it is unclear the studio was the target."
+      },
+      "why": {
+        "es": "Aclara un suceso que circuló con titulares alarmantes: personal a salvo y sin indicios de que fuera un ataque al estudio.",
+        "en": "Clarifies an incident that spread with alarming headlines: staff are safe and there is no sign it was an attack on the studio."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026320015/detienen-al-sospechoso-de-iniciar-un-tiroteo-cerca-de-las-oficinas-de-inxile-el-estudio-de-microsoft/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/shooting-suspect-in-custody-after-opening-fire-near-xbox-devs-studio/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/clockwork-revolution/noticias/seguro-que-has-oido-que-han-disparado-estudio-xbox-parte-verdad-hay-dudas-que-certezas"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Vandal, que cita a Aftermath, el 11 de noviembre se dieron disparos en Tustin Legacy, un complejo de oficinas de Tustin (California) donde trabaja inXile, el estudio de Microsoft detrás de Clockwork Revolution. Otras empresas de la zona también lo notificaron.",
+          "No hubo heridos; la policía halló casquillos y detuvo a un sospechoso el viernes por la mañana. La investigación sigue abierta para esclarecer dónde y por qué ocurrió.",
+          "Un portavoz de inXile aseguró que la plantilla está a salvo y que colabora con las autoridades. Vandal señala que el estudio probablemente no era el objetivo."
+        ],
+        "en": [
+          "According to Vandal, citing Aftermath, shots were reported on November 11 at Tustin Legacy, an office complex in Tustin, California, where inXile, the Microsoft studio behind Clockwork Revolution, works. Other businesses in the area also reported it.",
+          "Nobody was injured; police found shell casings and detained a suspect on Friday morning. The investigation continues to establish where and why it happened.",
+          "An inXile spokesperson said staff are safe and that the studio is cooperating with law enforcement. Vandal notes the studio was probably not the target."
+        ]
+      }
+    },
+    {
+      "id": "star-wars-galactic-racer-pantalla-partida-2027",
+      "category": "juegos",
+      "title": {
+        "es": "Star Wars: Galactic Racer añadirá pantalla partida a principios de 2027",
+        "en": "Star Wars: Galactic Racer will add split-screen in early 2027"
+      },
+      "dek": {
+        "es": "Fuse Games y Secret Mode sumarán un modo Free Play para hasta cuatro jugadores en local.",
+        "en": "Fuse Games and Secret Mode will add a Free Play mode for up to four local players."
+      },
+      "why": {
+        "es": "Responde a la carencia más señalada del juego de carreras, ya disponible en PS5, Xbox Series y PC.",
+        "en": "Answers the racer's most-noted gap; it is already out on PS5, Xbox Series and PC."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/weve-heard-you-star-wars-galactic-racer-is-officially-adding-split-screen-multiplayer"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/star-wars-galactic-racer-anadira-multijugador-local-a-pantalla-partida-a-principios-de-2027"
+        }
+      ],
+      "body": {
+        "es": [
+          "El editor Secret Mode y el estudio Fuse Games publicarán a principios de 2027 una actualización de Star Wars: Galactic Racer con un modo Free Play compatible con pantalla partida.",
+          "En él se elegirá vehículo, personaje, planeta y circuito para competir en solitario o con hasta otros tres jugadores. El juego base ya está disponible en PS5, Xbox Series y PC (Steam y Epic Games Store)."
+        ],
+        "en": [
+          "Publisher Secret Mode and developer Fuse Games will release an update for Star Wars: Galactic Racer in early 2027 adding a Free Play mode that supports split-screen.",
+          "Players will pick vehicle, character, planet and track to race alone or with up to three others. The base game is already available on PS5, Xbox Series and PC (Steam and Epic Games Store)."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/678c46e3c0b0f82e3af8b0e901b8434057a36966/ss_678c46e3c0b0f82e3af8b0e901b8434057a36966.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg",
+        "credit": "Secret Mode / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4078430/"
+      }
+    },
+    {
+      "id": "rumor-persona-6-the-game-awards-diciembre",
+      "category": "juegos",
+      "title": {
+        "es": "Rumor: Persona 6 podría mostrarse en The Game Awards",
+        "en": "Rumor: Persona 6 could show up at The Game Awards"
+      },
+      "dek": {
+        "es": "Un usuario de Reddit vigila la web japonesa del juego y cree que su renovación apunta a un anuncio el 10 de diciembre.",
+        "en": "A Reddit user tracking the game's Japanese site thinks its refresh points to a reveal on December 10."
+      },
+      "why": {
+        "es": "Es solo especulación basada en un cambio de dominio, sin confirmación de Atlus ni de Sega.",
+        "en": "It is speculation based on a domain change, with no confirmation from Atlus or Sega."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/persona-6-podria-presentarse-muy-pronto-segun-un-nuevo-rumor/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según un rumor recogido por Push Square, Persona 6 podría tener su primera presentación en serio en The Game Awards del 10 de diciembre. El origen es un usuario de Reddit que sigue la web japonesa del juego: su certificado se renovó el 8 de noviembre, algo que, según el medio, suele ocurrir cuando una empresa rehace un dominio antes de un gran anuncio.",
+          "Hay precedente: la web teaser de Persona 4 Revival se renovó aproximadamente un mes antes de su aparición en el Xbox Games Showcase. Pero el propio medio duda, porque Persona 4 Revival sale el 20 de mayo de 2027, y señala el Persona Super Live del 19 de marzo como alternativa.",
+          "Persona 6 figura para PS5 y Switch 2, sin fecha. Todo sigue siendo especulación."
+        ],
+        "en": [
+          "According to a rumour reported by Push Square, Persona 6 could get its first proper look at The Game Awards on December 10. It stems from a Reddit user tracking the game's Japanese website: its certificate was renewed on November 8, which the outlet says tends to happen when a company overhauls a domain ahead of a big announcement.",
+          "There is precedent: Persona 4 Revival's teaser site was overhauled about a month before it appeared at the Xbox Games Showcase. But the outlet itself has doubts, since Persona 4 Revival launches May 20, 2027, and points to the March 19 Persona Super Live as an alternative.",
+          "Persona 6 is listed for PS5 and Switch 2, with no date. It all remains speculation."
+        ]
+      }
+    },
+    {
+      "id": "dave-the-diver-core-keeper-crossover-30-noviembre",
+      "category": "indie",
+      "title": {
+        "es": "Dave the Diver y Core Keeper se cruzan el 30 de noviembre, gratis",
+        "en": "Dave the Diver and Core Keeper cross over on November 30, free"
+      },
+      "dek": {
+        "es": "Colaboración en ambos sentidos: Cavelings en la granja de Dave y un chef de sushi, un arpón y mascotas en Core Keeper.",
+        "en": "A two-way collaboration: Cavelings on Dave's farm, and a sushi chef set, harpoon gun and pets in Core Keeper."
+      },
+      "why": {
+        "es": "Es otra colaboración gratuita para el juego de Mintrocket, que ya ha cruzado caminos con muchos otros indies.",
+        "en": "It is another free collaboration for Mintrocket's game, which has already crossed paths with many other indies."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/asi-es-la-colaboracion-entre-dave-the-diver-y-core-keeper/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Mintrocket, Pugstorm y Fireshine Games han anunciado una colaboración entre Dave the Diver y Core Keeper que llegará el 30 de noviembre y será gratuita para quienes tengan cada juego.",
+          "En Dave the Diver, el musgo plantado por Dave invade la granja y trae a los Cavelings; habrá un minijuego de combate con pico, el amuleto Spicy Lure Charm y figuras para el sushi bar. Llegará primero a Steam y consolas.",
+          "Core Keeper recibe en todas las plataformas el mercader Cobra, las mascotas Momo y Mini Dave, mobiliario del sushi bar, el traje de chef de Bancho, un arpón y el tiburón de arrecife como pez."
+        ],
+        "en": [
+          "Mintrocket, Pugstorm and Fireshine Games have announced a Dave the Diver and Core Keeper crossover arriving November 30, free for owners of each game.",
+          "In Dave the Diver, moss planted by Dave spreads over the farm and brings Cavelings; there is a pickaxe combat minigame, the Spicy Lure Charm and figurines for the sushi bar. It launches first on Steam and consoles.",
+          "Core Keeper gets, on all platforms, the merchant Cobra, the pets Momo and Mini Dave, sushi bar furniture, Bancho's chef armour, a harpoon gun and the reef shark as a fish."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_616x353.jpg",
+        "credit": "MINTROCKET / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1868140/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "La demo de Splatoon Raiders ya está en la eShop de Switch 2, con tres fases en las islas Spirhalite.",
+        "en": "The Splatoon Raiders demo is now on the Switch 2 eShop, with three stages on the Spirhalite Islands."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today"
+      }
+    },
+    {
+      "text": {
+        "es": "Splatoon 3 recibe hoy, 17 de noviembre, la versión 12.0.0.",
+        "en": "Splatoon 3 gets version 12.0.0 today, November 17."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17"
+      }
+    },
+    {
+      "text": {
+        "es": "Splatoon Raiders tendrá un libro de arte de 336 páginas con KADOKAWA; sale en Japón el 9 de febrero de 2027.",
+        "en": "Splatoon Raiders gets a 336-page art book with KADOKAWA, launching in Japan on February 9, 2027."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year"
+      }
+    },
+    {
+      "text": {
+        "es": "Capcom elige al ganador del concurso de diseño de Robot Master de Mega Man: Dual Override; aparecerá como jefe en el juego.",
+        "en": "Capcom picks the winner of Mega Man: Dual Override's Robot Master design contest; the design will appear as an in-game boss."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner"
+      }
+    },
+    {
+      "text": {
+        "es": "Zelda: Ocarina of Time para Switch 2 es, según Circana, el videojuego físico más vendido de 2026 en EE. UU.; ya superaba los 5,2 millones de copias en cuatro días a nivel global.",
+        "en": "Circana says Zelda: Ocarina of Time on Switch 2 is the best-selling physical game of 2026 in the US; it had already passed 5.2 million copies worldwide in four days."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us"
+      }
+    },
+    {
+      "text": {
+        "es": "El Bufón llega como nuevo personaje a Slay the Spire 2 en su rama beta.",
+        "en": "The Jester arrives as a new character in Slay the Spire 2's beta branch."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/el-bufon-se-une-como-nuevo-personaje-a-slay-the-spire-2-en-la-rama-beta-de-actualizaciones"
+      }
+    },
+    {
+      "text": {
+        "es": "DOOM: The Dark Ages recibe hoy gratis el modo Slaughter, un desafío de combate sin fin para quienes tienen Revelations.",
+        "en": "DOOM: The Dark Ages gets a free Slaughter Mode update today, an endless combat challenge for Revelations owners."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/doom-the-dark-ages-revelations-gets-a-major-free-slaughter-mode-update-today"
+      }
+    },
+    {
+      "text": {
+        "es": "Paradox Interactive releva a su CEO: Fredrik Wester se retira y le sustituye Mattias Lilja, hasta ahora director general adjunto.",
+        "en": "Paradox Interactive names a new CEO: Fredrik Wester retires and deputy CEO Mattias Lilja takes over."
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix regala 30 días de Final Fantasy XIV a más jugadores antes de Evercold.",
+        "en": "Square Enix is giving more players 30 days of free Final Fantasy XIV ahead of Evercold."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/square-enix-is-making-final-fantasy-14-free-for-30-days-for-a-ton-more-people-2000757498"
+      }
+    },
+    {
+      "text": {
+        "es": "Mercenaries Grace sale el 25 de noviembre en PS5 en Japón, en diciembre en Switch y a principios de 2027 en PC.",
+        "en": "Mercenaries Grace launches November 25 on PS5 in Japan, in December on Switch and in early 2027 on PC."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "GTA 6",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots"
+    },
+    {
+      "title": "Splatoon Raiders (demo)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "Disponible hoy",
+        "en": "Available today"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today"
+    },
+    {
+      "title": "Mercenaries Grace",
+      "platforms": "PS5 (Japón)",
+      "note": {
+        "es": "25 de noviembre",
+        "en": "November 25"
+      },
+      "url": "https://www.gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc"
+    },
+    {
+      "title": "Machine Party",
+      "platforms": "PS5, Xbox Series, Switch",
+      "note": {
+        "es": "26 de noviembre",
+        "en": "November 26"
+      },
+      "url": "https://www.gematsu.com/2026/11/machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26"
+    },
+    {
+      "title": "Dave the Diver x Core Keeper",
+      "platforms": "Multiplataforma",
+      "note": {
+        "es": "30 de noviembre",
+        "en": "November 30"
+      },
+      "url": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced"
+    },
+    {
+      "title": "Book Nook",
+      "platforms": "PC",
+      "note": {
+        "es": "1 de diciembre",
+        "en": "December 1"
+      },
+      "url": "https://www.gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los fans de Pikmin 4 critican la mejora de pago para Switch 2: algunos la llaman «una bajada de calidad de pago».",
+        "en": "Pikmin 4 fans criticise the paid Switch 2 upgrade, with some calling it 'essentially a paid downgrade'."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/actively-makes-the-game-worse-fans-are-furious-with-pikmin-4s-paid-nintendo-switch-2-upgrade-2000757449"
+      }
+    },
+    {
+      "text": {
+        "es": "Seis sindicatos europeos piden a los consumidores apoyar juegos hechos sin IA generativa y ser claros sobre su rechazo.",
+        "en": "Six European unions urge consumers to support games made without generative AI and to be vocal about disliking it."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423"
+      }
+    },
+    {
+      "text": {
+        "es": "La IA en el desarrollo vuelve a la conversación tras confirmar Pearl Abyss que la usa en varias fases.",
+        "en": "AI in development is back in the conversation after Pearl Abyss confirmed it uses it in several stages."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026320021/de-pedir-disculpas-a-confirmar-su-uso-los-creadores-de-crimson-desert-aprovecharan-la-ia-en-sus-proximos-juegos/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los cambios de experiencia en mazmorras de WoW: Forever siguen dando guerra: Blizzard admite que «falló» con unos hotfixes el fin de semana.",
+        "en": "WoW: Forever's dungeon XP changes keep stirring debate: Blizzard admits it briefly 'missed the mark' with weekend hotfixes."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "just volleyball",
+      "url": "https://store.steampowered.com/app/5037200/"
+    },
+    {
+      "name": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460/"
+    },
+    {
+      "name": "Dungeonbound",
+      "url": "https://store.steampowered.com/app/5200620/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "url": "https://store.steampowered.com/app/3809270/"
+    }
+  ]
+}
