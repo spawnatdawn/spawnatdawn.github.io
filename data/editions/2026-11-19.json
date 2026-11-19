@@ -1,0 +1,699 @@
+{
+  "date": "2026-11-19",
+  "headline": {
+    "es": "GTA 6 sale con un 99 en Metacritic y récord en streaming, mientras Rockstar vota su sindicato",
+    "en": "GTA 6 launches with a 99 on Metacritic and a streaming record as Rockstar staff vote on a union"
+  },
+  "intro": {
+    "es": "GTA 6 ya está disponible en PS5 y Xbox Series X|S con la mayor nota de Metacritic y 7,2 millones de espectadores simultáneos en streaming, mientras unos 1.600 empleados de Rockstar en Reino Unido votan si reconocen al IWGB. Además, WoW: Forever supera los 15 millones de personajes.",
+    "en": "GTA 6 is out on PS5 and Xbox Series X|S with the highest Metacritic score and 7.2 million concurrent streaming viewers, while about 1,600 Rockstar UK employees vote on recognising the IWGB. Also: WoW: Forever passes 15 million characters."
+  },
+  "stories": [
+    {
+      "id": "gta-6-metacritic-99-mejor-valorado-historia",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 sale con un 99 en Metacritic y empata con Ocarina of Time como el mejor valorado",
+        "en": "GTA 6 launches with a 99 on Metacritic, tying Ocarina of Time as the best-rated game ever"
+      },
+      "dek": {
+        "es": "Más de 160 análisis y notas casi unánimes colocan al juego de Rockstar en lo más alto de la plataforma el mismo día de su estreno.",
+        "en": "More than 160 reviews and near-unanimous scores put Rockstar's game at the top of the site on launch day."
+      },
+      "why": {
+        "es": "Lo habitual es que los clásicos así de valorados lo sean con muy pocos análisis; GTA 6 lo consigue con una muestra mucho mayor.",
+        "en": "Scores this high have usually belonged to games with very few reviews; GTA 6 gets there with a far larger sample."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/features/round-up-gta-6-is-not-just-the-most-acclaimed-game-of-2026-its-the-highest-rated-game-of-all-time"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322023/gta-6-rompe-metacritic-se-estrena-con-la-mayor-nota-media-de-la-plataforma-con-mas-de-100-resenas/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-metacritic-score-so-high-its-only-happened-once-before/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Grand Theft Auto VI ha salido con una media de 99 sobre 100 en Metacritic, calculada con más de 160 análisis, según Push Square. Esa nota lo iguala con The Legend of Zelda: Ocarina of Time (1998), que también tiene un 99 pero con unas 22 reseñas.",
+          "Entre las puntuaciones más altas figuran el 10/10 de IGN y de Push Square y el 5/5 de VGC y Eurogamer. VGC menciona algunos problemas menores de rendimiento que no empañan, a su juicio, la experiencia.",
+          "Metacritic puede variar a medida que lleguen más análisis; el juego está disponible desde hoy, 19 de noviembre, en PS5 y Xbox Series X|S."
+        ],
+        "en": [
+          "Grand Theft Auto VI has launched with a 99 out of 100 average on Metacritic, based on more than 160 reviews, according to Push Square. That ties it with The Legend of Zelda: Ocarina of Time (1998), which also holds a 99 but from around 22 reviews.",
+          "Top marks include 10/10 from IGN and Push Square and 5/5 from VGC and Eurogamer. VGC mentions some minor performance issues that, in its view, do not dent the experience.",
+          "The Metacritic score may move as more reviews arrive; the game is available from today, November 19, on PS5 and Xbox Series X|S."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-rendimiento-30-fps-ps5-pro-series-s-digital-foundry",
+      "category": "juegos",
+      "title": {
+        "es": "Digital Foundry: GTA 6 va a 30 fps, estable en PS5 Pro y con caídas en PS5 base y Series S",
+        "en": "Digital Foundry: GTA 6 runs at 30 fps, steady on PS5 Pro with dips on base PS5 and Series S"
+      },
+      "dek": {
+        "es": "El primer análisis técnico elogia el trazado de rayos y la nitidez de PSSR en Pro; Rockstar descarta 60 fps y 40 fps en consolas.",
+        "en": "The first technical analysis praises the ray tracing and PSSR sharpness on Pro; Rockstar rules out 60 fps and 40 fps modes on consoles."
+      },
+      "why": {
+        "es": "Antes del estreno se sabía que el límite era 30 fps; ahora se ve cuánto varía la estabilidad según la consola.",
+        "en": "The 30 fps target was known before launch; now it is clear how much stability varies by console."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-6-gta6-performance-framerate-ps5-xbox-series-x-s-2000758096"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322033/gta-6-impresiona-a-digital-foundry-ps5-pro-gana-en-nitidez-y-aguanta-mejor-los-30-fps-que-la-ps5-estandar/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322035/rockstar-aclara-oficialmente-por-que-gta-6-no-tiene-un-modo-a-40-fps-en-consolas/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Digital Foundry, recogido por Push Square, GTA 6 está limitado a 30 fps y no ofrece opciones gráficas. En PS5 Pro la tasa es \"inquebrantable\" con un ritmo de fotogramas perfecto, y el reescalado PSSR imita de forma convincente los 4K nativos. El análisis también destaca el trazado de rayos como posiblemente el mejor visto hasta ahora.",
+          "En la PS5 estándar el juego aguanta los 30 fps en general, pero sufre pequeñas caídas al conducir a gran velocidad y descensos sostenidos, de hasta la zona de los 25 fps, en combates con muchas explosiones. Kotaku y Vandal señalan que Xbox Series S es la versión más floja, con tasas que pueden bajar de 20 fps.",
+          "Rockstar ha explicado que ni siquiera PS5 Pro tiene potencia para 60 fps y que no habrá modo de 40 fps en consolas, según Push Square y Vandal."
+        ],
+        "en": [
+          "According to Digital Foundry, as reported by Push Square, GTA 6 is capped at 30 fps with no graphics options. On PS5 Pro the frame rate is \"unwavering\" with perfect frame pacing, and PSSR upscaling convincingly mimics native 4K. The analysis also singles out the ray tracing as arguably the best seen to date.",
+          "On the standard PS5 the game holds 30 fps in general, but suffers minor dips when driving fast and sustained drops, down to the mid-20s, in explosion-heavy combat. Kotaku and Vandal point to Xbox Series S as the weakest version, with frame rates that can fall below 20 fps.",
+          "Rockstar has said even PS5 Pro is not powerful enough for 60 fps and that there will be no 40 fps mode on consoles, per Push Square and Vandal."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-record-streaming-7-2-millones-espectadores",
+      "category": "industria",
+      "title": {
+        "es": "GTA 6 bate el récord de espectadores simultáneos en streaming: 7,2 millones",
+        "en": "GTA 6 smashes the streaming concurrent-viewer record with 7.2 million"
+      },
+      "dek": {
+        "es": "Twitch, YouTube y Kick sumaron el pico a los pocos minutos del lanzamiento en las primeras zonas horarias.",
+        "en": "Twitch, YouTube and Kick combined for the peak minutes after launch in the first time zones."
+      },
+      "why": {
+        "es": "Supera con mucho el anterior máximo, y llega antes de que el juego esté disponible en todo el mundo.",
+        "en": "It far exceeds the previous high, and it comes before the game is available worldwide."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322047/gta-6-tambien-hace-historia-en-las-plataformas-de-streaming-y-triplica-el-anterior-record-de-espectadores/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según datos de Streams Charts citados por Push Square, GTA 6 alcanzó un pico de 7,2 millones de espectadores simultáneos: 3,1 millones en Twitch, 2,7 en YouTube y 1,4 en Kick.",
+          "El récord anterior, de 1,7 millones, correspondía a Valorant en 2020, cuando ver directos daba acceso a su beta. Vandal lo resume como más del triple del máximo previo.",
+          "La marca se logró a los pocos minutos de que el juego se abriera en las regiones donde ya era 19 de noviembre."
+        ],
+        "en": [
+          "According to Streams Charts data cited by Push Square, GTA 6 peaked at 7.2 million concurrent viewers: 3.1 million on Twitch, 2.7 million on YouTube and 1.4 million on Kick.",
+          "The previous record of 1.7 million belonged to Valorant in 2020, when watching streams unlocked beta access. Vandal sums it up as more than triple the previous peak.",
+          "The mark came minutes after the game opened in regions where it was already November 19."
+        ]
+      }
+    },
+    {
+      "id": "rockstar-votacion-sindical-iwgb-1600-trabajadores-reino-unido",
+      "category": "industria",
+      "title": {
+        "es": "Unos 1.600 empleados de Rockstar en Reino Unido votan si reconocen al sindicato IWGB",
+        "en": "About 1,600 Rockstar UK employees vote on recognising the IWGB union"
+      },
+      "dek": {
+        "es": "La votación, del 12 al 26 de noviembre, coincide con el lanzamiento de GTA 6.",
+        "en": "The ballot, running November 12 to 26, overlaps with GTA 6's launch."
+      },
+      "why": {
+        "es": "De salir adelante sería el mayor sindicato reconocido de la industria del videojuego en Reino Unido, según el propio IWGB.",
+        "en": "If it passes it would be the largest recognised union in the UK games industry, according to the IWGB itself."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/"
+        },
+        {
+          "name": "Dexerto",
+          "url": "https://www.dexerto.com/gta/rockstar-employees-voting-on-union-plan-alongside-gta-6-launch-3422399/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/rockstar-uk-union-vote-1600-workers/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Los trabajadores de Rockstar en Reino Unido votan de forma anónima y por internet si aceptan el reconocimiento formal del sindicato IWGB (Rockstar Game Workers Union). Según PC Gamer, el censo ronda los 1.600 empleados; la votación va del 12 al 26 de noviembre y atraviesa el estreno del 19.",
+          "Dexerto detalla que el reconocimiento daría voz a la plantilla en salarios y bonus, horas extra, despidos, trabajo flexible y política sobre IA generativa.",
+          "La votación es independiente del tribunal laboral que examina el despido de 31 empleados en octubre de 2025: el IWGB sostiene que se debió a su actividad sindical y Rockstar afirma que fue por falta grave al filtrar información confidencial."
+        ],
+        "en": [
+          "Rockstar workers in the UK are voting anonymously online on whether to formally recognise the IWGB union (Rockstar Game Workers Union). According to PC Gamer, around 1,600 employees are eligible; the ballot runs from November 12 to 26 and spans the November 19 launch.",
+          "Dexerto says recognition would give staff a say on pay and bonuses, overtime, layoffs, flexible working and generative AI policy.",
+          "The ballot is separate from the employment tribunal examining the dismissal of 31 employees in October 2025: the IWGB argues it was tied to union activity, while Rockstar says it was for gross misconduct involving confidential information."
+        ]
+      }
+    },
+    {
+      "id": "wow-forever-15-millones-personajes-exploit-blackmaw-hold",
+      "category": "pc",
+      "title": {
+        "es": "WoW: Forever supera los 15 millones de personajes y Blizzard sanciona un exploit de oro",
+        "en": "WoW: Forever tops 15 million characters as Blizzard punishes a gold exploit"
+      },
+      "dek": {
+        "es": "Blizzard habla del mayor lanzamiento de WoW por jugadores simultáneos, mientras suspende a quienes abusaron de un fallo en Blackmaw Hold.",
+        "en": "Blizzard calls it WoW's biggest launch by peak concurrent players, while suspending those who abused a Blackmaw Hold bug."
+      },
+      "why": {
+        "es": "El éxito de la expansión convive con el primer gran problema de economía del juego.",
+        "en": "The expansion's success comes with the game's first big economy problem."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/wow-forever-weekly-player-numbers-are-the-highest-for-blizzards-mmo-in-15-years/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322039/blizzard-suspende-a-jugadores-de-world-of-warcraft-forever-por-amasar-miles-de-monedas-de-oro-con-un-fallo/"
+        }
+      ],
+      "body": {
+        "es": [
+          "World of Warcraft: Forever, lanzado el 4 de noviembre, ha superado los 15 millones de personajes creados, según PC Gamer, y Blizzard lo califica como \"el mayor lanzamiento de la historia de WoW por pico de jugadores simultáneos\". GameSpot y Vandal añaden que los jugadores semanales son los más altos en 15 años.",
+          "En paralelo, Blizzard corrigió el 16 de noviembre un fallo en la mazmorra Blackmaw Hold: un grupo de enemigos no élite soltaba botín de élite. Según Vandal, unos 200 jugadores lo notaron y repitieron el combate, con más de 100 de oro por hora.",
+          "La compañía bloqueó el comercio en las cuentas implicadas, retira el oro obtenido y suspende a quienes más abusaron. No sanciona a quienes lo encontraron por casualidad."
+        ],
+        "en": [
+          "World of Warcraft: Forever, launched on November 4, has passed 15 million characters created, per PC Gamer, and Blizzard calls it \"the biggest launch in WoW history by peak concurrent players\". GameSpot and Vandal add that weekly player numbers are the highest in 15 years.",
+          "Meanwhile Blizzard fixed a Blackmaw Hold dungeon bug on November 16: a group of non-elite enemies dropped elite loot. According to Vandal, around 200 players noticed and farmed it repeatedly, earning over 100 gold per hour.",
+          "The company blocked trading on the accounts involved, is removing the gold gained and is suspending those who abused it most. Players who stumbled on the extra loot are not being punished."
+        ]
+      }
+    },
+    {
+      "id": "clair-obscur-svedberg-yen-deja-sandfall",
+      "category": "indie",
+      "title": {
+        "es": "La directora narrativa de Clair Obscur: Expedition 33 dejó Sandfall en julio",
+        "en": "Clair Obscur: Expedition 33's narrative director left Sandfall in July"
+      },
+      "dek": {
+        "es": "Jennifer Svedberg-Yen prepara proyectos propios, mentoría y un fondo para creadores narrativos.",
+        "en": "Jennifer Svedberg-Yen is working on her own projects, mentoring and a fund for narrative creators."
+      },
+      "why": {
+        "es": "Su salida se conoce justo después de que recogiera un premio BAFTA Breakthrough por el juego.",
+        "en": "Her departure comes to light right after she collected a BAFTA Breakthrough award for the game."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322034/la-directora-narrativa-de-clair-obscur-expedition-33-ha-dejado-sandfall-interactive/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/clair-obscur-expedition-33-writer-left-sandfall/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/la-guionista-de-expedition-33-abandono-el-estudio-sandfall-en-julio"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/capsule_616x353.jpg",
+        "credit": "Kepler Interactive / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1903340/"
+      },
+      "body": {
+        "es": [
+          "Jennifer Svedberg-Yen, directora narrativa de Clair Obscur: Expedition 33, dejó Sandfall Interactive en julio de 2026, tras terminar \"algunas cosas finales\" del juego, según declaró a GamesBeat (vía Vandal).",
+          "Dice que se va para dedicarse a sus propias historias y a apoyar a otros creadores. Tras recibir un premio BAFTA Breakthrough el 17 de noviembre, planteó el problema de financiación de los narradores: las editoras piden una demo, pero hacerla requiere dinero previo.",
+          "Quiere mentorizar a nuevos diseñadores narrativos y crear un fondo de inversión para ellos. Las fuentes consultadas no recogen ninguna declaración de Sandfall."
+        ],
+        "en": [
+          "Jennifer Svedberg-Yen, narrative director of Clair Obscur: Expedition 33, left Sandfall Interactive in July 2026 after finishing \"some final things\" on the game, she told GamesBeat (via Vandal).",
+          "She says she is leaving to pursue her own stories and support other creators. After receiving a BAFTA Breakthrough award on November 17, she described a funding problem for narrative designers: publishers ask for a demo, but making one requires money up front.",
+          "She wants to mentor new narrative designers and start an investment fund for them. The sources consulted include no statement from Sandfall."
+        ]
+      }
+    },
+    {
+      "id": "mindseye-build-a-rocket-boy-deuda-62-millones-libras-demandas",
+      "category": "industria",
+      "title": {
+        "es": "El estudio de MindsEye debe 62 millones de libras y confía en sus demandas para recuperar dinero",
+        "en": "MindsEye studio owes £62 million and is counting on lawsuits to recover money"
+      },
+      "dek": {
+        "es": "Build A Rocket Boy, en administración desde septiembre, ve en los litigios contra supuestos organizadores de una campaña de reseñas negativas su mayor activo potencial.",
+        "en": "Build A Rocket Boy, in administration since September, sees its lawsuits against alleged organisers of a negative-review campaign as its biggest potential asset."
+      },
+      "why": {
+        "es": "El informe recoge la versión de la dirección sin confirmar que esa campaña existiera ni cuánto podría recuperarse.",
+        "en": "The report gives management's version without confirming the campaign existed or how much could be recovered."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322042/el-estudio-de-mindseye-debe-unos-74-millones-de-euros-y-confia-en-sus-demandas-para-recuperar-dinero/"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265250/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265250/1317291eb50fb52ae5bf630ec4234a54797577c5/header.jpg",
+        "credit": "Build A Rocket Boy / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3265250/"
+      },
+      "body": {
+        "es": [
+          "Build A Rocket Boy, el estudio fundado por Leslie Benzies y responsable de MindsEye, debe unos 62 millones de libras (unos 74 millones de euros). Entró en administración el 23 de septiembre, según la propuesta de los administradores recogida por Vandal.",
+          "NetEase es el mayor acreedor, con 36,5 millones de libras. Los administradores consideran que las acciones legales son el activo potencial más importante: la dirección dice tener información de terceros que habrían organizado y financiado una campaña coordinada de reseñas y comentarios negativos, y ya ha demandado a algunos.",
+          "El informe presenta la versión de la dirección sin confirmar esa campaña ni estimar cuánto se podría recuperar. MindsEye salió en junio de 2025 con problemas técnicos y críticas muy negativas."
+        ],
+        "en": [
+          "Build A Rocket Boy, the studio founded by Leslie Benzies and behind MindsEye, owes around £62 million (about €74 million). It entered administration on September 23, according to the administrators' proposal reported by Vandal.",
+          "NetEase is the largest creditor, owed £36.5 million. The administrators see legal action as the most significant potential asset: management says it has information that third parties organised and funded a coordinated campaign of negative reviews and comments, and it has already sued some of them.",
+          "The report presents management's version without confirming that campaign or estimating how much could be recovered. MindsEye launched in June 2025 with technical problems and very negative reviews."
+        ]
+      }
+    },
+    {
+      "id": "sindicatos-europeos-videojuego-manifiesto-ia-generativa",
+      "category": "industria",
+      "title": {
+        "es": "Seis sindicatos europeos del videojuego firman un manifiesto contra la IA generativa",
+        "en": "Six European games unions sign a manifesto against generative AI"
+      },
+      "dek": {
+        "es": "IWGB Game Workers y la Coordinadora Sindical del Videojuego, entre los firmantes, piden evitarla en el desarrollo.",
+        "en": "IWGB Game Workers and Spain's Coordinadora Sindical del Videojuego are among the signatories calling for it to be avoided in development."
+      },
+      "why": {
+        "es": "Llega el mismo día en que un excargo de Take-Two defiende que la aceptación de la IA cambiará.",
+        "en": "It comes the same day a former Take-Two chief argues attitudes to AI will change."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026322024/los-sindicatos-del-videojuego-de-europa-se-unen-contra-la-inteligencia-artificial-en-un-manifiesto/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/"
+        }
+      ],
+      "body": {
+        "es": [
+          "El manifiesto lo firman IWGB Game Workers (Reino Unido), la Coordinadora Sindical del Videojuego (España), FIOM-CGIL (Italia), STJV (Francia), GWUI (Irlanda) y GDRT (Alemania), según Vandal.",
+          "A los jugadores les piden apoyar juegos hechos sin IA generativa; a los desarrolladores, evitarla, decir a sus empresas que no quieren usarla y sindicarse; y a las compañías, no obligar a nadie a utilizarla y prohibirla en sus códigos de conducta, también en las fases tempranas.",
+          "El texto menciona además pérdida de empleo, menos contratación de júniors, peores condiciones, impacto ambiental y entrenamiento con datos sin licencia. Su lema: \"Los mejores juegos los hacen las personas\"."
+        ],
+        "en": [
+          "The manifesto is signed by IWGB Game Workers (UK), the Coordinadora Sindical del Videojuego (Spain), FIOM-CGIL (Italy), STJV (France), GWUI (Ireland) and GDRT (Germany), per Vandal.",
+          "It asks players to back games made without generative AI; developers to avoid it, tell employers they do not want to use it and unionise; and companies not to force anyone to use it and to ban it in codes of conduct, including early development stages.",
+          "The text also cites job losses, less junior hiring, worse conditions, environmental harm and training on unlicensed data. Its slogan: \"The best games are made by people\"."
+        ]
+      }
+    },
+    {
+      "id": "coral-island-switch-2-7-diciembre-actualizacion-1-4",
+      "category": "nintendo",
+      "title": {
+        "es": "Coral Island llegará a Switch 2 el 7 de diciembre con la actualización 1.4",
+        "en": "Coral Island heads to Switch 2 on December 7 with the 1.4 update"
+      },
+      "dek": {
+        "es": "La versión de Switch 2 sale a la vez que \"Kids Grow Up\", que añade crecimiento de los hijos.",
+        "en": "The Switch 2 version launches alongside \"Kids Grow Up\", which adds growing children."
+      },
+      "why": {
+        "es": "El juego, financiado en Kickstarter en 2021, por fin da el salto a una consola de Nintendo.",
+        "en": "The game, Kickstarter-funded in 2021, finally reaches a Nintendo console."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/coral-island-for-switch-2-launches-december-7-alongside-version-1-4-update"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-december"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/capsule_616x353.jpg",
+        "credit": "Balor Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1158160/"
+      },
+      "body": {
+        "es": [
+          "Coral Island, el simulador de granja de Stairway Games y Balor Games, saldrá en Nintendo Switch 2 el 7 de diciembre, según Gematsu. Nintendo Life recuerda que el juego logró su objetivo en Kickstarter en 2021.",
+          "Llegará junto a la actualización gratuita 1.4, \"Kids Grow Up\": los hijos pasan por cuatro etapas, de bebé a adolescente, desarrollan aficiones como música, deporte o cocina, y las parejas asumen papeles como padres. También crecen los niños del vecindario.",
+          "La versión 1.4 añade además cosméticos, nuevos señuelos de pesca, mejoras de iluminación e interfaz. Gematsu no menciona el precio."
+        ],
+        "en": [
+          "Coral Island, the farming sim from Stairway Games and Balor Games, will launch on Nintendo Switch 2 on December 7, per Gematsu. Nintendo Life recalls the game hit its Kickstarter goal in 2021.",
+          "It arrives with the free 1.4 update, \"Kids Grow Up\": children pass through four stages from baby to teenager, develop hobbies such as music, sports or baking, and spouses take on parenting roles. Neighbourhood kids grow up too.",
+          "Version 1.4 also adds cosmetics, new fishing bobbers, lighting and UI improvements. Gematsu does not mention a price."
+        ]
+      }
+    },
+    {
+      "id": "psn-incidencias-vispera-lanzamiento-gta-6",
+      "category": "playstation",
+      "title": {
+        "es": "PSN sufre caídas intermitentes en la víspera del lanzamiento de GTA 6",
+        "en": "PSN suffers intermittent outages on GTA 6's eve"
+      },
+      "dek": {
+        "es": "Algunos jugadores, también en España, no pudieron conectarse, aunque la página de estado de PlayStation no mostraba problemas.",
+        "en": "Some players, including in Spain, could not connect, although PlayStation's status page showed no problems."
+      },
+      "why": {
+        "es": "El estreno pone a prueba los servidores de PlayStation, y PS5 exige además un firmware nuevo para jugar.",
+        "en": "The launch is a stress test for PlayStation's servers, and PS5 also requires new firmware to play."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps4/noticias/playstation-network-psn-se-ha-caido-espana-para-algunos-jugadores-estreno-gta-6-ha-saturado-servidores-ps5-momentos"
+        }
+      ],
+      "body": {
+        "es": [
+          "GameSpot informa de que PlayStation Network falló \"a ratos\" para algunos usuarios en la víspera del estreno de GTA 6, aunque la web de estado de PlayStation indicaba que todo funcionaba. Push Square habla de caídas esporádicas.",
+          "3DJuegos añade que en España PSN se cayó para algunos jugadores y que el estreno ha saturado por momentos los servidores de PS5.",
+          "Sony no había dado, en las fuentes consultadas, una explicación del origen de las incidencias."
+        ],
+        "en": [
+          "GameSpot reports that PlayStation Network failed \"sort of\" for some users on the eve of GTA 6's launch, even though PlayStation's status page said everything was fine. Push Square describes sporadic outages.",
+          "3DJuegos adds that in Spain PSN went down for some players and that the launch has at times saturated PS5 servers.",
+          "In the sources consulted, Sony had not given an explanation for the cause of the issues."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Embark Studios se disculpa por sustituir a los comentaristas de un torneo de The Finals por voces de IA en un vídeo que ya ha retirado.",
+        "en": "Embark Studios apologised for replacing a tournament's casters with AI voices in a The Finals video it has since deleted."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/"
+      }
+    },
+    {
+      "text": {
+        "es": "GAME España avisa de un acceso no autorizado a sus sistemas, detectado la semana del 9 de noviembre, que pudo afectar a teléfono, correo e historial de pedidos; dice que contraseñas y datos de pago no están comprometidos.",
+        "en": "GAME Spain warns of unauthorised access to its systems, detected the week of November 9, that may have affected phone, email and order history; it says passwords and payment data are not compromised."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/industria-gaming/noticias/mucho-ojo-game-espana-ha-detectado-acceso-no-autorizado-a-sus-sistemas-que-ha-podido-comprometer-datos-asociados-a-cuentas-clientes"
+      }
+    },
+    {
+      "text": {
+        "es": "8BitDo presenta su mando Bluetooth de GameCube para Switch, Switch 2 y PC, por 25 años de la consola; saldrá el 10 de diciembre y es más barato que el de Nintendo.",
+        "en": "8BitDo unveils a Bluetooth GameCube-style pad for Switch, Switch 2 and PC for the console's 25th anniversary; it launches December 10 and costs less than Nintendo's."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2"
+      }
+    },
+    {
+      "text": {
+        "es": "Capcom presenta al sexto Robot Master de Mega Man: Dual Override, \"Boat Man\"; el juego llega a Switch y Switch 2 en 2027.",
+        "en": "Capcom reveals the sixth Robot Master in Mega Man: Dual Override, \"Boat Man\"; the game comes to Switch and Switch 2 in 2027."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-sixth-mega-man-dual-override-robot-master"
+      }
+    },
+    {
+      "text": {
+        "es": "Activision y Toys for Bob adelantan que Spyro: A Realm Beyond tendrá presencia en The Game Awards 2026.",
+        "en": "Activision and Toys for Bob tease that Spyro: A Realm Beyond will appear at The Game Awards 2026."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards"
+      }
+    },
+    {
+      "text": {
+        "es": "Alinea Analytics estima que Slay the Spire 2 ha vendido 7,9 millones de copias y nunca ha bajado de 2,5 millones de usuarios activos mensuales.",
+        "en": "Alinea Analytics estimates Slay the Spire 2 has sold 7.9 million copies and has never dipped below 2.5 million monthly active users."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026322045/estiman-que-slay-the-spire-2-es-ya-el-sexto-juego-mas-vendido-de-2026-los-jugadores-estan-obsesionados/"
+      }
+    },
+    {
+      "text": {
+        "es": "Coffee Stain paga unos 4,9 millones de euros por Chronicles: Medieval, tras la quiebra de Raw Power Games, y lo financiará en un estudio nuevo con parte del equipo original.",
+        "en": "Coffee Stain is paying around €4.9 million for Chronicles: Medieval after Raw Power Games' bankruptcy and will fund it at a new studio with part of the original team."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026322037/la-quiebra-de-su-estudio-dejo-en-el-aire-uno-de-los-sandbox-mas-deseados-pero-coffee-stain-lo-ha-rescatado/"
+      }
+    },
+    {
+      "text": {
+        "es": "Koei Tecmo cancela la versión para Nintendo Switch de Nobunaga's Ambition: Hishou.",
+        "en": "Koei Tecmo has cancelled the Nintendo Switch version of Nobunaga's Ambition: Hishou."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-for-switch-canceled"
+      }
+    },
+    {
+      "text": {
+        "es": "Ampere Analysis calcula que el acuerdo de streaming de GTA 6 con Xbox amplía el mercado potencial del juego en la plataforma, con un acceso desde unos 92 dólares.",
+        "en": "Ampere Analysis says Xbox's GTA 6 streaming deal widens the game's addressable market on the platform, with access from around $92."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/how-xboxs-streaming-deal-for-gta-6-could-expand-its-marketshare-by-30/"
+      }
+    },
+    {
+      "text": {
+        "es": "Más de 200 dominios fraudulentos aprovechan el tirón de GTA 6 con falsos sorteos, ofertas y descargas para robar datos o dinero.",
+        "en": "More than 200 fraudulent domains are exploiting GTA 6 hype with fake giveaways, deals and downloads to steal data or money."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026322030/alerta-con-los-estafadores-mas-de-200-dominios-fraudulentos-relacionados-con-gta-6-tratan-de-robar-datos-o-dinero/"
+      }
+    },
+    {
+      "text": {
+        "es": "Devolver estrena un juego el mismo día que GTA 6 y promociona con una recreación plano a plano del tráiler de lanzamiento de Rockstar.",
+        "en": "Devolver is launching a game on the same day as GTA 6 and promoting it with a shot-by-shot remake of Rockstar's launch trailer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "GTA 6",
+      "platforms": "PS5, Xbox Series X|S",
+      "note": {
+        "es": "19 de noviembre",
+        "en": "November 19"
+      },
+      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/"
+    },
+    {
+      "title": "Disney Dreamlight Valley: The Keepsake Sea",
+      "platforms": "Switch 2, Switch, PC",
+      "note": {
+        "es": "Ya disponible (18 de noviembre)",
+        "en": "Out now (November 18)"
+      },
+      "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY"
+    },
+    {
+      "title": "Burning Sword: Death Sun (Early Access)",
+      "platforms": "PC",
+      "note": {
+        "es": "Ya disponible en acceso anticipado",
+        "en": "Out now in Early Access"
+      },
+      "url": "https://www.gematsu.com/2026/11/burning-sword-death-sun-now-available-in-early-access"
+    },
+    {
+      "title": "Hakoniwa Electric",
+      "platforms": "PC",
+      "note": {
+        "es": "30 de noviembre",
+        "en": "November 30"
+      },
+      "url": "https://www.gematsu.com/2026/11/hakoniwa-electric-launches-november-30"
+    },
+    {
+      "title": "Coral Island (Switch 2)",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "7 de diciembre",
+        "en": "December 7"
+      },
+      "url": "https://www.gematsu.com/2026/11/coral-island-for-switch-2-launches-december-7-alongside-version-1-4-update"
+    },
+    {
+      "title": "The First Zombie",
+      "platforms": "Switch, PC",
+      "note": {
+        "es": "16 de diciembre",
+        "en": "December 16"
+      },
+      "url": "https://www.gematsu.com/2026/11/the-first-zombie-launches-december-16"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "43 militares se han reenganchado en el ejército a cambio de días libres para jugar a GTA 6, según Kotaku e IGN.",
+        "en": "43 soldiers re-enlisted in the army in exchange for time off to play GTA 6, per Kotaku and IGN."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/43-soldiers-re-enlisted-in-the-army-in-exchange-for-time-off-to-play-grand-theft-auto-6-im-all-about-the-heist-2000758133"
+      }
+    },
+    {
+      "text": {
+        "es": "Rockstar explica que GTA 6 no incluye prostitutas, un clásico de la saga desde 2001, porque solo metió lo que encaja con la historia de \"amantes en fuga\".",
+        "en": "Rockstar explains GTA 6 has no prostitutes, a series staple since 2001, because it only included what fits the \"lovers on the run\" story."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174"
+      }
+    },
+    {
+      "text": {
+        "es": "Warren Spector felicita a Rockstar pero dice esperar que GTA 6 sea \"el último de su clase\": prefiere cientos de juegos y pleno empleo a uno solo, por brillante que sea.",
+        "en": "Warren Spector congratulates Rockstar but hopes GTA 6 is \"the last of its kind\": he would rather have hundreds of games and full employment than one game, however amazing."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up/"
+      }
+    },
+    {
+      "text": {
+        "es": "La comunidad de The Finals reacciona a la sustitución de comentaristas por voces de IA, hasta que Embark retira el vídeo y pide disculpas.",
+        "en": "The Finals community pushes back on casters being replaced by AI voices until Embark pulled the video and apologised."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Disney Dreamlight Valley: The Keepsake Sea",
+      "url": "https://store.steampowered.com/app/5090170/"
+    },
+    {
+      "name": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Disney Dreamlight Valley: The Keepsake Sea — Deluxe Edition",
+      "url": "https://store.steampowered.com/app/92165/"
+    },
+    {
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "url": "https://store.steampowered.com/app/12210/"
+    }
+  ]
+}
