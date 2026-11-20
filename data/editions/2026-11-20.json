@@ -1,0 +1,648 @@
+{
+  "date": "2026-11-20",
+  "headline": {
+    "es": "Ubisoft recorta 166 puestos y Valve limita Steam Machine, con GTA 6 marcando el mercado",
+    "en": "Ubisoft cuts 166 jobs and Valve limits Steam Machine as GTA 6 sets the market tone"
+  },
+  "intro": {
+    "es": "Ubisoft despide a 166 personas en Montreal y Quebec y Valve cierra la lista de espera del Steam Machine de 2 TB. Además, el gasto en EE. UU. cae un 14 % en octubre antes de GTA 6.",
+    "en": "Ubisoft lays off 166 people in Montreal and Quebec and Valve closes the 2TB Steam Machine waitlist. Also, US spending fell 14% in October ahead of GTA 6."
+  },
+  "stories": [
+    {
+      "id": "ubisoft-despide-166-montreal-quebec",
+      "category": "industria",
+      "title": {
+        "es": "Ubisoft despide a 166 personas en sus estudios de Montreal y Quebec",
+        "en": "Ubisoft lays off 166 people at its Montreal and Quebec studios"
+      },
+      "dek": {
+        "es": "Es en torno al 4 % de su plantilla en Canadá y llega tras proyectos cancelados o redimensionados.",
+        "en": "It is roughly 4% of its Canadian workforce, following cancelled or rescoped projects."
+      },
+      "why": {
+        "es": "Los dos estudios son el núcleo de Assassin's Creed, y los recortes continúan la reestructuración de la compañía.",
+        "en": "Both studios are the core of Assassin's Creed, and the cuts extend the company's ongoing restructuring."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-confirms-166-layoffs-at-key-assassins-creed-studios"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios"
+        }
+      ],
+      "body": {
+        "es": [
+          "Ubisoft ha confirmado el despido de 166 empleados entre Ubisoft Montreal y Ubisoft Quebec. Push Square sitúa la cifra en torno al 4 % de la plantilla de la compañía en Canadá. La empresa lo justifica con que \"las necesidades de producción están cambiando\" a medida que evoluciona su cartera.",
+          "Según Game Developer, que cita a GamesIndustry.biz, la mayoría de los puestos eran de producción y apoyo, y los recortes siguen a proyectos cancelados o muy redimensionados que Ubisoft no ha nombrado. La compañía asegura que ofrece indemnización, cobertura sanitaria ampliada y servicios de reorientación profesional.",
+          "Montreal desarrolla actualmente Assassin's Creed Hexe, mientras que Quebec fue responsable de entregas como Syndicate, Odyssey y Shadows, recuerda Push Square."
+        ],
+        "en": [
+          "Ubisoft has confirmed it laid off 166 employees across Ubisoft Montreal and Ubisoft Quebec. Push Square puts the figure at about 4% of the company's Canadian workforce. Ubisoft says its \"production needs are changing\" as its portfolio evolves.",
+          "According to Game Developer, citing GamesIndustry.biz, most of the roles were in production and support, and the cuts follow cancelled or heavily rescoped projects that Ubisoft has not named. The company says it is offering severance, extended health coverage and career transition services.",
+          "Push Square notes that Montreal is currently developing Assassin's Creed Hexe, while Quebec was behind entries such as Syndicate, Odyssey and Shadows."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ubisoft_Montreal.jpg/1280px-Ubisoft_Montreal.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ubisoft_Montreal.jpg/960px-Ubisoft_Montreal.jpg",
+        "credit": "Shuichi Aizawa / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ubisoft_Montreal.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    {
+      "id": "circana-octubre-2026-gasto-baja-14-por-ciento",
+      "category": "industria",
+      "title": {
+        "es": "El gasto en videojuegos en EE. UU. cae un 14 % en octubre, según Circana",
+        "en": "US video game spending falls 14% in October, Circana reports"
+      },
+      "dek": {
+        "es": "Call of Duty: Modern Warfare 4 lidera las ventas del mes y Wolverine se hunde hasta el puesto 14.",
+        "en": "Call of Duty: Modern Warfare 4 tops the month's sales while Wolverine drops to 14th."
+      },
+      "why": {
+        "es": "Con GTA 6 a la vuelta de la esquina, los datos de noviembre mostrarán cuánto del gasto de octubre se había aplazado.",
+        "en": "With GTA 6 just around the corner, November's data will show how much October spending was held back."
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/call-of-duty-modern-warfare-4-tops-best-selling-games-in-october-us"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5s-sales-absolutely-plunged-in-october"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/despite-the-pricing-hellscape-console-sales-grew-in-october/"
+        }
+      ],
+      "body": {
+        "es": [
+          "El informe de Circana para octubre en EE. UU. indica, según IGN, que el gasto de los jugadores bajó un 14 % respecto al año anterior, algo que el medio atribuye posiblemente a que muchos esperaban a GTA 6. Call of Duty: Modern Warfare 4 fue el juego más vendido del mes: es el decimonoveno año seguido en que un Call of Duty lidera su mes de estreno.",
+          "En hardware, Switch 2 lideró en unidades y en dólares tanto en octubre como en lo que va de año, según Nintendo Life. GameSpot añade que las unidades de PS5 crecieron un 5 % frente a octubre de 2025 pese al encarecimiento de las consolas.",
+          "Marvel's Wolverine, primero en septiembre, cayó al puesto 14 en octubre, y es el 15.º del año, según Push Square, que recuerda que Sony informó de 2,4 millones de copias vendidas."
+        ],
+        "en": [
+          "Circana's US report for October shows, per IGN, that player spending fell 14% year on year, which the outlet suggests may be linked to people waiting for GTA 6. Call of Duty: Modern Warfare 4 was the month's best seller, the 19th straight year a Call of Duty title has topped its launch month.",
+          "In hardware, Switch 2 led in both units and dollars for October and year to date, per Nintendo Life. GameSpot adds that PS5 unit sales rose 5% versus October 2025 despite higher console prices.",
+          "Marvel's Wolverine, first in September, fell to 14th in October and sits 15th for the year, per Push Square, which notes Sony reported 2.4 million copies sold."
+        ]
+      }
+    },
+    {
+      "id": "steam-machine-512gb-sin-reserva-2tb-lista-cerrada",
+      "category": "pc",
+      "title": {
+        "es": "Steam Machine: el modelo de 512 GB ya se compra sin reserva y el de 2 TB cierra su lista de espera",
+        "en": "Steam Machine: the 512GB model is now buyable without a reservation and the 2TB waitlist closes"
+      },
+      "dek": {
+        "es": "Valve dice que los costes de memoria y almacenamiento hacen incierto cuántas unidades puede fabricar y a qué precio.",
+        "en": "Valve says memory and storage costs make it unclear how many units it can build and at what price."
+      },
+      "why": {
+        "es": "La crisis de memoria sigue condicionando el hardware de PC y Valve avisa de que podría volver a subir precios.",
+        "en": "The memory crunch keeps shaping PC hardware, and Valve warns prices could rise again."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/steam-machine-512gb-2tb-reservation-update/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited"
+        }
+      ],
+      "body": {
+        "es": [
+          "Valve ha actualizado la situación de las reservas de Steam Machine. Según Insider Gaming, la empresa puede cumplir todas las reservas del modelo de 512 GB, que ya se puede pedir \"mientras duren las existencias\" y, cuando se agote, figurará como sin stock en lugar de abrir otra lista de espera.",
+          "Para el de 2 TB, Valve ha enviado invitaciones de compra a los reservistas restantes, pero admite que la lista \"supera la producción actual\", por lo que no hay unidades garantizadas, y la ha cerrado a nuevas inscripciones.",
+          "PC Gamer destaca que Valve advierte de que los costes de memoria y almacenamiento siguen subiendo y que podría elevar precios de nuevo. Según Insider Gaming, ofrecerá más información en enero."
+        ],
+        "en": [
+          "Valve has updated the status of Steam Machine reservations. According to Insider Gaming, the company can fulfil all 512GB reservations, and that model can now be ordered \"while supplies last\"; when it sells out it will show as out of stock rather than open a new waitlist.",
+          "For the 2TB model, Valve has sent purchase invitations to the remaining reservation holders but admits the waitlist \"exceeds our current production\", so units aren't guaranteed, and it has closed the list to new sign-ups.",
+          "PC Gamer highlights that Valve warns memory and storage costs keep rising and prices could go up again. According to Insider Gaming, it expects to share more in January."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Valve_Lobby_2016.jpg/1280px-Valve_Lobby_2016.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Valve_Lobby_2016.jpg/960px-Valve_Lobby_2016.jpg",
+        "credit": "Tim Eulitz / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Valve_Lobby_2016.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    {
+      "id": "gta-6-sensor-tower-20-millones-copias-reservas",
+      "category": "juegos",
+      "title": {
+        "es": "Sensor Tower estima unos 20 millones de copias de GTA 6 antes del lanzamiento",
+        "en": "Sensor Tower estimates about 20 million GTA 6 copies sold before launch"
+      },
+      "dek": {
+        "es": "La cifra es una extrapolación de terceros: Take-Two no ha publicado datos oficiales.",
+        "en": "The figure is a third-party extrapolation: Take-Two has published no official numbers."
+      },
+      "why": {
+        "es": "Si se confirma, situaría el arranque de GTA 6 entre los mayores de la historia del medio.",
+        "en": "If confirmed, it would place GTA 6's start among the biggest the medium has seen."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026323032/gta-6-habria-vendido-unos-20-millones-de-copias-antes-de-su-lanzamiento-segun-estiman-los-analistas/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Los analistas de Sensor Tower estiman que GTA 6 vendió en torno a 20 millones de copias durante su campaña previa al lanzamiento del 19 de noviembre, según recoge Vandal. La firma contabilizaba 17,07 millones a 16 de noviembre, con un ritmo cercano a un millón diarios.",
+          "Vandal calcula, a partir de esos datos, unos 1.600 millones de dólares de ingresos, con un reparto aproximado del 75 % en PS5 y el 25 % en Xbox Series, pero subraya que todo son estimaciones y que no hay cifras oficiales."
+        ],
+        "en": [
+          "Sensor Tower analysts estimate GTA 6 sold around 20 million copies during its pre-launch campaign ahead of the November 19 release, as reported by Vandal. The firm counted 17.07 million as of November 16, at a pace of about one million a day.",
+          "From those figures Vandal calculates over $1.6 billion in revenue, split roughly 75% PS5 and 25% Xbox Series, but stresses everything is an estimate and no official figures exist."
+        ]
+      }
+    },
+    {
+      "id": "gamestop-ryan-cohen-gta-6-sin-disco",
+      "category": "industria",
+      "title": {
+        "es": "El CEO de GameStop critica que GTA 6 salga sin disco",
+        "en": "GameStop's CEO criticises GTA 6 shipping without a disc"
+      },
+      "dek": {
+        "es": "Ryan Cohen sostiene que eliminar el mercado de segunda mano daña a los consumidores.",
+        "en": "Ryan Cohen argues that removing the used market harms consumers."
+      },
+      "why": {
+        "es": "El debate sobre la propiedad de los juegos digitales llega de la mano del mayor lanzamiento del año.",
+        "en": "The debate over owning digital games arrives alongside the year's biggest launch."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026323053/gta-6-sin-disco-dana-a-los-consumidores-segun-el-jefe-de-gamestop-que-critica-los-juegos-con-codigo/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Ryan Cohen, director ejecutivo de GameStop, ha criticado los lanzamientos con un código en la caja en lugar de un disco. Según Vandal, lo hizo en una entrevista con Bloomberg y en una publicación en X, donde sí mencionó a GTA 6.",
+          "Cohen argumenta que un futuro totalmente digital perjudica a los consumidores y a GameStop, porque elimina la competencia de las copias usadas. Vandal añade que ha estado en contacto con el congresista Ritchie Torres, impulsor de la Power to the Players Act. GameSpot apunta que la ausencia de disco no parece frenar el éxito del juego."
+        ],
+        "en": [
+          "GameStop CEO Ryan Cohen has criticised releases that put a download code in the box instead of a disc. Per Vandal, he did so in a Bloomberg interview and in an X post, where he did name GTA 6.",
+          "Cohen argues a fully digital future harms consumers and GameStop by eliminating the competition used copies provide. Vandal adds he has been in contact with Congressman Ritchie Torres, who backs the Power to the Players Act. GameSpot notes the lack of a disc doesn't appear to have slowed the game's success."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/GameStop_interior_2019.jpg/1280px-GameStop_interior_2019.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/GameStop_interior_2019.jpg/960px-GameStop_interior_2019.jpg",
+        "credit": "Dan Keck / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:GameStop_interior_2019.jpg",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    {
+      "id": "warren-spector-gta-6-modelo-negocio-ultimo-de-su-clase",
+      "category": "industria",
+      "title": {
+        "es": "Warren Spector elogia GTA 6 pero espera que sea \"el último de su clase\"",
+        "en": "Warren Spector praises GTA 6 but hopes it is \"the last of its kind\""
+      },
+      "dek": {
+        "es": "El creador de Deus Ex dice que ese modelo no lo puede ni debe copiar nadie.",
+        "en": "The Deus Ex creator says no one else can or should copy that model."
+      },
+      "why": {
+        "es": "Sus palabras reabren el debate sobre presupuestos y plazos de los grandes AAA.",
+        "en": "His words reopen the debate on budgets and timelines of big AAA games."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026323041/el-creador-de-deus-ex-alaba-a-gta-6-pero-cree-que-su-modelo-de-negocio-no-es-algo-que-otros-puedan-o-deban-imitar/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/el-creador-de-deus-ex-critica-duramente-el-caro-desarrollo-de-grand-theft-auto-vi"
+        }
+      ],
+      "body": {
+        "es": [
+          "En una publicación en LinkedIn recogida por Vandal, Warren Spector felicita a los equipos de GTA 6 y lo califica de hito para el medio, pero afirma que su modelo de negocio no puede seguirlo ninguna otra empresa ni debería hacerlo. Preferiría \"cientos de juegos y pleno empleo\" a un único título, por increíble que sea.",
+          "Spector sostiene que ningún gran juego sale a tiempo y dentro del presupuesto, y menciona un coste reportado de 1.000 millones de dólares que Rockstar no ha confirmado. Concluye que espera que GTA 6 sea \"el último de su clase\", aun siendo lo mejor que ofrece la industria."
+        ],
+        "en": [
+          "In a LinkedIn post reported by Vandal, Warren Spector congratulates the GTA 6 teams and calls it a milestone for the medium, but says no other company can follow its business model, nor should. He would rather have \"hundreds of games and full employment\" than a single title, however incredible.",
+          "Spector argues no truly major game ships on time and on budget, citing a reported $1 billion cost that Rockstar has not confirmed. He concludes he hopes GTA 6 is \"the last of its kind\", even as the best the industry has to offer."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Warren_Spector_GDC_2023.jpg/1280px-Warren_Spector_GDC_2023.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Warren_Spector_GDC_2023.jpg/960px-Warren_Spector_GDC_2023.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Warren_Spector_GDC_2023.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-lidera-japon-86097-unidades",
+      "category": "nintendo",
+      "title": {
+        "es": "El remake de Ocarina of Time sigue primero en Japón con 86.097 unidades en la semana",
+        "en": "The Ocarina of Time remake stays first in Japan with 86,097 units in the week"
+      },
+      "dek": {
+        "es": "Metaphor: ReFantazio debuta en Switch 2 con 11.167 copias y Pikmin 4 entra con discreción.",
+        "en": "Metaphor: ReFantazio debuts on Switch 2 with 11,167 copies and Pikmin 4 enters quietly."
+      },
+      "why": {
+        "es": "El remake acumula 623.138 unidades en Japón y Switch 2 sigue dominando el hardware.",
+        "en": "The remake has totalled 623,138 units in Japan and Switch 2 keeps dominating hardware."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-pikmin-4-makes-a-lukewarm-debut-on-switch-2-as-zelda-dominates"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026323040/zelda-ocarina-of-time-remake-domina-una-semana-mas-las-ventas-japonesas/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según la lista de Famitsu de la semana del 9 al 15 de noviembre, recogida por Nintendo Life, The Legend of Zelda: Ocarina of Time vendió 86.097 unidades en Switch 2 y suma 623.138. Le siguen Metaphor: ReFantazio en Switch 2, con 11.167 unidades en su debut, y Nintendo Switch Sports Resort, con 11.086.",
+          "Pikmin 4 – Switch 2 Edition + Dandori Academy debutó con 2.854 unidades; Nintendo Life señala que su texto y su tabla difieren en la posición exacta. En hardware, Switch 2 lideró con 42.402 unidades, por delante de PS5 Digital Edition (10.448)."
+        ],
+        "en": [
+          "In Famitsu's chart for November 9–15, reported by Nintendo Life, The Legend of Zelda: Ocarina of Time sold 86,097 units on Switch 2 for a total of 623,138. It is followed by Metaphor: ReFantazio on Switch 2 with 11,167 units in its debut, and Nintendo Switch Sports Resort with 11,086.",
+          "Pikmin 4 – Switch 2 Edition + Dandori Academy debuted with 2,854 units; Nintendo Life notes its text and table differ on the exact ranking. In hardware, Switch 2 led with 42,402 units, ahead of the PS5 Digital Edition (10,448)."
+        ]
+      }
+    },
+    {
+      "id": "ps-plus-extra-premium-diciembre-2026-salidas",
+      "category": "playstation",
+      "title": {
+        "es": "PS Plus Extra y Premium pierde seis juegos en diciembre, entre ellos Granblue Fantasy: Relink",
+        "en": "PS Plus Extra and Premium lose six games in December, including Granblue Fantasy: Relink"
+      },
+      "dek": {
+        "es": "Sony ha publicado la lista de salidas del catálogo junto a la incorporación de diez juegos nuevos.",
+        "en": "Sony has published the catalogue departures alongside ten new additions."
+      },
+      "why": {
+        "es": "Quien quiera completarlos tiene hasta la actualización del catálogo de diciembre.",
+        "en": "Anyone wanting to finish them has until the December catalogue update."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps5/noticias/ultima-oportunidad-playstation-anuncia-6-juegos-que-desapareceran-ps-plus-extra-premium-diciembre-2026"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/playstation-plus-is-losing-more-games-but-one-departure-stings-the-most/"
+        }
+      ],
+      "body": {
+        "es": [
+          "PlayStation ha anunciado los juegos que dejarán PS Plus Extra y Premium: Granblue Fantasy: Relink, Somerville, Fade to Silence, Dark Rose Valkyrie, Root Letter y Jake Hunter: Prism of Eyes, según 3DJuegos.",
+          "3DJuegos sitúa la salida en la actualización del 15 de diciembre, siguiendo el calendario habitual de Sony, y precisa que el anuncio coincide con la llegada de diez juegos al catálogo. GameSpot también destaca la baja de uno de los títulos como la más sensible."
+        ],
+        "en": [
+          "PlayStation has announced the games leaving PS Plus Extra and Premium: Granblue Fantasy: Relink, Somerville, Fade to Silence, Dark Rose Valkyrie, Root Letter and Jake Hunter: Prism of Eyes, per 3DJuegos.",
+          "3DJuegos places the departure at the December 15 update, following Sony's usual schedule, and notes the announcement coincides with ten games joining the catalogue. GameSpot also singles out one of the departures as the most notable loss."
+        ]
+      }
+    },
+    {
+      "id": "mega-man-dual-override-boat-man-sexto-robot-master",
+      "category": "nintendo",
+      "title": {
+        "es": "Capcom presenta a Boat Man, sexto Robot Master de Mega Man: Dual Override",
+        "en": "Capcom reveals Boat Man, sixth Robot Master in Mega Man: Dual Override"
+      },
+      "dek": {
+        "es": "El juego llegará a Switch y Switch 2 en 2027 y Capcom promete más presentaciones.",
+        "en": "The game arrives on Switch and Switch 2 in 2027 and Capcom promises more reveals."
+      },
+      "why": {
+        "es": "Capcom va desvelando semana a semana a los jefes para mantener el interés hasta el lanzamiento.",
+        "en": "Capcom is revealing bosses week by week to keep interest up until launch."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-sixth-mega-man-dual-override-robot-master"
+        }
+      ],
+      "body": {
+        "es": [
+          "Capcom ha revelado a Boat Man, un pescador robótico de carácter tímido que, según su descripción oficial, duda en adentrarse en alta mar y combate en una arena acuática con tema de trampa de mareas. Es el sexto Robot Master anunciado de Mega Man: Dual Override.",
+          "Los anteriores son Cleanser Man, ganador del concurso de diseño, Cook Man, Tank Man, Twinkle Girl y Jet Man. El juego saldrá en 2027 para Switch y Switch 2, según Nintendo Life."
+        ],
+        "en": [
+          "Capcom has revealed Boat Man, a timid coastal fishing robot who, per the official description, hesitates to venture onto the high seas and fights in an aquatic arena with a tidal-trap theme. He is the sixth Robot Master announced for Mega Man: Dual Override.",
+          "The earlier ones are Cleanser Man, winner of the design contest, Cook Man, Tank Man, Twinkle Girl and Jet Man. The game launches in 2027 on Switch and Switch 2, per Nintendo Life."
+        ]
+      }
+    },
+    {
+      "id": "rumor-a-wasteland-full-of-cats-bethesda-devcats",
+      "category": "juegos",
+      "title": {
+        "es": "Rumor: A Wasteland Full of Cats, un juego inspirado en Fallout, aparece en una clasificación por edades",
+        "en": "Rumor: A Wasteland Full of Cats, a Fallout-inspired game, surfaces in an age rating"
+      },
+      "dek": {
+        "es": "El título, de Devcats y con Bethesda como editora, apareció en la clasificación de Australia; PC Gamer dice que Bethesda lo describe como una aventura inspirada en Fallout.",
+        "en": "The title, from Devcats and published by Bethesda, appeared in Australia's ratings database; PC Gamer says Bethesda describes it as a Fallout-inspired adventure."
+      },
+      "why": {
+        "es": "Sería una nueva colaboración de la serie de objetos ocultos Full of Cats con la saga de Bethesda.",
+        "en": "It would be a new collaboration between the Full of Cats hidden-object series and Bethesda's franchise."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026323044/la-colaboracion-mas-inesperada-de-fallout-un-sistema-de-clasificacion-por-edades-lo-filtra/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-game-has-been-rated-in-australia-and-its-a-hidden-object-game/"
+        }
+      ],
+      "body": {
+        "es": [
+          "El juego A Wasteland Full of Cats apareció en el sistema de clasificación por edades de Australia, según Vandal, como una colaboración de Devcats, creadores de la serie Full of Cats, con Bethesda y la saga Fallout. PC Gamer titula que Bethesda lo describe como una aventura inspirada en Fallout, hecha junto a una protectora de animales sin ánimo de lucro.",
+          "PC Gamer indica que se trata de una variante en la que se buscan gatos en 14 ubicaciones y 33 salas. Las plataformas y la fecha de lanzamiento no constan en las fuentes consultadas."
+        ],
+        "en": [
+          "A Wasteland Full of Cats surfaced in Australia's age-rating system, per Vandal, as a collaboration between Devcats, makers of the Full of Cats series, and Bethesda's Fallout franchise. PC Gamer's headline says Bethesda describes it as a Fallout-inspired adventure made with a not-for-profit animal rescue.",
+          "PC Gamer says players find cats across 14 locations and 33 rooms. Platforms and release date are not stated in the sources consulted."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Ubisoft ha creado Motherbrain, una filial dedicada a aplicar IA generativa en sus juegos.",
+        "en": "Ubisoft has created Motherbrain, a subsidiary dedicated to applying generative AI in its games."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/ubisoft-abre-un-estudio-dedicado-a-la-aplicacion-de-ia-generativa-en-videojuegos"
+      }
+    },
+    {
+      "text": {
+        "es": "Ubisoft fusiona las Creative Houses 3 y 5 bajo Julien Bares y confirma que todos los puestos de liderazgo están cubiertos.",
+        "en": "Ubisoft has merged Creative Houses 3 and 5 under Julien Bares and says all Creative House leadership roles are filled."
+      },
+      "source": {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com/ubisoft-merges-creative-houses/"
+      }
+    },
+    {
+      "text": {
+        "es": "Ubisoft atribuye a Assassin's Creed Black Flag Resynced haber superado su previsión trimestral, con peso de las ediciones premium y el gasto dentro del juego.",
+        "en": "Ubisoft credits Assassin's Creed Black Flag Resynced with beating its quarterly forecast, helped by premium editions and in-game spending."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026323056/ubisoft-celebra-el-exito-de-assassins-creed-black-flag-resynced-el-remake-que-supero-sus-expectativas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Path of Exile 2 llegará a la versión 1.0 el 11 de diciembre; Grinding Gear Games busca el millón de jugadores en Steam tras superar los 500.000 simultáneos en acceso anticipado.",
+        "en": "Path of Exile 2 reaches version 1.0 on December 11; Grinding Gear Games is aiming for one million Steam players after topping 500,000 concurrent in early access."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026323052/este-rpg-de-accion-busca-superar-el-estreno-en-steam-de-elden-ring-y-cyberpunk-2077/"
+      }
+    },
+    {
+      "text": {
+        "es": "Alcon Entertainment, titular de Blade Runner, afirma haber mantenido conversaciones para adaptar la saga a un videojuego AAA moderno.",
+        "en": "Alcon Entertainment, owner of Blade Runner, says it has held talks about adapting the franchise into a modern AAA video game."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026323058/blade-runner-podria-tener-un-juego-aaa-sus-responsables-tuvieron-conversaciones-para-hacerlo-realidad/"
+      }
+    },
+    {
+      "text": {
+        "es": "Toby Fox publica en su boletín de otoño que el Capítulo 6 de Deltarune va \"bien\" y ya es un borrador estructuralmente completo que se puede jugar.",
+        "en": "Toby Fox says in his fall newsletter that Deltarune Chapter 6 is \"progressing well\" and is now a structurally complete, playable draft."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update"
+      }
+    },
+    {
+      "text": {
+        "es": "El parche 2.05.01 de Crimson Desert permite consultar mapas del tesoro, carteles de recompensa y libros desde el inventario y corrige fallos de misiones y construcción.",
+        "en": "Crimson Desert patch 2.05.01 lets players view treasure maps, bounty posters and books from the inventory and fixes quest and building bugs."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026323033/crimson-desert-mejora-su-inventario-y-corrige-varios-fallos-de-misiones-con-un-nuevo-parche/"
+      }
+    },
+    {
+      "text": {
+        "es": "Konami ha registrado en la EUIPO las marcas de dos de sus sagas clásicas olvidadas.",
+        "en": "Konami has registered trademarks for two of its dormant classic franchises with the EUIPO."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026323035/konami-registra-las-marcas-de-dos-de-sus-sagas-olvidadas/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rockstar ya ofrece para descarga gratuita el mapa oficial de GTA 6, que sustituye al mapa físico dentro de la caja.",
+        "en": "Rockstar now offers GTA 6's official map as a free download, in place of a map inside the physical box."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/the-official-gta-6-map-is-now-available-to-download-for-free"
+      }
+    },
+    {
+      "text": {
+        "es": "Mark of the Deep, aventura de piratas y fantasía con toques soulslike, es el juego gratis de la semana en Epic Games Store.",
+        "en": "Mark of the Deep, a pirate fantasy adventure with soulslike touches, is this week's free game on the Epic Games Store."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/pc/noticias/juegas-pc-pues-puedes-descargar-gratis-juego-piratas-fantasia-toques-soulslike-mark-of-the-deep-nuevo-regalo-epic-games"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "THYSIASTERY",
+      "platforms": "PS5, Xbox Series, PS4, Xbox One, Switch",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/11/thysiastery-coming-to-ps5-xbox-series-ps4-xbox-one-and-switch-on-december-3"
+    },
+    {
+      "title": "Path of Exile 2 (1.0)",
+      "platforms": "PC",
+      "note": {
+        "es": "11 de diciembre",
+        "en": "December 11"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026323052/este-rpg-de-accion-busca-superar-el-estreno-en-steam-de-elden-ring-y-cyberpunk-2077/"
+    },
+    {
+      "title": "Ao Oni: The Horror of Blueberry Onsen Plus y Ao Oni 2",
+      "platforms": "PS5",
+      "note": {
+        "es": "17 de diciembre",
+        "en": "December 17"
+      },
+      "url": "https://www.gematsu.com/2026/11/ao-oni-the-horror-of-blueberry-onsen-plus-and-ao-oni-2-coming-to-ps5-on-december-17"
+    },
+    {
+      "title": "Caladrius 2 / Dark Element",
+      "platforms": "Consolas",
+      "note": {
+        "es": "Retrasado al 27 de enero de 2027",
+        "en": "Delayed to January 27, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/caladrius-2-dark-element-delayed-to-january-27-2027"
+    },
+    {
+      "title": "Dual Orb Collection",
+      "platforms": "Switch",
+      "note": {
+        "es": "18 de marzo de 2027",
+        "en": "March 18, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/dual-orb-collection-announced-for-switch"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Las críticas a GTA 6 por funcionar a 30 fps siguen dividiendo: en PC Gamer, su propio equipo dice que ni los más puristas de PC están muy molestos.",
+        "en": "The 30 fps debate over GTA 6 continues: PC Gamer's own team says even its diehard PC players aren't that bothered."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/even-our-bunch-of-diehard-pc-gamers-arent-that-bothered-by-30-fps-in-gta-6/"
+      }
+    },
+    {
+      "text": {
+        "es": "La censura de GTA 6 en Japón, con la clasificación 18+ más alta pero sexo y violencia suavizados, genera comentarios entre jugadores de PS5.",
+        "en": "GTA 6's censorship in Japan, with the highest 18+ rating yet toned-down sex and violence, is drawing player comment."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-censorship-in-japan-sees-characters-shower-in-underwear-as-sex-and-violence-are-toned-down"
+      }
+    },
+    {
+      "text": {
+        "es": "Un torneo de esports sustituyó a los comentaristas por voces de IA y la reacción fue muy negativa, según Kotaku.",
+        "en": "A major esports tournament replaced casters with AI voices and it went over very poorly, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/major-esports-tournament-replaced-caster-commentary-with-ai-voices-and-it-went-over-very-poorly-2000758538"
+      }
+    },
+    {
+      "text": {
+        "es": "Jugadores de Infinity Nikki planean un \"girl-cott\" del juego por un anuncio con Maye Musk, según Kotaku.",
+        "en": "Infinity Nikki players are planning a \"girl-cott\" of the game over an ad featuring Maye Musk, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/infinity-nikki-players-are-planning-to-girl-cott-the-game-over-maye-musk-ad-2000758410"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400/"
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Disney Dreamlight Valley: The Keepsake Sea — Deluxe Edition",
+      "url": "https://store.steampowered.com/app/92165/"
+    },
+    {
+      "name": "Queen's Domain",
+      "url": "https://store.steampowered.com/app/1799840/"
+    },
+    {
+      "name": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770/"
+    }
+  ]
+}
