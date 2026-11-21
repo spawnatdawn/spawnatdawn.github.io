@@ -1,0 +1,663 @@
+{
+  "date": "2026-11-21",
+  "headline": {
+    "es": "GTA 6 factura 3.790 millones en un día y ya sufre cierres en PS5 y reseñas negativas de usuarios",
+    "en": "GTA 6 takes $3.79 billion in a day, then meets PS5 crashes and a wave of user review bombing"
+  },
+  "intro": {
+    "es": "Rockstar presume del mayor estreno del entretenimiento mientras aparecen errores en PS5 y una campaña de reseñas en Metacritic. Además, Ubisoft pierde 254,5 millones en el semestre y Nintendo condiciona sus ocarinas de Zelda.",
+    "en": "Rockstar touts the biggest entertainment launch ever as PS5 crashes and a Metacritic review campaign surface. Also, Ubisoft loses €254.5M in the half and Nintendo gates its Zelda ocarinas."
+  },
+  "stories": [
+    {
+      "id": "gta-6-32-5-millones-3790-millones-primer-dia",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 factura 3.790 millones de dólares en su primer día y se proclama el mayor estreno del entretenimiento",
+        "en": "GTA 6 takes in $3.79 billion on day one and is billed as the biggest entertainment launch ever"
+      },
+      "dek": {
+        "es": "Take-Two y Rockstar hablan de 32,5 millones de copias vendidas antes del lanzamiento, el 19 de noviembre.",
+        "en": "Take-Two and Rockstar cite 32.5 million copies sold before the November 19 launch."
+      },
+      "why": {
+        "es": "Las cifras fijan un listón inédito para el sector, aunque el reparto por plataformas y los datos de unidades siguen sin detallarse.",
+        "en": "The numbers set an unprecedented bar for the industry, though the platform split and a full unit breakdown remain unpublished."
+      },
+      "sources": [
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-tops-3-79-billion-in-day-one-retail-sales-after-32-5-million-pre-orders"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026324039/rockstar-anuncia-las-ventas-de-gta-6-es-el-mayor-estreno-de-la-historia-del-entretenimiento/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Rockstar y Take-Two han anunciado que Grand Theft Auto VI superó los 3.790 millones de dólares en ventas el primer día, el 19 de noviembre, lo que califican como el mayor estreno de la historia del entretenimiento. Según Game Developer, la cifra supera con holgura el récord de GTA V, cuyo primer día se estima en 815 millones de dólares.",
+          "El dato de unidades admite matices: Game Developer y Push Square coinciden en que los 32,5 millones de copias corresponden al periodo de reserva y precarga, antes del estreno, y Push Square advierte de que probablemente no incluyen las ventas del propio día. Vandal, en cambio, lo resume como ventas en el día de lanzamiento, así que conviene tomar la formulación de Rockstar con cautela.",
+          "Rockstar no ha desglosado las ventas por plataforma. Push Square apunta a estimaciones que sitúan a PS5 en torno al 75 % del total, y todas las fuentes recuerdan que la versión de PC se espera en 2027."
+        ],
+        "en": [
+          "Rockstar and Take-Two have announced that Grand Theft Auto VI passed $3.79 billion in day-one sales on November 19, which they call the biggest entertainment launch in history. Game Developer says that comfortably tops GTA V's record, whose first day is estimated at $815 million.",
+          "The unit figure needs nuance: Game Developer and Push Square agree the 32.5 million copies refer to the pre-order and preload window, before release, and Push Square cautions that it likely excludes sales from the day itself. Vandal, by contrast, summarises it as launch-day sales, so treat the exact wording with care.",
+          "Rockstar has not split sales by platform. Push Square points to estimates putting PS5 at around 75% of the total, and every outlet notes the PC version is expected in 2027."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-trafico-internet-record-de-cix-comcast",
+      "category": "industria",
+      "title": {
+        "es": "El lanzamiento de GTA 6 bate récords de tráfico de Internet",
+        "en": "GTA 6's launch sets internet traffic records"
+      },
+      "dek": {
+        "es": "DE-CIX registra un pico mundial de 33,03 Tbit/s e IGN recoge que Comcast vivió su día más intenso desde 1963.",
+        "en": "DE-CIX logged a global peak of 33.03 Tbit/s and IGN reports Comcast saw its busiest day since 1963."
+      },
+      "why": {
+        "es": "Las descargas y la precarga de un solo juego ya mueven la infraestructura de red a escala de grandes eventos.",
+        "en": "Downloads and preloads of a single game now stress network infrastructure at the scale of major events."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026324026/gta-6-dispara-con-su-lanzamiento-el-trafico-mundial-de-internet-a-su-record-historico/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history"
+        },
+        {
+          "name": "Vandal (Uber Eats)",
+          "url": "https://vandal.elespanol.com/noticia/2026324021/el-exito-de-gta-6-disparo-los-pedidos-de-uber-eats-en-espana-de-madrugada-hubo-un-pico-del-53-a-las-200h/"
+        }
+      ],
+      "body": {
+        "es": [
+          "El operador de puntos de intercambio DE-CIX informó de un pico de 33,03 terabits por segundo en el tráfico mundial de Internet durante el lanzamiento de GTA VI, un máximo histórico. Según Vandal, es cerca de un 25 % más que lo habitual en una semana de principios de enero, el periodo de mayor tráfico del año. En España el pico fue de 1,43 Tbit/s en la noche del miércoles al jueves, justo antes de poder entrar en Vice City.",
+          "IGN, por su parte, cuenta que Comcast aseguró que el estreno provocó el día de más tráfico desde la fundación de la compañía en 1963. El responsable técnico de DE-CIX, Thomas King, afirmó que ya antes del lanzamiento oficial se habían registrado nuevos máximos.",
+          "El efecto llegó también a la vida cotidiana: Vandal recoge que los pedidos de Uber Eats en España subieron un 53 % a las 2:00 de la madrugada del 19 de noviembre, cuando muchos jugadores trasnocharon para estrenar el juego."
+        ],
+        "en": [
+          "Internet exchange operator DE-CIX reported a peak of 33.03 terabits per second in global internet traffic during GTA VI's launch, an all-time high. Per Vandal, that is about 25% above a typical week in early January, the year's busiest period. Spain peaked at 1.43 Tbit/s on the night between Wednesday and Thursday, just before players could enter Vice City.",
+          "IGN adds that Comcast said the launch drove the busiest traffic day it has seen since the company was founded in 1963. DE-CIX CTO Thomas King said new highs had been recorded even before the official release.",
+          "The effect reached daily life too: Vandal reports that Uber Eats orders in Spain rose 53% at 2:00 a.m. on November 19, when many players stayed up to start the game."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-ps5-error-ce-108255-1-cierres",
+      "category": "playstation",
+      "title": {
+        "es": "Jugadores de GTA 6 en PS5 denuncian cierres con el error CE-108255-1",
+        "en": "GTA 6 players on PS5 report crashes with error CE-108255-1"
+      },
+      "dek": {
+        "es": "Hay quejas en redes y se especula con el metal líquido de la consola, pero no hay un diagnóstico confirmado.",
+        "en": "There are complaints on social media and speculation about the console's liquid metal, but no confirmed diagnosis."
+      },
+      "why": {
+        "es": "Con un juego tan exigente, algunos fallos de hardware antiguos pueden aflorar, y Sony aún no ha explicado la causa.",
+        "en": "With a game this demanding, older hardware faults may surface, and Sony has not yet explained the cause."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026324037/jugadores-de-gta-6-en-ps5-informan-de-cierres-repentinos-y-el-problema-podria-ser-de-la-consola/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Algunos jugadores de GTA 6 en PS5 informan de que el juego se cierra de repente tras varios minutos y muestra el código CE-108255-1, un error que, según GameSpot, aparece cuando un juego falla durante la partida o no llega a cargar.",
+          "Vandal, que cita a usuarios de X y a Wccftech, recoge la hipótesis de que el origen sea físico: polvo acumulado o un fallo conocido de la refrigeración por metal líquido, más habitual con la consola en vertical. Es una conjetura de los usuarios, no un diagnóstico confirmado, y no hay cifras de afectados.",
+          "La página de soporte de PlayStation recomienda actualizar el juego y, si persiste, recurrir al servicio de reparación. Según Vandal, reinstalar el juego, limpiar la caché o reconstruir la base de datos no ha resuelto el problema a los afectados."
+        ],
+        "en": [
+          "Some GTA 6 players on PS5 report the game closing abruptly after several minutes and showing error code CE-108255-1, which GameSpot says appears when a game crashes mid-session or fails to load.",
+          "Vandal, citing X users and Wccftech, relays the hypothesis that the cause is physical: accumulated dust or a known liquid-metal cooling fault, more common when the console stands vertically. That is user conjecture, not a confirmed diagnosis, and there are no figures on how many are affected.",
+          "PlayStation's support page recommends updating the game and, if the error persists, seeking repair service. According to Vandal, reinstalling, clearing the cache or rebuilding the database has not fixed it for those affected."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-review-bombing-metacritic-5-4",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 recibe una oleada de reseñas negativas de usuarios en Metacritic",
+        "en": "GTA 6 hit by a wave of negative user reviews on Metacritic"
+      },
+      "dek": {
+        "es": "La nota de usuarios de PS5 ronda el 5,4 mientras la crítica le da un 99 de media.",
+        "en": "The PS5 user score sits around 5.4 while critics average 99."
+      },
+      "why": {
+        "es": "El contraste entre crítica y usuarios reabre el debate sobre las puntuaciones de usuarios que no exigen haber comprado el juego.",
+        "en": "The gap between critics and users reopens the debate over user scores that do not require owning the game."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/overrated-game-gta-6-ps5-review-bombing-has-started-after-record-breaking-release"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-6-gta6-review-bomb-woke-misinformation-campaign-2000759045"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-review-bombed/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Push Square, GTA 6 tiene en Metacritic una nota de usuarios de 5,4 en PS5 (\"mixta o media\") frente a una media de 99 de la crítica, la mejor de la historia según el medio. Muchas valoraciones son ceros con quejas como los 30 fps, la supuesta deriva \"woke\" o la historia.",
+          "Kotaku cuenta más de 2.000 reseñas negativas en la página de PS5 un día después del estreno y las atribuye en gran parte a una campaña de guerra cultural, aunque aclara que hay quejas legítimas sobre la tasa de imágenes, errores o el sistema de karma. Es una interpretación del medio.",
+          "Push Square recuerda que en Metacritic se puede puntuar sin tener el juego y señala que en PS Store, donde hace falta comprarlo, la nota es de 4,84 sobre unas 170.000 valoraciones."
+        ],
+        "en": [
+          "Per Push Square, GTA 6 holds a Metacritic user score of 5.4 on PS5 (\"mixed or average\") against a critic average of 99, the best ever according to the outlet. Many ratings are zeros citing 30 fps, a supposed \"woke\" turn or the story.",
+          "Kotaku counts over 2,000 negative reviews on the PS5 page a day after launch and attributes many to a culture-war campaign, while noting some complaints are genuine, such as frame rate, bugs or the karma system. That is the outlet's interpretation.",
+          "Push Square notes that Metacritic lets anyone rate without owning the game, and points out that on the PS Store, where purchase is required, the rating is 4.84 from about 170,000 reviews."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-circana-61-ps5-56-xbox-primer-dia",
+      "category": "xbox",
+      "title": {
+        "es": "Circana: el 61 % de los jugadores activos de PS5 en EE. UU. jugó a GTA 6 el día del estreno",
+        "en": "Circana: 61% of active US PS5 players played GTA 6 on launch day"
+      },
+      "dek": {
+        "es": "En Xbox fue el 56 % a nivel global, con 494 minutos de media frente a 513 en PS5.",
+        "en": "On Xbox it was 56% globally, averaging 494 minutes versus 513 on PS5."
+      },
+      "why": {
+        "es": "Los datos muestran un enganche enorme en ambas consolas, aunque no son directamente comparables por el distinto alcance geográfico.",
+        "en": "The data shows huge engagement on both consoles, though they are not directly comparable given different geographic scope."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/gta-6-smashes-multiple-sales-records-and-earns-xbox-series-s-praise-in-first-24-hours"
+        },
+        {
+          "name": "Pure Xbox (truco Nueva Zelanda)",
+          "url": "https://www.purexbox.com/news/2026/11/report-xboxs-new-zealand-trick-has-been-used-by-crazy-numbers-of-people-this-week"
+        }
+      ],
+      "body": {
+        "es": [
+          "El analista de Circana Mat Piscatella publicó que, entre los jugadores activos el 19 de noviembre, el 61 % de los de PS5 en EE. UU. y el 56 % de los de Xbox a nivel mundial jugaron a GTA VI. Los de PS5 que jugaron sumaron una media de 513 minutos (unas 8,5 horas) y los de Xbox, 494. Push Square titula que fue el 61 % de todos los propietarios, pero el dato se refiere a jugadores activos.",
+          "Pure Xbox recoge además que Ampere Analysis estima que unos 2,1 millones de jugadores de Xbox en EE. UU. y Reino Unido jugaron antes del estreno oficial, unos 1,5 millones mediante el cambio de región a Nueva Zelanda, una práctica que va contra las condiciones de servicio.",
+          "Sobre ventas por plataforma, Pure Xbox cita estimaciones de Sensor Tower que reparten el 75 % para PS5 y el 25 % para Xbox; son estimaciones de terceros, no cifras de Rockstar."
+        ],
+        "en": [
+          "Circana analyst Mat Piscatella posted that, among players active on November 19, 61% of US PS5 players and 56% of global Xbox players engaged with GTA VI. PS5 players who played averaged 513 minutes (about 8.5 hours) and Xbox players 494. Push Square headlines it as 61% of all owners, but the figure refers to active players.",
+          "Pure Xbox also reports that Ampere Analysis estimates about 2.1 million Xbox players in the US and UK played before the official release, around 1.5 million via the New Zealand region switch, a practice that goes against the terms of service.",
+          "On platform sales, Pure Xbox cites Sensor Tower estimates splitting 75% PS5 and 25% Xbox; these are third-party estimates, not Rockstar figures."
+        ]
+      }
+    },
+    {
+      "id": "mandy-gta-6-lexie-shoaibi-viral",
+      "category": "juegos",
+      "title": {
+        "es": "Mandy, el personaje viral de GTA 6, tiene la voz y los gestos de Lexie Shoaibi",
+        "en": "Mandy, GTA 6's viral character, is voiced and mo-capped by Lexie Shoaibi"
+      },
+      "dek": {
+        "es": "La actriz dice que el personaje \"es muy divertido\" mientras la misión Pipeworks arrasa en redes.",
+        "en": "The actress says the character is \"a lot of fun\" as the Pipeworks mission takes over social media."
+      },
+      "why": {
+        "es": "Es uno de los pocos momentos del juego que ha saltado de los jugadores a la cultura de masas en horas.",
+        "en": "It is one of the few moments from the game to jump from players to mass culture within hours."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Mandy aparece en la misión Pipeworks del capítulo 1, donde coquetea con Jason, y se ha convertido en uno de los personajes más comentados del juego. Push Square confirma que la actriz Lexie Shoaibi la interpreta con voz y captura de movimiento.",
+          "Shoaibi ha dicho que Mandy \"es muy divertida\". Su publicación en Instagram superaba los 90.000 me gusta, y según Push Square un post de Complex con imágenes del personaje alcanzó 37 millones de visualizaciones en pocas horas.",
+          "PC Gamer también recoge que la actriz se dio a conocer con un mensaje invitando a los jugadores a encontrarla, y GameSpot cuenta que entre los cautivados hay incluso un expresidente de Nintendo."
+        ],
+        "en": [
+          "Mandy appears in the chapter 1 mission Pipeworks, where she flirts with Jason, and has become one of the game's most talked-about characters. Push Square confirms actress Lexie Shoaibi plays her through voice and motion capture.",
+          "Shoaibi said Mandy \"is a lot of fun\". Her Instagram post had over 90,000 likes, and per Push Square a Complex post with images of the character reached 37 million views within hours.",
+          "PC Gamer also notes the actress revealed herself with a message inviting players to find her, and GameSpot reports that those captivated include a former Nintendo president."
+        ]
+      }
+    },
+    {
+      "id": "ubisoft-pierde-254-5-millones-semestre-prevision-navidad",
+      "category": "industria",
+      "title": {
+        "es": "Ubisoft pierde 254,5 millones en el semestre y cae en bolsa tras rebajar su previsión navideña",
+        "en": "Ubisoft loses €254.5M in the half and shares fall after a weak holiday forecast"
+      },
+      "dek": {
+        "es": "La compañía espera unos 250 millones de euros de ventas netas ajustadas en el trimestre navideño y apuesta por la IA con Motherbrain.",
+        "en": "It expects about €250M in adjusted net bookings for the holiday quarter and is betting on AI with Motherbrain."
+      },
+      "why": {
+        "es": "El éxito de Black Flag Resynced no basta para compensar un calendario flojo y unas pérdidas que crecen.",
+        "en": "Black Flag Resynced's success is not enough to offset a thin slate and widening losses."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026324022/ubisoft-pierde-2545-millones-de-euros-en-seis-meses-y-cae-en-bolsa-tras-presentar-sus-resultados/"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development"
+        }
+      ],
+      "body": {
+        "es": [
+          "Ubisoft cerró el primer semestre de su ejercicio 2026-27 con unas pérdidas netas atribuibles de 254,5 millones de euros, frente a 161,3 millones un año antes, según Vandal. Las ventas netas ajustadas fueron de 644,7 millones, un 16,5 % menos. Las acciones llegaron a caer cerca de un 13 % tras los resultados, aunque Game Developer cifra el descenso en un 11 % y en un 42 % lo que va de año.",
+          "Para el trimestre navideño prevé unos 250 millones de ventas netas ajustadas, frente a los 361 millones que esperaba el mercado, y lo atribuye a una campaña navideña con mucha competencia. Mantiene por ahora sus objetivos anuales y espera volver a generar caja en 2027-28.",
+          "Entre lo positivo, Assassin's Creed Black Flag Resynced superó las previsiones del trimestre, apoyado en las ediciones premium. Game Developer añade que Ubisoft ha creado Motherbrain, una filial de IA para middleware y \"NPC inteligentes\". La plantilla bajó unas 1.100 personas en el semestre, según Vandal."
+        ],
+        "en": [
+          "Ubisoft closed the first half of fiscal 2026-27 with attributable net losses of €254.5 million, up from €161.3 million a year earlier, per Vandal. Adjusted net bookings were €644.7 million, down 16.5%. Shares fell as much as about 13% after the results, though Game Developer puts the drop at 11% and 42% year to date.",
+          "For the holiday quarter it expects about €250 million in net bookings, versus the €361 million the market anticipated, citing a crowded holiday season. It keeps its full-year targets for now and expects to return to positive cash generation in 2027-28.",
+          "On the bright side, Assassin's Creed Black Flag Resynced beat quarterly expectations, helped by premium editions. Game Developer adds that Ubisoft created Motherbrain, an AI subsidiary for middleware and \"smart NPCs\". Headcount fell by about 1,100 over the half, per Vandal."
+        ]
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ubisoft_Montreal.jpg/1280px-Ubisoft_Montreal.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ubisoft_Montreal.jpg/960px-Ubisoft_Montreal.jpg",
+        "credit": "Shuichi Aizawa / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ubisoft_Montreal.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    {
+      "id": "nintendo-ocarinas-zelda-10-horas-ocarina-of-time-remake",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo pedirá 10 horas jugadas al remake de Ocarina of Time para comprar sus ocarinas",
+        "en": "Nintendo will require 10 hours in the Ocarina of Time remake to buy its ocarinas"
+      },
+      "dek": {
+        "es": "Las réplicas costarán 34,99 y 49,99 euros en España y se venderán al principio solo por invitación.",
+        "en": "The replicas will cost €34.99 and €49.99 in Spain and initially sell by invitation only."
+      },
+      "why": {
+        "es": "Nintendo vincula un producto físico al uso del juego, una fórmula poco habitual que limita el acceso inicial.",
+        "en": "Nintendo ties a physical product to in-game play, an unusual approach that limits initial access."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026324036/nintendo-exige-haber-jugado-10-horas-al-remake-de-zelda-ocarina-of-time-para-comprar-las-ocarinas-en-su-tienda/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe"
+        }
+      ],
+      "body": {
+        "es": [
+          "Nintendo venderá en su tienda oficial dos ocarinas de Zelda: una tradicional de viento y otra electrónica de botones. Según Vandal, cuestan 34,99 y 49,99 euros en España y al principio solo se podrán comprar por invitación. Nintendo Life, que cita precios del Reino Unido (29,99 y 41,99 libras), indica que la electrónica es de HORI.",
+          "Para entrar en el sorteo hay que haber jugado al menos 10 horas al remake de Ocarina of Time en Switch 2 con la misma cuenta, contando solo hasta el 18 de noviembre, y haber aceptado antes del 22 de noviembre el tratamiento de datos de uso y los correos comerciales.",
+          "Cumplir los requisitos no garantiza invitación: los elegidos recibirán un correo con un enlace de compra el día de salida, con un máximo de una unidad de cada modelo. Ninguna de las fuentes da fecha de venta."
+        ],
+        "en": [
+          "Nintendo will sell two Zelda ocarinas in its official store: a traditional wind model and an electronic button one. Per Vandal they cost €34.99 and €49.99 in Spain and will initially be invite-only. Nintendo Life, citing UK prices (£29.99 and £41.99), says the electric one is made by HORI.",
+          "To enter, players need at least 10 hours in the Ocarina of Time remake on Switch 2 on the same account, counted only up to November 18, and must have accepted usage-data processing and marketing emails by November 22.",
+          "Meeting the criteria does not guarantee an invitation: those chosen will get an email with a purchase link on release day, limited to one of each model. Neither source gives a sale date."
+        ]
+      }
+    },
+    {
+      "id": "atlus-persona-6-sin-fecha-persona-7-espera-menor",
+      "category": "juegos",
+      "title": {
+        "es": "Atlus promete que la espera por Persona 7 será menor que la de Persona 6",
+        "en": "Atlus promises a shorter wait for Persona 7 than for Persona 6"
+      },
+      "dek": {
+        "es": "Kazuhisa Wada dice que el estudio busca acortar los plazos entre entregas; Persona 6 sigue sin fecha.",
+        "en": "Kazuhisa Wada says the studio aims to shorten gaps between entries; Persona 6 still has no date."
+      },
+      "why": {
+        "es": "Han pasado más de diez años desde Persona 5 (2016) y Atlus intenta evitar que se repita un intervalo así.",
+        "en": "More than ten years have passed since Persona 5 (2016), and Atlus wants to avoid repeating such a gap."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026324028/persona-6-no-es-el-final-atlus-trabaja-en-otros-proyectos-para-llevar-mas-alla-la-saga/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Kazuhisa Wada, de Atlus, ha explicado en una entrevista que el estudio trabaja en que los aficionados no tengan que esperar tanto por la siguiente entrega principal como en el pasado. Según Nintendo Life, Persona 6 es el proyecto en desarrollo y está oficialmente anunciado, pero sin fecha de lanzamiento.",
+          "Vandal añade que Wada, jefe de P-Studio, dice que \"Persona 6 no es el final\" y que hay otros proyectos en marcha, sin revelar cuáles. Quiere hacer crecer la marca durante los próximos 5 a 10 años y no ha dado plazos concretos.",
+          "Vandal sitúa Persona 6 en 2027 y menciona el evento Persona Super Live 2027 como próximo punto de información; Nintendo Life considera ese año una expectativa suya, no un dato confirmado."
+        ],
+        "en": [
+          "Atlus's Kazuhisa Wada said in an interview that the studio is working so fans won't wait as long for the next mainline entry as they have before. Per Nintendo Life, Persona 6 is the project in development and is officially announced, but has no release date.",
+          "Vandal adds that Wada, head of P-Studio, says \"Persona 6 is not the end\" and that other projects are in the works, without saying what they are. He wants to grow the brand over the next 5 to 10 years and gave no concrete timelines.",
+          "Vandal places Persona 6 in 2027 and mentions the Persona Super Live 2027 event as the next information point; Nintendo Life treats that year as its own expectation, not a confirmed fact."
+        ]
+      }
+    },
+    {
+      "id": "deltarune-capitulo-6-jugable-capitulo-7-empezado",
+      "category": "indie",
+      "title": {
+        "es": "Deltarune: el capítulo 6 ya se puede jugar de principio a fin y el 7 acaba de empezar",
+        "en": "Deltarune: Chapter 6 is playable start to finish and Chapter 7 has just begun"
+      },
+      "dek": {
+        "es": "Toby Fox lo cuenta en su boletín de otoño de 2026, sin fecha para ninguno de los dos.",
+        "en": "Toby Fox says so in his Fall 2026 newsletter, with no date for either chapter."
+      },
+      "why": {
+        "es": "Es el primer dato concreto sobre el estado del cierre del juego, aunque Fox pide paciencia.",
+        "en": "It is the first concrete update on the state of the game's final stretch, though Fox asks for patience."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/deltarune-chapter-6-playable-start-to-finish/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/even-developers-working-on-deltarune-dont-know-how-the-game-will-end-2000758900"
+        }
+      ],
+      "body": {
+        "es": [
+          "Toby Fox ha explicado en su boletín \"Fall 2026\" que el capítulo 6 de Deltarune \"avanza bien\" y es ya un \"borrador estructuralmente completo\" que se puede jugar de principio a fin. Aun así, algunas escenas importantes están \"sin cocinar\" y las pruebas completas llevarán más tiempo.",
+          "El capítulo 7 acaba de empezar a desarrollarse: según Nintendo Life, Fox ha leído al equipo los eventos y diálogos, pero se guarda el resto de la historia hasta avanzar más, y parte del equipo que terminó el capítulo 6 ya trabaja en él.",
+          "No se da fecha de lanzamiento para ninguno de los dos y Fox dice que no quiere apresurar el 6. La próxima actualización llegará cuando termine su localización. Kotaku titula que ni el propio equipo sabe todavía cómo acabará el juego."
+        ],
+        "en": [
+          "Toby Fox said in his \"Fall 2026\" newsletter that Deltarune Chapter 6 is \"progressing well\" and is now a \"structurally complete draft\" that can be played start to finish. Still, some important scenes are \"undercooked\" and full testing will take longer.",
+          "Chapter 7 has only just entered development: per Nintendo Life, Fox has read the events and dialogue to the team but is holding back the rest of the story until more is done, and some staff who finished Chapter 6 have moved to it.",
+          "No release date is given for either chapter and Fox says he won't rush Chapter 6. The next update is due when its localization is finished. Kotaku headlines that even the team doesn't yet know how the game will end."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg",
+        "credit": "tobyfox / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1671210/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Take-Two: Strauss Zelnick pide dejar que GTA 6 \"cocine\" antes de hablar de GTA 7, según GameSpot.",
+        "en": "Take-Two's Strauss Zelnick says to let GTA 6 cook before talking about GTA 7, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-7-please-let-gta-6-cook-first-take-two-ceo-says/"
+      }
+    },
+    {
+      "text": {
+        "es": "La oficina del primer ministro británico calificó a Rockstar de \"historia de éxito británica\" nacida en Edimburgo, según GameSpot.",
+        "en": "The UK prime minister's office called Rockstar a \"British success story\" made in Edinburgh, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-is-a-british-success-story-prime-minister-says-but-he-wont-play-it/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor/afirmación: el filtrador Cyberleek asegura haber publicado una build casi completa de GTA 6 para Xbox y amenaza con un ejecutable si su criptomoneda llega a 15 millones; no lo enlazamos.",
+        "en": "Claim: leaker Cyberleek says it posted a near-complete GTA 6 Xbox build and threatens an executable if its meme coin hits $15 million; we do not link the material."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/"
+      }
+    },
+    {
+      "text": {
+        "es": "NordVPN avisa de que se vende por unos 200 dólares en la dark web un kit de estafa que usa un falso port de GTA 6 para PC como cebo, según PC Gamer.",
+        "en": "NordVPN warns a roughly $200 scam kit using a fake GTA 6 PC port as bait is on sale on the dark web, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/"
+      }
+    },
+    {
+      "text": {
+        "es": "Jugadores detectan que unos drivers de Nvidia escriben decenas de GB por hora en el SSD; PC Gamer recomienda volver a la versión 621.01.",
+        "en": "Players notice Nvidia drivers writing tens of GB per hour to SSDs; PC Gamer advises reverting to version 621.01."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/"
+      }
+    },
+    {
+      "text": {
+        "es": "Windows Baseline Protection permitirá a las apps de Windows 11 comprobar si el PC tiene activas protecciones como el arranque seguro; Battle.net y Adobe ya colaboran en las pruebas.",
+        "en": "Windows Baseline Protection will let Windows 11 apps check whether a PC has protections like Secure Boot enabled; Battle.net and Adobe are already helping test it."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026324034/algunas-apps-de-windows-11-podran-negarse-a-arrancar-si-tu-pc-no-supera-un-nuevo-control-de-seguridad/"
+      }
+    },
+    {
+      "text": {
+        "es": "Phonopolis, de Amanita Design, gana el premio principal de los DevGAMM Awards 2026; el estudio ya trabaja en Machinarium 2.",
+        "en": "Amanita Design's Phonopolis wins the top prize at the DevGAMM Awards 2026; the studio is already working on Machinarium 2."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026324025/phonopolis-se-lleva-el-premio-mas-importante-en-el-evento-indie-devgamm-awards-2026/"
+      }
+    },
+    {
+      "text": {
+        "es": "D&D Beyond figura entre las víctimas del hackeo a Optimizely, según 3DJuegos.",
+        "en": "D&D Beyond is among the victims of the Optimizely breach, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/fenomeno-fan/noticias/plataforma-oficial-dungeons-dragons-victimas-ultimo-hackeo-masivo-d-d-beyond-se-libra-ciberdelincuentes"
+      }
+    },
+    {
+      "text": {
+        "es": "Las primeras raids de WoW: Forever llegarán a principios de diciembre y Blizzard avisa de una progresión menos lineal.",
+        "en": "WoW: Forever's first raids arrive in early December and Blizzard warns of less linear progression."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026324023/las-primeras-raids-de-wow-forever-llegaran-muy-pronto-pero-blizzard-advierte-que-habra-un-importante-cambio/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Zenless Zone Zero 3.4 «The Finality of the Day»",
+      "platforms": "PS5, PC, móvil",
+      "note": {
+        "es": "2 de diciembre",
+        "en": "December 2"
+      },
+      "url": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2"
+    },
+    {
+      "title": "The Wolf Among Us Remastered (Switch)",
+      "platforms": "Switch",
+      "note": {
+        "es": "Retrasada; estimada para el 29 de noviembre",
+        "en": "Delayed; estimated November 29"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch"
+    },
+    {
+      "title": "Temtem: Swarm",
+      "platforms": "Switch",
+      "note": {
+        "es": "21 de enero de 2027",
+        "en": "January 21, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/temtem-swarm-for-switch-launches-january-21-2027"
+    },
+    {
+      "title": "Mr. Magpie's Harmless Card Game",
+      "platforms": "PS5, Xbox Series, PC",
+      "note": {
+        "es": "18 de febrero de 2027",
+        "en": "February 18, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/mr-magpies-harmless-card-game-launches-february-18-2027"
+    },
+    {
+      "title": "PSYCHO DEAD",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "15 de abril de 2027",
+        "en": "April 15, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/psycho-dead-launches-april-15-2027"
+    },
+    {
+      "title": "Baptiste",
+      "platforms": "Consolas y PC",
+      "note": {
+        "es": "Retrasado al 25 de marzo de 2027",
+        "en": "Delayed to March 25, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/baptiste-delayed-to-march-25-2027"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Pedidos de Uber Eats en España subieron un 53 % a las 2:00 de la noche del estreno de GTA 6, según Vandal.",
+        "en": "Uber Eats orders in Spain rose 53% at 2 a.m. on GTA 6's launch night, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026324021/el-exito-de-gta-6-disparo-los-pedidos-de-uber-eats-en-espana-de-madrugada-hubo-un-pico-del-53-a-las-200h/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los vendedores de Etsy cierran tiendas en protesta por la nueva política de entrenamiento de IA de la plataforma, según PC Gamer.",
+        "en": "Etsy sellers are closing their stores over the platform's new AI training policy, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/"
+      }
+    },
+    {
+      "text": {
+        "es": "GameSpot publica un análisis sobre cómo GTA 6 se burla de Xbox con su versión paródica de PlayStation, que alimenta el debate de las consolas.",
+        "en": "GameSpot runs a piece on how GTA 6 jabs at Xbox with a parody version of PlayStation, feeding the console debate."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/"
+      }
+    },
+    {
+      "text": {
+        "es": "GTA 6 no incluye música de Doja Cat y la artista no suavizó su mensaje a Rockstar, según GameSpot.",
+        "en": "GTA 6 has no Doja Cat music, and she didn't soften her message to Rockstar, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6-doesnt-have-any-doja-cat-music-and-she-didnt-censor-her-message-to-rockstar/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Prison Legacy",
+      "url": "https://store.steampowered.com/app/4860910/"
+    },
+    {
+      "name": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400/"
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040/"
+    },
+    {
+      "name": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+      "url": "https://store.steampowered.com/app/2215430/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490/"
+    }
+  ]
+}
