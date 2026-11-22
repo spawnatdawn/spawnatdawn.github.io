@@ -1,0 +1,640 @@
+{
+  "date": "2026-11-22",
+  "headline": {
+    "es": "Rockstar vota sobre su sindicato con GTA 6 en la calle y Ocarina paga la guerra de reseñas",
+    "en": "Rockstar votes on a union with GTA 6 out, and Ocarina pays for the review war"
+  },
+  "intro": {
+    "es": "Los empleados de Rockstar deciden hasta el 26 de noviembre sobre su sindicato, mientras las notas de usuario de GTA 6 y Ocarina of Time Remake se desploman en Metacritic. Además, Isaac retira música de IA y la industria despide a Akira Kurabayashi.",
+    "en": "Rockstar staff vote until November 26 on their union while user scores for GTA 6 and Ocarina of Time Remake plunge on Metacritic. Also, Isaac drops AI music and the industry bids farewell to Akira Kurabayashi."
+  },
+  "stories": [
+    {
+      "id": "rockstar-sindicato-votacion-26-noviembre-miedo-despidos",
+      "category": "industria",
+      "title": {
+        "es": "Programadores de Rockstar temen despidos tras GTA 6 mientras 1.600 empleados votan sobre el sindicato",
+        "en": "Rockstar developers fear layoffs after GTA 6 as 1,600 staff vote on a union"
+      },
+      "dek": {
+        "es": "La votación de reconocimiento del sindicato IWGB en el Reino Unido se cierra el 26 de noviembre.",
+        "en": "The vote on recognising the IWGB union in the UK closes on November 26."
+      },
+      "why": {
+        "es": "El resultado marcaría si el equipo detrás del mayor estreno del sector gana voz formal sobre sueldos, horas extra y despidos.",
+        "en": "The result will show whether the team behind the industry's biggest launch gains a formal say on pay, overtime and layoffs."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/han-lanzado-gta-6-asi-temen-perder-su-empleo-programador-rockstar-reivindica-formacion-sindicato"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026325009/los-desarrolladores-de-gta-6-temen-ser-despedidos-es-dificil-no-preocuparse-por-lo-que-aguarda-en-el-futuro/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/gta-6features-a-parody-of-call-of-dutythat-contains-a-joke-about-unionizing-2000759139"
+        }
+      ],
+      "body": {
+        "es": [
+          "Néstor Uriarte, programador de animación de Rockstar North, ha contado a The Guardian, según recoge 3DJuegos, que él y sus compañeros temen perder el empleo después del lanzamiento de GTA 6. Afirma que no hay señales de nuevos despidos, pero que el hecho de que quienes han hecho el juego más grande de la historia estén preocupados \"dice mucho de la industria\".",
+          "Más de 1.600 empleados de Rockstar en el Reino Unido votan hasta el 26 de noviembre si el sindicato IWGB obtiene reconocimiento formal para negociar condiciones como salarios, horas extra y posibles despidos. Uriarte ha pedido a sus compañeros votar a favor.",
+          "El contexto sigue tenso: hay un caso en un tribunal de Glasgow por los despidos de octubre de 2025, que los afectados atribuyen a su actividad sindical y que Rockstar niega, alegando filtraciones de información confidencial. Por su parte, la guionista principal de Clair Obscur: Expedition 33 ha respaldado públicamente la sindicalización, según PC Gamer."
+        ],
+        "en": [
+          "Néstor Uriarte, an animation programmer at Rockstar North, told The Guardian, as relayed by 3DJuegos, that he and colleagues fear losing their jobs after GTA 6's launch. He says there are no signs of new layoffs, but that the people who built the biggest game ever being worried \"says a lot about the industry\".",
+          "More than 1,600 Rockstar employees in the UK are voting until November 26 on whether the IWGB union gains formal recognition to negotiate matters such as pay, overtime and possible layoffs. Uriarte has urged colleagues to vote yes.",
+          "The backdrop remains tense: a Glasgow tribunal is hearing the case over the October 2025 dismissals, which the affected workers link to union activity and which Rockstar denies, citing leaks of confidential information. Meanwhile Expedition 33's lead writer has publicly backed unionisation, per PC Gamer."
+        ]
+      }
+    },
+    {
+      "id": "binding-of-isaac-repentance-plus-musica-ia-retirada",
+      "category": "indie",
+      "title": {
+        "es": "The Binding of Isaac retira música generada con IA de Repentance+ tras una oleada de reseñas negativas",
+        "en": "The Binding of Isaac pulls AI-generated music from Repentance+ after review bombing"
+      },
+      "dek": {
+        "es": "Un modo ambientado en Vice City incluía 14 pistas atribuidas a Suno sin declararlo en Steam.",
+        "en": "A Vice City-themed mode shipped 14 tracks attributed to Suno without a disclosure on Steam."
+      },
+      "why": {
+        "es": "Steam exige declarar el uso de IA generativa, y el caso muestra cómo la comunidad vigila esos contenidos.",
+        "en": "Steam requires disclosing generative AI, and the case shows how closely players police it."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353470/ss_eabdea8983d3a139e150fe92a12071485d3a37ed.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353470/header.jpg",
+        "credit": "The Binding of Isaac: Repentance+ / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3353470/"
+      },
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213"
+        }
+      ],
+      "body": {
+        "es": [
+          "Nicalis ha retirado la música generada con IA que incluía una actualización gratuita de The Binding of Isaac: Repentance+, según IGN. La campaña de reseñas negativas en Steam y la respuesta del creador, Edmund McMillen, precipitaron la retirada.",
+          "Kotaku explica que la actualización añadía un modo inspirado en Vice City, al que se accede con la semilla \"V1CE BSMT\" en la Daily Run. Un usuario de Reddit halló 14 pistas que, según ese relato, habrían sido creadas con Suno; algunas conservaban metadatos de la herramienta. La página de la expansión en Steam llegó a rondar el 9 % de reseñas positivas.",
+          "McMillen afirmó que no sabía que el modo contuviera música generada y que investigaba cómo había llegado allí. Según Kotaku, Nicalis no había explicado el origen, y la tienda no incluía la declaración de IA que Steam exige."
+        ],
+        "en": [
+          "Nicalis has removed AI-generated music that shipped in a free Binding of Isaac: Repentance+ update, according to IGN. A Steam review-bombing campaign and a response from creator Edmund McMillen prompted the removal.",
+          "Kotaku explains the update added a Vice City-inspired mode, unlocked with the seed \"V1CE BSMT\" in the Daily Run. A Reddit user found 14 tracks that, per that account, were made with Suno; some kept the tool's metadata. The expansion's Steam page fell to around 9% positive.",
+          "McMillen said he was unaware the mode contained generated music and was looking into how it got there. Per Kotaku, Nicalis had not explained its origin, and the store page lacked the AI disclosure Steam requires."
+        ]
+      }
+    },
+    {
+      "id": "ocarina-of-time-remake-gta-6-metacritic-resenas-cruzadas",
+      "category": "nintendo",
+      "title": {
+        "es": "Ocarina of Time Remake cae en las notas de usuarios de Metacritic en plena guerra de reseñas con GTA 6",
+        "en": "Ocarina of Time Remake slides in Metacritic user scores amid a review war with GTA 6"
+      },
+      "dek": {
+        "es": "Su nota de usuarios, 9,6 desde el lanzamiento, bajó a unos 8,9; Push Square lo vincula a una represalia de fans de GTA.",
+        "en": "Its user score, 9.6 since launch, fell to around 8.9; Push Square links it to retaliation from GTA fans."
+      },
+      "why": {
+        "es": "Las notas de usuario se mueven con ráfagas de actividad y dicen poco de la calidad real de ambos juegos.",
+        "en": "User scores swing with bursts of activity and say little about either game's real quality."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings"
+        }
+      ],
+      "body": {
+        "es": [
+          "Tras el aluvión de ceros que recibió GTA 6 en Metacritic, el remake de Zelda: Ocarina of Time para Switch 2 sufre ahora el mismo trato. Nintendo Life cuenta que su nota de usuarios, 9,6 desde el lanzamiento, bajó a 9,2 y después a 8,9, con comentarios que mencionan cifras aún menores.",
+          "Push Square atribuye el movimiento a seguidores de GTA 6 que creen que fans de Nintendo hundieron la nota de su juego; Nintendo Life subraya que es una acusación y no está confirmada. Algunos comentarios culpan a ambos bandos o a gente que no ha jugado a ninguno.",
+          "GTA 6 rondaba un 5,4–5,5 de nota de usuarios, mientras que en la crítica empata con Ocarina como el juego mejor valorado de la historia en Metacritic, según ambos medios. Nintendo Life recuerda que estas notas pueden recuperarse con el tiempo."
+        ],
+        "en": [
+          "After the flood of zero scores GTA 6 received on Metacritic, the Zelda: Ocarina of Time remake for Switch 2 is now getting the same treatment. Nintendo Life says its user score, 9.6 since launch, dropped to 9.2 and then 8.9, with commenters citing even lower figures.",
+          "Push Square attributes the move to GTA 6 fans who believe Nintendo fans sank their game's score; Nintendo Life stresses that this is an allegation and unconfirmed. Some commenters blame both camps, or people who played neither.",
+          "GTA 6 was sitting around 5.4–5.5 among users, while on the critic side it ties Ocarina as Metacritic's highest-rated game ever, per the two outlets. Nintendo Life notes such scores can recover over time."
+        ]
+      }
+    },
+    {
+      "id": "kurabayashi-arika-fallece-street-fighter-ex-endless-ocean",
+      "category": "industria",
+      "title": {
+        "es": "Fallece Akira Kurabayashi, director de software de ARIKA y artífice de Street Fighter EX y Endless Ocean",
+        "en": "Akira Kurabayashi, ARIKA software chief behind Street Fighter EX and Endless Ocean, has died"
+      },
+      "dek": {
+        "es": "Murió el 14 de noviembre a los 56 años por insuficiencia cardíaca, según el comunicado de ARIKA.",
+        "en": "He died on November 14, aged 56, of heart failure, according to ARIKA's statement."
+      },
+      "why": {
+        "es": "Su trabajo abarcó desde arcades de Taito hasta la serie Tetris: The Grand Master y Tetris 99.",
+        "en": "His work ran from Taito arcade games to the Tetris: The Grand Master series and Tetris 99."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/arika-director-akira-kurabayashi-dies"
+        },
+        {
+          "name": "Time Extension",
+          "url": "https://www.timeextension.com/news/2026/11/akira-kurabayashi-arika-director-and-street-fighter-ex-legend-passes-away"
+        }
+      ],
+      "body": {
+        "es": [
+          "El presidente de ARIKA, Akira Nishitani, ha anunciado la muerte de Akira Kurabayashi, director de la compañía y responsable del desarrollo de software. Falleció el 14 de noviembre de 2026 por insuficiencia cardíaca, según recoge Kotaku, que le da 56 años.",
+          "Empezó en Taito, donde fue programador principal de títulos como Darius Gaiden, y se incorporó a ARIKA hacia 1996. Allí participó en la saga Street Fighter EX, la serie Tetris: The Grand Master, Tetris 99 y Pac-Man 99, además de Everblue y la serie Endless Ocean.",
+          "Nishitani indicó que se prepara un acto en memoria junto a la familia."
+        ],
+        "en": [
+          "ARIKA president Akira Nishitani has announced the death of Akira Kurabayashi, a company director and head of software development. He died on November 14, 2026, of heart failure, per Kotaku, which gives his age as 56.",
+          "He started at Taito, where he was lead programmer on titles such as Darius Gaiden, and joined ARIKA around 1996. There he worked on the Street Fighter EX series, the Tetris: The Grand Master series, Tetris 99 and Pac-Man 99, as well as Everblue and the Endless Ocean series.",
+          "Nishitani said a memorial is being arranged with his family."
+        ]
+      }
+    },
+    {
+      "id": "kirby-and-the-world-beyond-nuevos-detalles-switch-2",
+      "category": "nintendo",
+      "title": {
+        "es": "Kirby and the World Beyond muestra nuevas habilidades y a una misteriosa joven prisionera de Dedede",
+        "en": "Kirby and the World Beyond reveals new abilities and a mysterious girl held by Dedede"
+      },
+      "dek": {
+        "es": "La aventura 3D llegará en exclusiva a Switch 2 en primavera de 2027, sin fecha concreta.",
+        "en": "The 3D adventure arrives exclusively on Switch 2 in spring 2027, with no exact date."
+      },
+      "why": {
+        "es": "Será el segundo Kirby 3D de mundo explorable y coincide con el 35.º aniversario de la saga.",
+        "en": "It is the second 3D Kirby built around free exploration and lands in the series' 35th anniversary year."
+      },
+      "sources": [
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/kirby-and-the-world-beyond-confirma-nuevos-detalles-e-imagenes/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/kirby-and-the-world-beyond-goes-big-on-switch-2-next-spring"
+        },
+        {
+          "name": "GamesRadar",
+          "url": "https://www.gamesradar.com/games/kirby/kirby-and-the-world-beyond-looks-like-the-first-open-world-kirby-game-and-its-coming-to-switch-2-in-spring-2027/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Nintenderos recoge nuevos detalles e imágenes de Kirby and the World Beyond, que según la revista Nintendo Dream permitirá explorar con libertad grandes escenarios en 3D. Entre las habilidades mostradas están Cutter, que se desplaza a gran velocidad, Bomb, que usa una explosión para dar un gran salto, y Parasol, para planear.",
+          "En el argumento aparece una joven misteriosa retenida por el rey Dedede; tras salir despedido este, se abre un gran agujero en el cielo y Kirby puede explorar una zona oculta tras un muro gigante.",
+          "Nintendo lo anunció en el Direct del 9 de septiembre para Switch 2 en primavera de 2027, según Nintendo Life y GamesRadar."
+        ],
+        "en": [
+          "Nintenderos relays new details and images of Kirby and the World Beyond, which, per Nintendo Dream magazine, lets players freely explore large 3D stages. Abilities shown include Cutter, which rides at high speed, Bomb, which uses a blast for a big jump, and Parasol, for gliding.",
+          "The story features a mysterious young woman held captive by King Dedede; after he is blown away, a huge hole opens in the sky and Kirby can explore an area behind a giant wall.",
+          "Nintendo announced it in the September 9 Direct for Switch 2 in spring 2027, per Nintendo Life and GamesRadar."
+        ]
+      }
+    },
+    {
+      "id": "playstation-eeuu-resistio-exclusividad-gta-3-yoshida",
+      "category": "playstation",
+      "title": {
+        "es": "El equipo de PlayStation en EE. UU. se resistió al acuerdo de exclusividad de GTA 3, según antiguos directivos",
+        "en": "PlayStation's US team resisted the GTA 3 exclusivity deal, former executives say"
+      },
+      "dek": {
+        "es": "Kelly Sumner, ex de Take-Two, cuenta que Sony pagó \"decenas y decenas de millones\" por la exclusividad en PS2.",
+        "en": "Former Take-Two exec Kelly Sumner says Sony paid \"tens and tens and tens of millions\" for PS2 exclusivity."
+      },
+      "why": {
+        "es": "Con GTA 6 batiendo récords, el relato recuerda cómo una exclusiva de 2001 moldeó la identidad de PlayStation.",
+        "en": "With GTA 6 breaking records, the account recalls how a 2001 exclusive shaped PlayStation's identity."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/playstation-gta-exclusivity-deal-xbox/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-iii/noticias/shuhei-yoshida-exjefe-playstation-recuerdo-claramente-impacto-que-tuvieron-gta-3-vice-city-san-andreas-toda-industria"
+        }
+      ],
+      "body": {
+        "es": [
+          "Insider Gaming resume una entrevista de Christopher Dring (The Game Business) con antiguos directivos de Sony y Take-Two. Kelly Sumner, ex de Take-Two, afirma que fue Sony quien buscó un producto para hacer exclusivo frente a la nueva Xbox, y que pagó una suma considerable y redujo costes de producción por unidad.",
+          "Según Sumner, el equipo estadounidense de PlayStation se mostró reticente, mientras que la dirección en el Reino Unido, con Chris Deering, \"entendió el juego\" de inmediato. El texto atribuye el impulso final a la dirección de Sony.",
+          "Shuhei Yoshida, exjefe de PlayStation, recordó que GTA 3, Vice City y San Andreas marcaron a los estudios de la casa: la transición a PS3 trajo juegos más realistas y maduros como Uncharted o Infamous. Desde GTA 4 la serie sale a la vez en todas las plataformas."
+        ],
+        "en": [
+          "Insider Gaming summarises an interview by Christopher Dring (The Game Business) with former Sony and Take-Two executives. Ex-Take-Two executive Kelly Sumner says Sony came looking for a product to make exclusive against the new Xbox, and paid a substantial sum and cut per-unit production costs.",
+          "According to Sumner, PlayStation's US team was reluctant while the UK leadership, including Chris Deering, \"absolutely got the game\". The report credits Sony's leadership with pushing it through.",
+          "Former PlayStation chief Shuhei Yoshida recalled that GTA 3, Vice City and San Andreas influenced the company's studios: the move to PS3 brought more realistic, mature games such as Uncharted and Infamous. Since GTA 4 the series has launched on all platforms simultaneously."
+        ]
+      }
+    },
+    {
+      "id": "ubisoft-motherbrain-filial-ia-juego-xavier-manzanares",
+      "category": "industria",
+      "title": {
+        "es": "Ubisoft convierte a Motherbrain en filial dedicada a la IA para videojuegos",
+        "en": "Ubisoft turns Motherbrain into a subsidiary dedicated to AI for games"
+      },
+      "dek": {
+        "es": "El equipo del experimento Teammates pasa a ser una filial, días después de anunciar 166 despidos en Montreal y Quebec.",
+        "en": "The team behind the Teammates experiment becomes a subsidiary days after 166 layoffs in Montreal and Quebec."
+      },
+      "why": {
+        "es": "Ubisoft recorta plantilla en sus estudios mientras apuesta por la IA generativa como línea propia de negocio.",
+        "en": "Ubisoft is trimming studio staff while betting on generative AI as a business line of its own."
+      },
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/recortes-despidos-estudios-videojuegos-lado-inversion-ia-generativa-otro-eso-que-esta-haciendo-ubisoft"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/ubisoft-motherbrain-genai/"
+        },
+        {
+          "name": "MobileSyrup",
+          "url": "https://mobilesyrup.com/2026/11/19/ubisoft-genai-subsidiary-motherbrain-canadian-layoffs/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Ubisoft ha constituido Motherbrain como filial propia, según PC Gamer: es el equipo detrás de su \"primer proyecto de I+D jugable basado en IA\". El informe de resultados de la compañía la describe como una filial centrada en \"IA para la innovación en el juego\", según la información publicada por otros medios.",
+          "3DJuegos señala que sus objetivos son PNJ que recuerden las interacciones del jugador y \"directores de juego\" de IA para mundos complejos, y que su tecnología se ofrecería tanto a los estudios de Ubisoft como a terceros. Insider Gaming apunta que la dirigiría Xavier Manzanares; el alcance exacto aún no está claro, y las fuentes difieren en si será una unidad de todo el grupo.",
+          "El anuncio llega poco después de los 166 despidos en Montreal y Quebec que 3DJuegos menciona y que MobileSyrup sitúa en el mismo contexto."
+        ],
+        "en": [
+          "Ubisoft has established Motherbrain as its own subsidiary, per PC Gamer: the team behind its \"first playable AI-based R&D project\". The company's earnings report describes it as a subsidiary focused on \"AI for gameplay innovation\", according to other outlets.",
+          "3DJuegos says its goals are NPCs that remember player interactions and AI \"game directors\" for complex worlds, with the tech offered to Ubisoft studios and outside developers. Insider Gaming reports Xavier Manzanares will lead it; the exact scope is unclear and sources differ on whether it is a group-wide unit.",
+          "The news comes shortly after the 166 layoffs in Montreal and Quebec that 3DJuegos mentions and MobileSyrup places in the same context."
+        ]
+      }
+    },
+    {
+      "id": "hellraiser-revival-horror-game-awards-2026-juego-del-ano",
+      "category": "juegos",
+      "title": {
+        "es": "Hellraiser: Revival gana el Juego del Año en los Horror Game Awards 2026",
+        "en": "Hellraiser: Revival wins Game of the Year at the 2026 Horror Game Awards"
+      },
+      "dek": {
+        "es": "Resident Evil Requiem se lleva cuatro premios y Akira Yamaoka recibe el galardón a toda una carrera.",
+        "en": "Resident Evil Requiem takes four awards and Akira Yamaoka receives the lifetime achievement honour."
+      },
+      "why": {
+        "es": "Los premios, centrados en el género, reparten reconocimiento entre grandes sagas y propuestas independientes.",
+        "en": "The genre-focused awards spread recognition between big franchises and indie projects."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/d1e7111b93b6a8b3eb029908887648348c2c55e6/header.jpg",
+        "credit": "Saber Interactive / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1551980/"
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/hellraiser-revival-horror-game-awards-2026-goty/"
+        },
+        {
+          "name": "Dread Central",
+          "url": "https://www.dreadcentral.com/gaming/596126/horror-game-awards-2026-nominees-voting/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Clive Barker's Hellraiser: Revival, de Saber Interactive, ha sido elegido Juego del Año en los Horror Game Awards 2026, según Insider Gaming, que cita a Bloody Disgusting. Doug Bradley ganó el premio a mejor interpretación por volver como Pinhead.",
+          "Resident Evil Requiem se llevó mejor narrativa, horror más accesible, elección del público y juego más aterrador. Tenebris Somnia ganó en dirección de arte e indie, REANIMAL en multijugador nuevo y Silent Hill Townfall el premio de la crítica; Akira Yamaoka recibió el reconocimiento a toda una carrera.",
+          "Dread Central había incluido a Hellraiser: Revival entre los nominados al premio principal, junto a REANIMAL o Silent Hill Townfall."
+        ],
+        "en": [
+          "Saber Interactive's Clive Barker's Hellraiser: Revival was named Game of the Year at the 2026 Horror Game Awards, per Insider Gaming, citing Bloody Disgusting. Doug Bradley won Best Performance for returning as Pinhead.",
+          "Resident Evil Requiem took Best Narrative, Most Accessible Horror, Players' Choice and Scariest Horror Game. Tenebris Somnia won Best Art Direction and Best Indie, REANIMAL Best New Multiplayer Horror, and Silent Hill Townfall the Critics' Choice; Akira Yamaoka received the Lifetime Achievement award.",
+          "Dread Central had listed Hellraiser: Revival among the top-prize nominees, alongside REANIMAL and Silent Hill Townfall."
+        ]
+      }
+    },
+    {
+      "id": "supersega-sss-consola-portatil-cartuchos-discos-sega",
+      "category": "hardware",
+      "title": {
+        "es": "Supersega SSS: una consola española que promete leer cartuchos y discos originales de Sega",
+        "en": "Supersega SSS: a Spanish console that promises to read original Sega cartridges and discs"
+      },
+      "dek": {
+        "es": "Funcionaría como portátil o conectada a la tele, pero no hay precio ni fecha.",
+        "en": "It would work as a handheld or hooked to a TV, but there is no price or date."
+      },
+      "why": {
+        "es": "Proyectos similares ya fueron recibidos con escepticismo, así que conviene esperar a ver hardware y condiciones reales.",
+        "en": "Similar projects have drawn scepticism, so it is wise to wait for real hardware and terms."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026325004/anuncian-la-supersega-sss-una-ambiciosa-consola-retro-portatil-que-lee-cartuchos-y-discos-originales-de-sega/"
+        },
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.org/El-polemico-creador-de-SuperSega-regresa-con-una-oferta-V3-que-se-asemeja-a-un-PC.1295510.0.html"
+        }
+      ],
+      "body": {
+        "es": [
+          "Vandal informa del anuncio de la Supersega SSS, creada en España por Supersega y DST Bench, que ejecutaría las versiones originales de juegos de Master System, Mega Drive, Mega CD, Saturn y Dreamcast desde cartuchos y discos. Se podría usar como portátil o conectada a un televisor, e incluso como ordenador.",
+          "Habrá versión Standard y PLUS; esta última añade un segundo puerto de cartuchos, una unidad que lee CD, DVD y BD y salidas analógicas de vídeo y audio. Los responsables hablan de un precio \"asequible\" sin cifras ni fecha de lanzamiento.",
+          "Notebookcheck, al hablar de anteriores propuestas del proyecto Supersega, recomendaba tomarlas con \"un saludable grado de escepticismo\" hasta ver detalles sólidos."
+        ],
+        "en": [
+          "Vandal reports the announcement of the Supersega SSS, built in Spain by Supersega and DST Bench, which would run original Master System, Mega Drive, Mega CD, Saturn and Dreamcast games from cartridges and discs. It could be used as a handheld, connected to a TV, or even as a computer.",
+          "There will be Standard and PLUS versions; the latter adds a second cartridge port, a drive reading CD, DVD and BD, and analogue video and audio outputs. The makers speak of an \"affordable\" price with no figure or release date.",
+          "Notebookcheck, covering earlier Supersega proposals, advised taking them with \"a healthy degree of scepticism\" until solid details emerge."
+        ]
+      }
+    },
+    {
+      "id": "the-wolf-among-us-remastered-switch-fecha-estimada-29-noviembre",
+      "category": "juegos",
+      "title": {
+        "es": "The Wolf Among Us Remastered: la versión de Switch muestra una fecha estimada de 29 de noviembre",
+        "en": "The Wolf Among Us Remastered: the Switch version shows an estimated November 29 date"
+      },
+      "dek": {
+        "es": "Telltale retrasó esa edición en octubre; el resto de plataformas salió el 29 de octubre.",
+        "en": "Telltale delayed that edition in October; other platforms launched on October 29."
+      },
+      "why": {
+        "es": "La fecha es solo una estimación de la eShop y aún no está confirmada por el estudio.",
+        "en": "The date is only an eShop estimate and has not been confirmed by the studio."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/55f3d832fa0e7dbf88beded2134b2de5f130a433/ss_55f3d832fa0e7dbf88beded2134b2de5f130a433.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg",
+        "credit": "Telltale / Steam",
+        "creditUrl": "https://store.steampowered.com/app/3884860/"
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3884860/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Telltale Games anunció el 17 de octubre que la versión de Nintendo Switch de The Wolf Among Us Remastered \"necesita un poco más de tiempo\", mientras que las de PlayStation, Xbox y PC saldrían según lo previsto el 29 de octubre.",
+          "Según Nintendo Life, esta semana ha aparecido en la eShop una fecha \"estimada\" del 29 de noviembre para Switch. El medio la trata con cautela y señala que la ficha sigue en \"TBA\" para EE. UU. y Europa.",
+          "El comunicado de Telltale no mencionaba una versión para Switch 2, y la ficha del juego en Nintendo Life la lista, por lo que hay una discrepancia sin aclarar."
+        ],
+        "en": [
+          "Telltale Games announced on October 17 that the Nintendo Switch version of The Wolf Among Us Remastered \"needs a little bit more time\", while the PlayStation, Xbox and PC versions would launch as planned on October 29.",
+          "According to Nintendo Life, an \"estimated\" November 29 date for Switch appeared on the eShop this week. The outlet treats it cautiously, noting the listing still shows \"TBA\" for the US and Europe.",
+          "Telltale's statement did not mention a Switch 2 version, yet Nintendo Life's game page lists it, so there is an unresolved discrepancy."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Sakurai celebra el primer aniversario de Kirby Air Riders y sugiere que reflexiona sobre su futuro como creador, según Nintendo Life.",
+        "en": "Sakurai marks Kirby Air Riders' first anniversary and appears to ponder his future as a game creator, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator"
+      }
+    },
+    {
+      "text": {
+        "es": "Super Smash Bros. Melee cumple 25 años; Vandal recuerda que fue el último trabajo como programador de Satoru Iwata.",
+        "en": "Super Smash Bros. Melee turns 25; Vandal notes it was Satoru Iwata's last work as a programmer."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026325001/este-juego-de-nintendo-cumple-hoy-25-anos-y-fue-el-ultimo-trabajo-como-programador-de-satoru-iwata/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: Nintendo prepararía más grandes anuncios para 2027 además de Pokémon Viento y Oleaje, según el filtrador Necrolipe recogido por Nintenderos.",
+        "en": "Rumor: Nintendo has more big 2027 plans beyond Pokémon Wind and Waves, according to leaker Necrolipe, as relayed by Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/11/nintendo-prepara-mas-bombas-para-2027-aparte-de-pokemon-viento-y-oleaje-segun-reportan/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un participante de Neuralink muestra cómo juega a GTA 6 con la mente: conduce barcos, pilota aviones y participa en tiroteos, según IGN.",
+        "en": "A Neuralink participant shows how he plays GTA 6 with his mind, driving boats, flying planes and getting into shootouts, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind"
+      }
+    },
+    {
+      "text": {
+        "es": "Jennifer Hale, voz de Shepard, confía en que EA venda los derechos de Mass Effect a los fans mediante crowdfunding: \"¿Quién sabe? Podría pasar\", según Kotaku.",
+        "en": "Jennifer Hale, the voice of Shepard, hopes EA sells Mass Effect rights to fans via crowdfunding: \"Who knows? This could happen\", per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/jennifer-hale-hopes-ea-sells-mass-effect-rights-to-the-fans-who-knows-this-could-happen-2000759154"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: los derechos de cine y televisión de Red Dead Redemption podrían partir de los 100 millones de dólares, según un informe recogido por Kotaku.",
+        "en": "Rumor: Red Dead Redemption film and TV rights could start at $100 million, according to a report relayed by Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/it-doesnt-sound-like-well-get-a-gta-movie-anytime-soon-but-the-rights-to-red-dead-redemption-2-could-reportedly-start-at-100-million-2000759136"
+      }
+    },
+    {
+      "text": {
+        "es": "Una redada en Shanghái se salda con 13 detenidos y estatuas falsas de Tifa Lockhart valoradas en unos 300.000 dólares, según Kotaku.",
+        "en": "A Shanghai bust leads to 13 arrests and counterfeit Tifa Lockhart statues worth about $300,000, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/shanghai-police-bust-up-bootleg-tifa-lockhart-toy-operation-2000759206"
+      }
+    },
+    {
+      "text": {
+        "es": "Katsuhiro Harada revela que Pangoro era el Pokémon que quería incluir en Pokkén Tournament y quedó fuera del plantel, según Nintenderos.",
+        "en": "Katsuhiro Harada reveals Pangoro was the Pokémon he wanted in Pokkén Tournament but missed the roster, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/11/katsuhiro-harada-revela-que-pokemon-queria-incluir-en-pokken-tournament-pero-se-quedo-fuera-del-plantel-pangoro/"
+      }
+    },
+    {
+      "text": {
+        "es": "Antiguos desarrolladores de Nintendo cuentan que la saga Zelda \"cada vez se hacía más pequeña\" antes de Breath of the Wild, según Vandal.",
+        "en": "Former Nintendo developers say the Zelda series \"kept getting smaller\" before Breath of the Wild, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026325008/ex-de-nintendo-confiesan-que-la-saga-zelda-cada-vez-se-hacia-mas-pequena-antes-de-breath-of-the-wild/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Arknights: Endfield «Meeting You in the World o'Shrooms»",
+      "platforms": "PS5, PC, móvil",
+      "note": {
+        "es": "25 de noviembre",
+        "en": "November 25"
+      },
+      "url": "https://www.gematsu.com/2026/11/arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-launches-november-25"
+    },
+    {
+      "title": "The Wolf Among Us Remastered (Switch)",
+      "platforms": "Switch",
+      "note": {
+        "es": "Fecha estimada: 29 de noviembre (sin confirmar)",
+        "en": "Estimated November 29 (unconfirmed)"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch"
+    },
+    {
+      "title": "11+ juegos de PS5 y PS Plus",
+      "platforms": "PS5",
+      "note": {
+        "es": "Del 23 al 29 de noviembre",
+        "en": "November 23–29"
+      },
+      "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november"
+    },
+    {
+      "title": "20+ juegos para Xbox",
+      "platforms": "Xbox",
+      "note": {
+        "es": "Del 23 al 27 de noviembre",
+        "en": "November 23–27"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/these-20plus-games-are-coming-to-xbox-next-week-november-23-27"
+    },
+    {
+      "title": "Kirby and the World Beyond",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "Primavera de 2027",
+        "en": "Spring 2027"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/kirby-and-the-world-beyond-confirma-nuevos-detalles-e-imagenes/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Reseñas cruzadas en Metacritic: GTA 6 y Ocarina of Time Remake sufren caídas de nota de usuarios, según Nintendo Life y Push Square.",
+        "en": "Cross review bombing on Metacritic: GTA 6 and Ocarina of Time Remake both see user scores plunge, per Nintendo Life and Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de The Binding of Isaac castigan en Steam la música generada con IA hasta dejar la expansión en torno al 9 % de reseñas positivas, según Kotaku.",
+        "en": "Binding of Isaac players punish AI-generated music on Steam, leaving the expansion around 9% positive, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213"
+      }
+    },
+    {
+      "text": {
+        "es": "Un chiste sobre sindicatos en una parodia de Call of Duty dentro de GTA 6 resulta incómodo con la votación en Rockstar, según Kotaku.",
+        "en": "A union joke in a Call of Duty parody inside GTA 6 lands awkwardly amid Rockstar's union vote, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/gta-6features-a-parody-of-call-of-dutythat-contains-a-joke-about-unionizing-2000759139"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400/"
+    },
+    {
+      "name": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+      "url": "https://store.steampowered.com/app/2215430/"
+    },
+    {
+      "name": "Days Gone",
+      "url": "https://store.steampowered.com/app/1259420/"
+    },
+    {
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040/"
+    }
+  ]
+}
