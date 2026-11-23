@@ -1,0 +1,687 @@
+{
+  "date": "2026-11-23",
+  "headline": {
+    "es": "GTA 6 deslumbra a los propios desarrolladores mientras la IA divide a la industria",
+    "en": "GTA 6 dazzles fellow developers while AI divides the industry"
+  },
+  "intro": {
+    "es": "Creadores de Naughty Dog a Deus Ex opinan sobre GTA 6, y Rockstar explica quién inspira a Jason. En paralelo, Epic admite que Unreal Engine 5.9 se construyó con agentes de IA y la encuesta de la GDC cifra su uso en un 40 %.",
+    "en": "Developers from Naughty Dog to Deus Ex weigh in on GTA 6, and Rockstar explains who inspired Jason. Meanwhile Epic says Unreal Engine 5.9 was built with AI agents and the GDC survey puts AI use at 40%."
+  },
+  "stories": [
+    {
+      "id": "gta-6-desarrolladores-naughty-dog-spector-reaccion",
+      "category": "industria",
+      "title": {
+        "es": "Desarrolladores de Naughty Dog y otros estudios alaban GTA 6; Warren Spector espera que sea \"el último de su clase\"",
+        "en": "Naughty Dog and other developers praise GTA 6; Warren Spector hopes it is \"the last of its kind\""
+      },
+      "dek": {
+        "es": "Barclay lo compara con un Bugatti Veyron ante un niño victoriano; Spector cuestiona gastar unos 1.000 millones en un solo juego.",
+        "en": "Barclay likens it to a Bugatti Veyron before a Victorian child; Spector questions spending around $1 billion on one game."
+      },
+      "why": {
+        "es": "Las reacciones de colegas muestran el listón técnico que fija Rockstar y reabren el debate sobre la sostenibilidad de presupuestos tan grandes.",
+        "en": "Peer reactions show the technical bar Rockstar has set and reopen the debate on whether budgets this large are sustainable."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/warren-spector-61-padre-deus-ex-grand-theft-auto-6-espero-que-sea-ultimo-su-clase"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Michael Barclay, de Naughty Dog (Uncharted: El legado perdido, The Last of Us Parte II), dice que tras 19 años haciendo juegos GTA 6 le parece \"lo que un Bugatti Veyron a un niño victoriano nervioso\", según Push Square. Añade que le asombra que buena parte de la iluminación sea dinámica y rivalice con la precalculada. Tim Soret, de Odd Tales, confiesa no entender cómo Rockstar maneja tantas llamadas de dibujo, simulaciones de pelo, luces volumétricas y cuerpos rígidos a la vez.",
+          "Desde otro ángulo, Warren Spector, director del Deus Ex original y hoy retirado, felicita a Rockstar pero afirma, según 3DJuegos, que espera que GTA 6 sea \"el último de su clase\". Considera que invertir cerca de 1.000 millones de dólares, sin contar marketing, en un único juego no es un modelo a imitar y prefiere cientos de juegos y pleno empleo en un sector marcado por los despidos.",
+          "PC Gamer recoge además a un antiguo artista de entornos de Rockstar que describe el juego como \"generalmente impresionante\", aunque opina que Red Dead Redemption 2 quizá tenía mejores ríos."
+        ],
+        "en": [
+          "Naughty Dog's Michael Barclay (Uncharted: The Lost Legacy, The Last of Us Part II) says that after 19 years making games, GTA 6 looks to him \"as a Bugatti Veyron would to a nervous Victorian child\", per Push Square. He adds he is astonished that so much of the lighting is dynamic yet rivals baked lighting. Odd Tales' Tim Soret says he cannot work out how Rockstar handles so many draw calls, hair simulations, volumetric lights and rigid bodies at once.",
+          "From another angle, Warren Spector, director of the original Deus Ex and now retired, congratulates Rockstar but says, per 3DJuegos, that he hopes GTA 6 is \"the last of its kind\". He argues that spending close to $1 billion on a single game, marketing aside, is not a model to copy, and he would rather see hundreds of games and full employment in an industry scarred by layoffs.",
+          "PC Gamer also reports on a former Rockstar environment artist who calls the game \"generally stunning\", while suggesting Red Dead Redemption 2 may have had better rivers."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-jason-steve-mcqueen-rupert-humphries-inspiracion",
+      "category": "juegos",
+      "title": {
+        "es": "Rockstar explica por qué Jason es tan callado: Steve McQueen y los veteranos del Ejército",
+        "en": "Rockstar explains why Jason is so quiet: Steve McQueen and Army veterans"
+      },
+      "dek": {
+        "es": "Rupert Humphries cita \"La huida\" (1972) y a los antiguos Rangers como referencias del protagonista.",
+        "en": "Rupert Humphries cites The Getaway (1972) and former Rangers as references for the protagonist."
+      },
+      "why": {
+        "es": "Aclara una de las decisiones de diseño más comentadas del juego: un protagonista contenido frente a Michael, Trevor o Arthur Morgan.",
+        "en": "It clarifies one of the game's most discussed design choices: a restrained lead, unlike Michael, Trevor or Arthur Morgan."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/que-jason-callado-reservado-gta-6-rockstar-ha-explicado-que-pelicula-1972-inspiro-su-personalidad"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans"
+        }
+      ],
+      "body": {
+        "es": [
+          "Rupert Humphries, vicepresidente sénior de narrativa de Rockstar, ha contado a Destructoid, según recoge 3DJuegos, que la personalidad de Jason Duval parte de \"La huida\" (1972), de Sam Peckinpah, con Steve McQueen y Ali MacGraw. El equipo buscó películas sobre parejas en fuga y destacó que McQueen \"decía cosas con su sola presencia\" y recortaba líneas de guion.",
+          "La otra referencia son los antiguos Rangers del Ejército de EE. UU. —los \"Marauders\" del juego—, que suelen hablar poco y no reaccionar si no hace falta. Rockstar quiso, además, alejarse deliberadamente de protagonistas anteriores como Michael, Trevor o Arthur Morgan.",
+          "PC Gamer e IGN también se hacen eco de las declaraciones, que Rockstar enmarca en su voluntad de crear \"personajes auténticos que no se alejaran demasiado de la realidad\"."
+        ],
+        "en": [
+          "Rupert Humphries, Rockstar's senior vice president of narrative, told Destructoid, as relayed by 3DJuegos, that Jason Duval's personality starts from The Getaway (1972), directed by Sam Peckinpah and starring Steve McQueen and Ali MacGraw. The team looked at films about couples on the run and highlighted that McQueen \"said things with his mere presence\" and cut lines from scripts.",
+          "The other reference is former US Army Rangers — the game's \"Marauders\" — who tend to say little and not react unless necessary. Rockstar also deliberately moved away from earlier leads such as Michael, Trevor and Arthur Morgan.",
+          "PC Gamer and IGN also report the comments, which Rockstar frames as an aim to create \"authentic characters that didn't stray too far from reality\"."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-records-spotify-steam-zelnick-gta-7",
+      "category": "industria",
+      "title": {
+        "es": "GTA 6 suma récords fuera de las consolas: Spotify, la saga en Steam y la evasiva de Take-Two sobre GTA 7",
+        "en": "GTA 6 piles up records beyond consoles: Spotify, the series on Steam and Take-Two's dodge on GTA 7"
+      },
+      "dek": {
+        "es": "La banda sonora logra 29,85 millones de reproducciones en un día y cuatro GTA antiguos marcan máximos de jugadores en Steam.",
+        "en": "The soundtrack logs 29.85 million streams in a day and four older GTA games hit all-time Steam peaks."
+      },
+      "why": {
+        "es": "El efecto del lanzamiento arrastra a toda la franquicia, algo que Take-Two aprovechará mientras evita hablar de la siguiente entrega.",
+        "en": "The launch effect lifts the whole franchise, which Take-Two will happily ride while avoiding talk of the next one."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/jugadores-pc-tienen-ganas-gta-6-mayoria-juegos-saga-grand-theft-auto-steam-han-batido-record-jugadores-simultaneos"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Push Square, que cita datos difundidos por Pop Base, \"GTA VI: The Album\" (34 canciones, con temas nuevos de Dua Lipa y colaboraciones de Travis Scott, Morgan Wallen y Jennie) sumó 29,85 millones de reproducciones en Spotify en su primer día, un máximo para una banda sonora en la plataforma.",
+          "En PC, donde GTA 6 aún no está disponible, 3DJuegos cuenta que el 22 de noviembre cuatro títulos antiguos de la saga marcaron récord histórico de jugadores simultáneos en Steam: GTA IV: The Complete Edition (14.457), San Andreas (2.849), Vice City (1.500) y GTA III (893). GTA V Enhanced rondó los 137.993 en las 24 horas previas, sin llegar a su máximo.",
+          "Preguntado por GTA 7 en el pódcast TBPN, el consejero delegado de Take-Two, Strauss Zelnick, pidió repetir la pregunta tras cientos de horas de GTA 6 y bromeó con que aún era 19 de noviembre: \"Chicos, ¿en serio?\", según Push Square."
+        ],
+        "en": [
+          "According to Push Square, citing figures shared by Pop Base, \"GTA VI: The Album\" (34 songs, with new tracks from Dua Lipa and contributions from Travis Scott, Morgan Wallen and Jennie) logged 29.85 million Spotify streams on day one, a record for a soundtrack on the platform.",
+          "On PC, where GTA 6 is not yet available, 3DJuegos reports that on November 22 four older series titles set all-time concurrent-player records on Steam: GTA IV: The Complete Edition (14,457), San Andreas (2,849), Vice City (1,500) and GTA III (893). GTA V Enhanced reached 137,993 over the previous 24 hours without hitting its peak.",
+          "Asked about GTA 7 on the TBPN podcast, Take-Two CEO Strauss Zelnick said to ask again after several hundred hours of GTA 6 and joked it was still November 19: \"I mean, guys, really?\", per Push Square."
+        ]
+      }
+    },
+    {
+      "id": "xbox-series-eeuu-octubre-circana-gasto-42-unidades-10",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox Series X|S sube un 42 % en gasto en EE. UU. en octubre, pero en gran parte por el precio",
+        "en": "Xbox Series X|S spending rises 42% in the US in October, largely because of price"
+      },
+      "dek": {
+        "es": "Las unidades crecen un 10 % y el precio medio un 29 %, según Circana.",
+        "en": "Units rise 10% and the average price 29%, according to Circana."
+      },
+      "why": {
+        "es": "Es un respiro tras un año de caídas, aunque el dato depende más de las subidas de precio que de un salto en la demanda.",
+        "en": "It is a breather after a year of declines, though the figure owes more to price increases than to a jump in demand."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/1280px-Xbox-console.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/960px-Xbox-console.jpg",
+        "credit": "Evan-Amos / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Xbox-console.jpg",
+        "license": "Public domain"
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/xbox-series-xs/noticias/xbox-necesitaba-buenas-noticias-sus-ventas-acaba-recibir-su-mercado-importante"
+        },
+        {
+          "name": "VGChartz",
+          "url": "https://www.vgchartz.com/article/469692/us-monthly-october-2026/"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/three-games-are-confirmed-for-xbox-game-pass-to-end-the-month-november-24-27"
+        }
+      ],
+      "body": {
+        "es": [
+          "Los datos de Circana de octubre de 2026 muestran que el gasto en Xbox Series X|S en Estados Unidos subió un 42 % interanual. Las unidades vendidas crecieron un 10 %, mientras que el precio medio de venta aumentó un 29 % tras las subidas de coste, así que buena parte del incremento procede de que cada consola cuesta más.",
+          "3DJuegos recuerda que entre enero y agosto de 2026 las unidades de Series X|S en EE. UU. acumulaban un descenso interanual del 33 %. En el mismo informe, VGChartz señala que Switch 2 fue la consola más vendida del mes en unidades y dólares, con PS5 en segunda posición, y que las unidades de Switch 2 cayeron un 17 %."
+        ],
+        "en": [
+          "Circana's October 2026 data shows spending on Xbox Series X|S in the US rose 42% year on year. Units sold grew 10%, while the average selling price climbed 29% after price increases, so much of the rise comes from each console costing more.",
+          "3DJuegos notes that between January and August 2026, Series X|S units in the US were down 33% year on year. In the same report, VGChartz says Switch 2 was the month's best-selling console in units and dollars, with PS5 second, and that Switch 2 units fell 17%."
+        ]
+      }
+    },
+    {
+      "id": "unreal-engine-5-9-preview-construido-agentes-ia",
+      "category": "industria",
+      "title": {
+        "es": "Epic lanza la vista previa de Unreal Engine 5.9, construida en gran parte con agentes de IA",
+        "en": "Epic releases the Unreal Engine 5.9 preview, built largely with AI agents"
+      },
+      "dek": {
+        "es": "Se preparó en una semana para el AI MegaJam y añade el navegador web como plataforma experimental.",
+        "en": "It was prepared in a week for the AI MegaJam and adds the web browser as an experimental target."
+      },
+      "why": {
+        "es": "Es la primera versión del motor más usado del sector creada sobre todo con flujos agénticos, y divide a los desarrolladores.",
+        "en": "It is the first release of the industry's most-used engine built mainly with agentic workflows, and it divides developers."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Unreal_Engine_booth.jpg/1280px-Unreal_Engine_booth.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Unreal_Engine_booth.jpg/960px-Unreal_Engine_booth.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Unreal_Engine_booth.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      },
+      "sources": [
+        {
+          "name": "80.lv",
+          "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/epic-games-presenta-unreal-engine-5-9-mejoras-graficas-rendimiento-sorprendente-esta-detras-su-desarrollo"
+        },
+        {
+          "name": "Creative Bloq",
+          "url": "https://www.creativebloq.com/news/unreal-engine-5-9-divides-game-devs-with-an-ai-heavy-update"
+        }
+      ],
+      "body": {
+        "es": [
+          "Epic Games publicó el 9-10 de noviembre una vista previa de Unreal Engine 5.9, programada para coincidir con el Epic AI MegaJam (12-15 de noviembre). Según 80.lv, es la primera versión del motor creada principalmente con flujos agénticos: un pequeño equipo dirigió varios agentes de IA para portar herramientas del desarrollo de UE6 y añadir la web como plataforma, con una fase de pruebas más corta de lo habitual.",
+          "Entre las novedades figuran herramientas de IA como Unreal MCP, Unreal Assistant y Unreal Canvas, mejoras de Nanite y Lumen y la ejecución en navegador mediante WebAssembly y WebGPU. 3DJuegos añade sombras y transparencias mejoradas y un sistema experimental de vegetación dinámica.",
+          "Epic reconoce que sigue limpiando parte del código escrito por agentes y que partes del renderizador web son prototipos. La versión completa llegará en 2027, y Creative Bloq habla de división entre desarrolladores."
+        ],
+        "en": [
+          "Epic Games released an Unreal Engine 5.9 preview on November 9–10, timed for the Epic AI MegaJam (November 12–15). According to 80.lv, it is the first engine release built mainly with agentic workflows: a small team directed several AI agents to port tooling from UE6 development and add the web as a target, with shorter QA than usual.",
+          "New features include AI tools such as Unreal MCP, Unreal Assistant and Unreal Canvas, Nanite and Lumen improvements, and in-browser play via WebAssembly and WebGPU. 3DJuegos adds improved shadows and transparency and an experimental dynamic vegetation system.",
+          "Epic admits it is still cleaning up some of the agent-written code and that parts of the web renderer are prototypes. The full release is due in 2027, and Creative Bloq reports that developers are divided."
+        ]
+      }
+    },
+    {
+      "id": "encuesta-gdc-40-por-ciento-desarrolladores-ia-generativa",
+      "category": "industria",
+      "title": {
+        "es": "El 40 % de los desarrolladores usa IA generativa, pero el 55 % cree que perjudica al sector",
+        "en": "40% of developers use generative AI, yet 55% say it harms the industry"
+      },
+      "dek": {
+        "es": "La encuesta de la GDC, con más de 2.600 respuestas, ve el uso al alza frente al 36 % anterior.",
+        "en": "The GDC survey, with over 2,600 responses, shows use up from 36% previously."
+      },
+      "why": {
+        "es": "Muestra que la adopción crece incluso con un rechazo mayoritario, y que se usa sobre todo para investigar, no para arte final.",
+        "en": "It shows adoption growing even amid majority disapproval, and mostly for research rather than final art."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg/1280px-Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg/960px-Game_Developers_Conference_2019_entrance%2C_Moscone_Center_%283%29.jpg",
+        "credit": "Official GDC / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2019_entrance,_Moscone_Center_(3).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026326008/un-informe-revela-que-el-40-de-los-desarrolladores-ya-utiliza-ia-generativa-en-sus-juegos/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/la-ia-generativa-esta-ganando-terreno-en-el-desarrollo-de-videojuegos-pese-al-rechazo-de-mas-de-la-mitad-de-los-profesionales/"
+        }
+      ],
+      "body": {
+        "es": [
+          "El informe State of the Game Industry de la GDC, con más de 2.600 respuestas, indica que el 40 % de los profesionales usa IA generativa en su trabajo, frente al 36 % de la edición anterior. De ellos, el 57 % la emplea a diario. El uso llega al 70 % en estudios solo móviles y al 58 % entre quienes hacen juegos free-to-play.",
+          "Los usos principales son investigar o explorar ideas (73 %), analizar datos o resumir información (62 %) y generar o depurar código (56 %). Solo el 8 % la usa para arte de producción o activos finales.",
+          "En cuanto a opinión, el 55 % cree que tiene un efecto negativo en la industria (54 % el año pasado), el 35 % ve efectos positivos y negativos y el 8 % solo positivos. Entre el personal de QA y comunidad, el rechazo sube al 76 %. Vandal subraya que la cifra mide el uso individual, no cuántos juegos contienen contenido generado."
+        ],
+        "en": [
+          "The GDC's State of the Game Industry report, with over 2,600 responses, says 40% of professionals use generative AI at work, up from 36% in the previous edition. Of those, 57% use it daily. Use reaches 70% at mobile-only studios and 58% among free-to-play developers.",
+          "The main uses are researching or exploring ideas (73%), analysing data or summarising information (62%) and generating or debugging code (56%). Only 8% use it for production art or final assets.",
+          "On sentiment, 55% think it harms the industry (54% last year), 35% see both positive and negative effects and 8% only positive. Among QA and community staff, disapproval rises to 76%. Vandal stresses the figure measures individual use, not how many games contain generated content."
+        ]
+      }
+    },
+    {
+      "id": "warshaw-et-atari-ia-crisis-1983-devgamm",
+      "category": "industria",
+      "title": {
+        "es": "El creador del E.T. de Atari avisa de que la IA puede provocar otra crisis como la de 1983",
+        "en": "The creator of Atari's E.T. warns AI could trigger another 1983-style crash"
+      },
+      "dek": {
+        "es": "Howard Scott Warshaw lo dijo en DevGAMM, en Lisboa, y pide mejores filtros en las tiendas.",
+        "en": "Howard Scott Warshaw said it at DevGAMM in Lisbon and calls for better store filters."
+      },
+      "why": {
+        "es": "La advertencia llega cuando las tiendas digitales ya lidian con avalanchas de juegos generados con IA.",
+        "en": "The warning comes as digital stores already grapple with floods of AI-generated games."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Atari-2600-Wood-4Sw-Set.jpg/1280px-Atari-2600-Wood-4Sw-Set.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Atari-2600-Wood-4Sw-Set.jpg/960px-Atari-2600-Wood-4Sw-Set.jpg",
+        "credit": "Evan-Amos / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg",
+        "license": "Public domain"
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Howard Scott Warshaw, programador del juego de E.T. para Atari 2600, comparó en DevGAMM (Lisboa) el efecto de la IA con el de la inundación de títulos de baja calidad que precedió a la crisis de 1983. \"La IA va a tener el mismo impacto a mayor escala\", dijo, según Kotaku, porque mucha más gente puede ahora hacer juegos.",
+          "Reconoció que la IA acelera la programación, aunque esa velocidad trae descuido. No se opone a ella: reclama mejores filtros en las plataformas y más atención al diseño innovador. Kotaku recuerda que itch.io ha eliminado más de un terabyte de contenido generado con IA y que Steam sabe que su portada se llena de estos juegos."
+        ],
+        "en": [
+          "Howard Scott Warshaw, programmer of the E.T. game for the Atari 2600, compared at DevGAMM (Lisbon) the effect of AI with the flood of low-quality titles that preceded the 1983 crash. \"AI is going to have the same impact on a larger scale\", he said, per Kotaku, because far more people can now make games.",
+          "He acknowledged that AI speeds up coding, though that speed brings sloppiness. He is not against it: he calls for better platform filters and more attention to innovative design. Kotaku notes itch.io has deleted over a terabyte of AI-generated content and that Steam is aware its front page is filling with such games."
+        ]
+      }
+    },
+    {
+      "id": "nvidia-controlador-621-24-escrituras-ssd-hotfix",
+      "category": "hardware",
+      "title": {
+        "es": "Los controladores GeForce 621.24 y 621.14 escriben en el SSD sin parar y el hotfix de Nvidia no lo arregla, según PC Gamer",
+        "en": "GeForce 621.24 and 621.14 drivers keep writing to SSDs and Nvidia's hotfix does not fix it, PC Gamer says"
+      },
+      "dek": {
+        "es": "Usuarios miden desde cientos de MB en cinco minutos hasta unos 30 GB por hora.",
+        "en": "Users measure anything from hundreds of MB in five minutes to around 30 GB per hour."
+      },
+      "why": {
+        "es": "Un desgaste anómalo del SSD es un riesgo real; hasta que Nvidia lo resuelva, la vía más segura es volver a un controlador anterior.",
+        "en": "Abnormal SSD wear is a real risk; until Nvidia resolves it, rolling back to an earlier driver is the safest route."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG/1280px-ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG/960px-ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG",
+        "credit": "Joydeep / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/nvidia-update-degrading-ssds-ai-coding-jenson-huang-geforce-2000758372"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/"
+        },
+        {
+          "name": "TechPowerUp",
+          "url": "https://www.techpowerup.com/354996/latest-nvidia-drivers-might-cause-excessive-ssd-writing"
+        }
+      ],
+      "body": {
+        "es": [
+          "Informes de usuarios vinculan los controladores GeForce Game Ready 621.14 (4 de noviembre) y 621.24 (12 de noviembre) con escrituras continuas en disco, atribuidas al proceso NVDisplay.Container.exe. Según Kotaku, algunos usuarios hablan de una tasa más de 250 veces superior a la normal, y el autor midió más de 30 GB escritos en poco tiempo, que bajaron a unos 4,5 MB al volver al controlador anterior.",
+          "PC Gamer titula que Nvidia ha publicado un hotfix, pero que no funciona. Kotaku no recogía una declaración oficial de la compañía, y el único remedio citado era volver a una versión anterior. Es un caso similar al de AMD, que corrigió un fallo parecido con Adrenalin 26.11.1 el 12 de noviembre."
+        ],
+        "en": [
+          "User reports link GeForce Game Ready drivers 621.14 (November 4) and 621.24 (November 12) to constant disk writes, attributed to the NVDisplay.Container.exe process. According to Kotaku, some users cite a rate over 250 times normal, and the author measured more than 30 GB written in a short time, dropping to about 4.5 MB after reverting to the previous driver.",
+          "PC Gamer headlines that Nvidia has released a hotfix but that it does not work. Kotaku found no official statement from the company, and the only remedy cited was rolling back to an earlier version. It mirrors a case at AMD, which fixed a similar bug in Adrenalin 26.11.1 on November 12."
+        ]
+      }
+    },
+    {
+      "id": "protect-our-games-act-maxwell-frost-propiedad-digital",
+      "category": "industria",
+      "title": {
+        "es": "Un congresista de EE. UU. anuncia la Protect Our Games Act para que los juegos comprados sigan jugables",
+        "en": "A US congressman announces the Protect Our Games Act to keep purchased games playable"
+      },
+      "dek": {
+        "es": "Maxwell Frost la presentó el 18 de noviembre; aún no hay texto legislativo publicado.",
+        "en": "Maxwell Frost unveiled it on November 18; no bill text has been published yet."
+      },
+      "why": {
+        "es": "Suma presión legislativa tras casos como el cierre de The Crew, aunque sin texto publicado no se sabe a qué juegos afectaría.",
+        "en": "It adds legislative pressure after cases like The Crew's shutdown, though without published text it is unclear which games it would cover."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1280px-US_Capitol_west_side.JPG",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/960px-US_Capitol_west_side.JPG",
+        "credit": "Martin Falbisoner / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/industria-gaming/noticias/compras-videojuego-deberia-ser-tuyo-para-siempre-politico-estadounidense-quiere-proteger-juegos-que-compras"
+        },
+        {
+          "name": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/US-lawmaker-wants-your-games-playable-forever-even-after-servers-shut-down.1453886.0.html"
+        }
+      ],
+      "body": {
+        "es": [
+          "El representante demócrata por Florida Maxwell Frost anunció el 18 de noviembre, en un acto virtual con The Players Alliance, la Protect Our Games Act. Según Notebookcheck, exigiría que los desarrolladores den acceso a servidores propios si cierran los oficiales y que los compradores conserven versiones jugables de lo que han adquirido.",
+          "3DJuegos añade que contempla partidas privadas para seguir jugando tras el fin del soporte y que se esperaba su llegada al Congreso en enero de 2027. Ambos medios coinciden en que no hay número ni texto publicado, así que el alcance, la aplicación a juegos ya a la venta y el control del cumplimiento siguen sin aclararse."
+        ],
+        "en": [
+          "Florida Democratic Representative Maxwell Frost announced the Protect Our Games Act on November 18 at a virtual event with The Players Alliance. According to Notebookcheck, it would require developers to give access to their own servers if official ones close and let buyers keep playable versions of what they bought.",
+          "3DJuegos adds that it contemplates private matches to keep playing after support ends and that it was expected to reach Congress in January 2027. Both outlets agree no bill number or text has been published, so scope, application to games already on sale and enforcement remain unclear."
+        ]
+      }
+    },
+    {
+      "id": "shadowkey-reforged-elder-scrolls-n-gage-pc-fan",
+      "category": "pc",
+      "title": {
+        "es": "Un fan rescata The Elder Scrolls Travels: Shadowkey, el RPG de N-Gage de 2004, con un motor nuevo para PC",
+        "en": "A fan revives The Elder Scrolls Travels: Shadowkey, the 2004 N-Gage RPG, with a new engine for PC"
+      },
+      "dek": {
+        "es": "Shadowkey Reforged es gratuito y no oficial, y exige tener los archivos del juego original.",
+        "en": "Shadowkey Reforged is free and unofficial, and requires the original game files."
+      },
+      "why": {
+        "es": "Rescata un título casi perdido de la saga, aunque su autor ha usado IA en el desarrollo y el proyecto no cuenta con respaldo de Bethesda.",
+        "en": "It preserves a nearly lost entry in the series, though its author used AI in development and the project has no Bethesda backing."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026326007/rescatan-un-olvidado-the-elder-scrolls-de-2004-y-lo-llevan-a-pc-usando-un-motor-grafico-nuevo/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Vandal, Shadowkey Reforged lleva a Windows, macOS y Android The Elder Scrolls Travels: Shadowkey, el RPG en primera persona que Vir2L Studios y TKO Software lanzaron para Nokia N-Gage en 2004. El proyecto, no oficial y dirigido por Dan Whelan, es un motor escrito desde cero que lee los archivos del original y ejecuta sus scripts en lugar de emular la consola.",
+          "La descarga es gratuita pero no incluye el juego: hace falta una copia de los archivos originales. Ofrece formato panorámico y hasta 120 FPS, y está previsto añadir cooperativo en línea más adelante. PC Gamer ya había descrito el proyecto como la mejora, con ayuda de IA, de un spin-off perdido."
+        ],
+        "en": [
+          "According to Vandal, Shadowkey Reforged brings The Elder Scrolls Travels: Shadowkey, the first-person RPG Vir2L Studios and TKO Software released for the Nokia N-Gage in 2004, to Windows, macOS and Android. The unofficial project, led by Dan Whelan, is an engine written from scratch that reads the original game files and runs their scripts instead of emulating the console.",
+          "The download is free but does not include the game: a copy of the original files is required. It offers widescreen and up to 120 FPS, and online co-op is planned for later. PC Gamer had earlier described the project as an AI-assisted upgrade of a lost spin-off."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Rockstar dice que las dianas (darts) y los bolos quedaron fuera de GTA 6 porque no tenía \"dinero o tiempo ilimitados\" para hacerlos bien, según IGN.",
+        "en": "Rockstar says darts and bowling were cut from GTA 6 because it lacked \"unlimited money or time\" to do them properly, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper"
+      }
+    },
+    {
+      "text": {
+        "es": "Un desarrollador de GTA 6 ha rendido homenaje a su madre fallecida con un memorial dentro del juego que los jugadores pueden visitar, según IGN.",
+        "en": "A GTA 6 developer has honoured his late mother with an in-game memorial players can visit, per IGN."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit"
+      }
+    },
+    {
+      "text": {
+        "es": "Rumor: una \"Nioh 3 Complete Edition\" ha aparecido en la web del comité de clasificación GRAC de Corea, sin anuncio oficial, según Eurogamer.es.",
+        "en": "Rumor: a \"Nioh 3 Complete Edition\" has shown up on South Korea's GRAC ratings site with no official announcement, per Eurogamer.es."
+      },
+      "source": {
+        "name": "Eurogamer.es",
+        "url": "https://www.eurogamer.es/filtrada-la-existencia-de-nioh-3-complete-edition"
+      }
+    },
+    {
+      "text": {
+        "es": "Dragon Quest Monsters: El reino marchito ocupa 11,7 GB en Switch 2 y 6,8 GB en Switch; costará 59,99 € y saldrá el 3 de diciembre, según Nintenderos.",
+        "en": "Dragon Quest Monsters: The Withered Kingdom takes 11.7 GB on Switch 2 and 6.8 GB on Switch; it costs €59.99 and launches December 3, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/dragon-quest-monsters-el-reino-marchito-tiene-estos-tamanos-de-descarga-y-precios-en-nintendo-switch-2-y-nintendo-switch/"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix publicará en marzo de 2027 dos novelas de Kazushige Nojima sobre Final Fantasy VII Remake y Rebirth; Revelation llegará a Switch 2 el 8 de abril de 2027, según Nintenderos.",
+        "en": "Square Enix will publish two Kazushige Nojima novels on Final Fantasy VII Remake and Rebirth in March 2027; Revelation reaches Switch 2 on April 8, 2027, per Nintenderos."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/final-fantasy-vii-remake-y-rebirth-recibiran-dos-nuevas-novelas-en-ingles-en-marzo-de-2027/"
+      }
+    },
+    {
+      "text": {
+        "es": "Fujibayashi, productor de Ocarina of Time Remake, explica que los ReDead iban a ser aún más aterradores con los nuevos gráficos y Nintendo los suavizó, según Vandal.",
+        "en": "Fujibayashi, producer of Ocarina of Time Remake, says ReDeads were going to be even scarier with the new graphics and Nintendo toned them down, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026326010/los-redead-iban-a-ser-mucho-mas-aterradores-en-el-remake-de-zelda-ocarina-of-time-pero-nintendo-los-suavizo/"
+      }
+    },
+    {
+      "text": {
+        "es": "Wizards of the Coast trasladará íntegro a los escritores de D&D el pago que reciba por un acuerdo de copyright sobre IA, según PC Gamer.",
+        "en": "Wizards of the Coast will pass its full AI copyright payout on to D&D writers, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un nuevo parche de Dota 2 busca acortar las partidas y añade un objeto que invoca súper creeps en todas las líneas a la vez, según PC Gamer.",
+        "en": "A new Dota 2 patch aims to shorten matches and adds an item that summons super creeps in every lane at once, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/"
+      }
+    },
+    {
+      "text": {
+        "es": "Game Pass cierra noviembre con tres juegos: MOTORSLICE y Sniper Ghost Warrior Contracts 2 el 24 y Arkheron el 27, según Pure Xbox.",
+        "en": "Game Pass closes November with three games: MOTORSLICE and Sniper Ghost Warrior Contracts 2 on the 24th and Arkheron on the 27th, per Pure Xbox."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/three-games-are-confirmed-for-xbox-game-pass-to-end-the-month-november-24-27"
+      }
+    },
+    {
+      "text": {
+        "es": "Donkey Kong llega en forma de peluche a Build-A-Bear Workshop, según Nintendo Life.",
+        "en": "Donkey Kong arrives as a Build-A-Bear Workshop plush, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Dragon Quest Monsters: El reino marchito",
+      "platforms": "Switch 2, Switch",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/dragon-quest-monsters-el-reino-marchito-tiene-estos-tamanos-de-descarga-y-precios-en-nintendo-switch-2-y-nintendo-switch/"
+    },
+    {
+      "title": "MOTORSLICE y Sniper Ghost Warrior Contracts 2 (Game Pass)",
+      "platforms": "Xbox, PC",
+      "note": {
+        "es": "24 de noviembre",
+        "en": "November 24"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/three-games-are-confirmed-for-xbox-game-pass-to-end-the-month-november-24-27"
+    },
+    {
+      "title": "Arkheron (Game Pass)",
+      "platforms": "Xbox, PC",
+      "note": {
+        "es": "27 de noviembre",
+        "en": "November 27"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/three-games-are-confirmed-for-xbox-game-pass-to-end-the-month-november-24-27"
+    },
+    {
+      "title": "Azur Promilia",
+      "platforms": "PC, iOS, Android",
+      "note": {
+        "es": "Lanzamientos japoneses de esta semana",
+        "en": "This week's Japanese releases"
+      },
+      "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more"
+    },
+    {
+      "title": "Temtem: Swarm (Switch)",
+      "platforms": "Switch",
+      "note": {
+        "es": "Enero de 2027, según Eurogamer.es",
+        "en": "January 2027, per Eurogamer.es"
+      },
+      "url": "https://www.eurogamer.es/temtem-swarm-llegara-a-nintendo-switch-en-enero-de-2027"
+    },
+    {
+      "title": "Final Fantasy VII Revelation",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "8 de abril de 2027",
+        "en": "April 8, 2027"
+      },
+      "url": "https://www.nintenderos.com/nintendo-switch-2/final-fantasy-vii-remake-y-rebirth-recibiran-dos-nuevas-novelas-en-ingles-en-marzo-de-2027/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Warren Spector, padre de Deus Ex, espera que GTA 6 sea \"el último de su clase\" y abre el debate sobre los presupuestos de 1.000 millones, según 3DJuegos.",
+        "en": "Deus Ex creator Warren Spector hopes GTA 6 is \"the last of its kind\", opening a debate on $1 billion budgets, per 3DJuegos."
+      },
+      "source": {
+        "name": "3DJuegos",
+        "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/warren-spector-61-padre-deus-ex-grand-theft-auto-6-espero-que-sea-ultimo-su-clase"
+      }
+    },
+    {
+      "text": {
+        "es": "Unreal Engine 5.9, construido en buena parte con agentes de IA, divide a los desarrolladores, según Creative Bloq.",
+        "en": "Unreal Engine 5.9, built largely with AI agents, divides developers, per Creative Bloq."
+      },
+      "source": {
+        "name": "Creative Bloq",
+        "url": "https://www.creativebloq.com/news/unreal-engine-5-9-divides-game-devs-with-an-ai-heavy-update"
+      }
+    },
+    {
+      "text": {
+        "es": "Vicki, la chica gótica de GTA 6, se convierte en la nueva favorita de los jugadores de PS5, según Push Square.",
+        "en": "Vicki, GTA 6's goth girl, becomes the new favourite among PS5 players, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave"
+      }
+    },
+    {
+      "text": {
+        "es": "Take-Two esquiva las preguntas sobre GTA 7: su consejero delegado pide esperar a que los jugadores lleven cientos de horas en GTA 6, según Push Square.",
+        "en": "Take-Two dodges GTA 7 questions: its CEO asks to wait until players have hundreds of hours in GTA 6, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400/"
+    },
+    {
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+      "url": "https://store.steampowered.com/app/2215430/"
+    }
+  ]
+}
