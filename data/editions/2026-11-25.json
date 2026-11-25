@@ -1,0 +1,661 @@
+{
+  "date": "2026-11-25",
+  "headline": {
+    "es": "CD Projekt se alía con Sony para The Witcher 4 y Mario Kart World recibe su mayor parche",
+    "en": "CD Projekt teams up with Sony for The Witcher 4 and Mario Kart World gets a big patch"
+  },
+  "intro": {
+    "es": "CD Projekt firma con PlayStation el marketing de The Witcher 4 y compara su salto con el de GTA 6. Nintendo, por su parte, añade ocho circuitos y repeticiones a Mario Kart World.",
+    "en": "CD Projekt signs a PlayStation marketing deal for The Witcher 4 and likens its leap to GTA 6's. Nintendo, meanwhile, adds eight courses and replays to Mario Kart World."
+  },
+  "stories": [
+    {
+      "id": "the-witcher-4-acuerdo-marketing-playstation-cd-projekt",
+      "category": "industria",
+      "title": {
+        "es": "CD Projekt firma con Sony un acuerdo de marketing para The Witcher 4",
+        "en": "CD Projekt signs a marketing deal with Sony for The Witcher 4"
+      },
+      "dek": {
+        "es": "El estudio lo comunicó a inversores el 24 de noviembre; cubre también la presencia de sus juegos en PlayStation y PS Plus.",
+        "en": "The studio told investors on November 24; it also covers its games on PlayStation and PS Plus."
+      },
+      "why": {
+        "es": "Tras GTA 6, Sony suma otro gran RPG a su calendario de marketing.",
+        "en": "After GTA 6, Sony adds another major RPG to its marketing slate."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cdpr-has-entered-a-marketing-agreement-with-sony-for-the-witcher-4/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/just-like-gta-6-the-witcher-4-has-a-playstation-deal/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/the-witcher-4-confirma-un-acuerdo-de-marketing-con-playstation-para-promocionarse/"
+        }
+      ],
+      "body": {
+        "es": [
+          "CD Projekt Red ha anunciado que el 24 de noviembre firmó nuevos acuerdos de colaboración con Sony Interactive Entertainment. Según su director financiero, Piotr Nielubowicz, los pactos abarcan la presencia de los juegos del estudio en PlayStation y en PlayStation Plus, además de la futura campaña de marketing de The Witcher 4.",
+          "El estudio no ha detallado el alcance de la campaña. VGC recuerda que Rockstar cerró un acuerdo similar con Sony para GTA 6, y que The Witcher 4 mantiene su ventana de lanzamiento en 2028, por lo que el grueso del marketing llegará más adelante."
+        ],
+        "en": [
+          "CD Projekt Red said it signed new partnership agreements with Sony Interactive Entertainment on November 24. According to CFO Piotr Nielubowicz, the deals cover the presence of the studio's games on PlayStation and in PlayStation Plus, as well as the upcoming marketing campaign for The Witcher 4.",
+          "The studio has not detailed the campaign's scope. VGC notes that Rockstar struck a comparable arrangement with Sony for GTA 6, and that The Witcher 4 remains on track for 2028, so most of the marketing will come closer to launch."
+        ]
+      }
+    },
+    {
+      "id": "the-witcher-4-salto-comparable-gta-5-gta-6-cdpr",
+      "category": "juegos",
+      "title": {
+        "es": "CD Projekt promete que The Witcher 4 será un salto «comparable» al de GTA 5 a GTA 6",
+        "en": "CD Projekt says The Witcher 4 will be a leap 'comparable' to GTA 5 to GTA 6"
+      },
+      "dek": {
+        "es": "Michał Nowakowski respondió a inversores que han pasado 11 años desde The Witcher 3 y que el juego mantiene 2028.",
+        "en": "Michał Nowakowski told investors it has been 11 years since The Witcher 3 and the game remains on track for 2028."
+      },
+      "why": {
+        "es": "Es la primera vez que el estudio se mide públicamente con el listón que ha fijado GTA 6.",
+        "en": "It is the first time the studio has publicly measured itself against the bar GTA 6 set."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026328025/the-witcher-4-sera-un-autentico-rpg-cd-projekt-promete-que-no-va-a-diluir-la-esencia-de-la-saga/"
+        }
+      ],
+      "body": {
+        "es": [
+          "En una reunión con inversores, el codirector ejecutivo de CD Projekt Red, Michał Nowakowski, afirmó: «Creemos que habrá un salto comparable entre The Witcher 3 y The Witcher 4». Un inversor le había preguntado cómo se compara el juego con GTA 6 tras el estreno del título de Rockstar.",
+          "Nowakowski reconoció que son juegos distintos y que el estudio no hará una comparación detallada, pero recordó que han pasado 11 años desde The Witcher 3 y que se busca un juego mucho mejor en casi todos los aspectos. CD Projekt mantiene 2028 como ventana de lanzamiento y asegura que el estreno de GTA 6 no ha cambiado sus planes."
+        ],
+        "en": [
+          "At an investor meeting, CD Projekt Red joint CEO Michał Nowakowski said: \"We believe there's going to be a comparable leap between The Witcher 3 and The Witcher 4.\" An investor had asked how the game compares with GTA 6 after Rockstar's release.",
+          "Nowakowski acknowledged the games are different and that the studio won't make a detailed comparison, but noted that 11 years have passed since The Witcher 3 and that the aim is a much better game in almost every respect. CD Projekt keeps 2028 as its launch window and says GTA 6's release hasn't changed its plans."
+        ]
+      }
+    },
+    {
+      "id": "cyberpunk-2-199-desarrolladores-320-fin-2027",
+      "category": "industria",
+      "title": {
+        "es": "Cyberpunk 2 ya cuenta con 199 desarrolladores y prevé unos 320 a finales de 2027",
+        "en": "Cyberpunk 2 now has 199 developers and expects around 320 by the end of 2027"
+      },
+      "dek": {
+        "es": "CD Projekt detalló en su informe de resultados el tamaño de los equipos y que sus RPG llegarán «más rápido» en el futuro.",
+        "en": "CD Projekt detailed team sizes in its earnings Q&A and said its RPGs will come out faster going forward."
+      },
+      "why": {
+        "es": "Los números muestran hacia dónde reparte CD Projekt sus recursos tras The Witcher 4.",
+        "en": "The numbers show where CD Projekt is putting its resources beyond The Witcher 4."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/the-witcher-4/noticias/racion-doble-buenas-noticias-cd-projekt-red-pisa-acelerador-cyberpunk-2-anuncia-colaboracion-sony-para-the-witcher-4"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según VGC, en la sesión de preguntas del informe de resultados la responsable de estrategia y relaciones con inversores, Karolina Gnaś, indicó que 199 desarrolladores trabajan ya en Cyberpunk 2, que serán unos 200 a finales de 2026 y unos 320 a finales de 2027. The Witcher 4 tiene actualmente 513 desarrolladores asignados, y la plantilla total de desarrollo es de 1.051 personas, frente a las 1.045 de julio.",
+          "CD Projekt no ha fijado fecha para el inicio de la producción completa de Cyberpunk 2: Gnaś dijo que es «demasiado pronto» para darla. IGN añade que el estudio sostiene que sus futuros RPG saldrán con mayor rapidez que hasta ahora."
+        ],
+        "en": [
+          "According to VGC, in the earnings Q&A the company's strategy and investor relations VP, Karolina Gnaś, said 199 developers already work on Cyberpunk 2, rising to about 200 by the end of 2026 and about 320 by the end of 2027. The Witcher 4 currently has 513 developers attached, and total development headcount is 1,051, up from 1,045 in July.",
+          "CD Projekt has not set a date for the start of Cyberpunk 2's full production; Gnaś said it is still too early to give one. IGN adds that the studio says its future RPGs will arrive faster than before."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-digital-foundry-xbox-series-x-mejor-rendimiento-ps5-base",
+      "category": "playstation",
+      "title": {
+        "es": "Digital Foundry: GTA 6 pierde menos fotogramas en Xbox Series X que en una PS5 base",
+        "en": "Digital Foundry: GTA 6 drops fewer frames on Xbox Series X than on a base PS5"
+      },
+      "dek": {
+        "es": "Con objetivo de 30 fps en todas, la PS5 Pro ofrece la mejor versión y la PS5 base queda tercera.",
+        "en": "With a 30fps target everywhere, PS5 Pro offers the best version and the base PS5 ranks third."
+      },
+      "why": {
+        "es": "Contrasta con el peso de Sony en el marketing del juego y alimenta el debate entre plataformas.",
+        "en": "It contrasts with Sony's marketing weight behind the game and fuels the platform debate."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/playstation-ha-protagonizado-campana-marketing-gta-6-digital-foundry-ha-encontrado-ventaja-xbox-series-x"
+        }
+      ],
+      "body": {
+        "es": [
+          "El análisis de Digital Foundry, recogido por Push Square y VGC, sitúa a la PS5 Pro como la mejor versión de GTA 6, seguida de Xbox Series X y, en tercer lugar, la PS5 base. El objetivo es de 30 fps en todas las consolas, pero la PS5 base sufre caídas «sustancialmente más frecuentes», sobre todo en escenas exigentes como los desplazamientos rápidos en vehículo.",
+          "Según el análisis, la Series X también pierde fotogramas, aunque con menos frecuencia, y su compatibilidad con VRR a 120 Hz suaviza las caídas leves. Los ajustes visuales son muy parecidos entre plataformas, con pequeñas ventajas de resolución en Series X en algunas zonas."
+        ],
+        "en": [
+          "Digital Foundry's analysis, reported by Push Square and VGC, ranks the PS5 Pro as the best version of GTA 6, followed by Xbox Series X and, third, the base PS5. The target is 30fps on every console, but the base PS5 shows \"substantially more frequent\" drops, especially in demanding moments such as fast vehicle travel.",
+          "The Series X also drops frames, though less often, and its 120Hz VRR support smooths minor dips. Visual settings are closely matched across platforms, with minor resolution advantages on Series X in some areas."
+        ]
+      }
+    },
+    {
+      "id": "mario-kart-world-1-9-0-feather-rally-lucky-cat-rally-repeticiones",
+      "category": "nintendo",
+      "title": {
+        "es": "Mario Kart World 1.9.0 añade dos rallies, ocho circuitos «2» y repeticiones automáticas",
+        "en": "Mario Kart World 1.9.0 adds two rallies, eight '2' courses and automatic replays"
+      },
+      "dek": {
+        "es": "La actualización gratuita llegó el 24 de noviembre con novedades para Knockout Tour, Ruta libre y espectador.",
+        "en": "The free update arrived on November 24 with additions for Knockout Tour, Free Roam and spectating."
+      },
+      "why": {
+        "es": "Es una de las mayores tandas de contenido gratuito del juego desde su lanzamiento.",
+        "en": "It is one of the largest batches of free content for the game since launch."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/mario-kart-world-has-been-updated-to-version-1-9-0-here-are-the-full-patch-notes"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/mario-kart-world-recibe-por-sorpresa-la-actualizacion-gratuita-1-9-0-con-8-circuitos-alternativos-2-nuevas-rutas-y-repeticiones-automaticas/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Nintendo ha lanzado la versión 1.9.0 de Mario Kart World, según las notas oficiales que recoge Nintendo Life. Incorpora los rallies Feather y Lucky Cat en Knockout Tour y ocho variantes «2» de circuitos (Airship Fortress 2, Desert Hills 2, Salty Salty Speedway 2, DK Pass 2, Koopa Troopa Beach 2, Shy Guy Bazaar 2, Mario Bros. Circuit 2 y Wario Stadium 2) disponibles en carreras VS, contrarreloj y partidas online e inalámbricas.",
+          "También llega una opción de repetición en el menú principal que guarda automáticamente carreras y batallas, la posibilidad de iniciar misiones en Ruta libre pisando interruptores P en partidas online, mejoras para espectadores, ajustes en las probabilidades de objetos y correcciones de errores."
+        ],
+        "en": [
+          "Nintendo has released version 1.9.0 of Mario Kart World, according to the official patch notes reported by Nintendo Life. It adds the Feather and Lucky Cat Rallies to Knockout Tour and eight '2' course variants (Airship Fortress 2, Desert Hills 2, Salty Salty Speedway 2, DK Pass 2, Koopa Troopa Beach 2, Shy Guy Bazaar 2, Mario Bros. Circuit 2 and Wario Stadium 2) available in VS Race, Time Trials and online and wireless play.",
+          "It also brings a replay option in the top menu that automatically saves races and battles, the ability to start Free Roam missions by driving over P Switches in online play, spectator improvements, item-odds tweaks and bug fixes."
+        ]
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/Pn0MuiE7YDQ/maxresdefault.jpg",
+        "thumb": "https://i.ytimg.com/vi/Pn0MuiE7YDQ/maxresdefault.jpg",
+        "credit": "Nintendo of America / YouTube",
+        "creditUrl": "https://www.youtube.com/watch?v=Pn0MuiE7YDQ"
+      }
+    },
+    {
+      "id": "lords-of-the-fallen-ii-abril-2027-ps5-xbox-switch-2-pc",
+      "category": "juegos",
+      "title": {
+        "es": "Lords of the Fallen II fija su lanzamiento para abril de 2027",
+        "en": "Lords of the Fallen II sets an April 2027 launch"
+      },
+      "dek": {
+        "es": "CI Games dará la fecha exacta en diciembre; el soulslike llegará a PS5, Xbox Series, Switch 2 y PC.",
+        "en": "CI Games will give the exact date in December; the soulslike comes to PS5, Xbox Series, Switch 2 and PC."
+      },
+      "why": {
+        "es": "Despeja la ventana de un lanzamiento que había salido del abarrotado final de 2026.",
+        "en": "It settles the window for a release that stepped aside from the crowded end of 2026."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/lords-of-the-fallen-2/noticias/lords-of-the-fallen-2-tiene-ventana-lanzamiento-esto-no-unico-que-han-anunciado-autores-soulslike"
+        }
+      ],
+      "body": {
+        "es": [
+          "El fundador y CEO de CI Games, Marek Tyminski, ha anunciado que Lords of the Fallen II saldrá en abril de 2027. La fecha concreta se dará en diciembre, según Gematsu. Push Square apunta que el juego había sufrido un retraso en verano y que antes apuntaba a otoño de 2026.",
+          "El juego, desarrollado por Hexworks y publicado por CI Games, llegará a PlayStation 5, Xbox Series, Switch 2 y PC (Steam y Epic Games Store). Es un soulslike de acción y rol con combate táctico, jefes monstruosos y la lámpara Umbral, que permite alternar entre el mundo de los vivos y el de los muertos."
+        ],
+        "en": [
+          "CI Games founder and CEO Marek Tyminski has announced that Lords of the Fallen II will launch in April 2027, with the exact date due in December, according to Gematsu. Push Square notes the game was delayed over the summer and previously targeted autumn 2026.",
+          "Developed by Hexworks and published by CI Games, the game comes to PlayStation 5, Xbox Series, Switch 2 and PC (Steam and the Epic Games Store). It is a soulslike action RPG with tactical combat, monstrous bosses and the Umbral lamp, which lets players move between the realms of the living and the dead."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/6e300b19df2d25ee2435c848dca5da277ce7ebff/ss_6e300b19df2d25ee2435c848dca5da277ce7ebff.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg",
+        "credit": "CI Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4767480/"
+      }
+    },
+    {
+      "id": "final-fantasy-14-viaje-datacenters-norteamerica-europa-1-diciembre",
+      "category": "pc",
+      "title": {
+        "es": "Final Fantasy XIV permitirá viajar entre servidores de Norteamérica y Europa desde el 1 de diciembre",
+        "en": "Final Fantasy XIV will allow travel between North American and European servers from December 1"
+      },
+      "dek": {
+        "es": "Square Enix lo plantea como medida contra la congestión tras el parche 8.0 y estudia hacerlo permanente.",
+        "en": "Square Enix frames it as a congestion measure after Patch 8.0 and is weighing making it permanent."
+      },
+      "why": {
+        "es": "Rompe una separación regional que lleva 16 años, según Kotaku, aunque de momento es temporal.",
+        "en": "It breaks a regional divide of 16 years, per Kotaku, though for now it is temporary."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/final-fantasy-14-is-letting-players-travel-between-north-america-and-european-servers-for-the-first-time-in-16-years-and-fans-are-psyched-2001000012"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/na-and-eu-players-will-be-able-to-play-together-in-final-fantasy-14-soon-with-square-enix-considering-the-possibility-of-permanently-enabling-travel-in-the-future/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Kotaku, Square Enix activará el viaje de datacenter entre regiones tras el mantenimiento del 1 de diciembre de 2026: desde Norteamérica a Europa u Oceanía, desde Europa a Norteamérica u Oceanía y desde Japón a Oceanía. La compañía lo justifica como alivio a las colas posteriores al parche 8.0, que pueden alcanzar miles de jugadores.",
+          "Square Enix avisa de que la latencia puede aumentar y anima a probarlo antes del lanzamiento de Evercold en febrero de 2027. Los jugadores de los datacenters de Oceanía no podrán viajar por ahora. PC Gamer titula que la empresa estudia «la posibilidad de habilitar el viaje de forma permanente»."
+        ],
+        "en": [
+          "According to Kotaku, Square Enix will enable cross-region Data Center Travel after maintenance on December 1, 2026: from North America to Europe or Oceania, from Europe to North America or Oceania, and from Japan to Oceania. The company presents it as relief for queues following Patch 8.0, which can reach thousands of players.",
+          "Square Enix warns that latency may increase and encourages players to test it before Evercold launches in February 2027. Players on Oceanian data centers can't travel anywhere for now. PC Gamer's headline says the company is considering 'the possibility of permanently enabling travel'."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/capsule_616x353.jpg",
+        "credit": "Square Enix / Steam",
+        "creditUrl": "https://store.steampowered.com/app/39210/"
+      }
+    },
+    {
+      "id": "mass-effect-universe-cancelado-finales-me3-catherynne-valente",
+      "category": "juegos",
+      "title": {
+        "es": "La guionista de Mass Effect: Universe cuenta cómo BioWare abordaba los finales de ME3",
+        "en": "Mass Effect: Universe writer explains how BioWare approached ME3's endings"
+      },
+      "dek": {
+        "es": "Catherynne M. Valente habló en un AMA de Reddit sobre un proyecto que quedó cancelado.",
+        "en": "Catherynne M. Valente spoke in a Reddit AMA about a project that has been cancelled."
+      },
+      "why": {
+        "es": "Aviva el debate sobre el futuro de la saga tras el cierre de BioWare.",
+        "en": "It reopens the debate over the series' future after BioWare's closure."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/mass-effect-5-universe-3-me3-canon-ending-destroy-control-synthesis-2001000044"
+        },
+        {
+          "name": "Kotaku (plan de Universe)",
+          "url": "https://kotaku.com/mass-effect-5-universe-liara-garrus-tali-grunt-edi-shepard-2001000067"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026328028/el-cancelado-mass-effect-universe-iba-a-responder-a-las-dudas-que-dejaron-los-finales-de-mass-effect-3/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Catherynne M. Valente, que trabajó en el cancelado Mass Effect: Universe, dijo en un AMA de Reddit, según Kotaku, que BioWare dedicó un esfuerzo «largo y laborioso» a tratar los finales de Mass Effect 3 de modo que «no molestara a todo el mundo» y permitiera continuar la historia. Explicó que no había una solución única y que el equipo combinó varias, sin detallarlas.",
+          "Valente subrayó que el juego estaba inacabado y cambiaba constantemente, por lo que lo que ella vio pudo no llegar a la versión final. Kotaku sitúa la cancelación en el cierre de BioWare por parte de EA el mes pasado y menciona la campaña #SaveMassEffect, con más de 330.000 firmas en Change.org."
+        ],
+        "en": [
+          "Catherynne M. Valente, who worked on the cancelled Mass Effect: Universe, said in a Reddit AMA, per Kotaku, that BioWare spent a 'long and laborious' effort handling Mass Effect 3's endings in a way that wouldn't upset everyone while allowing the story to continue. She said no single solution existed and the team combined several, without detailing them.",
+          "Valente stressed the game was unfinished and constantly changing, so what she saw may not have reached the final version. Kotaku places the cancellation in EA's closure of BioWare last month and mentions the #SaveMassEffect campaign, with over 330,000 Change.org signatures."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/capsule_616x353.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1328670/"
+      }
+    },
+    {
+      "id": "exoprimal-fin-servicio-29-septiembre-2027-capcom",
+      "category": "industria",
+      "title": {
+        "es": "Capcom cerrará los servidores de Exoprimal el 29 de septiembre de 2027",
+        "en": "Capcom will shut down Exoprimal's servers on September 29, 2027"
+      },
+      "dek": {
+        "es": "El juego dejará de venderse el 30 de marzo de 2027 y dejará de poder jugarse tras el cierre.",
+        "en": "The game leaves stores on March 30, 2027 and becomes unplayable after the shutdown."
+      },
+      "why": {
+        "es": "Otro juego como servicio de gran editora que se apaga menos de cuatro años después de su estreno.",
+        "en": "Another big-publisher live-service game switches off after a short life."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027"
+        }
+      ],
+      "body": {
+        "es": [
+          "Capcom ha anunciado el fin del servicio de Exoprimal: los servidores se apagarán el 29 de septiembre de 2027 y el juego dejará de poder jugarse, según Gematsu. El juego y el resto de sus productos, incluido el contenido descargable, saldrán de las tiendas digitales el 30 de marzo de 2027. Los niveles premium del Pase de Supervivencia de las temporadas 1 a 4 se retiraron el 24 de noviembre.",
+          "Exoprimal está disponible en PS5, PS4, Xbox Series X|S, Xbox One y PC (Steam y Microsoft Store). Capcom pidió disculpas por la noticia."
+        ],
+        "en": [
+          "Capcom has announced the end of service for Exoprimal: servers will shut down on September 29, 2027 and the game will no longer be playable, per Gematsu. The game and all other products, including DLC, leave digital stores on March 30, 2027. Survival Pass Premium Tiers for Seasons 1 through 4 were removed on November 24.",
+          "Exoprimal is available on PS5, PS4, Xbox Series X|S, Xbox One and PC (Steam and the Microsoft Store). Capcom apologised for the announcement."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/capsule_616x353.jpg",
+        "credit": "CAPCOM Co., Ltd. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1286320/"
+      }
+    },
+    {
+      "id": "tiny-bookshop-un-millon-copias-dlc-arts-crafts-5-diciembre",
+      "category": "indie",
+      "title": {
+        "es": "Tiny Bookshop supera el millón de copias y estrenará la expansión Arts & Crafts el 5 de diciembre",
+        "en": "Tiny Bookshop passes 1 million copies and launches the Arts & Crafts expansion on December 5"
+      },
+      "dek": {
+        "es": "El juego de gestión de una librería salió en agosto de 2025 y está en PC, Switch, PS5, Xbox, iOS y Android.",
+        "en": "The bookshop management game launched in August 2025 and is on PC, Switch, PS5, Xbox, iOS and Android."
+      },
+      "why": {
+        "es": "Un éxito acogedor y de bajo perfil que sigue creciendo más de un año después.",
+        "en": "A cosy, low-key hit still growing more than a year on."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026328021/tiny-bookshop-el-relajante-juego-de-gestion-de-una-libreria-confirma-hito-de-ventas-y-anuncia-expansion/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Skystone Games y el estudio han anunciado que Tiny Bookshop ha vendido más de un millón de copias en PC, Switch, PS5, Xbox, iOS y Android desde su lanzamiento en agosto de 2025, según Nintendo Life.",
+          "Para celebrarlo llegará el 5 de diciembre de 2026 la expansión Arts & Crafts, con dos nuevas ubicaciones (Puffin Primary y el Artist Quarter), 24 piezas nuevas para la furgoneta, más de 30 objetos decorativos, nuevas misiones y un misterio sobre un cuadro robado. El artículo no indica precio ni plataformas del DLC."
+        ],
+        "en": [
+          "Skystone Games and the developer have announced that Tiny Bookshop has sold over one million copies across PC, Switch, PS5, Xbox, iOS and Android since its August 2025 launch, per Nintendo Life.",
+          "To celebrate, the Arts & Crafts expansion arrives on December 5, 2026, with two new locations (Puffin Primary and the Artist Quarter), 24 new wagon parts, over 30 decor items, new quests and a mystery involving a stolen painting. The article gives no price or platforms for the DLC."
+        ]
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/capsule_616x353.jpg",
+        "credit": "Skystone Games / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2133760/"
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Call of Duty: Modern Warfare 4 fue el juego más vendido de octubre en EE. UU. y enlaza 19 años consecutivos con un Call of Duty en el primer puesto, según el informe de Circana que recoge GameSpot.",
+        "en": "Call of Duty: Modern Warfare 4 was October's best-selling US game, extending to 19 straight years a new Call of Duty has topped the year's chart, per the Circana report GameSpot covers."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/call-of-dutys-19-year-sales-streak-continues/"
+      }
+    },
+    {
+      "text": {
+        "es": "Pokémon Champions añadirá cuatro Megaevoluciones y 24 Pokémon nuevos en una actualización la próxima semana, según Nintendo Life.",
+        "en": "Pokémon Champions will add four more Mega Evolutions and 24 newly available Pokémon in an update next week, per Nintendo Life."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-is-adding-four-more-mega-evolutions-in-a-new-update-next-week"
+      }
+    },
+    {
+      "text": {
+        "es": "Los responsables de Leonida, el proyecto más conocido para recrear GTA 6 en PC, han abandonado, aunque otros siguen con el intento, según PC Gamer, que habla de presión de Take-Two.",
+        "en": "The leads of Leonida, the best-known effort to recreate GTA 6 on PC, have quit, although others are carrying on, per PC Gamer, which reports pressure from Take-Two."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/"
+      }
+    },
+    {
+      "text": {
+        "es": "Gravity Well, estudio «anticrunch» fundado en 2020 por antiguos responsables de Apex Legends, cierra sin haber lanzado un juego tras perder su financiación, según PC Gamer.",
+        "en": "Gravity Well, an 'anti-crunch' studio founded in 2020 by former Apex Legends leaders, is closing without releasing a game after losing its funding, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los Atari Homebrew Awards se cancelan en su novena edición por la avalancha de juegos hechos con IA, según Kotaku.",
+        "en": "The Atari Homebrew Awards are cancelled in their ninth year because of a flood of AI-made games, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096"
+      }
+    },
+    {
+      "text": {
+        "es": "ASUS no descarta pasar de 16 GB a 8 GB de RAM en sus equipos de gama baja y media por la crisis de memoria, según su codirector ejecutivo S.Y. Hsu, citado por Vandal.",
+        "en": "ASUS does not rule out cutting low- and mid-range machines from 16GB to 8GB of RAM amid the memory crunch, according to co-CEO S.Y. Hsu, cited by Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026328019/la-crisis-de-la-ram-continua-asus-podria-reducir-de-16-gb-a-8-gb-sus-equipos-de-gama-baja/"
+      }
+    },
+    {
+      "text": {
+        "es": "Showa American Story se retrasa al 28 de octubre de 2027, según Gematsu.",
+        "en": "Showa American Story is delayed to October 28, 2027, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Demon Tides llegará a PS5, Switch 2 y Switch el 21 de enero de 2027, según Gematsu.",
+        "en": "Demon Tides comes to PS5, Switch 2 and Switch on January 21, 2027, per Gematsu."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027"
+      }
+    },
+    {
+      "text": {
+        "es": "Steam renueva su mercado de la Comunidad por segunda vez este año, según PC Gamer.",
+        "en": "Steam revamps its Community Market for the second time this year, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/platforms/steam-revamps-its-marketplace-for-the-2nd-time-this-year/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "The Wolf Among Us Remastered (Switch)",
+      "platforms": "Switch",
+      "note": {
+        "es": "29 de noviembre",
+        "en": "November 29"
+      },
+      "url": "https://www.gematsu.com/2026/11/the-wolf-among-us-remastered-for-switch-launches-november-29"
+    },
+    {
+      "title": "Dinghai: The Ocean Pillar",
+      "platforms": "PC",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/11/dinghai-the-ocean-pillar-launches-december-3"
+    },
+    {
+      "title": "Tiny Bookshop: Arts & Crafts (DLC)",
+      "platforms": "PC, consolas, móvil",
+      "note": {
+        "es": "5 de diciembre",
+        "en": "December 5"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced"
+    },
+    {
+      "title": "Stardust: Wish of Witch",
+      "platforms": "PS5, Switch 2",
+      "note": {
+        "es": "14 de diciembre",
+        "en": "December 14"
+      },
+      "url": "https://www.gematsu.com/2026/11/stardust-wish-of-witch-for-ps5-switch-2-launches-december-14"
+    },
+    {
+      "title": "Paper Shredder",
+      "platforms": "—",
+      "note": {
+        "es": "12 de enero de 2027",
+        "en": "January 12, 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/paper-shredder-launches-january-12-2027"
+    },
+    {
+      "title": "Lords of the Fallen II",
+      "platforms": "PS5, Xbox Series, Switch 2, PC",
+      "note": {
+        "es": "Abril de 2027",
+        "en": "April 2027"
+      },
+      "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Fans de Mass Effect mantienen la campaña #SaveMassEffect, con más de 330.000 firmas en Change.org, tras el cierre de BioWare, según Kotaku.",
+        "en": "Mass Effect fans keep up the #SaveMassEffect campaign, with over 330,000 Change.org signatures, after BioWare's closure, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/mass-effect-5-universe-3-me3-canon-ending-destroy-control-synthesis-2001000044"
+      }
+    },
+    {
+      "text": {
+        "es": "Los jugadores de Final Fantasy XIV celebran poder viajar entre Norteamérica y Europa por primera vez en 16 años, según Kotaku.",
+        "en": "Final Fantasy XIV players are celebrating the chance to travel between North America and Europe for the first time in 16 years, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/final-fantasy-14-is-letting-players-travel-between-north-america-and-european-servers-for-the-first-time-in-16-years-and-fans-are-psyched-2001000012"
+      }
+    },
+    {
+      "text": {
+        "es": "Un desarrollador de Dragon Age describe la presión de EA sobre BioWare con una imagen que ha dado que hablar: «pone una pistola sobre la mesa y pregunta cada día si vas a dispararte», según Kotaku.",
+        "en": "A Dragon Age developer describes EA's pressure on BioWare in a much-discussed image: it 'puts a gun on the table' and asks daily if you'll shoot yourself, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/dragon-age-dev-explains-biowares-struggles-ea-doesnt-shoot-you-it-puts-a-gun-on-the-table-and-then-comes-in-every-day-and-asks-you-if-youll-shoot-yourself-2001000008"
+      }
+    },
+    {
+      "text": {
+        "es": "La comparativa de Digital Foundry entre Xbox Series X y PS5 en GTA 6 reaviva el debate entre plataformas, según Push Square.",
+        "en": "Digital Foundry's Xbox Series X vs PS5 GTA 6 comparison reignites the platform debate, per Push Square."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    {
+      "name": "Dead by Daylight: Terrifier",
+      "url": "https://store.steampowered.com/app/5510420/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940/"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "Detroit: Become Human",
+      "url": "https://store.steampowered.com/app/1222140/"
+    }
+  ]
+}
