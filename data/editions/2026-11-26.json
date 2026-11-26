@@ -1,0 +1,714 @@
+{
+  "date": "2026-11-26",
+  "headline": {
+    "es": "EA resucita con IA a John Motson en FC 27 y CD Projekt asegura que The Witcher 4 saldrá a la vez en Xbox",
+    "en": "EA revives John Motson with AI in FC 27 and CD Projekt says The Witcher 4 will launch on Xbox at the same time"
+  },
+  "intro": {
+    "es": "Una voz recreada con IA genera debate en EA Sports FC 27, mientras CD Projekt aclara el alcance de su pacto con Sony. Además, GTA 6 deja la PS5 sin stock y Team Cherry presentará este viernes la expansión de Silksong.",
+    "en": "An AI-recreated voice sparks debate in EA Sports FC 27, while CD Projekt clarifies the scope of its Sony deal. Also, GTA 6 leaves PS5 short of stock and Team Cherry shows Silksong's expansion on Friday."
+  },
+  "stories": [
+    {
+      "id": "ea-sports-fc-27-john-motson-voz-ia-polemica",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.1920x1080.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg",
+        "credit": "Electronic Arts / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4080220/"
+      },
+      "title": {
+        "es": "EA Sports FC 27 recupera con IA la voz del fallecido John Motson",
+        "en": "EA Sports FC 27 brings back the late John Motson's voice with AI"
+      },
+      "dek": {
+        "es": "La actualización del 26 de noviembre añade al histórico comentarista de la BBC, con permiso de su familia; parte de los aficionados lo critica.",
+        "en": "The November 26 update adds the late BBC commentator, with his family's permission; some fans object."
+      },
+      "why": {
+        "es": "Es la primera vez que la serie incorpora un comentarista sintetizado con IA, y reabre el debate sobre voces de personas fallecidas.",
+        "en": "It is the first time the series features an AI-synthesised commentator, reopening the debate over recreating the voices of the dead."
+      },
+      "sources": [
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/ea-sports-fc-27-recuperara-la-voz-del-mitico-comentarista-john-motson-mediante-ia-con-el-permiso-de-su-familia/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026329026/nueva-polemica-ea-sports-fc-27-anadira-la-voz-de-un-legendario-comentarista-fallecido-mediante-ia-generativa/"
+        }
+      ],
+      "body": {
+        "es": [
+          "EA incorporará a EA Sports FC 27 la voz de John Motson, comentarista de la BBC fallecido en 2023 y primera voz de la serie FIFA. La actualización llega el 26 de noviembre y la voz se recrea con IA generativa a partir de grabaciones antiguas, según Nintenderos.",
+          "La compañía cuenta con el permiso de la viuda y del hijo de Motson, y asegura que la tecnología solo se usa para recuperar su voz, no para sustituir a los comentaristas actuales. La familia lo considera un homenaje, aunque PC Gamer recoge que parte de los aficionados lo califica de «sombrío» o «desagradable»."
+        ],
+        "en": [
+          "EA is adding the voice of John Motson, the BBC commentator who died in 2023 and was the first voice of the FIFA series, to EA Sports FC 27. The update arrives on November 26, and the voice is recreated with generative AI from old recordings, per Nintenderos.",
+          "EA has permission from Motson's widow and son, and says the technology is only used to bring back his voice, not to replace current commentators. His family sees it as a tribute, though PC Gamer reports that some fans call it \"bleak\" or \"gross\"."
+        ]
+      }
+    },
+    {
+      "id": "ps-plus-diciembre-2026-tony-hawk-dragon-ball-xenoverse-2-amnesia",
+      "category": "playstation",
+      "title": {
+        "es": "PS Plus de diciembre: Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 y Amnesia: The Bunker",
+        "en": "December PS Plus: Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 and Amnesia: The Bunker"
+      },
+      "dek": {
+        "es": "Los tres juegos estarán disponibles del 1 de diciembre al 4 de enero.",
+        "en": "All three games will be available from December 1 to January 4."
+      },
+      "why": {
+        "es": "Quien tenga juegos de noviembre pendientes debe canjearlos antes del 30 de noviembre.",
+        "en": "Anyone with November games left to claim has until November 30."
+      },
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026329036/anunciados-los-juegos-de-ps-plus-essential-de-diciembre-que-incluyen-una-coleccion-remasterizada-de-tony-hawk/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/ps5/noticias/playstation-anuncia-3-juegos-ps4-ps5-diciembre-2026-para-miembros-ps-plus"
+        }
+      ],
+      "body": {
+        "es": [
+          "PlayStation ha anunciado los juegos mensuales de PS Plus para diciembre: Tony Hawk's Pro Skater 3+4 y Dragon Ball Xenoverse 2 (PS5 y PS4) y Amnesia: The Bunker (PS4). Estarán disponibles del martes 1 de diciembre al lunes 4 de enero.",
+          "Según el PlayStation Blog, los miembros tienen hasta el lunes 30 de noviembre para añadir a su biblioteca los juegos de noviembre."
+        ],
+        "en": [
+          "PlayStation has revealed December's monthly PS Plus games: Tony Hawk's Pro Skater 3+4 and Dragon Ball Xenoverse 2 (PS5 and PS4), plus Amnesia: The Bunker (PS4). They will be available from Tuesday, December 1 to Monday, January 4.",
+          "Per the PlayStation Blog, members have until Monday, November 30 to add November's games to their library."
+        ]
+      }
+    },
+    {
+      "id": "hollow-knight-silksong-sea-of-sorrow-presentacion-27-noviembre",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/capsule_616x353.jpg",
+        "credit": "Team Cherry / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1030300/"
+      },
+      "title": {
+        "es": "Team Cherry presentará el 27 de noviembre novedades de Sea of Sorrow, la expansión de Silksong",
+        "en": "Team Cherry to show Silksong's Sea of Sorrow expansion on November 27"
+      },
+      "dek": {
+        "es": "La emisión «Cherry Time!» será a las 7:00 PT (16:00 en España) por YouTube.",
+        "en": "The \"Cherry Time!\" broadcast airs at 7:00 a.m. PT on YouTube."
+      },
+      "why": {
+        "es": "Es la primera información oficial detallada de la expansión gratuita desde que se anunció.",
+        "en": "It should be the first detailed official look at the free expansion."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/team-cherry-will-share-an-update-on-silksongs-dlc-on-november-27/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Team Cherry ha anunciado una emisión especial, «Cherry Time!», para el 27 de noviembre a las 7:00 de la mañana (hora del Pacífico), es decir, las 16:00 en la España peninsular. Se verá en YouTube.",
+          "El estudio promete «un montón de anuncios interesantes» y novedades de Sea of Sorrow, la expansión gratuita de Hollow Knight: Silksong. VGC apunta que podría revelarse su fecha de lanzamiento, aunque el estudio no la ha confirmado."
+        ],
+        "en": [
+          "Team Cherry has announced a special broadcast, \"Cherry Time!\", for November 27 at 7:00 a.m. PT, which is 4:00 p.m. in mainland Spain. It will stream on YouTube.",
+          "The studio promises \"a bunch of exciting announcements\" and news on Sea of Sorrow, the free Hollow Knight: Silksong expansion. VGC notes a release date could be revealed, though the studio has not confirmed it."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-ventas-consolas-ps5-agotada-estados-unidos-espana",
+      "category": "industria",
+      "title": {
+        "es": "GTA 6 dispara las ventas de consolas y agota la PS5 en tiendas de EE. UU. y España",
+        "en": "GTA 6 lifts console sales and leaves PS5 sold out in US and Spanish stores"
+      },
+      "dek": {
+        "es": "Circana cifra en más del doble las ventas semanales de PS5 y Xbox Series antes del lanzamiento.",
+        "en": "Circana says weekly PS5 and Xbox Series sales more than doubled just before launch."
+      },
+      "why": {
+        "es": "La demanda ha pillado a Sony sin stock en plena semana de Black Friday y sin promociones de hardware.",
+        "en": "Demand has left Sony short of stock in Black Friday week, with no hardware promotions."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026329014/ps5-se-agota-en-espana-el-lanzamiento-de-gta-6-deja-sin-consolas-a-las-principales-cadenas-de-tiendas/"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/ventas-espana-gta-6-se-estrena-con-mas-de-320000-unidades-de-la-edicion-fisica-casi-el-97-vendidas-en-ps5"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según el analista de Circana Mat Piscatella, las ventas semanales de PS5 en EE. UU. fueron más de 2,4 veces las de la misma semana de 2025 en la semana previa al lanzamiento de GTA 6, y las de Xbox Series superaron las 2,3 veces. Push Square añade que varios grandes minoristas estadounidenses, incluida PS Direct, están sin PS5, y que Sony no tiene ofertas de hardware este Black Friday.",
+          "Sony asegura que GTA 6 es el mayor lanzamiento de su historia y que el 19 de noviembre registró el mayor número de PS5 nuevas conectadas en un solo día desde su estreno, fuera de las fiestas de fin de año; en el 70 % de ellas, GTA 6 fue el primer juego. En España, Vandal informa de que las tres versiones de PS5 están agotadas en las principales cadenas, y Eurogamer.es titula que la edición física superó las 320.000 unidades en su estreno, casi el 97 % en PS5."
+        ],
+        "en": [
+          "According to Circana analyst Mat Piscatella, US PS5 hardware sales in the week before GTA 6 launched were more than 2.4 times the same week a year earlier, and Xbox Series sales more than 2.3 times. Push Square adds that several major US retailers, including PS Direct, are out of PS5s, and that Sony has no hardware deals this Black Friday.",
+          "Sony says GTA 6 is the biggest launch in its history and that November 19 saw the most newly connected PS5 consoles in a single day since launch outside the year-end holidays; for 70% of them, GTA 6 was the first game played. In Spain, Vandal reports all three PS5 models are sold out at the main chains, and Eurogamer.es headlines that physical sales topped 320,000 units at launch, almost 97% on PS5."
+        ]
+      }
+    },
+    {
+      "id": "the-witcher-4-xbox-dia-uno-cdpr-aclara-acuerdo-sony",
+      "category": "xbox",
+      "title": {
+        "es": "CD Projekt aclara que The Witcher 4 saldrá a la vez en Xbox pese al pacto con Sony",
+        "en": "CD Projekt clarifies The Witcher 4 will launch on Xbox at the same time despite Sony deal"
+      },
+      "dek": {
+        "es": "Michał Nowakowski: «Todas las plataformas lo reciben a la vez: PS5, Xbox y PC».",
+        "en": "Michał Nowakowski: \"All the platforms release at the same time: PS5, XB and PC.\""
+      },
+      "why": {
+        "es": "Zanja las dudas sobre una posible exclusividad temporal tras el acuerdo de marketing con PlayStation.",
+        "en": "It settles doubts about a timed exclusive after the PlayStation marketing agreement."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/the-witcher-4-dev-signs-new-agreements-with-sony-but-what-does-it-mean-for-xbox"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-for-all-platforms-at-the-same-time"
+        }
+      ],
+      "body": {
+        "es": [
+          "Tras anunciar ayer un acuerdo de marketing con Sony, CD Projekt Red ha respondido a las dudas de los jugadores de Xbox. Su codirector ejecutivo, Michał Nowakowski, aseguró en X que The Witcher 4 y los próximos títulos del estudio seguirán siendo multiplataforma.",
+          "Preguntado por una posible exclusividad temporal, la descartó: «Todas las plataformas lo reciben a la vez: PS5, XB y PC. Nadie se queda atrás». Según VGC, el pacto es solo de marketing, y el juego sigue con ventana de 2028 y sin fecha concreta."
+        ],
+        "en": [
+          "After announcing a marketing agreement with Sony yesterday, CD Projekt Red has answered Xbox players' concerns. Joint CEO Michał Nowakowski said on X that The Witcher 4 and the studio's upcoming titles will remain multiplatform.",
+          "Asked about a timed exclusive, he ruled it out: \"All the platforms release at the same time – PS5, XB, and PC. No one gets left behind.\" VGC says the deal is marketing-only, and the game remains slated for 2028 with no set date."
+        ]
+      }
+    },
+    {
+      "id": "nvidia-recorte-produccion-gpu-gaming-20-30-por-ciento-rumor",
+      "category": "hardware",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Nvidia_GeForce_RTX_5060_Ti_16GB%2C_PNY_Overclocked_Dual_Fan%2C_front.jpg/1280px-Nvidia_GeForce_RTX_5060_Ti_16GB%2C_PNY_Overclocked_Dual_Fan%2C_front.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Nvidia_GeForce_RTX_5060_Ti_16GB%2C_PNY_Overclocked_Dual_Fan%2C_front.jpg/960px-Nvidia_GeForce_RTX_5060_Ti_16GB%2C_PNY_Overclocked_Dual_Fan%2C_front.jpg",
+        "credit": "FreeMediaKid! / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nvidia_GeForce_RTX_5060_Ti_16GB,_PNY_Overclocked_Dual_Fan,_front.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "title": {
+        "es": "Rumor: Nvidia recortaría hasta un 30 % el suministro de GPU para juegos este trimestre",
+        "en": "Rumor: Nvidia reportedly cutting gaming GPU supply by up to 30% this quarter"
+      },
+      "dek": {
+        "es": "La información procede de un foro de distribución chino citado por VideoCardz; Nvidia no ha comentado.",
+        "en": "The claim comes from a Chinese distribution forum cited by VideoCardz; Nvidia has not commented."
+      },
+      "why": {
+        "es": "Podría tensar aún más la disponibilidad y los precios de las tarjetas gráficas en plena campaña navideña.",
+        "en": "It could further squeeze graphics card availability and prices during the holiday season."
+      },
+      "sources": [
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/nvidia-reportedly-cutting-gpu-production/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/nvidia-podria-dar-espalda-a-usuarios-pc-regreso-jensen-huang-como-ceo-viene-malas-noticias-para-jugadores"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según Insider Gaming, que recoge un informe de VideoCardz basado en el foro chino Board Channels, Nvidia reduciría entre un 20 % y un 30 % el suministro de GPU para juegos en el cuarto trimestre (de noviembre a enero) y ya estaría avisando a sus principales clientes. Es un rumor: la compañía no ha hecho comentarios.",
+          "El medio no confirma la causa, pero señala que Nvidia ha subido precios de componentes este año por la escasez de memoria DRAM, que probablemente influye. La fuente avisa de que la disponibilidad será limitada y los precios, volátiles."
+        ],
+        "en": [
+          "According to Insider Gaming, citing a VideoCardz report based on the Chinese forum Board Channels, Nvidia would cut gaming GPU supply by 20-30% in Q4 (November to January) and is already notifying major clients. This is a rumor: the company has not commented.",
+          "The outlet does not confirm a cause, but notes Nvidia has raised component prices this year amid DRAM shortages, which likely plays a part. The source warns availability will be limited and prices volatile."
+        ]
+      }
+    },
+    {
+      "id": "yooka-laylee-impossible-lair-definitive-edition-15-diciembre",
+      "category": "indie",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/capsule_616x353.jpg",
+        "credit": "Playtonic Friends / Steam",
+        "creditUrl": "https://store.steampowered.com/app/846870/"
+      },
+      "title": {
+        "es": "Yooka-Laylee and the Impossible Lair tendrá edición definitiva el 15 de diciembre",
+        "en": "Yooka-Laylee and the Impossible Lair gets a Definitive Edition on December 15"
+      },
+      "dek": {
+        "es": "Llega a PS5, Switch 2 y PC, y será mejora gratuita para quienes ya tengan el juego.",
+        "en": "Coming to PS5, Switch 2 and PC, as a free upgrade for existing owners."
+      },
+      "why": {
+        "es": "Playtonic recupera uno de los plataformas más queridos de 2019 con 120 fps en consolas.",
+        "en": "Playtonic revives one of 2019's best-loved platformers with 120 fps on consoles."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/yooka-laylee-and-the-impossible-lair-gets-a-ps5-definitive-edition-out-this-december"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026329040/uno-de-los-mejores-plataformas-de-2019-regresa-mejorado-a-ps5-switch-2-y-pc-con-una-actualizacion-gratis/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Playtonic Games ha anunciado Yooka-Laylee and the Impossible Lair: Definitive Edition para PS5, Switch 2 y PC (Steam). Saldrá el 15 de diciembre como actualización gratuita para quienes ya tengan el juego, según Gematsu.",
+          "Incluye mejor iluminación, sombras y oclusión ambiental, 4K a 120 fps en PS5, un modo de 120 fps y mayor resolución en Switch 2, un preajuste «Ultra» en PC, dos bandas sonoras orquestadas y el DLC Trowzer's Top Tonic Pack."
+        ],
+        "en": [
+          "Playtonic Games has announced Yooka-Laylee and the Impossible Lair: Definitive Edition for PS5, Switch 2 and PC (Steam). It launches December 15 as a free upgrade for existing owners, per Gematsu.",
+          "It brings improved lighting, shadows and ambient occlusion, 4K at 120 fps on PS5, a 120 fps mode and higher resolutions on Switch 2, an \"Ultra\" preset on PC, two orchestrated soundtracks and the Trowzer's Top Tonic Pack DLC."
+        ]
+      }
+    },
+    {
+      "id": "diablo-4-gambito-de-tyrael-1-diciembre-hells-legacy",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/capsule_616x353.jpg",
+        "credit": "Blizzard Entertainment, Inc. / Steam",
+        "creditUrl": "https://store.steampowered.com/app/2344520/"
+      },
+      "title": {
+        "es": "Diablo IV: la temporada Gambito de Tyrael llega el 1 de diciembre y deja gran parte de Hell's Legacy",
+        "en": "Diablo IV: Tyrael's Gambit season starts December 1, keeping much of Hell's Legacy"
+      },
+      "dek": {
+        "es": "Blizzard suma jefes, árboles de planes de guerra y objetos horádricos, y hace permanentes varias novedades de la temporada anterior.",
+        "en": "Blizzard adds bosses, war plan trees and Horadric items, and makes several features of the previous season permanent."
+      },
+      "why": {
+        "es": "Buena parte del contenido de la temporada más nostálgica pasa a formar parte fija del juego.",
+        "en": "Much of the most nostalgic season becomes a lasting part of the game."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026329031/blizzard-presenta-todas-las-novedades-de-la-nueva-temporada-de-diablo-iv-que-comenzara-el-1-de-diciembre/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Blizzard ha presentado la temporada Gambito de Tyrael de Diablo IV, que empieza el 1 de diciembre a las 18:30 (hora peninsular española). Trae a la Parca corrompida y a la Parca rota como jefes de guarida en Zarzinbet, con objetos únicos míticos, además de dos árboles de planes de guerra que seguirán tras la temporada, un nuevo tipo de objeto legendario horádrico y mareas infernales rediseñadas.",
+          "Según Vandal, de la temporada Hell's Legacy se quedan para siempre el Consejo de los Grandes Demonios, las mazmorras de piedra angular, la invocación de Diablo como jefe del mundo, las Mazmorras de Pesadilla ampliadas, los monstruos del Pozo, los únicos ancestrales y el nivel secreto de las vacas, entre otros."
+        ],
+        "en": [
+          "Blizzard has unveiled Diablo IV's Tyrael's Gambit season, starting December 1 at 6:30 p.m. Spanish mainland time. It brings the corrupted and broken Reapers as lair bosses in Zarzinbet with mythic uniques, two war plan trees that persist after the season, a new Horadric legendary item type and reworked Infernal Tides.",
+          "Per Vandal, Hell's Legacy content that stays permanently includes the Council of the Greater Demons, Cornerstone dungeons, Diablo as a summonable world boss, expanded Nightmare Dungeons, Pit monsters, ancient uniques and the Cow Level secret level, among others."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-puertos-pc-ia-take-two-github-dmca-leak",
+      "category": "pc",
+      "title": {
+        "es": "Take-Two frena los intentos de portar GTA 6 a PC con IA tras la filtración de la build de Xbox",
+        "en": "Take-Two moves against AI-built GTA 6 PC ports after the Xbox build leak"
+      },
+      "dek": {
+        "es": "GitHub retiró más de 3.000 repositorios por un aviso DMCA; Rockstar no ha hablado de una versión de PC.",
+        "en": "GitHub took down more than 3,000 repositories after a DMCA notice; Rockstar has not discussed a PC version."
+      },
+      "why": {
+        "es": "Muestra hasta dónde llegan los proyectos de aficionados con herramientas de IA y la respuesta legal de las editoras.",
+        "en": "It shows how far fan projects using AI tools can go, and publishers' legal response."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/rockstar-saca-motosierra-tumba-proyecto-para-llevar-gta-6-a-pc-su-autor-no-tenia-edad-votar"
+        }
+      ],
+      "body": {
+        "es": [
+          "Tras filtrarse el ejecutable de GTA 6 para Xbox Series X, varios aficionados intentan crear un port para PC con herramientas de programación con IA. Kotaku cuenta que uno de los proyectos más avanzados apenas alcanza menos de 5 imágenes por segundo, y que Rockstar no ha hablado de una versión de PC.",
+          "Take-Two pidió retirar el repositorio principal de Project Leonida y sus bifurcaciones: el aviso DMCA afectó a 3.007 repositorios en GitHub, y su Discord fue cerrado a petición de Rockstar y Take-Two. Kotaku señala que no está claro cómo actuará la editora con el resto de proyectos."
+        ],
+        "en": [
+          "After the leak of GTA 6's Xbox Series X executable, several fans are trying to build a PC port with AI coding tools. Kotaku says one of the most advanced projects runs at under 5 frames per second, and Rockstar has not discussed a PC version.",
+          "Take-Two asked GitHub to remove Project Leonida's main repository and forks: the DMCA notice hit 3,007 repositories, and its Discord was taken down at Rockstar and Take-Two's request. Kotaku notes it is unclear how the publisher will handle the remaining projects."
+        ]
+      }
+    },
+    {
+      "id": "xenoblade-chronicles-3-switch-2-edition-3-diciembre-heroes-vault",
+      "category": "nintendo",
+      "title": {
+        "es": "Xenoblade Chronicles 3 – Switch 2 Edition sale el 3 de diciembre con 4K y modo Heroes' Vault",
+        "en": "Xenoblade Chronicles 3 – Switch 2 Edition arrives December 3 with 4K and Heroes' Vault"
+      },
+      "dek": {
+        "es": "Nintendo muestra el tráiler con la heroína Shimmer; la mejora cuesta 9,99 $ para quien ya tenga el juego.",
+        "en": "Nintendo shows a trailer featuring the hero Shimmer; the upgrade costs $9.99 for existing owners."
+      },
+      "why": {
+        "es": "Suma otro título de Monolith Soft a Switch 2, el mismo día en que Ocarina of Time recibe un parche.",
+        "en": "It adds another Monolith Soft title to Switch 2, as Ocarina of Time also gets a patch."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-presenta-nuevo-trailer-con-la-heroina-shimmer-el-modo-heroes-vault-y-mas-novedades/"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer"
+        }
+      ],
+      "body": {
+        "es": [
+          "Nintendo ha publicado un tráiler de Xenoblade Chronicles 3 – Nintendo Switch 2 Edition, que saldrá el 3 de diciembre, según Nintendo Life. Incluye salida en 4K en modo TV (con televisor compatible), 60 fps más estables y escenas dobladas en inglés y japonés.",
+          "Entre las novedades figuran Heroes' Vault, un modo de oleadas de enemigos, y Shimmer, una nueva heroína mítica de ataque rápido. Los jugadores de la versión original de Switch podrán comprar la mejora por 9,99 $ / 7,99 £."
+        ],
+        "en": [
+          "Nintendo has released an overview trailer for Xenoblade Chronicles 3 – Nintendo Switch 2 Edition, launching December 3, per Nintendo Life. It features 4K output in TV mode (with a compatible TV), smoother 60 fps and fully voiced event scenes in English and Japanese.",
+          "New additions include Heroes' Vault, a wave-based enemy mode, and Shimmer, a fast-attacking new mythical Hero. Owners of the original Switch version can buy the upgrade pack for $9.99 / £7.99."
+        ]
+      }
+    },
+    {
+      "id": "metal-slug-pelicula-live-action-james-morosini",
+      "category": "adaptaciones",
+      "title": {
+        "es": "Metal Slug tendrá película de acción real escrita por James Morosini",
+        "en": "Metal Slug is getting a live-action film written by James Morosini"
+      },
+      "dek": {
+        "es": "El estudio The Arena desarrolla la adaptación, según Variety; aún no hay fecha ni reparto.",
+        "en": "The Arena is developing the adaptation, per Variety; no date or cast yet."
+      },
+      "why": {
+        "es": "La saga arcade de SNK suma una adaptación en el año de su 30.º aniversario.",
+        "en": "SNK's arcade series gets a film adaptation in its 30th anniversary year."
+      },
+      "sources": [
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/metal-slug-tendra-una-pelicula-live-action-escrita-por-el-guionista-de-i-love-my-dad-y-protagonizada-por-sus-cuatro-heroes-clasicos/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Metal Slug tendrá una adaptación cinematográfica de acción real escrita por James Morosini, conocido por I Love My Dad. La desarrolla The Arena, con Melissa Goodall y Sajan Algiri al frente, según recoge Nintenderos a partir de Variety.",
+          "La historia seguirá a Marco Rossi, Tarma Roving, Eri Kasamoto y Fio Germi tras el levantamiento del general Morden. No se ha comunicado fecha de estreno ni distribuidora."
+        ],
+        "en": [
+          "Metal Slug will get a live-action film written by James Morosini, known for I Love My Dad. It is being developed by The Arena, with Melissa Goodall and Sajan Algiri overseeing it, per Nintenderos citing Variety.",
+          "The story follows Marco Rossi, Tarma Roving, Eri Kasamoto and Fio Germi after General Morden's uprising. No release date or distributor has been announced."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Ubisoft pediría a los equipos que justifiquen no usar IA generativa en sus propuestas, según Vertical Slice, que cita fuentes anónimas; la compañía no ha comentado.",
+        "en": "Ubisoft is reportedly asking teams to justify not using generative AI when pitching games, per Vertical Slice citing anonymous sources; the company has not commented."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/"
+      }
+    },
+    {
+      "text": {
+        "es": "Pokémon Champions recibirá el 2 de diciembre 24 Pokémon nuevos, entre ellos Heatran, Dondozo y Tatsugiri, cuatro megaevoluciones y un parche de equilibrio.",
+        "en": "Pokémon Champions gets 24 newly added Pokémon, including Heatran, Dondozo and Tatsugiri, four Mega Evolutions and a balance patch on December 2."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-is-adding-four-more-mega-evolutions-in-a-new-update-next-week"
+      }
+    },
+    {
+      "text": {
+        "es": "Zelda: Ocarina of Time en Switch 2 recibe la versión 1.1.2, que corrige un bloqueo en el evento «Malon's Friend».",
+        "en": "Zelda: Ocarina of Time on Switch 2 gets version 1.1.2, fixing a progression block in the \"Malon's Friend\" event."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes"
+      }
+    },
+    {
+      "text": {
+        "es": "Nuevos aranceles estadounidenses anunciados contra China, Japón, Vietnam y socios de la UE podrían encarecer otra vez las consolas, según GameSpot.",
+        "en": "New US tariffs announced on China, Japan, Vietnam and EU partners could raise console prices again, per GameSpot."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/another-gaming-console-price-hike-could-be-coming-thanks-to-new-tariffs/"
+      }
+    },
+    {
+      "text": {
+        "es": "Alguien ha contado los 5.588 edificios de GTA 6: se puede entrar en el 28 %, unos 1.500.",
+        "en": "Someone counted GTA 6's 5,588 buildings: about 28%, roughly 1,500, can be entered."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/someone-counted-all-5-588-buildings-in-gta-6-and-it-turns-out-you-can-go-inside-28-percent-of-them/"
+      }
+    },
+    {
+      "text": {
+        "es": "Rockstar explica que GTA 6 no permite repetir misiones porque chocaba con la historia, según GameSpot y Kotaku.",
+        "en": "Rockstar says GTA 6 has no mission replay because it clashed with the story, per GameSpot and Kotaku."
+      },
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/"
+      }
+    },
+    {
+      "text": {
+        "es": "Skate. abandonará las temporadas con su actualización 0.33, que añade chat de proximidad y un modo nuevo.",
+        "en": "skate. is dropping seasons with update 0.33, which adds proximity chat and a new mode."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/skate-ps5-moving-away-from-seasons-adds-proximity-chat-new-mode-more-in-next-update"
+      }
+    },
+    {
+      "text": {
+        "es": "Showa American Story se retrasa un año completo, según Vandal.",
+        "en": "Showa American Story is delayed by a full year, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026329021/el-prometedor-rpg-de-accion-showa-american-story-se-retrasa-un-ano-entero-pero-es-por-una-muy-buena-razon/"
+      }
+    },
+    {
+      "text": {
+        "es": "Gravity Well, el estudio fundado por veteranos de Respawn e Infinity Ward, atraviesa problemas de financiación, según Vandal.",
+        "en": "Gravity Well, the studio founded by Respawn and Infinity Ward veterans, is reportedly facing funding problems, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026329018/problemas-de-financiacion-para-gravity-well-el-estudio-fundado-por-veteranos-de-respawn-e-infinity-ward/"
+      }
+    },
+    {
+      "text": {
+        "es": "El Video Game Hardship Fund recaudó casi 300.000 dólares para desarrolladores despedidos, según Kotaku.",
+        "en": "The Video Game Hardship Fund raised almost $300,000 for laid-off developers, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/the-video-game-hardship-fund-raised-almost-300000-for-laid-off-developers-2001000336"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Arcade Archives Dirt Dash",
+      "platforms": "Consolas",
+      "note": {
+        "es": "26 de noviembre",
+        "en": "November 26"
+      },
+      "url": "https://www.gematsu.com/2026/11/arcade-archives-dirt-dash-launches-november-26"
+    },
+    {
+      "title": "Diablo IV: Gambito de Tyrael (temporada)",
+      "platforms": "PC, PS, Xbox",
+      "note": {
+        "es": "1 de diciembre",
+        "en": "December 1"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026329031/blizzard-presenta-todas-las-novedades-de-la-nueva-temporada-de-diablo-iv-que-comenzara-el-1-de-diciembre/"
+    },
+    {
+      "title": "Xenoblade Chronicles 3 – Switch 2 Edition",
+      "platforms": "Switch 2",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements"
+    },
+    {
+      "title": "Dinghai: The Ocean Pillar",
+      "platforms": "PC",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.gematsu.com/2026/11/dinghai-the-ocean-pillar-launches-december-3"
+    },
+    {
+      "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition",
+      "platforms": "PS5, Switch 2, PC",
+      "note": {
+        "es": "15 de diciembre",
+        "en": "December 15"
+      },
+      "url": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "La recreación con IA de John Motson en EA Sports FC 27 divide a los aficionados: la familia lo ve como un homenaje; algunos lo llaman «sombrío», según PC Gamer.",
+        "en": "AI-recreated John Motson in EA Sports FC 27 divides fans: his family calls it a tribute; some call it \"bleak\", per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los intentos de portar GTA 6 a PC con IA, incluidos directos en Kick y Rumble, se han convertido en tema de debate tras los cierres de Take-Two, según Kotaku.",
+        "en": "Attempts to port GTA 6 to PC with AI, including streams on Kick and Rumble, are sparking debate after Take-Two's takedowns, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396"
+      }
+    },
+    {
+      "text": {
+        "es": "Max Verstappen dedicó 40 horas a GTA 6 en torno al Gran Premio de Las Vegas, que ganó, y la anécdota circula entre los aficionados, según PC Gamer.",
+        "en": "Max Verstappen put 40 hours into GTA 6 around the Las Vegas Grand Prix, which he won, and the story is making the rounds, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/"
+      }
+    },
+    {
+      "text": {
+        "es": "Un analista estima que Call of Duty perdió el 44 % de sus jugadores cuando salió GTA 6 y que tardan en volver, según PC Gamer.",
+        "en": "An analyst estimates Call of Duty lost 44% of its players when GTA 6 launched and that they are slow to return, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940/"
+    },
+    {
+      "name": "Detroit: Become Human",
+      "url": "https://store.steampowered.com/app/1222140/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    },
+    {
+      "name": "SILENT HILL f",
+      "url": "https://store.steampowered.com/app/2947440/"
+    },
+    {
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
+      "url": "https://store.steampowered.com/app/1412913/"
+    }
+  ]
+}
