@@ -1,0 +1,685 @@
+{
+  "date": "2026-11-27",
+  "headline": {
+    "es": "Rockstar rechaza el sindicato en pleno éxito de GTA 6 y Ubisoft niega presionar con IA",
+    "en": "Rockstar workers reject a union amid GTA 6's success and Ubisoft denies pushing AI"
+  },
+  "intro": {
+    "es": "Los empleados de Rockstar en Reino Unido votan contra el reconocimiento sindical mientras GTA 6 firma cifras récord en el formato físico. Ubisoft, por su parte, responde a las acusaciones sobre el uso obligado de IA.",
+    "en": "Rockstar's UK staff vote against union recognition as GTA 6 posts record physical-format numbers. Ubisoft, meanwhile, answers claims it is pushing AI on developers."
+  },
+  "stories": [
+    {
+      "id": "rockstar-sindicato-iwgb-75-por-ciento-vota-no",
+      "category": "industria",
+      "title": {
+        "es": "Los trabajadores de Rockstar en Reino Unido rechazan el reconocimiento sindical",
+        "en": "Rockstar's UK workers reject union recognition"
+      },
+      "dek": {
+        "es": "Cerca del 75 % votó en contra del acuerdo con el IWGB en una votación que coincidió con el estreno de GTA 6.",
+        "en": "Roughly 75% voted against a recognition deal with the IWGB, in a ballot that overlapped with GTA 6's launch."
+      },
+      "why": {
+        "es": "Rockstar no queda obligada a negociar colectivamente, aunque el IWGB seguirá organizando y representando a sus afiliados.",
+        "en": "Rockstar is not obliged to bargain collectively, though the IWGB will keep organising and representing its members."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/"
+        },
+        {
+          "name": "GameSpot",
+          "url": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026330028/los-trabajadores-de-rockstar-votan-en-contra-de-la-formacion-del-sindicato-rockstar-game-workers-union/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/desarrolladores-gta-6-han-decidido-su-futuro-resultado-muy-diferente-a-que-muchos-imaginaban-rockstar-dice-no-al-sindicato"
+        }
+      ],
+      "body": {
+        "es": [
+          "Los empleados de Rockstar Games en Reino Unido han rechazado un acuerdo que habría reconocido al Rockstar Game Workers Union, impulsado por el sindicato IWGB. Según VGC, en torno al 75 % votó en contra y cerca del 25 % a favor, en una consulta de dos semanas (del 12 al 26 de noviembre) en la que participó la mayoría de la plantilla, de unas 1.600 personas.",
+          "El reconocimiento habría permitido negociar de forma colectiva asuntos como salarios, horas extra, pensiones, el impacto de la IA y los despidos. Sin él, Rockstar no está obligada a reunirse con representantes sindicales, aunque los trabajadores conservan sus derechos sindicales y el IWGB puede seguir representando a sus afiliados. El sindicato lo vio como «una señal para redoblar» su trabajo; Rockstar, por boca de su directora de publicación Jennifer Kolbe, lo interpretó como apoyo al diálogo directo.",
+          "VGC recuerda además que un tribunal laboral examina denuncias de práctica antisindical tras el despido en 2025 de 34 trabajadores implicados en la organización sindical; Rockstar sostiene que fueron despedidos por filtrar información confidencial."
+        ],
+        "en": [
+          "Rockstar Games' UK employees have rejected a deal that would have recognised the Rockstar Game Workers Union, backed by the IWGB. Per VGC, around 75% voted against and roughly 25% in favour, in a two-week ballot (November 12 to 26) in which most of the roughly 1,600-strong workforce took part.",
+          "Recognition would have allowed collective bargaining over pay, overtime, pensions, the impact of AI and redundancies. Without it, Rockstar isn't bound to meet union representatives, although workers keep their trade union rights and the IWGB can continue representing its members. The union called it \"a sign to double down\" on its work, while Rockstar's head of publishing Jennifer Kolbe read it as support for direct dialogue.",
+          "VGC also notes that an employment tribunal is examining alleged union busting after 34 workers active in organising were dismissed in 2025; Rockstar says they were fired for leaking confidential information."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-lanzamiento-fisico-reino-unido-32-millones-mayor-desde-2019",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 firma el mayor estreno físico en Reino Unido desde 2019, pese a no traer disco",
+        "en": "GTA 6 posts the UK's biggest physical launch since 2019, despite having no disc"
+      },
+      "dek": {
+        "es": "La edición «física», que incluye un código de descarga, facturó 32 millones de libras en tres días, según NielsenIQ.",
+        "en": "The \"physical\" edition, which contains a download code, took £32 million in three days, per NielsenIQ."
+      },
+      "why": {
+        "es": "Es un termómetro para el futuro del formato físico, justo cuando PlayStation prevé dejar de fabricar discos en 2028.",
+        "en": "It is a litmus test for physical media just as PlayStation plans to stop producing discs in 2028."
+      },
+      "sources": [
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/gta-6s-physical-launch-has-been-an-astronomical-success-despite-no-discs"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026330025/confirmado-la-edicion-fisica-sin-disco-de-gta-6-ha-sido-un-rotundo-exito-en-espana-reino-unido-y-francia/"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/a-pesar-criticas-ser-codigo-caja-gta-6-ha-batido-record-espana-su-version-fisica"
+        }
+      ],
+      "body": {
+        "es": [
+          "La edición física de GTA 6, que en realidad es una caja con un código de descarga, ha sido el mayor lanzamiento en formato físico en Reino Unido desde 2019. Según The Game Business, que cita datos de NielsenIQ y recoge Push Square, generó unos 32 millones de libras en sus tres primeros días y es el 17.º mayor estreno físico de la historia del país; solo FIFA 20 lo superó entre los más recientes.",
+          "Vandal y 3DJuegos apuntan que el juego, que salió el 19 de noviembre, también ha tenido un arranque récord en España y muy fuerte en Francia, según las primeras estimaciones. VGC habla de uno de los lanzamientos físicos más exitosos de la historia en Europa.",
+          "La polémica por vender una caja sin disco fue intensa durante meses; las cifras indican que no frenó a los compradores."
+        ],
+        "en": [
+          "GTA 6's physical edition, which is really a box containing a download code, has been the UK's biggest physical launch since 2019. According to The Game Business, citing NielsenIQ data and relayed by Push Square, it took about £32 million in its first three days and ranks as the 17th biggest physical launch in UK history, with FIFA 20 the last bigger one.",
+          "Vandal and 3DJuegos report that the game, released on November 19, also had a record start in Spain and a very strong one in France, based on early estimates. VGC describes it as one of the most successful physical launches ever across Europe.",
+          "The \"code in a box\" format drew heated debate for months; the numbers suggest it did not put buyers off."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-japon-famitsu-200000-fisicas-ps5-supera-switch-2",
+      "category": "playstation",
+      "title": {
+        "es": "GTA 6 debuta como número uno en Japón y la PS5 supera a Switch 2 en ventas semanales",
+        "en": "GTA 6 debuts at number one in Japan and PS5 outsells Switch 2 for the week"
+      },
+      "dek": {
+        "es": "Famitsu cifra en unas 200.759 las copias físicas vendidas entre el 16 y el 22 de noviembre.",
+        "en": "Famitsu puts physical sales at about 200,759 copies for November 16–22."
+      },
+      "why": {
+        "es": "Es una rara semana en la que PlayStation gana a Switch 2 en el mercado japonés.",
+        "en": "It is a rare week in which PlayStation beats Switch 2 in Japan."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-16-26-11-22-26"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026330023/gta-6-se-estrena-como-el-mas-vendido-en-japon-y-multiplica-las-ventas-semanales-de-ps5/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Grand Theft Auto VI ha entrado en lo más alto de la lista semanal de Famitsu (16–22 de noviembre) con unas 200.759 copias físicas en PS5, según Nintendo Life. Desplaza al segundo puesto a The Legend of Zelda: Ocarina of Time en Switch 2, que vendió 35.295 unidades y suma 658.433.",
+          "En hardware, la PS5 Digital Edition fue la consola más vendida de la semana con 40.362 unidades, por delante de Switch 2 (36.817). Las tres versiones de PS5 sumaron 41.472, frente a las 4.362 de la familia Switch original.",
+          "Nintendo Life recuerda que, aun así, el debut queda por debajo de las cerca de 537.000 copias que vendió la última entrega de Zelda en su primera semana."
+        ],
+        "en": [
+          "Grand Theft Auto VI has topped Famitsu's weekly chart (November 16–22) with about 200,759 physical PS5 copies, per Nintendo Life. It pushed The Legend of Zelda: Ocarina of Time on Switch 2 to second place, with 35,295 units for a total of 658,433.",
+          "On hardware, the PS5 Digital Edition was the week's best-selling console at 40,362 units, ahead of Switch 2 (36,817). All three PS5 models combined for 41,472, against 4,362 for the original Switch family.",
+          "Nintendo Life points out the debut still falls short of the roughly 537,000 copies the latest Zelda sold in its first week."
+        ]
+      }
+    },
+    {
+      "id": "witcher-3-remastered-parche-5-02-switch-2-mods-habilidades",
+      "category": "pc",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_616x353.jpg",
+        "credit": "CD PROJEKT RED / Steam",
+        "creditUrl": "https://store.steampowered.com/app/292030/"
+      },
+      "title": {
+        "es": "The Witcher 3 Remastered recibe el parche 5.02 en todas las plataformas",
+        "en": "The Witcher 3 Remastered gets patch 5.02 on all platforms"
+      },
+      "dek": {
+        "es": "Corrige misiones bloqueadas, fallos de estabilidad y errores con mods, reequilibra habilidades y añade soporte 32:9.",
+        "en": "It fixes blocked quests, stability and mod issues, rebalances skills and adds 32:9 support."
+      },
+      "why": {
+        "es": "Es otra tanda de mantenimiento para un remaster que sigue puliéndose semanas después del lanzamiento.",
+        "en": "Another maintenance round for a remaster still being polished weeks after launch."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026330026/the-witcher-3-wild-hunt-remastered-se-actualiza-en-todas-las-plataformas-que-incluye-la-actualizacion-502/"
+        }
+      ],
+      "body": {
+        "es": [
+          "CD Projekt Red ha publicado la versión 5.02 de The Witcher 3: Wild Hunt – Remastered para PC y consolas. Según las notas que recoge Nintendo Life, el parche arregla misiones que podían quedarse bloqueadas (como Hard Times o The Last Wish), cuelgues en el combate contra el Miasma Rojo, pantallas de carga infinitas y errores de iluminación, pelo y UI, además de añadir compatibilidad con pantallas 32:9.",
+          "También rebaja o ajusta varias habilidades y mutaciones, entre ellas Adrenaline Rush, Cat Eyes y Piercing Cold. En Switch 2 sube el tamaño máximo permitido para mods y corrige un cierre al abrir su menú. Push Square destaca que en PS5 elimina tirones y mejora el rendimiento, y que la descarga pesa unos 1,6 GB."
+        ],
+        "en": [
+          "CD Projekt Red has released version 5.02 of The Witcher 3: Wild Hunt – Remastered on PC and consoles. According to the notes relayed by Nintendo Life, the patch fixes quests that could get stuck (such as Hard Times or The Last Wish), crashes in the Red Miasmal fight, infinite loading screens and lighting, hair and UI bugs, and adds 32:9 ultrawide support.",
+          "It also tones down or tweaks several skills and mutations, including Adrenaline Rush, Cat Eyes and Piercing Cold. On Switch 2 it raises the maximum mod size and fixes a crash when opening the mods menu. Push Square highlights stutter fixes and better performance on PS5, in a download of about 1.6 GB."
+        ]
+      }
+    },
+    {
+      "id": "ubisoft-ia-generativa-desmiente-obligar-vertical-slice",
+      "category": "industria",
+      "title": {
+        "es": "Ubisoft niega obligar a usar IA generativa, pero admite que «anima» a explorarla",
+        "en": "Ubisoft denies requiring generative AI but says it \"encourages\" exploring it"
+      },
+      "dek": {
+        "es": "La compañía responde a un informe de Vertical Slice según el cual los equipos debían justificar no usarla.",
+        "en": "The company responds to a Vertical Slice report saying teams had to justify not using it."
+      },
+      "why": {
+        "es": "La respuesta no aborda directamente la acusación, así que el debate interno sobre IA en Ubisoft sigue abierto.",
+        "en": "The reply does not directly address the claim, so the debate over AI inside Ubisoft remains open."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/ubisoft-generative-ai-denied/"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/ubisoft-ceo-ai-psychosis-slop-tech-yves-guillemot-assassins-creed-2001000601"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026330018/ubisoft-estaria-demandando-el-uso-de-ia-en-la-presentacion-de-prototipos-segun-empleados-criticos-con-la-decision/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Ubisoft ha afirmado que no obliga a sus desarrolladores a usar IA generativa y que no existe un mandato en toda la compañía, aunque «anima» a los equipos a explorarla. La respuesta llega tras un informe de Vertical Slice, basado en fuentes anónimas, que aseguraba que los equipos debían justificar por qué no la usaban al presentar nuevos proyectos.",
+          "Según VGC, el comunicado no responde de forma directa a esa acusación. Las fuentes del informe hablaban de empleados que se sentían «acorralados» y de una presión mayor en las primeras demos, además de despidos en curso y equipos «al límite». Insider Gaming considera que la historia completa sigue sin estar clara.",
+          "VGC añade que Ubisoft ha creado hace poco una filial centrada en usar IA para innovar en el juego."
+        ],
+        "en": [
+          "Ubisoft has said it does not require developers to use generative AI and that there is no company-wide mandate, though it \"encourages\" teams to explore it. The reply follows a Vertical Slice report, based on anonymous sources, claiming teams had to justify not using it when pitching new projects.",
+          "Per VGC, the statement does not directly address that claim. The report's sources described staff feeling \"cornered\" and extra pressure around early demos, alongside ongoing layoffs and teams stretched \"unbearably thin\". Insider Gaming says the full story remains unclear.",
+          "VGC adds that Ubisoft recently set up a subsidiary focused on using AI for gameplay innovation."
+        ]
+      }
+    },
+    {
+      "id": "github-tweet-anyps5-gta-6-borrado",
+      "category": "industria",
+      "title": {
+        "es": "GitHub borra un tuit que celebraba el emulador AnyPS5 tras el estreno de GTA 6",
+        "en": "GitHub deletes a post celebrating the AnyPS5 emulator after GTA 6's launch"
+      },
+      "dek": {
+        "es": "El mensaje presumía de que el repositorio superaba las 58.000 estrellas; la cuenta lo retiró poco después.",
+        "en": "The post boasted that the repository passed 58,000 stars; the account removed it soon after."
+      },
+      "why": {
+        "es": "Llega mientras Take-Two retira repositorios que intentan portar GTA 6 a PC.",
+        "en": "It comes as Take-Two takes down repositories trying to port GTA 6 to PC."
+      },
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft"
+        }
+      ],
+      "body": {
+        "es": [
+          "La cuenta de GitHub, propiedad de Microsoft, publicó en X un mensaje que celebraba que AnyPS5, un emulador de PS5 alojado en la plataforma, superaba las 58.000 estrellas, y que arrancaba haciendo referencia al lanzamiento de GTA 6. Según Kotaku, incluía un vídeo que vinculaba el impulso del proyecto con el juego y una pregunta sobre si cambiar el lugar donde se ejecutan los juegos cruza una línea legal.",
+          "El mensaje fue borrado poco después, aunque un usuario ya había resubido el vídeo. Kotaku no recoge ninguna declaración oficial de GitHub, Microsoft, Take-Two o Sony. El medio recuerda que Take-Two ya ha estado retirando repositorios que intentan portar GTA 6 a PC."
+        ],
+        "en": [
+          "GitHub's account, owned by Microsoft, posted on X celebrating that AnyPS5, a PS5 emulator hosted on the platform, had passed 58,000 stars, opening with a reference to GTA 6's launch. According to Kotaku, it included a video linking the project's momentum to the game and a question about whether changing where games run crosses a legal line.",
+          "The post was deleted shortly afterwards, though a user had already re-uploaded the video. Kotaku reports no official statement from GitHub, Microsoft, Take-Two or Sony, and notes Take-Two has been taking down repositories that try to port GTA 6 to PC."
+        ]
+      }
+    },
+    {
+      "id": "xbox-matthew-ball-marca-xbox-juegos-first-party-2027",
+      "category": "xbox",
+      "title": {
+        "es": "Xbox promete vincular mejor sus juegos a la marca a partir de 2027",
+        "en": "Xbox promises to tie its games more clearly to the brand from 2027"
+      },
+      "dek": {
+        "es": "Matthew Ball, responsable de estrategia, respondió a las críticas: «Lo estamos arreglando».",
+        "en": "Chief strategy officer Matthew Ball answered the criticism: \"We are fixing this.\""
+      },
+      "why": {
+        "es": "No está claro en qué consistirá el cambio ni si afecta a la política multiplataforma.",
+        "en": "It is unclear what the change will involve or whether it affects multiplatform policy."
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-cso-responds-to-criticism-around-game-branding-promises-to-fix-in-2027"
+        }
+      ],
+      "body": {
+        "es": [
+          "Matthew Ball, director de estrategia de Xbox, escribió en X el 26 de noviembre que la compañía está corrigiendo cómo asocia sus juegos con la marca Xbox: «Lo estamos arreglando. Se desplegará en 2027». Respondía a críticas de aficionados y del editor de Windows Central Jez Corden, que había dicho que Xbox es «muy débil» vinculando sus juegos con su marca.",
+          "La queja se centra en títulos propios de estudios como Blizzard o Bethesda que se anuncian con poca o ninguna mención a Xbox. Pure Xbox interpreta que la compañía promocionará más sus estudios, pero subraya que no se sabe qué significará el cambio ni que afecte a la exclusividad."
+        ],
+        "en": [
+          "Xbox chief strategy officer Matthew Ball wrote on X on November 26 that the company is fixing how it connects its games to the Xbox brand: \"We are fixing this. Will roll out in 2027.\" He was replying to fans and Windows Central editor Jez Corden, who said Xbox is \"really weak\" at linking its games to its brand.",
+          "The complaint centres on first-party titles from studios such as Blizzard or Bethesda being announced with little or no mention of Xbox. Pure Xbox reads it as a sign Xbox will push its studios harder, but stresses it is unclear what the change will mean and that it doesn't necessarily affect exclusivity."
+        ]
+      }
+    },
+    {
+      "id": "hitman-the-mutiny-lenny-kravitz-bawma-007-first-light",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/capsule_616x353.jpg",
+        "credit": "IO Interactive A/S / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1659040/"
+      },
+      "title": {
+        "es": "Hitman recibe a Lenny Kravitz como Bawma, de 007 First Light, en un nuevo Objetivo Esquivo",
+        "en": "Hitman gets Lenny Kravitz as 007 First Light's Bawma in a new Elusive Target"
+      },
+      "dek": {
+        "es": "«The Mutiny» estará disponible del 26 de noviembre al 24 de diciembre en consolas y PC.",
+        "en": "\"The Mutiny\" runs from November 26 to December 24 on consoles and PC."
+      },
+      "why": {
+        "es": "Es un cruce entre las dos franquicias de IO Interactive, que desarrolla Hitman y 007 First Light.",
+        "en": "It is a crossover between IO Interactive's two franchises, Hitman and 007 First Light."
+      },
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/26/hitman-bawma-elusive-target/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/hitman-007-first-light-ps5-crossover-makes-lenny-kravitz-your-new-ally"
+        }
+      ],
+      "body": {
+        "es": [
+          "HITMAN World of Assassination suma un nuevo Objetivo Esquivo, The Mutiny, protagonizado por Lenny Kravitz como Bawma, el Rey Pirata de Aleph presentado en 007 First Light. Kravitz presta su imagen y su voz, según Xbox Wire. Estará activo del 26 de noviembre al 24 de diciembre de 2026.",
+          "Está disponible en Xbox Series X|S, Xbox One, ROG Xbox Ally y PC; Push Square lo sitúa también en PS5 y sin coste. Quien lo complete con una cuenta de IOI mientras esté activo desbloquea el Rock Royalty Duck, un pato de goma con gafas de sol que detona al detectar movimiento. Los dueños del juego conservarán acceso gratuito a la versión Arcade de la misión después."
+        ],
+        "en": [
+          "HITMAN World of Assassination adds a new Elusive Target, The Mutiny, starring Lenny Kravitz as Bawma, the Pirate King of Aleph introduced in 007 First Light. Kravitz lends his likeness and voice, per Xbox Wire. It runs from November 26 to December 24, 2026.",
+          "It is available on Xbox Series X|S, Xbox One, ROG Xbox Ally and PC; Push Square also covers it on PS5, free of charge. Completing it with an IOI account while it is live unlocks the Rock Royalty Duck, a rubber duck in sunglasses that detonates when it detects nearby motion. Owners keep free access to the Arcade version of the mission afterwards."
+        ]
+      }
+    },
+    {
+      "id": "rayman-legends-retold-ubisoft-transmedia-3-diciembre",
+      "category": "juegos",
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084710/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084710/capsule_616x353.jpg",
+        "credit": "Ubisoft / Steam",
+        "creditUrl": "https://store.steampowered.com/app/4084710/"
+      },
+      "title": {
+        "es": "Ubisoft quiere que Rayman sea una franquicia global más allá de los videojuegos",
+        "en": "Ubisoft wants Rayman to become a global franchise beyond games"
+      },
+      "dek": {
+        "es": "El productor de marca Loïc Gounon habla de crecer en EE. UU. y Asia; Rayman Legends Retold sale el 3 de diciembre.",
+        "en": "Brand producer Loïc Gounon talks about growing in the US and Asia; Rayman Legends Retold arrives December 3."
+      },
+      "why": {
+        "es": "No hay un «Rayman 4» confirmado: la apuesta pasa por personajes, universo y otros medios.",
+        "en": "There is no confirmed \"Rayman 4\": the bet is on characters, world and other media."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-wants-rayman-to-become-a-huge-transmedia-star"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/ubisoft-quiere-convertir-a-rayman-en-una-franquicia-imprescindible-a-nivel-mundial-y-llevarlo-mas-alla-de-los-videojuegos/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026330033/rayman-legends-retold-se-ha-beneficiado-de-todo-lo-aprendido-por-ubisoft-milan-con-los-juegos-de-mario-rabbids/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Ubisoft quiere que Rayman sea una franquicia transmedia, con presencia en televisión, cómic y otros formatos. El productor de marca Loïc Gounon dijo a The Game Business que le gustaría ver a Rayman como «una IP imprescindible para los videojuegos en todo el mundo», según Nintendo Life. El primer objetivo es crecer en EE. UU. y Asia, donde la marca ha sido históricamente menos fuerte que en Europa.",
+          "Gounon no cree que un nuevo juego en 3D sea la clave y pone el acento en personajes, lore y mundo, por lo que no hay un «Rayman 4» confirmado. Rayman Legends Retold, una versión reimaginada del juego de 2013, sale el 3 de diciembre de 2026 en Switch 2, PS5 y Xbox Series X|S."
+        ],
+        "en": [
+          "Ubisoft wants Rayman to become a transmedia franchise spanning TV, comics and other formats. Brand producer Loïc Gounon told The Game Business he would like to see Rayman as \"a must-have IP for video games across the world\", per Nintendo Life. The first goal is growing in the US and Asia, where the brand has historically been weaker than in Europe.",
+          "Gounon doesn't see a new 3D game as the key and stresses characters, lore and world-building instead, so no \"Rayman 4\" is confirmed. Rayman Legends Retold, a reimagined remake of the 2013 original, launches on December 3, 2026 on Switch 2, PS5 and Xbox Series X|S."
+        ]
+      }
+    },
+    {
+      "id": "pikmin-4-switch-2-edition-tiempos-de-carga-parche-nintendo",
+      "category": "nintendo",
+      "title": {
+        "es": "Nintendo promete un parche para los largos tiempos de carga de Pikmin 4 en Switch 2",
+        "en": "Nintendo promises a patch for Pikmin 4's long load times on Switch 2"
+      },
+      "dek": {
+        "es": "La compañía pide disculpas y dice que prepara una actualización, sin dar fecha.",
+        "en": "Nintendo apologises and says an update is in preparation, with no date given."
+      },
+      "why": {
+        "es": "Afecta a una edición de pago que salió el 12 de noviembre y ya acumulaba quejas de jugadores.",
+        "en": "It affects a paid edition released on November 12 that was already drawing player complaints."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-promises-to-fix-the-long-load-times-on-pikmin-4-switch-2-edition"
+        },
+        {
+          "name": "eGamers",
+          "url": "https://egamers.io/pikmin-4-switch-2-edition-hit-with-player-complaints-over-slower-loads-and-frame-drops/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Nintendo ha reconocido, en un mensaje de su cuenta de atención al cliente en X, problemas de carga en Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. Dice que al viajar a las zonas de superficie, incluido el Campamento de Rescate, los tiempos de carga son «más largos de lo esperado», que prepara una actualización y que pide disculpas por las molestias.",
+          "La empresa también investiga problemas al iniciar el juego o abrir el Desafío Dandori con una conexión inestable, y recomienda una red estable mientras tanto. No ha dado fecha para el parche. La edición salió el 12 de noviembre de 2026; eGamers ya había recogido quejas de jugadores por cargas más lentas y caídas de fotogramas."
+        ],
+        "en": [
+          "Nintendo has acknowledged, in a post from its customer support account on X, load-time problems in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. It says travelling to surface areas, including the Rescue Camp, takes \"longer than expected\", that an update is being prepared and that it apologises for the inconvenience.",
+          "It is also investigating issues when launching the game or opening the Dandori Challenge on an unstable connection, and suggests a stable network meanwhile. No patch date was given. The edition launched on November 12, 2026; eGamers had already reported player complaints about slower loads and frame drops."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Tim Stamper, cofundador de Rare, muestra en YouTube material de Conker 64, el proyecto cancelado que precedió a Conker's Bad Fur Day, con una compilación de 1998.",
+        "en": "Rare co-founder Tim Stamper shows material from Conker 64, the cancelled precursor to Conker's Bad Fur Day, on YouTube, including a 1998 build."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/rare-co-founder-reveals-footage-of-cancelled-conker-64/"
+      }
+    },
+    {
+      "text": {
+        "es": "Square Enix atribuye parte de sus buenos resultados al apoyo a Switch 2; su presidente Takashi Kiryu cita el respaldo al nuevo hardware.",
+        "en": "Square Enix credits part of its strong results to supporting Switch 2; president Takashi Kiryu cites support for new hardware."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results"
+      }
+    },
+    {
+      "text": {
+        "es": "4:Loop, el shooter cooperativo de Sony del creador de Left 4 Dead, celebrará una beta el 10 de diciembre en PS5 y PC; el registro ya está abierto.",
+        "en": "Sony's co-op shooter 4:Loop, from the creator of Left 4 Dead, holds a beta on December 10 on PS5 and PC; registration is open."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026330020/4loop-lo-nuevo-del-creador-de-left-4-dead-para-sony-abre-el-registro-para-su-proxima-beta-en-ps5-y-pc/"
+      }
+    },
+    {
+      "text": {
+        "es": "Phantom Blade Zero recibirá el sábado 28 de noviembre un parche de unos 7 GB en PS5 con novedades, mejoras técnicas y correcciones.",
+        "en": "Phantom Blade Zero gets a roughly 7GB PS5 patch on Saturday, November 28, with new features, technical upgrades and fixes."
+      },
+      "source": {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/new-phantom-blade-zero-ps5-update-brings-features-upgrades-and-fixes"
+      }
+    },
+    {
+      "text": {
+        "es": "Los productores de Team Ninja usan IA en el control de calidad, pero insisten en que las decisiones creativas «deben tomarlas humanos».",
+        "en": "Team Ninja's producers use AI for quality assurance but insist creative decisions \"must be done by humans\"."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539"
+      }
+    },
+    {
+      "text": {
+        "es": "Scott Butchard, de Rockstar, explica que GTA 6 no permite rejugar misiones porque restaba impacto a las decisiones del jugador.",
+        "en": "Rockstar's Scott Butchard explains GTA 6 lacks mission replay because it took impact away from player decisions."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026330011/rockstar-explica-la-ausencia-en-gta-6-de-la-posibilidad-de-rejugar-misiones-restaba-impacto-a-tus-decisiones/"
+      }
+    },
+    {
+      "text": {
+        "es": "Absolum, el roguelike de 2025, será prueba gratuita para los suscriptores de Nintendo Switch Online en Europa del 27 de noviembre al 3 de diciembre.",
+        "en": "Absolum, 2025's roguelike, is a free trial for Nintendo Switch Online members in Europe from November 27 to December 3."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members"
+      }
+    },
+    {
+      "text": {
+        "es": "Epic Games Store regala Bread & Fred, un plataformas cooperativo, hasta el 3 de diciembre.",
+        "en": "Epic Games Store is giving away co-op platformer Bread & Fred until December 3."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026330027/epic-games-store-regala-un-desafiante-juego-de-plataformas-cooperativo-que-ya-puede-ser-tuyo-gratis-para-siempre/"
+      }
+    },
+    {
+      "text": {
+        "es": "El equipo de Mouse P.I. For Hire adelanta que anunciará un DLC la próxima semana.",
+        "en": "The Mouse P.I. For Hire team teases a DLC announcement next week."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/mouse-p-i-for-hire-teases-dlc-announcement-taking-place-next-week"
+      }
+    },
+    {
+      "text": {
+        "es": "Pokémon GO celebrará el sábado 5 de diciembre un Día de Combates Max con Inteleon Gigamax.",
+        "en": "Pokémon GO holds a Max Battle Day featuring Gigantamax Inteleon on Saturday, December 5."
+      },
+      "source": {
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com/2026/11/pokemon-go-detalla-su-dia-de-combates-max-de-inteleon-gigamax/"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Infinity Nikki 3.0 «Of Yesterday and Tomorrow»",
+      "platforms": "PS5, PC, móvil",
+      "note": {
+        "es": "Actualización disponible desde el 26 de noviembre",
+        "en": "Update live from November 26"
+      },
+      "url": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/"
+    },
+    {
+      "title": "Hitman: The Mutiny (Objetivo Esquivo)",
+      "platforms": "Xbox, PC, PS5",
+      "note": {
+        "es": "26 de noviembre al 24 de diciembre",
+        "en": "November 26 to December 24"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/26/hitman-bawma-elusive-target/"
+    },
+    {
+      "title": "Absolum (prueba gratuita NSO)",
+      "platforms": "Switch",
+      "note": {
+        "es": "27 de noviembre al 3 de diciembre",
+        "en": "November 27 to December 3"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members"
+    },
+    {
+      "title": "Dragon Quest Monsters: El reino marchito",
+      "platforms": "PS5, Xbox, Switch 2, Switch, PC",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026330017/dragon-quest-monsters-el-reino-marchito-presenta-su-epico-trailer-final-antes-de-su-lanzamiento/"
+    },
+    {
+      "title": "Rayman Legends Retold",
+      "platforms": "Switch 2, PS5, Xbox Series",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://www.nintendolife.com/news/2026/11/ubisoft-wants-rayman-to-become-a-huge-transmedia-star"
+    },
+    {
+      "title": "4:Loop (beta)",
+      "platforms": "PS5, PC",
+      "note": {
+        "es": "10 de diciembre",
+        "en": "December 10"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026330020/4loop-lo-nuevo-del-creador-de-left-4-dead-para-sony-abre-el-registro-para-su-proxima-beta-en-ps5-y-pc/"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "GitHub borró un mensaje que celebraba el emulador AnyPS5 tras el estreno de GTA 6 y la reacción fue de sorpresa, según Kotaku.",
+        "en": "GitHub deleted a post celebrating the AnyPS5 emulator after GTA 6's launch, drawing surprise, per Kotaku."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617"
+      }
+    },
+    {
+      "text": {
+        "es": "Empleados de Ubisoft critican la supuesta presión para usar IA generativa; la compañía lo niega y dice que solo «anima» a explorarla.",
+        "en": "Ubisoft staff criticise the alleged pressure to use generative AI; the company denies it and says it only \"encourages\" exploring it."
+      },
+      "source": {
+        "name": "VGC",
+        "url": "https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/"
+      }
+    },
+    {
+      "text": {
+        "es": "Una de las guionistas de GTA 6 cerró sus redes tras una campaña de acoso, según Vandal.",
+        "en": "One of GTA 6's writers closed her social accounts after a harassment campaign, per Vandal."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026329038/acosan-a-una-de-las-guionistas-de-gta-6-con-mensajes-misoginos-hasta-obligarla-a-cerrar-sus-redes-sociales/"
+      }
+    },
+    {
+      "text": {
+        "es": "Aficionados de Xbox piden más presencia de la marca en los anuncios de juegos propios y Matthew Ball promete cambios en 2027.",
+        "en": "Xbox fans want more brand presence in first-party game announcements and Matthew Ball promises changes in 2027."
+      },
+      "source": {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/xbox-cso-responds-to-criticism-around-game-branding-promises-to-fix-in-2027"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "SILENT HILL f",
+      "url": "https://store.steampowered.com/app/2947440/"
+    },
+    {
+      "name": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Warhammer 40,000: Dawn of War IV Commander Edition",
+      "url": "https://store.steampowered.com/app/1624417/"
+    },
+    {
+      "name": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/"
+    }
+  ]
+}
