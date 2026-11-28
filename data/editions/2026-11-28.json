@@ -1,0 +1,685 @@
+{
+  "date": "2026-11-28",
+  "headline": {
+    "es": "Silksong estrena fecha para su DLC gratuito y Team Cherry se hace editora; GTA 6 sigue rompiendo récords",
+    "en": "Silksong's free DLC gets a date as Team Cherry turns publisher, while GTA 6 keeps breaking records"
+  },
+  "intro": {
+    "es": "Sea of Sorrow llegará el 11 de diciembre y Team Cherry presenta tres juegos indie. GTA 6 acumula cifras estimadas de ventas y streaming sin precedentes.",
+    "en": "Sea of Sorrow arrives December 11 and Team Cherry unveils three indie games. GTA 6 piles up unprecedented estimated sales and streaming figures."
+  },
+  "stories": [
+    {
+      "id": "silksong-sea-of-sorrow-11-diciembre-expansion-gratuita",
+      "category": "indie",
+      "title": {
+        "es": "Hollow Knight: Silksong recibirá la expansión gratuita Sea of Sorrow el 11 de diciembre",
+        "en": "Hollow Knight: Silksong gets free Sea of Sorrow expansion on December 11"
+      },
+      "dek": {
+        "es": "Team Cherry presentó el tráiler y la fecha de un contenido que llevaba tiempo prometido.",
+        "en": "Team Cherry revealed the trailer and date for content it had long promised."
+      },
+      "why": {
+        "es": "Es una ampliación gratuita para todos los jugadores, con una historia que se adentra en el océano olvidado de Pharloom.",
+        "en": "It is a free addition for every player, taking the story into Pharloom's forgotten ocean."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/capsule_616x353.jpg",
+        "credit": "Team Cherry / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1030300/"
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-launches-next-month-and-its-free"
+        },
+        {
+          "name": "Eurogamer.es",
+          "url": "https://www.eurogamer.es/la-expansion-gratuita-sea-of-sorrow-para-hollow-knight-silksong-se-lanzara-el-11-de-diciembre"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/hollow-knight-silksong/noticias/dlc-silksong-esta-a-vuelta-esquina-team-cherry-cumple-su-promesa-desvelando-fin-trailer-fecha-lanzamiento-sea-of-sorrow"
+        },
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-is-coming-to-xbox-next-month-and-its-free"
+        }
+      ],
+      "body": {
+        "es": [
+          "Team Cherry ha fijado para el 11 de diciembre el lanzamiento de Sea of Sorrow, la primera expansión de Hollow Knight: Silksong, que será gratuita. La fecha se dio a conocer durante un evento en directo, acompañado de un tráiler.",
+          "Según Gematsu, el contenido llevará al jugador por encima y por debajo del olvidado océano de Pharloom, con islas, fuertes y cavernas submarinas, además de nuevos personajes, jefes y música de Christopher Larkin."
+        ],
+        "en": [
+          "Team Cherry has set December 11 as the launch date for Sea of Sorrow, the first expansion for Hollow Knight: Silksong, and it will be free. The date was revealed during a livestream event, alongside a trailer.",
+          "Per Gematsu, the content takes players above and beneath Pharloom's forgotten ocean, with islands, forts and deep underwater caverns, plus new characters, bosses and music by Christopher Larkin."
+        ]
+      }
+    },
+    {
+      "id": "team-cherry-presents-botanist-radio-rain-blokkan",
+      "category": "indie",
+      "title": {
+        "es": "Team Cherry estrena sello editor con tres juegos indie para PC",
+        "en": "Team Cherry launches a publishing label with three indie games for PC"
+      },
+      "dek": {
+        "es": "Team Cherry Presents anuncia The Botanist and the Translator, Radio Rain y Blokkan: Secret of the Walking City.",
+        "en": "Team Cherry Presents announces The Botanist and the Translator, Radio Rain and Blokkan: Secret of the Walking City."
+      },
+      "why": {
+        "es": "El estudio aprovecha el tirón de Silksong para dar visibilidad a proyectos de otros desarrolladores.",
+        "en": "The studio is using Silksong's pull to spotlight other developers' projects."
+      },
+      "sources": [
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-studio-stobie-announce-moody-platform-adventure-game-radio-rain-for-pc"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/team-cherry-uses-the-pull-of-silksong-to-highlight-a-trio-of-wonderful-looking-indies"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026331033/los-creadores-de-hollow-knight-silksong-presentan-tres-prometedores-proyectos-que-editaran-en-steam/"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/nintendo-switch-2/team-cherry-responsable-de-hollow-knight-presenta-sus-nuevos-juegos-radio-rain-y-blokkan-secret-of-the-walking-city-por-ahora-solo-para-pc/"
+        }
+      ],
+      "body": {
+        "es": [
+          "En el mismo evento de Silksong, Team Cherry presentó Team Cherry Presents, un sello editor propio. Su primera hornada son tres juegos en desarrollo: The Botanist and the Translator, una aventura de misterio con plantas del desarrollador Makoto Koji; Radio Rain, una aventura de plataformas de ambiente sombrío de Studio Stobie; y Blokkan: Secret of the Walking City, una aventura de puzles y misterio de Rohan Fraser.",
+          "De momento los tres están anunciados para PC y ninguno tiene fecha de lanzamiento. Según Nintendo Life, tampoco hay confirmación de versión para Switch."
+        ],
+        "en": [
+          "During the Silksong showcase, Team Cherry introduced Team Cherry Presents, its own publishing label. The first batch is three games in development: The Botanist and the Translator, a plant-themed mystery adventure from developer Makoto Koji; Radio Rain, a moody platform adventure from Studio Stobie; and Blokkan: Secret of the Walking City, a mystery puzzle adventure from Rohan Fraser.",
+          "All three are announced for PC for now and none has a release date. According to Nintendo Life, no Switch version has been confirmed either."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-53-millones-copias-primera-semana-estimacion-alinea",
+      "category": "juegos",
+      "title": {
+        "es": "GTA 6 habría vendido unos 53 millones de copias en su primera semana, según una estimación",
+        "en": "GTA 6 reportedly sold around 53 million copies in its first week, per an estimate"
+      },
+      "dek": {
+        "es": "Alinea Analytics calcula unos 4.700 millones de dólares de ingresos; no son cifras oficiales de Take-Two.",
+        "en": "Alinea Analytics puts revenue at about $4.7 billion; these are not official Take-Two figures."
+      },
+      "why": {
+        "es": "Las cifras oficiales de Take-Two son las que confirmarán o corregirán estas estimaciones.",
+        "en": "Take-Two's official numbers will confirm or correct these estimates."
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
+        "thumb": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
+        "credit": "Rockstar Games / YouTube",
+        "creditUrl": "https://www.youtube.com/watch?v=VQRLujxTm3c"
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026331032/gta-6-ya-habria-vendido-53-millones-de-copias-en-una-semana-y-generado-4700-millones-de-dolares/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019"
+        }
+      ],
+      "body": {
+        "es": [
+          "La firma de análisis Alinea Analytics estima que GTA 6 ha vendido unos 53 millones de copias en su primera semana y generado en torno a 4.700 millones de dólares. Vandal subraya que se trata de estimaciones y no de datos oficiales de Take-Two.",
+          "Según ese mismo cálculo, el 75,7 % de las ventas (unos 40 millones) corresponde a PS5 y el 24,3 % restante (unos 13 millones) a Xbox Series X/S."
+        ],
+        "en": [
+          "Market analyst Alinea Analytics estimates GTA 6 sold around 53 million copies in its first week, generating roughly $4.7 billion. Vandal stresses these are estimates, not official Take-Two data.",
+          "By the same calculation, 75.7% of sales (about 40 million) came from PS5 and the remaining 24.3% (about 13 million) from Xbox Series X/S."
+        ]
+      }
+    },
+    {
+      "id": "gta-6-420-millones-horas-vistas-streaming-twitch-record",
+      "category": "industria",
+      "title": {
+        "es": "GTA 6 acumula más de 420 millones de horas vistas en streaming en su primera semana",
+        "en": "GTA 6 passes 420 million hours watched on streaming in its first week"
+      },
+      "dek": {
+        "es": "Casi triplica el récord anterior, el de la beta cerrada de Valorant, según los datos que recoge Vandal.",
+        "en": "It nearly triples the previous record, Valorant's closed beta, per the data Vandal cites."
+      },
+      "why": {
+        "es": "El éxito en streaming amplifica el alcance del juego más allá de quienes lo compran.",
+        "en": "Streaming success extends the game's reach well beyond those who buy it."
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026331014/gta-6-sigue-haciendo-historia-en-las-plataformas-de-streaming-y-ya-acumula-mas-de-420-millones-de-horas-vistas/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Grand Theft Auto VI suma más de 420 millones de horas vistas en su primera semana en Twitch, YouTube y Kick, según datos de Streams Charts que cita Vandal. La cifra casi triplica el récord anterior, la beta cerrada de Valorant de abril de 2020.",
+          "YouTube lideró las primeras seis horas, pero la mayor parte de la audiencia terminó en Twitch, donde el artículo lo describe como el mayor lanzamiento de su historia."
+        ],
+        "en": [
+          "Grand Theft Auto VI has racked up more than 420 million hours watched in its first week across Twitch, YouTube and Kick, according to Streams Charts data cited by Vandal. The figure almost triples the previous record, Valorant's April 2020 closed beta.",
+          "YouTube led the first six hours, but most viewing ended up on Twitch, where the article calls it the biggest launch in the platform's history."
+        ]
+      }
+    },
+    {
+      "id": "denuvo-voices38-demanda-valve-datos-siete-cuentas-steam",
+      "category": "pc",
+      "title": {
+        "es": "Denuvo demanda al hacker Voices38 y Valve entrega datos de siete cuentas de Steam",
+        "en": "Denuvo sues hacker Voices38 and Valve hands over data on seven Steam accounts"
+      },
+      "dek": {
+        "es": "Un escrito judicial del 25 de noviembre detalla la cooperación de Valve; nada confirma que las cuentas sean de Voices38.",
+        "en": "A November 25 court filing details Valve's cooperation; nothing confirms the accounts belong to Voices38."
+      },
+      "why": {
+        "es": "El caso muestra hasta dónde llegan las empresas anti-copia para identificar a quienes rompen sus protecciones.",
+        "en": "The case shows how far anti-piracy firms go to identify those who crack their protections."
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/pc/noticias/hay-hacker-que-lleva-meses-pirateando-juegos-denuvo-valve-se-ha-unido-para-darle-caza"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según 3DJuegos, Denuvo demandó el 14 de septiembre en un tribunal federal de California a Voices38, una figura conocida de la escena pirata y uno de los pocos que han vulnerado su protección. El 16 de octubre el tribunal autorizó a la compañía a pedir información a Valve, Discord y Reddit sobre cuentas que cree vinculadas a esa persona.",
+          "Un escrito del 25 de noviembre, recogido por Destructoid, indica que Valve entregó datos de siete cuentas de Steam (correos, fechas de creación, accesos, IP y facturación). Discord colaboró, aunque la cuenta ya estaba borrada, y Reddit se negó con once objeciones. Denuvo pide 90 días más. La compañía solo sostiene que las cuentas están posiblemente relacionadas; la identidad del hacker sigue sin conocerse."
+        ],
+        "en": [
+          "According to 3DJuegos, Denuvo sued Voices38 on September 14 in a California federal court. Voices38 is a known figure in the piracy scene and one of the few to have defeated its protection. On October 16 the court allowed the company to request information from Valve, Discord and Reddit about accounts it believes are linked to that person.",
+          "A November 25 filing, reported by Destructoid, says Valve provided data on seven Steam accounts (emails, creation dates, logins, IPs and billing details). Discord cooperated, though the account had already been deleted, and Reddit refused, raising eleven objections. Denuvo is asking for 90 more days. The company only says the accounts are possibly linked; the hacker's identity remains unknown."
+        ]
+      }
+    },
+    {
+      "id": "yooka-laylee-impossible-lair-definitive-edition-sin-xbox-playtonic",
+      "category": "xbox",
+      "title": {
+        "es": "Playtonic explica por qué la edición definitiva de Yooka-Laylee no llega a Xbox",
+        "en": "Playtonic explains why Yooka-Laylee's Definitive Edition is skipping Xbox"
+      },
+      "dek": {
+        "es": "El estudio dice que el coste «no es viable» y no se compromete a más plataformas en el futuro cercano.",
+        "en": "The studio says the cost \"isn't viable\" and commits to no further platforms for the foreseeable future."
+      },
+      "why": {
+        "es": "Los jugadores de Xbox tendrán que quedarse con la versión de 2019, que sigue funcionando en Series X|S.",
+        "en": "Xbox players will have to stick with the 2019 version, which still runs on Series X|S."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/capsule_616x353.jpg",
+        "credit": "Playtonic Friends / Steam",
+        "creditUrl": "https://store.steampowered.com/app/846870/"
+      },
+      "sources": [
+        {
+          "name": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/yooka-laylee-developer-issues-statement-on-why-definitive-edition-is-skipping-xbox"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release"
+        },
+        {
+          "name": "Insider Gaming",
+          "url": "https://insider-gaming.com/yooka-laylee-team-skips-xbox/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026331034/xbox-se-queda-sin-la-version-mejorada-de-este-aclamado-plataformas-sus-creadores-explican-el-motivo/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Playtonic ha respondido a las críticas de los jugadores de Xbox por quedarse fuera de Yooka-Laylee and the Impossible Lair: Definitive Edition, que llega el 15 de diciembre a PS5 y Switch 2. Según Pure Xbox, el estudio asegura que «el coste de llevarlo a más plataformas no es viable para nosotros en este momento».",
+          "Playtonic añade que no puede comprometerse con plataformas adicionales «en el futuro previsible». Recuerda que la versión de Xbox One de 2019 sigue disponible y, según Pure Xbox, funciona bien en Xbox One y Series X|S."
+        ],
+        "en": [
+          "Playtonic has responded to Xbox players' complaints over missing out on Yooka-Laylee and the Impossible Lair: Definitive Edition, which arrives on December 15 on PS5 and Switch 2. According to Pure Xbox, the studio says \"the cost of bringing it to more platforms just isn't viable for us at this time\".",
+          "Playtonic adds it cannot commit to additional platforms \"for the foreseeable future\". It points out that the 2019 Xbox One version remains available and, per Pure Xbox, runs well on Xbox One and Series X|S."
+        ]
+      }
+    },
+    {
+      "id": "simpsons-hit-and-run-remake-posible-cancelacion-new-radical-games",
+      "category": "juegos",
+      "title": {
+        "es": "El remake de The Simpsons: Hit & Run podría haberse cancelado, pero nada es oficial",
+        "en": "The Simpsons: Hit & Run remake may have been cancelled, but nothing is official"
+      },
+      "dek": {
+        "es": "Un diseñador de New Radical Games habla de «una tanda de cancelaciones» sin nombrar el juego.",
+        "en": "A New Radical Games designer mentions \"a whole gaggle of cancellations\" without naming the game."
+      },
+      "why": {
+        "es": "Mientras no haya anuncio de Disney o del estudio, la conexión con Hit & Run es solo una inferencia.",
+        "en": "Until Disney or the studio say otherwise, the link to Hit & Run is only an inference."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/"
+        },
+        {
+          "name": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-much-rumoured-simpsons-hit-and-run-remake-may-have-been-cancelled"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317"
+        },
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/juegos/the-simpsons-hit-run/noticias/oficial-creadores-simpson-hit-run-confirman-peor-destino-para-su-nuevo-juego-duele-pensar-que-podria-haber-sido"
+        }
+      ],
+      "body": {
+        "es": [
+          "Darren Evenson, diseñador sénior en New Radical Games, publicó en LinkedIn que el proyecto sin anunciar del estudio fue parte de «toda una tanda de cancelaciones» y que busca trabajo. No mencionó el juego por su nombre, pero el estudio lo fundaron veteranos de Radical Entertainment, autora del Hit & Run original, y se rumoreaba que trabajaba en un remake.",
+          "VGC recuerda que en agosto Matt Groening dijo que el juego original volvería «de alguna forma» y que Matt Selman replicó «o no». También señala que Radical hizo Scarface: The World Is Yours, así que la relación con Hit & Run es una suposición. 3DJuegos habla de confirmación, pero VGC solo recoge la publicación de Evenson."
+        ],
+        "en": [
+          "Darren Evenson, a senior game designer at New Radical Games, posted on LinkedIn that the studio's unannounced project was part of \"a whole gaggle of cancellations\" and that he is looking for work. He did not name the game, but the studio was founded by veterans of Radical Entertainment, which made the original Hit & Run, and it had been rumoured to be working on a remake.",
+          "VGC notes that in August Matt Groening said the original game would return \"in some form\" and Matt Selman replied \"or… not\". It also points out Radical made Scarface: The World Is Yours, so the Hit & Run link is an assumption. 3DJuegos reports it as confirmed, but VGC only cites Evenson's post."
+        ]
+      }
+    },
+    {
+      "id": "marvelous-recorte-65-empleos-jubilacion-anticipada",
+      "category": "industria",
+      "title": {
+        "es": "Marvelous busca recortar 65 puestos con un plan de jubilación anticipada",
+        "en": "Marvelous aims to cut 65 jobs through voluntary early retirement"
+      },
+      "dek": {
+        "es": "La editora de Story of Seasons y Rune Factory reducirá su división de consolas y PC y recurrirá más a estudios externos.",
+        "en": "The publisher of Story of Seasons and Rune Factory will shrink its console and PC division and lean more on outside studios."
+      },
+      "why": {
+        "es": "La empresa asegura que no resta importancia a las consolas, que siguen siendo «uno de sus negocios centrales».",
+        "en": "The company says this does not reduce its focus on console games, which remain \"one of its core businesses\"."
+      },
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/story-of-seasons-and-rune-factory-developer-marvelous-is-offering-early-retirement-as-it-tries-to-cut-65-jobs/"
+        },
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026331025/marvelous-la-compania-de-story-of-seasons-planea-recortar-plantilla-y-ofrece-jubilaciones-anticipadas/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Marvelous planea reducir en 65 personas su División de Negocio de Consumo, que cubre los juegos de consola y PC. La compañía abrirá un plan de retiro voluntario del 14 de diciembre de 2026 al 8 de enero de 2027; quien se acoja deberá marcharse como muy tarde el 31 de marzo de 2027.",
+          "Los afectados recibirán una indemnización especial y ayuda de una empresa externa para buscar empleo. Marvelous explica que el mercado exige proyectos más grandes y desarrollos más largos, y que quiere una estructura más flexible que combine desarrollo propio y socios externos."
+        ],
+        "en": [
+          "Marvelous plans to cut 65 positions from its Consumer Business Division, which covers console and PC games. The company will run a voluntary retirement programme from December 14, 2026 to January 8, 2027; anyone who applies must leave by March 31, 2027 at the latest.",
+          "Those leaving will receive a special lump-sum payment and help finding work through an outside firm. Marvelous says the market now demands bigger projects and longer development cycles, and it wants a more flexible structure mixing in-house development and external partners."
+        ]
+      }
+    },
+    {
+      "id": "subnautica-2-tar-trek-1-diciembre-mayor-actualizacion",
+      "category": "pc",
+      "title": {
+        "es": "Subnautica 2 recibirá el 1 de diciembre su mayor actualización hasta la fecha",
+        "en": "Subnautica 2 gets its biggest update yet on December 1"
+      },
+      "dek": {
+        "es": "«Tar Trek» añade regiones submarinas más oscuras, criaturas, un chasis Frog para el Tadpole y más historia.",
+        "en": "\"Tar Trek\" adds darker underwater regions, creatures, a Frog chassis for the Tadpole and more story."
+      },
+      "why": {
+        "es": "El juego sigue en acceso anticipado desde el 14 de mayo; esta actualización marca su mayor paso de contenido.",
+        "en": "The game has been in early access since May 14; this update is its largest content step so far."
+      },
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/library_hero.jpg",
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/capsule_616x353.jpg",
+        "credit": "Unknown Worlds Entertainment / Steam",
+        "creditUrl": "https://store.steampowered.com/app/1962700/"
+      },
+      "sources": [
+        {
+          "name": "Vandal",
+          "url": "https://vandal.elespanol.com/noticia/2026331029/subnautica-2-recibira-su-mayor-actualizacion-hasta-la-fecha-la-semana-que-viene-con-nuevas-zonas-y-criaturas/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Unknown Worlds ha anunciado que la actualización Tar Trek llegará el 1 de diciembre de 2026 a las 17:00 (hora peninsular española) a Subnautica 2, y la describe como la mayor de contenido hasta ahora. Será gratuita en PC y Xbox Series X|S; no se ha confirmado versión para PS5.",
+          "Incluye regiones submarinas más oscuras con recursos y criaturas peligrosas, un comportamiento más complejo de la fauna alienígena, el chasis Frog para el vehículo Tadpole, nuevas modificaciones biológicas, más historia sobre los colonos y la civilización Axum, y música nueva de Ben Prunty. El juego salió en acceso anticipado el 14 de mayo de 2026."
+        ],
+        "en": [
+          "Unknown Worlds has announced that the Tar Trek update arrives in Subnautica 2 on December 1, 2026 at 17:00 Spanish mainland time, describing it as its biggest content update so far. It will be free on PC and Xbox Series X|S; no PS5 version has been confirmed.",
+          "It includes darker underwater regions with unique resources and dangerous creatures, more complex alien fauna behaviour, a Frog chassis for the Tadpole vehicle, new biological modifications, more story about the colonists and the Axum civilization, and new music by Ben Prunty. The game entered early access on May 14, 2026."
+        ]
+      }
+    },
+    {
+      "id": "nvidia-acuerdo-290-millones-demanda-accionistas-mineria-cripto",
+      "category": "hardware",
+      "title": {
+        "es": "Nvidia pagará 290 millones de dólares para cerrar una demanda de accionistas por la minería cripto",
+        "en": "Nvidia to pay $290 million to settle a shareholder lawsuit over crypto mining"
+      },
+      "dek": {
+        "es": "No es una multa: es un acuerdo extrajudicial que aún necesita la aprobación de un juez, y Nvidia niega haber engañado.",
+        "en": "It is not a fine: it is a settlement still awaiting a judge's approval, and Nvidia denies misleading anyone."
+      },
+      "why": {
+        "es": "Cierra una disputa de 2018 sobre cuánto pesó la minería en las ventas de gráficas durante la escasez.",
+        "en": "It closes a 2018 dispute over how much mining drove GPU sales during the shortage."
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/960px-NVIDIA_Headquarters.jpg",
+        "credit": "Coolcaesar / Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "sources": [
+        {
+          "name": "3DJuegos",
+          "url": "https://www.3djuegos.com/hardware/tarjetas-graficas/noticias/acusaron-a-nvidia-mentir-a-sus-accionistas-jugadores-sufriamos-sus-precios-altos-pagara-multa-millonaria-ello"
+        }
+      ],
+      "body": {
+        "es": [
+          "Según 3DJuegos, que cita a Reuters, Nvidia ha acordado pagar 290 millones de dólares para zanjar la demanda colectiva que unos inversores presentaron en diciembre de 2018. Los demandantes sostienen que la compañía restó importancia al peso de la minería de criptomonedas en sus ingresos cuando habló de los problemas de suministro de GPU, y que se sintieron engañados cuando la burbuja se desinfló, las previsiones bajaron y la acción cayó.",
+          "El acuerdo requiere aprobación judicial y los abogados de los demandantes pedirán hasta 62 millones de ese fondo en honorarios. Nvidia niega cualquier engaño o irregularidad. El artículo recuerda además que en 2022 la SEC impuso a la empresa una sanción de 5,5 millones por cuestiones relacionadas, que pagó sin admitir ni negar los hallazgos."
+        ],
+        "en": [
+          "According to 3DJuegos, citing Reuters, Nvidia has agreed to pay $290 million to settle the class action investors filed in December 2018. The plaintiffs argue the company downplayed how much crypto mining contributed to its revenue when discussing GPU supply problems, and felt deceived when the bubble burst, forecasts were cut and the stock fell.",
+          "The settlement needs court approval and the plaintiffs' lawyers will seek up to $62 million of the fund in fees. Nvidia denies any deception or wrongdoing. The article also recalls that in 2022 the SEC fined the company $5.5 million over related disclosures, which it paid without admitting or denying the findings."
+        ]
+      }
+    },
+    {
+      "id": "doug-bowser-imagen-ia-accion-de-gracias-disculpa-haters",
+      "category": "industria",
+      "title": {
+        "es": "Doug Bowser se disculpa por una imagen hecha con IA, pero habla de «los haters»",
+        "en": "Doug Bowser apologises for an AI-generated image, but mentions \"haters\""
+      },
+      "dek": {
+        "es": "El expresidente de Nintendo of America borró la felicitación de Acción de Gracias tras las críticas.",
+        "en": "The former Nintendo of America president deleted his Thanksgiving greeting after criticism."
+      },
+      "why": {
+        "es": "La polémica suma otro caso de IA generativa que divide a la comunidad en torno a las empresas del sector.",
+        "en": "It adds another generative-AI row that divides the community around industry figures."
+      },
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/doug-bowser-apologises-to-the-haters-of-his-icky-ai-generated-thanksgiving-post"
+        },
+        {
+          "name": "Nintenderos",
+          "url": "https://www.nintenderos.com/2026/11/doug-bowser-expresidente-de-nintendo-of-america-pide-disculpas-por-publicar-esta-imagen-de-ia/"
+        }
+      ],
+      "body": {
+        "es": [
+          "Doug Bowser, expresidente de Nintendo of America, publicó una imagen generada con IA para felicitar el Día de Acción de Gracias, en la que aparece junto a Bowser y Donkey Kong ante una mesa festiva. Nintendo Life señala fallos visibles, como una corona que «desafía las leyes de la física».",
+          "Tras las críticas borró la imagen y escribió en X: «Disculpas si ofendí a alguien con mi publicación generada por IA», añadiendo que se la envió un amigo y que «para los haters, el mensaje sigue siendo el mismo». Nintendo Life considera que el tono no fue el adecuado; los comentarios de los lectores están divididos."
+        ],
+        "en": [
+          "Doug Bowser, former president of Nintendo of America, posted an AI-generated image to wish followers a happy Thanksgiving, showing himself with Bowser and Donkey Kong at a festive table. Nintendo Life points to visible flaws, such as a crown that \"defies the laws of physics\".",
+          "After criticism he deleted the image and wrote on X: \"Apologies if I offended people with my AI generated post\", adding that a friend sent it to him and that \"for the haters out there the message remains the same\". Nintendo Life felt the tone missed the mark; reader comments were divided."
+        ]
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "text": {
+        "es": "Los iniciales de Pokémon Winds & Waves ya tienen peluches oficiales, una de las pocas novedades de un juego anunciado hace casi un año.",
+        "en": "Pokémon Winds & Waves' starters now have official plushies, one of the few updates for a game announced almost a year ago."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed"
+      }
+    },
+    {
+      "text": {
+        "es": "Pokémon Champions recibirá el 2 de diciembre una actualización de equilibrio con más Pokémon y más Megaevoluciones, y el mes que viene tendrá colaboración con Pokémon GO.",
+        "en": "Pokémon Champions gets a balance update on December 2 with more Pokémon and Mega Evolutions, plus a Pokémon GO collaboration next month."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-x-pokemon-go-collab-taking-place-next-month"
+      }
+    },
+    {
+      "text": {
+        "es": "La serie Picross de Jupiter para Switch supera el millón de descargas desde que se estrenó la primera entrega en la eShop en 2017.",
+        "en": "Jupiter's Picross series on Switch has passed one million downloads since the first entry reached the eShop in 2017."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/jupiters-picross-series-for-switch-has-officially-surpassed-one-million-sales"
+      }
+    },
+    {
+      "text": {
+        "es": "Cygames logró que se retirase de Google Play Anime Racing Academy, un clon hecho con IA de Umamusume: Pretty Derby, tras los avisos de los jugadores.",
+        "en": "Cygames got Anime Racing Academy, an AI-made clone of Umamusume: Pretty Derby, pulled from Google Play after players raised the alarm."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026331026/descubren-un-clon-hecho-con-ia-de-umamusume-pretty-derby-en-google-play-store-y-cygames-fuerza-su-retirada/"
+      }
+    },
+    {
+      "text": {
+        "es": "El productor de Persona espera agilizar el desarrollo para que, tras Persona 6, no haya que esperar otra década por Persona 7.",
+        "en": "The Persona producer hopes to streamline development so there is no decade-long wait for Persona 7 after Persona 6."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/persona-6-atlus-interview-wait-history-of-series-waku-wada-2001000695"
+      }
+    },
+    {
+      "text": {
+        "es": "Remedy aclara que los derechos de Quantum Break son de Microsoft y que una secuela depende de la compañía, diez años después del estreno.",
+        "en": "Remedy clarifies that Quantum Break's rights belong to Microsoft and a sequel is up to the company, ten years after launch."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026331035/diez-anos-despues-remedy-explica-por-que-seguimos-sin-una-secuela-de-quantum-break/"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans de Marvel especulan con que el juego de Iron Man de EA Motive debute en The Game Awards 2026; no hay confirmación.",
+        "en": "Marvel fans speculate that EA Motive's Iron Man game could debut at The Game Awards 2026; nothing is confirmed."
+      },
+      "source": {
+        "name": "Vandal",
+        "url": "https://vandal.elespanol.com/noticia/2026331012/hay-pistas-el-nuevo-juego-de-iron-man-podria-aparecer-en-the-game-awards-2026-por-primera-vez/"
+      }
+    },
+    {
+      "text": {
+        "es": "Skate dejará las temporadas y los pases de temporada por actualizaciones regulares; la quinta temporada será la última, según PC Gamer.",
+        "en": "Skate is dropping seasons and season passes for regular updates; season five will be the last, per PC Gamer."
+      },
+      "source": {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/"
+      }
+    },
+    {
+      "text": {
+        "es": "The Streamer's Alt Account Labyrinth, un RPG de mazmorras y novela visual, saldrá el 29 de enero de 2027 en PC y más tarde en Switch.",
+        "en": "The Streamer's Alt Account Labyrinth, a dungeon RPG and visual novel, launches January 29, 2027 on PC, later on Switch."
+      },
+      "source": {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch"
+      }
+    },
+    {
+      "text": {
+        "es": "Labyrinthine recibirá el 10 de diciembre Lost in the Sands, un DLC ambientado en el Antiguo Egipto con dos mapas nuevos.",
+        "en": "Labyrinthine gets Lost in the Sands on December 10, an ancient Egypt-set DLC with two new maps."
+      },
+      "source": {
+        "name": "YouTube · PlayStation",
+        "url": "https://www.youtube.com/watch?v=mRdH7h0Kp30"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Arkheron",
+      "platforms": "Xbox, PC",
+      "note": {
+        "es": "Estrenado el 27 de noviembre",
+        "en": "Released November 27"
+      },
+      "url": "https://www.purexbox.com/news/2026/11/eight-xbox-games-are-releasing-today-including-a-dark-fantasy-shooter-moba-on-xbox-game-pass-november-27"
+    },
+    {
+      "title": "Subnautica 2 «Tar Trek»",
+      "platforms": "PC, Xbox Series",
+      "note": {
+        "es": "Actualización el 1 de diciembre",
+        "en": "Update on December 1"
+      },
+      "url": "https://vandal.elespanol.com/noticia/2026331029/subnautica-2-recibira-su-mayor-actualizacion-hasta-la-fecha-la-semana-que-viene-con-nuevas-zonas-y-criaturas/"
+    },
+    {
+      "title": "Hela: of Mice & Magic",
+      "platforms": "Xbox, Game Pass",
+      "note": {
+        "es": "1 de diciembre",
+        "en": "December 1"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/"
+    },
+    {
+      "title": "Dragon Quest Monsters: El reino marchito",
+      "platforms": "PS5, Xbox, Switch 2, Switch, PC",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/"
+    },
+    {
+      "title": "Rayman Legends Retold",
+      "platforms": "Switch 2, PS5, Xbox Series",
+      "note": {
+        "es": "3 de diciembre",
+        "en": "December 3"
+      },
+      "url": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/"
+    },
+    {
+      "title": "Hollow Knight: Silksong – Sea of Sorrow",
+      "platforms": "PC, consolas",
+      "note": {
+        "es": "11 de diciembre, gratis",
+        "en": "December 11, free"
+      },
+      "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11"
+    }
+  ],
+  "social": [
+    {
+      "text": {
+        "es": "Los jugadores de Xbox protestan porque Yooka-Laylee and the Impossible Lair: Definitive Edition no sale en su consola; Playtonic responde que el coste no es viable.",
+        "en": "Xbox players protest that Yooka-Laylee and the Impossible Lair: Definitive Edition skips their console; Playtonic says the cost isn't viable."
+      },
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release"
+      }
+    },
+    {
+      "text": {
+        "es": "La imagen de IA de Doug Bowser por Acción de Gracias divide a los fans de Nintendo.",
+        "en": "Doug Bowser's AI Thanksgiving image splits Nintendo fans."
+      },
+      "source": {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/11/doug-bowser-apologises-to-the-haters-of-his-icky-ai-generated-thanksgiving-post"
+      }
+    },
+    {
+      "text": {
+        "es": "Los fans temen que el remake de The Simpsons: Hit & Run haya sido cancelado tras los despidos en New Radical Games.",
+        "en": "Fans fear the Simpsons: Hit & Run remake was cancelled amid layoffs at New Radical Games."
+      },
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317"
+      }
+    }
+  ],
+  "steam": [
+    {
+      "name": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910/"
+    },
+    {
+      "name": "Warhammer 40,000: Dawn of War IV Commander Edition",
+      "url": "https://store.steampowered.com/app/1624417/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940/"
+    }
+  ]
+}
